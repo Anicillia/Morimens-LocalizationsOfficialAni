@@ -1,4 +1,839 @@
-﻿AvgDialog_131225_Content_4,bQzM,avg星辰章5_AvgDialog_C_M.csv,968,AvgDialog,Content,,而此时，一栋金碧辉煌的别墅突兀地出现在两栋棚户房之间，像是被摆放在垃圾堆中的珠宝盒。,"그런데 지금, 마치 쓰레기 더미 속에 놓인 보석함처럼, 화려한 저택 한 채가 두 채의 판잣집 사이에 뜬금없이 나타났다."
+﻿AvgDialog_8232_Content_2,aqFi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,9,AvgDialog,Content,,悔过,회개
+AvgDialog_8232_Content_4,aqFE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,11,AvgDialog,Content,,你是什么？,그대는 누구인가?
+AvgDialog_8232_Content_5,aqFP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,12,AvgDialog,Content,？？？,我是罪人。,나는 죄 지은 자요.
+AvgDialog_8232_Content_6,aqGa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,13,AvgDialog,Content,,你犯下了什么罪过？,네 죄는 무엇이더냐?
+AvgDialog_8232_Content_7,aqGl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,14,AvgDialog,Content,？？？,我贪婪成性，我放纵欲望，我任由恶魔污染我的灵魂，然后将痛苦带给无辜之人。,"강욕에 물들어 탐욕을 방종하며, 악마와 혼을 섞고, 사욕을 위해 무고한 이를 고통받게 했사옵고..."
+AvgDialog_8232_Content_8,aqGu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,15,AvgDialog,Content,,你应该怎么做？,그렇다면 어찌해야 하느냐?
+AvgDialog_8232_Content_9,aqGv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,16,AvgDialog,Content,？？？,"我应当向我所害的人忏悔，我应当向神明忏悔。
+我应当受鞭笞之刑，应当流血直到黑色的罪恶流出，以获得<Red:净化>。","내 죄로 하여금 피 흘린 이에게 용서를 구걸하며, 속죄하며, 헌신하며, 채찍으로 아버지께 회개를 맹세하며 내 안의 더러운 죄를 토해내 스스로를 <Red:정화> 하며..."
+AvgDialog_8232_Content_10,aqEY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,17,AvgDialog,Content,？？？,审判将至，唯有纯净的灵魂得以进入无罪的净土。,"심판의 날이 도래하리니, 오직 순결한 이만이 낙원에 이르리라."
+AvgDialog_8232_Content_11,aqEZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,18,AvgDialog,Content,,<Red:愿提灯长明>。,<Red:등불이 영원히 빛나기를>.
+AvgDialog_8232_Content_12,aqFa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,19,AvgDialog,Content,,"伦蒂尼恩圣堂区
+父神济世大圣堂","론디니움 교구, \n구원의 대성당"
+AvgDialog_8232_Content_13,aqFb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,20,AvgDialog,Content,,难得的阳光驱散了弥漫伦蒂尼恩的水汽，点点浮云铺陈在蓝天之中投下斑驳的阴影，为下面的人们带来转瞬即逝的阴凉。,"드물게 쏟아진 볕이 론디니움 자욱히 찬 물안개를 걷어내자, 하늘 너머 듬성 남은 구름조각들이 초여름의 그늘을 남기며 찰나의 선선함을 선물하고 있다."
+AvgDialog_8232_Content_14,aqFc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,21,AvgDialog,Content,,彩带与彩旗从圣堂的塔楼上向四处延伸，通过支撑的旗杆与周围的房屋相连，其中最大的是挂在圣堂塔楼间的横幅，上面写着“义卖日”。,"형형색색의 깃발과 매듭이 성당 높이 뻗은 탑과 주변의 집을 잇고, 크고 아름답게 장식된 현수막에는 ""바자회""라 적혀, 오늘이 어떤 날인지를 기쁘게 알리고 있었다."
+AvgDialog_8232_Content_15,aqFd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,22,AvgDialog,Content,,层叠的门楣之下，沉重的木门向内敞开着，方便参加完祈福仪式的人们离开静谧的圣堂，加入到喧嚣热烈的集市之中。,"성당으로 이어지는 빼곡한 문설주 아래로 굳게 다물고 있던 나무문들이 활짝 입을 벌리고 있었고, 그 너머로 축복 의식을 마친 사람들이 삼삼 오오 웃으며 축제 속으로 하나 둘 녹아들고 있다."
+AvgDialog_8232_Content_16,aqFe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,23,AvgDialog,Content,奥吉尔,今天真的非常感谢你，<Blue:索菲亚小姐>。,"오늘 도와주셔서 정말 고맙습니다, <Blue:소피아 양>."
+AvgDialog_8232_Content_17,aqFf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,24,AvgDialog,Content,,你和奥吉尔走在人群的最后，名为索菲亚的圣堂事务员走在你们身边，笑着与你们交谈。,"오지에와 당신은 웃으며 성당 사무원, 소피아의 뒤를 따라 걸었다."
+AvgDialog_8232_Content_18,aqFg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,25,AvgDialog,Content,玩家,是啊，如果不是你，我们恐怕连圣堂的门都挤不进去。,"맞아요, 소피아님이 안 계셨다면 우린 성당 문 너머로 들어가지도 못했을 거에요."
+AvgDialog_8232_Content_19,aqFh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,26,AvgDialog,Content,索菲亚,<Blue:萨尔瓦多主教>主持仪式的时候大家都格外热情，我也只是比较有准备而已。,"다들 <Blue:살바도르 주교>님의 개막 미사 준비에 열중할 때, 그냥 자리에 조금 여유를 뒀을 뿐이에요."
+AvgDialog_8232_Content_20,aqFj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,27,AvgDialog,Content,索菲亚,下次你们来的时候，我偷偷给你们留个位子，这样你们就不用发愁啦。,다음부터는 미리 자리를 준비해드릴게요. 제가 없더라도 언제든 오실 수 있도록요.
+AvgDialog_8232_Content_21,aqFk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,28,AvgDialog,Content,奥吉尔,这、这样是可以的么？对其他人会不会不太公平……,"그... 그래도 괜찮을까요? 해 주시면 감사하지만, 다른 분들도 계시는데..."
+AvgDialog_8232_Content_22,aqFl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,29,AvgDialog,Content,索菲亚,那个人对你很重要吧？你为之祈福的人。,당신에게 소중한 사람이잖아요? 당신에게 유일한 사람.
+AvgDialog_8232_Content_23,aqFm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,30,AvgDialog,Content,,奥吉尔眼神飘忽，似乎看了你一眼，然后重重地点头。,"당신을 바라보는 오지에의 시선은 약간 흔들렸지만, 곧 힘껏 고개를 끄덕였다."
+AvgDialog_8232_Content_24,aqFn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,31,AvgDialog,Content,索菲亚,"那么，这个就当做我们之间的秘密吧？
+像你这样虔心又虔诚的孩子，父神肯定也很乐意给予一些优待的。",그럼 우리만의 비밀로 할까요? \n 신부님도 당신처럼 경건하고 독실한 사람에게 약간의 선물정도는 이해해 주실거에요.
+AvgDialog_8232_Content_25,aqFo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,32,AvgDialog,Content,奥吉尔,如果是这样的话……,그리 말씀하신다면...
+AvgDialog_8232_Content_26,aqFp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,33,AvgDialog,Content,奥吉尔,？！,?!
+AvgDialog_8232_Content_27,aqFq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,34,AvgDialog,Content,,一声尖叫打断了你们的对话，听到声音的人们也停下脚步，往声音发出的方向张望。,"돌연 울려퍼진 비명소리에 무색히 끊어진 대화 너머로, 사람들의 시선이 한 곳으로 몰렸다."
+AvgDialog_8232_Content_28,aqFr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,35,AvgDialog,Content,,广场的一角似乎乱了起来，不少人围成一个圈，其中隐约能听到争执的声音。,"소리를 따라 시선을 돌리자 광장의 한 쪽에 많은 사람들이 모여 소란스러웠고, 실랑이는 소리가 저 너머에서 들려오고 있다."
+AvgDialog_8232_Content_29,aqFs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,36,AvgDialog,Content,中年人,……你……警局……！,너... 따라.... 경찰서....!!!
+AvgDialog_8232_Content_30,aqFu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,37,AvgDialog,Content,年轻男人,有罪……我……<Yellow:净化>……！,죄... 나... <Yellow:정화>...!
+AvgDialog_8232_Content_31,aqFv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,38,AvgDialog,Content,索菲亚,那边那是怎么了？不会打起来吧……,"무슨 일일까요, 설마 싸움이 난 건 아니겠죠?"
+AvgDialog_8232_Content_32,aqFw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,39,AvgDialog,Content,玩家,我们去看看。,가보죠.
+AvgDialog_8232_Content_33,aqFx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,40,AvgDialog,Content,索菲亚,这……,그건...
+AvgDialog_8232_Content_34,aqFy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,41,AvgDialog,Content,玩家,放心，索菲亚小姐，这种事情我们可以说是经验丰富了。,"괜찮아요, 소피아님. 이런 일은 저희도 제법 익숙하거든요."
+AvgDialog_8232_Content_35,aqFz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,42,AvgDialog,Content,索菲亚,……好吧。我马上通知主教，你们小心点，遇到危险就回来，好吗？,"...그래요, 저는 주교님께 알리러 갈게요. 하지만 조심해주세요, 위험하면 도망치셔야 해요, 아셨죠?"
+AvgDialog_8232_Content_36,aqFA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,43,AvgDialog,Content,奥吉尔,我们会注意的。,최선을 다하겠습니다.
+AvgDialog_8232_Content_37,aqFB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,44,AvgDialog,Content,,你们分开人群，终于来到了骚乱的中心，也终于看清了当事人的模样。,"당신은 곧 사람들 사이를 헤집고 들어가 소란의 중심에 다다라, 사건의 당사자를 볼 수 있었다."
+AvgDialog_8232_Content_38,aqFC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,45,AvgDialog,Content,,被抓住的年轻人眼眶泛青，脸颊深陷，上身几乎完全赤裸，双臂和胸腹满是一道一道的淤痕，看上去像是棍子留下的。,"움푹 패인 볼, 두들겨 맞은 멍자국과 엉망이 된 옷차림. 붙잡힌 젊은 남성은 소란 속에서 거칠게 다뤄졌는지 성한 곳이 없었다."
+AvgDialog_8232_Content_39,aqFD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,46,AvgDialog,Content,,他一边挣扎，一边大喊。,"남성은 소리지르며 발버둥치기를,"
+AvgDialog_8232_Content_40,aqFF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,47,AvgDialog,Content,年轻男人,"我骗了她们，骗了她们所有人！我有罪，我下作！
+鞭打我吧，让我流血，让我流出我的罪孽，求你了！！","내가 범인이야, 내가 속인 거라고, 모두를 속인 비열한 새끼가 나라고!!! \n그러니 제발, 날 때려줘, 응? 이렇게 빌게, 때려서 피흘리게, 내 안의 죄를 전부 다 흘려내게 도와줘, 제발, 제발 부탁이야!!"
+AvgDialog_8232_Content_41,aqFG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,48,AvgDialog,Content,中年人,"别乱动，疯子！
+警察呢？有没有人去叫警察了？",얌전히 있어!\n경찰은 어디 있는거야!? 누가 경찰좀 불러주쇼!
+AvgDialog_8232_Content_42,aqFH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,49,AvgDialog,Content,年轻男人,警察？不，不……他们只会把我关起来，不会给我真正的惩罚，<Yellow:审判之日>要到了，<Yellow:无罪的净土>将要降临，再不<Red:净化>就来不及了！,"경... 경찰!? 경찰은 안돼, 경찰은 날 벌주지 않아, <Yellow:심판의 날>이 다가오고 있다고, <Yellow:약속된 낙원>에 가기 위해선 <Red:정화>가 필요하다고!!!"
+AvgDialog_8232_Content_43,aqFI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,50,AvgDialog,Content,年轻男人,放开我，放开我！,"노...놔, 놔줘, 놔!!!!"
+AvgDialog_8232_Content_44,aqFJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,51,AvgDialog,Content,,他猛地抬头，一口咬住了中年男人抓着自己的手。,"발버둥치던 남자는 돌연 고개를 돌려, 자신을 붙잡은 중년의 손을 물어 뜯었다."
+AvgDialog_8232_Content_45,aqFK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,52,AvgDialog,Content,中年人,啊！,아악!!
+AvgDialog_8232_Content_46,aqFL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,53,AvgDialog,Content,,男人的手一松，年轻人便转身冲向了围观的人群。,"비명과 함께 자신을 붙잡는 손아귀가 느슨해지자, 인파 속으로 몸을 던져 도망치려 했으나,"
+AvgDialog_8232_Content_47,aqFM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,54,AvgDialog,Content,,奥吉尔赶忙伸出长枪在他脚下一绊。年轻人扑倒在地，你趁机反剪他的手臂，将他按在地上。,"다행히 오지에가 재빨리 창을 뻗어 그를 넘어뜨렸고, 당신은 달려들어 범인의 팔을 뒤로 꺾어 제압할 수 있었다."
+AvgDialog_8232_Content_48,aqFN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,55,AvgDialog,Content,年轻男人,放开我，让我净化！让我净化！,"히, 놔, 놔줘, 날 정화하게 해줘, 날 정화하게 해줘!!!"
+AvgDialog_8232_Content_49,aqFO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,56,AvgDialog,Content,？？？,这是怎么回事？,무슨 소란입니까?
+AvgDialog_8232_Content_50,aqFQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,57,AvgDialog,Content,,沉稳的声音在你们身后响起，围绕在周围的议论声逐渐变小直至停歇，人们自动让开了一条路，让身穿黑色神职长袍的主教可以顺利通行。,"침착한 목소리가 울리자 웅성거림이 잦아들더니, 곧 정적 속에서 사람들이 좌우로 갈라지며 그 사이로 검은색 성직자 가운을 입은 주교가 걸어왔다."
+AvgDialog_8232_Content_51,aqFR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,58,AvgDialog,Content,,萨尔瓦多主教蒙着双眼，却如能视物一般准确地向你们走来。满脸忧色的索菲亚紧随其后。,"우려로 물든 소피아와 함께 인파 속에서 걸어나온 살바도르 주교는 두 눈을 가리고 있었지만, 정확히 당신을 향해 다가왔다."
+AvgDialog_8232_Content_52,aqFS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,59,AvgDialog,Content,年轻男人,索菲亚……<Big:索菲亚！>,소피아.... <Big:소피아!>
+AvgDialog_8232_Content_53,aqFT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,60,AvgDialog,Content,,年轻人突然激动起来，他以出乎你意料的力量挣脱了你的牵制，扑到索菲亚身前——,"범인은 그 모습을 보더니 발작하듯 날뛰며 당신을 떼버린 뒤, 소피아를 향해 달려들어——"
+AvgDialog_8232_Content_54,aqFU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,61,AvgDialog,Content,奥吉尔,小心！,위험해!
+AvgDialog_8232_Content_55,aqFV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,62,AvgDialog,Content,,然后猛地跪了下去。,"털썩, 그 앞에 무릎 꿇었다."
+AvgDialog_8232_Content_56,aqFW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,63,AvgDialog,Content,年轻男人,索菲亚，索菲亚，我知道错了索菲亚，求求你净化我吧！,"소피아, 소피아... 미안해, 소피아. 제발 날 정화해줘!!"
+AvgDialog_8232_Content_57,aqFX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,64,AvgDialog,Content,索菲亚,爱、爱德华……？,"에, 에드워...드...?"
+AvgDialog_8232_Content_58,aqFY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,65,AvgDialog,Content,爱德华,是我，是我！我不该欺骗<Yellow:你姐姐>的，我后悔了，我真的后悔了！,"그래, 나야, 나! 미안해, <yellow:네 언니>를 속여선 안 됐는데, 후회하고 있어, 진심으로 후회하고 있어!"
+AvgDialog_8232_Content_59,aqFZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,66,AvgDialog,Content,,他一边哭，一边用膝行着向前，用极为别扭的姿势不断朝索菲亚鞠躬。,"에드워드는 울먹이며 기어가, 매우 이상한 자세로 빌며 소피아에게 연신 고개를 숙입니다."
+AvgDialog_8232_Content_60,aqGb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,67,AvgDialog,Content,爱德华,"恶魔蒙蔽了我的双眼，污染了我的灵魂，求你鞭打我，净化我吧！
+<Yellow:审判>将至，我不想被<Yellow:无罪的净土>驱逐在外啊！","악마가, 악마가 내 눈을 가리고 날 더럽혔던 거야.... 채찍질로 날 정화해줘....\n<Yellow:심판>이 다가오고 있어,<Yellow:약속의 땅>에서 쫓겨나고 싶지 않아…"
+AvgDialog_8232_Content_61,aqGc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,68,AvgDialog,Content,索菲亚,冷静点，爱德华，你到底在说什么呀？,"진정해요, 에드워드. 무슨 말을 하는 거에요?"
+AvgDialog_8232_Content_62,aqGd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,69,AvgDialog,Content,爱德华,求你了，索菲亚！,"소피아, 제발, 제발...!!"
+AvgDialog_8232_Content_63,aqGe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,70,AvgDialog,Content,萨尔瓦多,爱德华，停下吧。,"그만 두십시오, 에드워드."
+AvgDialog_8232_Content_64,aqGf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,71,AvgDialog,Content,,年轻人保持着鞠躬的姿势抬起头，怔怔地望向萨尔瓦多。,그 말에 청년은 고개를 들어 살바도르를 멍하니 올려다 본다.
+AvgDialog_8232_Content_65,aqGg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,72,AvgDialog,Content,爱德华,主……教……？,주교...님?
+AvgDialog_8232_Content_66,aqGh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,73,AvgDialog,Content,,一道耀目的光在你的视线边缘一闪而过，你还没完全将残留的光斑从眼睛里眨去，就听到爱德华趋向癫狂的声音。,"높게 뜬 볕에 따가워 눈을 깜빡일 새도 없이, 돌연 에드워드는 실성한 듯 소리지르기 시작했다."
+AvgDialog_8232_Content_67,aqGi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,74,AvgDialog,Content,爱德华,"不……不是……你也是<Red:罪人>，我们都是<Red:罪人>！
+忏悔，净化！不然我们都将在无尽苦海中燃烧！","아, 안돼, 당신은 <Red:죄인>이야... 그래, 우리는 모두 <Red:죄인>이야!! 속죄하고, 정화해야 해, 무저갱의 바다에서 영원히 불타고 싶지 않아!"
+AvgDialog_8232_Content_69,aqGk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,76,AvgDialog,Content,,"年轻人的身体晃了晃，直直地倒在了地上。
+奥吉尔默默收起了用来敲晕他的长枪，转头看向你。","에드워드가 또 다시 날뛰려 하자, 오지에가 창을 뻗어 그를 기절시킨 뒤 당신에게 돌아섰다."
+AvgDialog_8232_Content_70,aqGm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,77,AvgDialog,Content,玩家,在他伤害到其他人前，先把他带到安全的地方吧。然后把警察叫来，让专业的人处理他。,"... 다른 사람에게 또 달려들면 안 되니, 일단 안전한 곳으로 데려가죠. 그런 다음에 경찰을 부르거나 해야겠습니다."
+AvgDialog_8232_Content_71,aqGn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,78,AvgDialog,Content,萨尔瓦多,"先让他在圣堂休息吧，那里现在没有人。
+希望他醒来之后能清醒一些。","그렇다면 강당으로 가시죠. 지금은 비어있을 테니, 그 곳에서 정신을 되찾으면 좋겠군요."
+AvgDialog_8232_Content_72,aqGo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,79,AvgDialog,Content,,他蹲下身，和你一起将爱德华从地上扶起来，架在肩上。,그리 말하며 당신을 도와 에드워드를 어깨에 메었다.
+AvgDialog_8232_Content_73,aqGp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,80,AvgDialog,Content,索菲亚,我在这里再待一会儿，看看有没有被爱德华吓到或者弄伤的人需要帮助。,"전 남아서 다친 분은 없는지, 정리를 도운 뒤에 따라갈게요."
+AvgDialog_8232_Content_74,aqGq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,81,AvgDialog,Content,,你点点头，正要转身，视线边缘再次闪过与方才相似的光。,"당신은 고개를 끄덕인 뒤 돌아섰다, 그러자 아까와 같이 정오의 볕인줄 알았던 빛이 다시 한번 당신의 눈가를 스쳐 지나갔다."
+AvgDialog_8232_Content_75,aqGr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,82,AvgDialog,Content,玩家,？,?
+AvgDialog_8232_Content_76,aqGs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,83,AvgDialog,Content,萨尔瓦多,"还好吗，%player%？
+如果身体不适，我一个人就可以了。","괜찮으십니까, %player%?\n저 혼자서도 문제 없으니, 지쳤다면 쉬어도 괜찮습니다."
+AvgDialog_8232_Content_77,aqGt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,84,AvgDialog,Content,玩家,"没什么，大概是被玻璃反光晃到眼睛了。
+我们走吧。","아뇨, 별 거 아니에요. 아마 어딘가에서 반사된 빛에 눈이 부셨나봐요."
+AvgDialog_38727_Content_1,aktI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,85,AvgDialog,Content,,血腥的符号,피로 물든 상징
+AvgDialog_38727_Content_2,aktT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,86,AvgDialog,Content,,木门缓缓合上，将小贩的叫卖与人群的喧嚣都隔绝在外，静谧之中，你不由得放轻了呼吸。,"나무 문이 천천히 입을 다물며 고요가 찾아오자, 아까까지 들려왔던 상인의 외침과 인파의 소란이 거짓말처럼 잦아들었고, 당신은 마음을 가다듬었다."
+AvgDialog_38727_Content_3,akue,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,87,AvgDialog,Content,奥吉尔,主教阁下，水来了。,"주교님, 물을 가져왔습니다."
+AvgDialog_38727_Content_4,akup,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,88,AvgDialog,Content,萨尔瓦多,谢谢你，奥吉尔。,"고맙습니다, 오지에."
+AvgDialog_38727_Content_5,akuy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,89,AvgDialog,Content,,萨尔瓦多从口袋里拿出一块洁白的手帕，在奥吉尔拿来的水桶里沾湿后，一点点将爱德华身上沾染的尘土擦去。,"살바도르는 품 안에서 깨끗한 손수건을 꺼내 오지에가 가져온 물통에 적신 뒤, 에드워드의 몸을 정갈히 닦아내기 시작했다."
+AvgDialog_38727_Content_6,akuz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,90,AvgDialog,Content,,微湿的布料拂过胸膛，将你的视线引向了根根分明的肋骨——他太瘦了，瘦得像是刚刚经历了一场大饥荒。,"축축한 천이 그의 몸을 스치자, 긴 시간 굶주린 듯 앙상하게 드러난 갈비뼈가 시선을 끌었다."
+AvgDialog_38727_Content_7,akuA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,91,AvgDialog,Content,爱德华,<Small:……罪恶……的血液……净化……>,<Small:....죄악.....오혈....정화.....>
+AvgDialog_38727_Content_8,akuB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,92,AvgDialog,Content,,流血、罪恶……虽然你对<Blue:生命教廷>的<Blue:《圣典》>并不熟悉，但这种颇为血腥的概念，与你对这个宗教的印象十分不符。,"죄, 그리고 방혈... <Blue:생명 교단>의 <Blue:「성전」>에 대해서는 잘 모르지만, 일반적으로 종교가 가지는 자애와 용서의 인상과는 맞지 않는 단어였다."
+AvgDialog_38727_Content_9,akuC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,93,AvgDialog,Content,玩家,这个“无罪的净土”，还有“净化”……好像不是《圣典》里的东西？,"""약속의 땅"", ""정화""... 마치 경전에서나 나올 법하지 않나요?"
+AvgDialog_38727_Content_10,aktJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,94,AvgDialog,Content,奥吉尔,确实，或许……是邪教？,"그렇다면... 혹시, 사교... 일까요?"
+AvgDialog_38727_Content_11,aktK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,95,AvgDialog,Content,,无数画面在你脑海中浮现——手握匕首的少女，身穿黑纱的女人，拉伊疗养院深处永远不能开启的房间……,"수많은 기억이 머릿속을 스쳐간다, 단검을 든 소녀, 검은 베일의 여인, 요양원 너머의 열리지 않을 방..."
+AvgDialog_38727_Content_12,aktL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,96,AvgDialog,Content,,这世上究竟还有多少和<Yellow:蹈海者>与<Yellow:提灯教会>一样的组织，又有多少人要成为它们的牺牲品？,<Yellow:해양도약자>나 <Yellow:등불 교회>같은 조직이 얼마나 더 있는 걸까요? 또 얼마나 많은 피가 흘러야만 할까요...?
+AvgDialog_38727_Content_13,aktM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,97,AvgDialog,Content,玩家,"主教阁下，请问爱德华有没有对你说过什么？
+其他宗教也好，古老信仰也好，哪怕是民俗传说也行。","주교님, 에드워드에게 따로 들으신 것은 없으신가요?\n 종교, 신앙, 구전설화... 이런 것들이요."
+AvgDialog_38727_Content_14,aktN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,98,AvgDialog,Content,,萨尔瓦多放下手帕，他转向你，尽管双眼被蒙在纱布下，你仍然能感受到他的注视。,살바도르는 손수건을 내려놓고 당신을 바라보았다. 분명 눈은 천으로 가려져있음에도 당신을 또렷이 바라보는 것이 느껴진다.
+AvgDialog_38727_Content_15,aktO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,99,AvgDialog,Content,萨尔瓦多,如果是的话，你们打算调查这件事吗？,"만일 그렇다면, 이 일을 조사할 생각이 있으십니까?"
+AvgDialog_38727_Content_16,aktP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,100,AvgDialog,Content,玩家,"是的。我……与类似的组织有过接触，我知道它们有多危险。
+如果可以的话，我不希望看到更多受害者出现。","...네. 비슷한 것들을 전에 본 적이 있어요, 그들이 얼마나 위험한지도 알죠.\n 그렇기에 더 이상의 무고한 희생자를 못 본 척 할 수는 없습니다."
+AvgDialog_38727_Content_17,aktQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,101,AvgDialog,Content,萨尔瓦多,"你有一个明亮的灵魂，%player%，温暖、坚强、令人钦佩。
+愿父神的光照耀于你，如它照耀着所有<Yellow:弥萨格>的成员。","<Yellow:%player%>여, 그대는 찬란하며, 곧고, 바른 정신을 가지고 있군요.\n 아버지 신께서 그대와 <Yellow:미사그>의 모든 이를 고루 살피시기를."
+AvgDialog_38727_Content_18,aktR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,102,AvgDialog,Content,玩家,你怎么知道——,어떻게 아셨...
+AvgDialog_38727_Content_19,aktS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,103,AvgDialog,Content,萨尔瓦多,前任主教是我的朋友，他掌管圣堂教区数十年，知道很多事情。,제 친우였던 전임 주교에게서 들었습니다. 교구를 수십 년간 관리하며 많은 것을 알고 있었죠.
+AvgDialog_38727_Content_20,aktU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,104,AvgDialog,Content,萨尔瓦多,我会尽力帮助你们，但恐怕我了解得不比你们多多少。,"그대들을 돕기 위해 최선을 다하겠지만, 저 역시 그대들의 큰 도움이 되지 못할까 두렵군요."
+AvgDialog_38727_Content_21,aktV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,105,AvgDialog,Content,萨尔瓦多,事实上，爱德华并不是这个神秘宗教的第一个受害者。,사실… 에드워드가 이 기괴한 사교의 첫 희생자는 아닙니다.
+AvgDialog_38727_Content_22,aktW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,106,AvgDialog,Content,萨尔瓦多,半年前，圣堂区一个叫菲利普的年轻人，因为杀害他的妻子而被判死刑。,"반년 전, 교구의 필립이라는 젊은이가 있었습니다. 아내를 살해해서 사형을 선고받은 범죄자였죠."
+AvgDialog_38727_Content_23,aktX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,107,AvgDialog,Content,,"他刚被抓进去时，我应典狱长的邀前去探望过他。
+他很苍白，非常消瘦，拒绝与任何人沟通。","저는 그가 체포됐을 때, 교도소장의 초청으로 그를 만날 기회가 있었습니다. 창백하고, 수척하며, 마음의 문을 닫고 아무와도 말을 나누려 하지 않았죠."
+AvgDialog_38727_Content_24,aktY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,108,AvgDialog,Content,,我陪他坐了一天，在我走的时候，他说了那天唯一一句话。,그럼에도 저는 마주 앉았습니다. 그것이 그를 위한 것이라 생각했으니까요. 그러자 필립은 마지막에 입을 열었습니다.
+AvgDialog_38727_Content_25,aktZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,109,AvgDialog,Content,,“你看到了吗，那黑色的<Red:血液>？”,"""검은 <Red:피>를 보셨습니까?"""
+AvgDialog_38727_Content_26,akua,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,110,AvgDialog,Content,,在行刑之前，他自杀了。,"다음 날, 그는 스스로 목숨을 끊었습니다."
+AvgDialog_38727_Content_27,akub,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,111,AvgDialog,Content,,整个房间都是血，地上、墙上、天花板上，光是站在那里，就足以让人感到窒息。在重重的血迹下，我发现了一个诡异的符号。,"방 안은 피투성이었고, 바닥. 벽, 천장 어디 하나 성한 곳이 없어 피비린내로 자욱했죠. 그리고 핏자국 뒤로 기괴한 형태의 상징을 찾을 수 있었습니다."
+AvgDialog_38727_Content_28,akuc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,112,AvgDialog,Content,,它很浅、很小，像是被人指甲刻出来的。如果不是血液渗入缝隙，恐怕没有人会注意到。,"손톱으로 긁은 듯한, 아주 옅고 작은 상징이었습니다. 피가 새긴 틈새로 스며들지 않았다면 아무도 눈치채지 못한 채 사라졌겠지요."
+AvgDialog_38727_Content_29,akud,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,113,AvgDialog,Content,,在符号的旁边，还有一个更浅的痕迹。,그리고 상징 옆에는 무언가가 더 쓰여져 있었습니다.
+AvgDialog_38727_Content_30,akuf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,114,AvgDialog,Content,,那个痕迹歪歪扭扭，像是刻印的人已经失去力气，或者神志不清。在父神的指引下，我看出来了——那是一个词。,"새기다 쓰러지기라도 한 듯, 비뚤거림에도 끝까지 새겨져 있었습니다. 아버지께서 도우심에 의미를 알아보는건 어렵지 않았죠."
+AvgDialog_38727_Content_31,akug,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,115,AvgDialog,Content,,<Red:净化>,<Red:정화>.
+AvgDialog_38727_Content_32,akuh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,116,AvgDialog,Content,萨尔瓦多,那个教派非常谨慎，且善于隐藏自己。如果不是爱德华今天提到了“净化”，我恐怕都不会知道他已经落入了他们的魔爪。,"..... 에드워드가 ""정화""에 대해 이야기하지 않았다면, 오늘이 반 년 전 사건과 관계가 있을 것이란 생각조차 하지 못했을 것입니다. "
+AvgDialog_38727_Content_33,akui,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,117,AvgDialog,Content,玩家,那个符号，你还记得它是什么样的吗？或许弥萨格会有关于它们的资料。,상징의 모습은 기억나시나요? 미사그에 혹시나 자료가 있을 수도 있으니까요.
+AvgDialog_38727_Content_34,akuj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,118,AvgDialog,Content,萨尔瓦多,当然，伸出手来。,물론입니다. 손을 내밀어주세요.
+AvgDialog_38727_Content_35,akuk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,119,AvgDialog,Content,,他伸出一只手指，在你手心轻轻画下一个简单的符号。,그는 손가락을 뻗어 당신의 손바닥 위에 간단한 상징 하나를 그렸다.
+AvgDialog_38727_Content_36,akul,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,120,AvgDialog,Content,玩家,这……！,이건...!!
+AvgDialog_38727_Content_37,akum,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,121,AvgDialog,Content,,你从口袋里摸出随身携带的笔记本，迅速在上面复写萨尔瓦多画下的图案。,"서둘러 주머니에서 수첩을 꺼내, 살바도르가 그린 무늬를 옮겨 적었다."
+AvgDialog_38727_Content_38,akun,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,122,AvgDialog,Content,奥吉尔,主君，怎么了？那是什么符号？,"주군, 무슨 일이십니까? 무슨 상징이시길래 그러십니까?"
+AvgDialog_38727_Content_39,akuo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,123,AvgDialog,Content,玩家,倒三角，中间一个点——,"역삼각형, 그리고 가운데에 점 하나──"
+AvgDialog_38727_Content_40,akuq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,124,AvgDialog,Content,玩家,这是提灯教会的符号。,이건 등불 교회의 상징이에요.
+AvgDialog_38727_Content_41,akur,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,125,AvgDialog,Content,,砰！,쾅─!!!
+AvgDialog_38727_Content_42,akus,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,126,AvgDialog,Content,,圣堂的门被一下撞开，索菲亚头发微乱，气喘吁吁，她站在阳光之中，扶着门冲你们大喊。,"성당의 문이 거칠게 열리는 소리와 함께, 소피아가 엉망이 된 채 헐떡이며 들어와 소리쳤다."
+AvgDialog_38727_Content_43,akut,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,127,AvgDialog,Content,索菲亚,萨尔瓦多主教，不好了！外面的人——,"살바도르 주교님, 뭔가 이상해요, 사람들이... 사람들이!"
+AvgDialog_38727_Content_44,akuu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,128,AvgDialog,Content,愤怒的市民,别挡在这里，让我们进去！,"길 막지 말고 비켜, 들어가!"
+AvgDialog_38727_Content_45,akuv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,129,AvgDialog,Content,,一只手将索菲亚粗暴地搡开，叫嚷和谩骂瞬间填满了圣堂。,"등 뒤로 솟아난 손이 소피아를 거칠게 밀쳐내고, 쏟아진 고함과 욕설은 순식간에 성당을 가득 메웠다."
+AvgDialog_38727_Content_46,akuw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,130,AvgDialog,Content,,十多个市民涌了进来，有的拿着扫帚，有的拿着擀面杖，其中一个挥舞着拳头，上面还残留了爱德华的牙印。,10명은 족히 넘을 시민들이 밀방망이와 빗자루를 들고 강당으로 들이닥쳤다. 그 중 한 명은 에드워드의 이빨자국이 남은 주먹을 쥐고 있다.
+AvgDialog_38727_Content_47,akux,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,131,AvgDialog,Content,中年人,让爱德华那败类出来！我们要找他算账！,에드워드는 어디 있지!? 에드워드를 내놔라!
+AvgDialog_8238_Content_1,aqHp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,132,AvgDialog,Content,,因暴怒疯狂,분노와 광기
+AvgDialog_8238_Content_2,aqHA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,133,AvgDialog,Content,萨尔瓦多,诸位，请冷静一点。有什么事不能坐下来谈呢？,다들 진정하십시오. 부디 앉아 차분히 이야기할 수는 없을까요?
+AvgDialog_8238_Content_3,aqHL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,134,AvgDialog,Content,愤怒的市民,和这种人渣没什么好谈的！,"이야기? 에드워드와? 하, 쓰레기와 할 말은 없어!"
+AvgDialog_8238_Content_4,aqHW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,135,AvgDialog,Content,粗鲁的市民,我早该在他害死<Blue:米莉小姐>的时候就揍他一顿了！,그 자식이 <Blue:밀리 아가씨>를 죽게 했을 때 패놨어야 했는데!!
+AvgDialog_8238_Content_5,aqIf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,136,AvgDialog,Content,中年人,没错！,"옳소, 옳소!"
+AvgDialog_8238_Content_6,aqIg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,137,AvgDialog,Content,,你看向奥吉尔，在对方脸上发现了与自己一样的迷茫。,"오지에를 향해 시선을 돌리자, 오지에 역시 어떻게 해야 할 지 갈피를 잡지 못한 채 혼란스러운 듯 살피고 있었다."
+AvgDialog_8238_Content_7,aqIh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,138,AvgDialog,Content,玩家,各位先生女士们，不管这位爱德华先生做了什么——,"선생님들, 에드워드 씨가 뭘 했건간에 우선 진정하시고..."
+AvgDialog_8238_Content_8,aqIi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,139,AvgDialog,Content,愤怒的市民,闭嘴，你们懂什么！,다물어! 네놈들이 뭘 안다고 지껄여!?
+AvgDialog_8238_Content_9,aqIj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,140,AvgDialog,Content,粗鲁的市民,那么帮着他干什么？你们是不是一伙的！,애초부터 왜 그 새끼 편을 드는거야? 한패 아냐!?
+AvgDialog_8238_Content_10,aqHq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,141,AvgDialog,Content,中年人,好啊，伙计们，<Yellow:诈骗犯>送上门来了！,뭐? 한패!? <Yellow:사기꾼> 새끼들은 맞아야 정신을 차리지!
+AvgDialog_8238_Content_11,aqHr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,142,AvgDialog,Content,市民们,揍他们，揍他们！,잡아라! 저놈들을 끌어내!!
+AvgDialog_8238_Content_12,aqHs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,143,AvgDialog,Content,索菲亚,这、这里是父神的圣所，不能实施暴行啊！,"이, 이곳은 신성한 장소에요. 폭력은 허락되지 않습니다!"
+AvgDialog_8238_Content_13,aqHt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,144,AvgDialog,Content,愤怒的市民,别拦着我们！索菲亚，难道你忘了他对你家做的事情了吗？,"나와, 소피아! 그 자식이 네 가족에게 한 짓 잊었어?"
+AvgDialog_8238_Content_14,aqHu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,145,AvgDialog,Content,拿着木棍的市民,我们是在替你、替可怜的米莉小姐报仇！,"이건 너를, 밀리를 위한 거라고!"
+AvgDialog_8238_Content_15,aqHv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,146,AvgDialog,Content,,一颗石头从索菲亚头顶掠过，砸在离你们不远的长凳上。,이윽고 날아온 돌멩이 하나가 소피아의 머리 위를 스쳐가며 벤치로 날아들었다.
+AvgDialog_8238_Content_16,aqHw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,147,AvgDialog,Content,市民们,打死他，打死他！,죽여라! 죽여라!!
+AvgDialog_8238_Content_17,aqHx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,148,AvgDialog,Content,,又一块石头从人群中飞出，落在你的脚边。,"하나, 둘... 날아오는 돌멩이가 늘어나, 점점 당신에게 가까워졌다."
+AvgDialog_8238_Content_18,aqHy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,149,AvgDialog,Content,市民们,还有他的同谋，打死他们！,공범도 죽여라! 사기꾼을 죽여라!
+AvgDialog_8238_Content_19,aqHz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,150,AvgDialog,Content,,一个物件高高飞起，反射的光刺痛了你的双眼，你正要让索菲亚后退，却听到身后传来萨尔瓦多的惊呼。,"그 사이, 무언가가 날아오르며 반사된 빛이 당신의 눈을 찔렀다. 소피아를 뒤로 물러나게 하려는 순간, 뒤에서 살바도르의 목소리가 들려왔다."
+AvgDialog_8238_Content_20,aqHB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,151,AvgDialog,Content,萨尔瓦多,爱德华？爱德华！,에드워드? 에드워드!
+AvgDialog_8238_Content_21,aqHC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,152,AvgDialog,Content,,方才还昏迷的人不知何时醒了过来，年轻人一把将你推开，冲到了人群的面前。,아까까지 기절해 있던 에드워드는 당신을 밀쳐내고 군중을 향해 달려들고 있었다.
+AvgDialog_8238_Content_22,aqHD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,153,AvgDialog,Content,爱德华,杀了我，杀了我！,"그래, 날 죽여, 죽이라고!"
+AvgDialog_8238_Content_23,aqHE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,154,AvgDialog,Content,爱德华,让我流出黑色的血，受到我应有的惩罚！,"벌 받아 피 흘리기를 감내하리니, 제발 날 죽여줘!"
+AvgDialog_8238_Content_24,aqHF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,155,AvgDialog,Content,玩家,奥吉尔，用屏障！,"오지에, 방벽을 부탁해!"
+AvgDialog_8238_Content_25,aqHG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,156,AvgDialog,Content,奥吉尔,可规定——,"하지만, 규정이..."
+AvgDialog_8238_Content_26,aqHH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,157,AvgDialog,Content,,"不得暴露唤醒体的存在，这点你当然知道。
+你看向疯狂的人群，咬了咬牙。",규정. 특별한 경우를 제외하곤 각성체의 존재를 노출해선 안 된다.\n그러나 당신은 광란에 눈이 먼 인파를 보며 곧 이를 악물고 외쳤다.
+AvgDialog_8238_Content_27,aqHI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,158,AvgDialog,Content,玩家,报告的事情我会想办法，救人要紧，动作快！,"일단 사람부터 살리고 봐야지, 책임은 내가 질게! 서둘러!"
+AvgDialog_8238_Content_28,aqHJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,159,AvgDialog,Content,奥吉尔,"我明白了。
+各位，冒犯了！","뜻을 받들겠습니다. \n여러분, 실례하겠습니다!"
+AvgDialog_8238_Content_29,aqHK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,160,AvgDialog,Content,,金属枪尖与石制地板碰撞擦出火花，漆黑的屏障转瞬即逝，化作一股无形的力量朝前猛然一压，硬生生将聚集的人逼退了几步。,"금속 창 끝이 돌바닥과 맞닿으며 불꽃을 뱉어내자, 검은 빛의 장벽이 솟아나 곧 투명해지며 사람들을 뒤로 밀어내며 에드워드와 군중을 서로 나누었다."
+AvgDialog_8238_Content_30,aqHM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,161,AvgDialog,Content,爱德华,不、不！净化我，净化我！,"아, 안돼! 날, 날 정화, 정화해줘!!"
+AvgDialog_8238_Content_31,aqHN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,162,AvgDialog,Content,,爱德华奋力挣扎，你必须双手并用才能将他留在原地。,"당신은 달려가, 필사적으로 날뛰는 에드워드를 두 손으로 겨우 붙잡을 수 있었다."
+AvgDialog_8238_Content_32,aqHO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,163,AvgDialog,Content,玩家,爱德华先生，你冷静一点！,"에드워드 씨, 진정하세요!"
+AvgDialog_8238_Content_33,aqHP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,164,AvgDialog,Content,爱德华,放开我，这是我进入无罪净土的唯一机会！放开我！,"놔 줘, 약속의 땅으로 향할 마지막 기회야, 날 놔 줘!!!"
+AvgDialog_8238_Content_34,aqHQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,165,AvgDialog,Content,,就在你要控制不住爱德华时，一只戴了黑色手套的手和你一同握住了他的手臂。,"에드워드의 저항이 점점 거세져 힘들어질 때, 검은 장갑을 낀 손이 당신을 도와 에드워드의 팔을 강하게 붙잡았다."
+AvgDialog_8238_Content_35,aqHR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,166,AvgDialog,Content,萨尔瓦多,爱德华，不要再犯下更多过错了。,"에드워드, 더 이상 죄를 짓지 마십시오."
+AvgDialog_8238_Content_36,aqHS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,167,AvgDialog,Content,,爱德华愣了一下，你和萨尔瓦多赶忙合力将他拉了回来。,"그 말에 에드워드가 잠시 넋 나간 듯 서자, 당신은 살바도르와 힘을 합쳐 그를 끌어 당길 수 있었다."
+AvgDialog_8238_Content_37,aqHT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,168,AvgDialog,Content,,主教往前跨了一步，站在了你们和愤怒的人群之间。,주교는 앞으로 나가 분노한 인파와 당신 사이에 섰다.
+AvgDialog_8238_Content_38,aqHU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,169,AvgDialog,Content,萨尔瓦多,诸位，我理解你们的愤怒，但暴力从来不是正确的解决方法。,"그대들의 분노를 이해합니다, 그러나 폭력은 옳은 답을 낳지 않는 법입니다."
+AvgDialog_8238_Content_39,aqHV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,170,AvgDialog,Content,萨尔瓦多,"“你们不应当彼此伤害，因你们流着我的血，是彼此的姐妹弟兄。”
+不要忘记父神的教诲。","""서로를 해하지 말라, 너희는 내 피를 나누었으니, 서로가 형제요, 자매라.""\n 아버지의 뜻을 잊지 마시기를."
+AvgDialog_8238_Content_40,aqHX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,171,AvgDialog,Content,中年人,那他呢，他伤害人难道就对了吗？,그럼 저 자는 어떻습니까? 저 자는 우리를 상처줘도 되는 겁니까!?
+AvgDialog_8238_Content_41,aqHY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,172,AvgDialog,Content,粗鲁的市民,就是！不要再袒护他了，主教！,"옳소, 왜 저 자를 변호하시는 겁니까, 주교님!?"
+AvgDialog_8238_Content_42,aqHZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,173,AvgDialog,Content,市民们,把他交给我们，<BigShake:把他交给我们！>,우리에게 넘겨라! <BigShake:넘겨라!>
+AvgDialog_8238_Content_43,aqIa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,174,AvgDialog,Content,,眼见场面又要再次失控，你凑到萨尔瓦多背后，悄声对他说。,"상황이 점점 심각해질 것 같아, 당신은 살바도르의 뒤로 조심히 다가가 속삭였다."
+AvgDialog_8238_Content_44,aqIb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,175,AvgDialog,Content,玩家,还是去请警察来吧，主教阁下。就算是要调解，也需要先恢复秩序。按目前的情况看，仅凭我们几个是做不到的。,"아무래도 경찰을 부르시는게 좋을 것 같아요, 주교님. 설령 중재한다 하시더라도 질서를 잃어버린 지금, 저희들만으로는 저들의 마음에 닿지 않을 것 같아요."
+AvgDialog_8238_Content_45,aqIc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,176,AvgDialog,Content,索菲亚,说、说得对，我马上去！,"그, 그래요. 제가 서둘러 다녀올게요!"
+AvgDialog_8238_Content_46,aqId,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,177,AvgDialog,Content,,索菲亚说着，提起裙子绕过人群，往圣堂门口跑去。,"소피아는 말하기 무섭게, 치마 끝을 잡고 인파 속으로 달려들어 바깥으로 향했다."
+AvgDialog_8238_Content_47,aqIe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,178,AvgDialog,Content,索菲亚,我会很快回来的！,금방 돌아올게요!
+AvgDialog_8224_Content_1,aqyM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,179,AvgDialog,Content,,为嫉妒杀戮,질투와 살육
+AvgDialog_8224_Content_2,aqyX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,180,AvgDialog,Content,,门轴转动之际，一道与阳光截然不同的光线刺痛了你的眼睛。,"소피아가 문을 열고 나가는 순간, 햇빛과는 다른 빛이 당신의 눈으로 쏟아졌다."
+AvgDialog_8224_Content_3,aqzi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,181,AvgDialog,Content,,残留在眼底的光斑牢牢占据着你的视线中心。你用力眨眼，甚至揉了揉，却迟迟无法将它驱散，随之而来的，是一种迟来的战栗。,"눈동자 깊숙이 남은 잔광이 시야의 중심을 집요하게 붙들고 있다.
+당신은 힘껏 눈을 깜빡이고, 손으로 비벼 보기도 했지만, 그것은 좀처럼 사라지지 않았다. 그리고 그 뒤를 따라, 한발 늦은 전율이 서서히 밀려왔다."
+AvgDialog_8224_Content_4,aqzt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,182,AvgDialog,Content,,莫名出现的危机感像缓慢浸润的冰水，从看不见的地方侵入了你的日常。你皱眉：奥吉尔已经控制住形势了，为什么……,"녹기 시작한 얼음물처럼 찾아온 위기감이 일상 속으로 스며들어, 당신은 미간을 찌푸린다. 오지에가 이미 상황을 통제했는데, 무엇이 문제일까?"
+AvgDialog_8224_Content_5,aqzE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,183,AvgDialog,Content,市民们,把那疯子交出来！,미치광이를 내놔라!
+AvgDialog_8224_Content_6,aqzP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,184,AvgDialog,Content,,暴民的声音打断了你的思路，你叹了口气。,"폭도들의 노성에 생각이 멈췄고, 한숨을 푹 내쉰다."
+AvgDialog_8224_Content_7,aqAa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,185,AvgDialog,Content,奥吉尔,这些人怎么突然那么生气，刚才在广场上看还好好的啊。,다들 왜 이리 화가 난거죠? 아까까지만 해도 별 탈 없어 보였는데...
+AvgDialog_8224_Content_8,aqAl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,186,AvgDialog,Content,玩家,"谁知道呢，可能天气太热，脾气也燥起来了吧……
+你现在还控制的住吗，奥吉尔？","글쎄, 날이 더우면 짜증나는 법이니까.\n 오지에, 아직 버틸 수 있지?"
+AvgDialog_8224_Content_9,aqAw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,187,AvgDialog,Content,奥吉尔,不用担心，主君，这个可比任务轻松多了。,"걱정하지 마세요, 주군. 일도 아닌걸요."
+AvgDialog_8224_Content_10,aqyN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,188,AvgDialog,Content,玩家,那，你能把他们围起来吗？,그렇다면 저들을 감쌀 수 있겠어?
+AvgDialog_8224_Content_11,aqyO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,189,AvgDialog,Content,奥吉尔,围起来？是……像这样吗？,"감싼… 다뇨, 이렇게요?"
+AvgDialog_8224_Content_12,aqyP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,190,AvgDialog,Content,,漆黑的屏障闪烁了一下，然后迅速延展，将人群包围在其中。,"오지에의 장벽이 크게 펼쳐진 뒤, 인파를 그물처럼 감싸 가두었다."
+AvgDialog_8224_Content_13,aqyQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,191,AvgDialog,Content,玩家,真厉害，不愧是我们的小骑士。,"대단해, 역시 우리 기사님이야."
+AvgDialog_8224_Content_14,aqyR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,192,AvgDialog,Content,奥吉尔,这、这没什么的，主君。,"별, 별 것도 아닌걸요... 주군."
+AvgDialog_8224_Content_15,aqyS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,193,AvgDialog,Content,,看不到屏障的人徒劳地击打着空气，并因为自己被困而愈发激愤。,장벽을 볼 수 없는 사람들은 텅 빈 공간을 두드리며 갇혔음에 분노하고 있었다.
+AvgDialog_8224_Content_16,aqyT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,194,AvgDialog,Content,愤怒的市民,巫术，巫术！主教快看啊，他们使用巫术！,"사술, 사술이다! 주교님, 보십시오! 그들이 사술을 쓰잖습니까!"
+AvgDialog_8224_Content_17,aqyU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,195,AvgDialog,Content,粗鲁的市民,"还说不是同伙，当初爱德华肯定是你们用巫术救回来的！
+<Big:杀了他们，杀了他们！>",이래놓고 공범이 아니라고? 그때도 죽었어야 할 에드워드를 사술로 살려낸 거겠지!?\n <Big:죽여라! 죽여라!>
+AvgDialog_8224_Content_18,aqyV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,196,AvgDialog,Content,奥吉尔,这不是巫术！这——,이건 사술이 아니에요! 이건—
+AvgDialog_8224_Content_19,aqyW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,197,AvgDialog,Content,玩家,"算了，他们听不进去的。
+你在这里看着他们吧，我去找根绳子。","됐어, 어차피 듣지도 않을 거야. \n 잠시 밧줄을 찾아 올 때까지만 감시해줘."
+AvgDialog_8224_Content_20,aqyY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,198,AvgDialog,Content,玩家,好了，这样他就跑不掉了。,"좋아, 이 정도 했으면 도망칠 수는 없을 거야."
+AvgDialog_8224_Content_21,aqyZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,199,AvgDialog,Content,,被你结实捆在长凳一角的爱德华不住挣扎，宛如被栓了铁链的恶犬，眼神里透露出一种绝望的疯狂。,당신은 벤치의 한 구석에 에드워드를 단단히 묶었다. 에드워드의 눈동자는 여전히 절망에 가까운 광기로 가득 차 쉴 새 없이 날뛰고 있었다.
+AvgDialog_8224_Content_22,aqza,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,200,AvgDialog,Content,,另一边，被奥吉尔无形屏障困住的人们仍在叫骂着，你不免有些头疼。,"한편, 오지에의 장벽에 갇힌 사람들은 지치지도 않는 모양인지 쉴 새 없이 욕을 뱉고 있었다. 듣고 있자니 머리가 아파왔다."
+AvgDialog_8224_Content_23,aqzb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,201,AvgDialog,Content,玩家,他这到底是做了什么啊。,대체 무슨 일이 일어나고 있는 거람?
+AvgDialog_8224_Content_24,aqzc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,202,AvgDialog,Content,汤普森？,该死的败类，我那天就该确保你死了！,"빌어먹을 사기꾼 새끼, 확실하게 머리를 쳐야 했는데!"
+AvgDialog_8224_Content_25,aqzd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,203,AvgDialog,Content,,"一个人挤到人群前来，他双目赤红，面容因仇恨和愤怒而扭曲。
+在你脚边，爱德华明显地瑟缩了一下。","군중 속에서 증오와 분노로 눈이 붉게 충혈된 사람이 나오자, 당신의 발 밑에서 날뛰던 에드워드가 움찔거렸다."
+AvgDialog_8224_Content_26,aqze,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,204,AvgDialog,Content,汤普森？,你骗了<Blue:米莉>的感情，骗走了她的花店。你把她从她自己的家里赶了出去，转头用她的钱寻欢作乐。,"넌 <Blue:밀리>를 속여 꽃집을 뺏고, 집에서 쫓아낸 뒤, 남긴 돈으로는 유흥까지 즐겼어."
+AvgDialog_8224_Content_27,aqzf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,205,AvgDialog,Content,汤普森？,她跳伊希斯河的时候甚至怀了你的孩子，你这个冷血的恶魔，你还有哪怕一点良知吗！,네 아이를 임신한 밀리가 이시스 강에 몸을 던져 스스로 생을 마감할 때 넌 어디서 뭘 했지? 응!? 대답해 보지 그래?
+AvgDialog_8224_Content_28,aqzg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,206,AvgDialog,Content,汤普森？,我不知道上次你是怎么捡回一条狗命的，但我发誓，这次我要割下你的头，让你为米莉偿命！,"네가 어떻게 살아 돌아왔는지는 모르겠다. 하지만 이번엔 아닐 거다, 에드워드. 반드시 네 머리를 쳐줄 테니까!"
+AvgDialog_8224_Content_29,aqzh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,207,AvgDialog,Content,萨尔瓦多,汤普森。,톰슨.
+AvgDialog_8224_Content_30,aqzj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,208,AvgDialog,Content,,萨尔瓦多站在了叫喊者与爱德华之间，用身体隔绝了双方的视线，安抚地抬起一只手。,"살바도르가 에드워드와 소리지르는 이 사이에 서서, 몸으로 두 사람의 시선을 가로막았다."
+AvgDialog_8224_Content_31,aqzk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,209,AvgDialog,Content,萨尔瓦多,"父神的爱降于所有，祂的旨意是叫你们彼此为善。
+杀戮的暴行是不应当的，你们都应该知晓。","아버지의 사랑은 차별하지 않으실저, 아버지의 이름 아래 형제된 이 끼리 서로 피 흘려선 아니됩니다."
+AvgDialog_8224_Content_32,aqzl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,210,AvgDialog,Content,汤普森,他杀了米莉！,저 새끼가 밀리를 죽였는데도요!?
+AvgDialog_8224_Content_33,aqzm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,211,AvgDialog,Content,萨尔瓦多,"而他应当为此忏悔，但已死之人是无法做到这点的。
+让他活着吧，这样他才能真正赎罪。","그 죄를 마땅히 뉘우쳐야 함에 틀림은 없으나, 죽은 이는 행하지 못하리니. 그가 속죄하길 바란다면, 그를 살려야 합니다."
+AvgDialog_8224_Content_34,aqzn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,212,AvgDialog,Content,汤普森,"我让他活着了，我没有在发现他没死的时候立刻再杀了他！结果呢？
+他转头就盯上了<Yellow:索菲亚>家，盯上了<Yellow:她的姐姐>。","안 했겠습니까? 살렸어요, 살아있잖습니까? 근데 저놈이 뭘 했는지 모르시는 건가요? <Yellow:소피아>의 가족을 탐하고, <Yellow:그녀의 언니>에게 손을 뻗었습니다!"
+AvgDialog_8224_Content_35,aqzo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,213,AvgDialog,Content,汤普森,他不会悔改，他没资格！他要为他所做的一切付出代价！,"누가 저 꼴을 보고 뉘우친다 보겠습니까? 그럴 자격도, 그릇도 없는 놈입니다, 우리가 대가를 치르게 해야 합니다!"
+AvgDialog_8224_Content_36,aqzp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,214,AvgDialog,Content,愤怒的市民,<Big:没错！>,<Big:옳소!>
+AvgDialog_8224_Content_37,aqzq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,215,AvgDialog,Content,粗鲁的市民,<BigShake:杀了他，让他偿命！>,<BigShake:죽여라! 죽여 속죄케 해라!!>
+AvgDialog_8224_Content_38,aqzr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,216,AvgDialog,Content,,萨尔瓦多叹了口气。,살바도르는 크게 한숨을 내쉬었다.
+AvgDialog_8224_Content_39,aqzs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,217,AvgDialog,Content,萨尔瓦多,"愤怒蒙蔽了你们的双眼，我的孩子，勿要再被它牵引了。
+看看他，难道他此刻不是表现出了悔改之意吗？","분노가 그대를 맹목케 하니. 어린 양이여, 눈을 뜨고 그를 보십시오.\n 그가 용서를 구걸하는 모습이 보이지 않으십니까?"
+AvgDialog_8224_Content_40,aqzu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,218,AvgDialog,Content,,爱德华瑟缩在长椅边，低垂的头歪斜地靠在扶手上，嘴里不住念叨着赎罪的话语。,"에드워드는 긴 의자 끝에 웅크려 앉아, 고개를 박고 팔걸이에 비스듬히 기댄 채 쉴 새 없이 속죄의 말을 읊조리고 있었다."
+AvgDialog_8224_Content_41,aqzv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,219,AvgDialog,Content,萨尔瓦多,灵魂的迷途不应是他永受黑暗之苦的原因，再给他一次机会吧，父神期望的道路永远欢迎改过自新者。,"한 때의 방황이 그를 영원히 어둠 속에 내놔야 할 이유가 되진 않을지니, 그에게 기회를 주시죠. 용서받을 준비가 된 이를 우리는 죄인이라 부르지 않으뫼, 아버지는 이를 내놓지 않을저..."
+AvgDialog_8224_Content_42,aqzw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,220,AvgDialog,Content,,咚咚咚。,똑똑똑...
+AvgDialog_8224_Content_43,aqzx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,221,AvgDialog,Content,,敲门声打断了你们的交谈，一个陌生的声音透过门板隐隐传来。,"노크 소리가 대화를 멈추고, 문 너머로 낯선 목소리가 들려왔다."
+AvgDialog_8224_Content_44,aqzy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,222,AvgDialog,Content,陌生的声音,主教阁下，你在吗？萨尔瓦多主教？,"주교님, 계세요? 살바도르 주교님?"
+AvgDialog_8224_Content_45,aqzz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,223,AvgDialog,Content,,主教停了停，略带歉意地转向你。,주교가 미안한 듯 당신을 바라보았다.
+AvgDialog_8224_Content_46,aqzA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,224,AvgDialog,Content,萨尔瓦多,恐怕我又需要你的帮助了，%player%%sirormadam%，能烦请你照看一下爱德华吗？,"아무래도 다시 한 번 도움이 필요할 것 같군요, %player%, 에드워드를 지켜봐 주시길 부탁드리겠습니다."
+AvgDialog_8224_Content_47,aqzB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,225,AvgDialog,Content,玩家,"他绑在这里也出不了什么事。
+我和你一起去吧，兴许是索菲亚把警察带来了。","단단히 묶어뒀으니 아무 일 없을 거에요. \n같이 가시죠, 소피아가 경찰을 데려온 것 같으니까요."
+AvgDialog_8224_Content_48,aqzC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,226,AvgDialog,Content,,你和萨尔瓦多一同朝门口走去。而随着你们的靠近，模糊的人声也愈发清晰。,당신은 살바도르와 함께 문으로 향했다. 문에 가까워질수록 희미했던 사람들의 목소리가 점점 또렷해졌다.
+AvgDialog_8224_Content_49,aqzD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,227,AvgDialog,Content,,萨尔瓦多握住门把，向内一拉——,"이윽고, 살바도르가 문고리를 잡고 젖혀 문을 열자——"
+AvgDialog_8224_Content_50,aqzF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,228,AvgDialog,Content,敲门的市民,主教阁下，你终于开门了！,"주교님, 드디어 문을 열어 주셨군요!"
+AvgDialog_8224_Content_51,aqzG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,229,AvgDialog,Content,,门被外力推开，比先前更加鼎沸的人声随着阳光一同涌了进来。一群人挤在门前，将这唯一的通道堵得严严实实。,문이 열리자 한 때 잊고 있었던 바깥의 목소리가 볕과 함께 쏟아졌다. 문 너머로는 사람들이 가득 모여 유일한 통로를 막아서고 있었다.
+AvgDialog_8224_Content_52,aqzH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,230,AvgDialog,Content,萨尔瓦多,诸位这是？,이게 다 무슨 일이지요?
+AvgDialog_8224_Content_53,aqzI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,231,AvgDialog,Content,敲门的市民,是这样的主教阁下，我突然很想进去，呃……向父神祷告！对，我突然很想进去祷告，但这帮混账东西不让！您帮帮忙，让我进去——,"주교님, 실은, 그, 갑자기 제가 교회가 가고 싶어져서... 음, 오늘은 왠지 기도가 하고 싶었나봐요, 그래요, 기도가 하고 싶어졌는데 이 사람들이 들어가질 못하게 하잖아요, 전 들어가고 싶은데!"
+AvgDialog_8224_Content_54,aqzJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,232,AvgDialog,Content,,那人说着就往里迈步，却被一旁的人猛地拉住。,"횡설수설하며 안으로 들어가려 하자, 그 옆에 있는 사람이 들어가려던 이를 확 잡아당겼다."
+AvgDialog_8224_Content_55,aqzK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,233,AvgDialog,Content,围观的市民,凭什么是你先？我在这里站好久了，怎么也得是我吧！,"나는? 나도 여기 한참 기다렸어, 내가 제일 앞에 있었으니 내가 먼저 들어가야지!"
+AvgDialog_8224_Content_56,aqzL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,234,AvgDialog,Content,敲门的市民,胡扯什么，大家不是都一块儿来的，要我说门还是我敲的呢？,"무슨 소리를 하는 거야, 우리 다같이 왔잖아? 그리고 내가 문을 두드렸잖아?"
+AvgDialog_8224_Content_57,aqzM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,235,AvgDialog,Content,萨尔瓦多,诸位，请冷静——,"진정하세요, 다들 진정하십시오!"
+AvgDialog_8224_Content_58,aqzN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,236,AvgDialog,Content,,萨尔瓦多的声音很快被又一个声音盖过。,살바도르의 목소리는 소란에 묻혔다.
+AvgDialog_8224_Content_59,aqzO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,237,AvgDialog,Content,后排的市民,为什么非得是你俩啊，我们也等了很久了！,왜 너네들만 말하냐? 우리는? 우리도 기다렸다고!
+AvgDialog_8224_Content_60,aqzQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,238,AvgDialog,Content,敲门的市民,就非要跟我抢是吧？找打！,내가 먼저 들어가겠다는데 불만 있어? 싸울까!?
+AvgDialog_8224_Content_61,aqzR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,239,AvgDialog,Content,围观的市民,打就打，忍你很久了！凭什么你就要站第一个，那位子本来就该是我的！,"오냐, 뒤늦게 와서 문 두드렸다고 들어가니 어쩌니, 맞아야 정신을 차리지!"
+AvgDialog_8224_Content_62,aqzS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,240,AvgDialog,Content,后排的市民,<Big:打！打赢的就能第一个进去！>,<Big: 싸워라! 이긴 사람이 들어간다!>
+AvgDialog_8224_Content_63,aqzT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,241,AvgDialog,Content,,人们彼此推搡起来，甚至动起了手。你正要出声阻止，却听到身后传来几声闷响，伴随着一句低语。,"뭔가 이상했다. 그저 교회에 가고 싶어하던 사람들이 돌연 서로의 멱살을 잡고, 주먹질하며, 날뛰고 있었다. 이 혼란 너머로 등 뒤에서 작은 속삭임이 어렴풋하게 들려왔다."
+AvgDialog_8224_Content_64,aqzU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,242,AvgDialog,Content,,我应当忏悔。,나는 속죄해야 해.
+AvgDialog_8224_Content_65,aqzV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,243,AvgDialog,Content,奥吉尔,爱德华先生！,에드워드 씨!
+AvgDialog_8224_Content_66,aqzW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,244,AvgDialog,Content,,我应当流出黑色的血液。,"내, 내 안의 검은 피를 빼내야 해."
+AvgDialog_8224_Content_67,aqzX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,245,AvgDialog,Content,,萨尔瓦多转身，快速朝圣堂内跑去。,살바도르가 황급히 성당 안으로 뛰어갔다.
+AvgDialog_8224_Content_68,aqzY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,246,AvgDialog,Content,,我应当净化——,"나는, 나는 정화받아야 해———"
+AvgDialog_8224_Content_69,aqzZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,247,AvgDialog,Content,,有什么东西破了，湿润的声音并不很响，此刻却震耳欲聋。,"무언가가 부러지는 소리, 작지만 고요히 메아리치는 눅눅하고 역겨운 소리."
+AvgDialog_8224_Content_70,aqAb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,248,AvgDialog,Content,,爱德华弓着腰俯身在长凳的扶手上，扶手凸起的锐角深深嵌入了他的前额，鲜红的血液顺着深色的木料流下，迅速在地面扩散。,"에드워드가 의자의 팔걸이에 대가리를 쳐박는 소리였다. \n퍽, 퍽. 허리를 젖힐 때마다 날카로운 모서리가 이마를 파고들며, 사방으로 피를, 조각을, 뼈가 부서지는 소리를 울리고 있었다."
+AvgDialog_8224_Content_71,aqAc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,249,AvgDialog,Content,,粉色的碎骨和深色的组织从豁口内透出，即使相隔甚远，你仍能闻到那浓重的血腥味。,"발갛게 색진 뼛조각과 너머의 핏덩이들이 적나라하게 드러나고, 사방으로 피비린내가 자욱해 멀리 떨어져 있음에도 코를 찌를 정도였다."
+AvgDialog_8224_Content_72,aqAd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,250,AvgDialog,Content,中年人,他死了，他死了！,죽... 죽었어...?
+AvgDialog_8224_Content_73,aqAe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,251,AvgDialog,Content,,萨尔瓦多很快跪到了爱德华身前，他用手捂着年轻人的额头，像是希望帮他止血。,"서둘러 안으로 들어간 살바도르는 실이 끊어진 인형처럼 쓰러진 에드워드를 감싸고, 이마를 눌러 지혈했다."
+AvgDialog_8224_Content_74,aqAf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,252,AvgDialog,Content,粗鲁的市民,哈哈！好，活该！死得好！,"히... 히히, 꼴 좋다, 병신같은 놈!"
+AvgDialog_8224_Content_75,aqAg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,253,AvgDialog,Content,,被奥吉尔困住的人们欢呼起来，他们互相拍着肩膀，仿佛自己目睹了一件盛大的好事。,"오지에의 힘으로 갇혀 있던 사람들은 에드워드의 죽음을 보며 경사라도 난 듯, 돌연 웃고, 서로를 격려하며 환호하고 있었다."
+AvgDialog_8224_Content_76,aqAh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,254,AvgDialog,Content,,与此同时，你身边的人爆发出了与里面的人完全不同的反应。,"그러나, 당신의 뒤에서 서로 멱살을 잡고 날뛰던 사람들은 다른 반응을 보였다..."
+AvgDialog_8224_Content_77,aqAi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,255,AvgDialog,Content,敲门的市民,该死的，让他抢先了！,"빌어먹을, 운 좋은 새끼!"
+AvgDialog_8224_Content_78,aqAj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,256,AvgDialog,Content,围观的市民,我才有资格死在圣堂里，我！,성당에서 순교해야 할 사람은 나란 말야!
+AvgDialog_8224_Content_79,aqAk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,257,AvgDialog,Content,,强大的推力将你逼得连连后退，你不得不侧身闪入长凳间的狭窄过道中，避免被人群推倒踩踏的危险。,"거센 압박에 당신은 점점 뒤로 밀려났고, 군중에게 넘어져 짓밟히는 것을 피하기 위해, 결국 몸을 틀어 긴 의자 사이의 비좁은 통로로 몸을 피해야만 했다."
+AvgDialog_8224_Content_80,aqAm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,258,AvgDialog,Content,,失去你这个唯一的阻碍后，场面彻底失控。,"유일한 장애물이었던 당신이 사라지자, 상황은 더욱 심각해졌다."
+AvgDialog_8224_Content_81,aqAn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,259,AvgDialog,Content,,<Big:砰！>,<Big:쾅!>
+AvgDialog_8224_Content_82,aqAo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,260,AvgDialog,Content,,一道血印出现在圣堂粗壮的石柱上，撞到墙上的年轻人软倒在地，手指抽搐了两下，便不再动弹。,"핏자국 하나가 성당의 굵직한 기둥 위로 번져 올랐다. 벽에 처박힌 젊은이는 그대로 힘없이 바닥에 무너졌고, 손가락만 두어 번 경련하듯 떨리더니 이내 움직임을 멈췄다."
+AvgDialog_8224_Content_83,aqAp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,261,AvgDialog,Content,敲门的市民,可恶，被他抢先了！那我是第一个撞门死——,"빌어먹을, 기둥은 이미 늦었고... 그래, 문, 문이 있구나!"
+AvgDialog_8224_Content_85,aqAr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,263,AvgDialog,Content,后排的市民,哈、哈哈哈哈，让你抢在我前面！现在我是第一个杀人的了！,"히, 히하하, 아쉽게도 내가 먼저 왔네! 내가 첫 번째야, 아쉽게 됐네!"
+AvgDialog_8224_Content_87,aqAt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,265,AvgDialog,Content,市民们,我才是第一个，我！,내가 첫 번째라고!
+AvgDialog_8224_Content_89,aqAv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,267,AvgDialog,Content,玩家,……这……到底……,이...이건... 이건 대체...
+AvgDialog_8224_Content_90,aqAx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,268,AvgDialog,Content,玩家,这到底是怎么回事……,무슨 일이 일어나고 있는 거야...!?
+AvgDialog_8228_Content_1,aqAy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,269,AvgDialog,Content,,向倦怠妥协,나태와 굴복
+AvgDialog_8228_Content_2,aqAJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,270,AvgDialog,Content,玩家,这绝不可能是普通事件，必须赶紧联系——,심상치 않아. 서둘러 미사그에 연락을...
+AvgDialog_8228_Content_3,aqAU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,271,AvgDialog,Content,威廉,%player%，你现在在哪？,"%player%, 들려? 어디 있지?"
+AvgDialog_8228_Content_4,aqBf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,272,AvgDialog,Content,玩家,威廉？！,윌리엄 선배!
+AvgDialog_8228_Content_5,aqBq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,273,AvgDialog,Content,威廉,算了，不管你在哪在做什么，现在立刻放下手头的事情，到父神济世大圣堂去。,미안하지만 긴급 사태야. 하던 일을 중지하고 당장 론디니움 교구의 영생의 대성당으로 향해줘.
+AvgDialog_8228_Content_6,aqBB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,274,AvgDialog,Content,威廉,那里有异常情况，需要立刻介入调查。,이상 사태가 보고됐어. 당장 조사해야 해.
+AvgDialog_8228_Content_7,aqBM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,275,AvgDialog,Content,玩家,"我和奥吉尔正在现场。
+这里有大量普通民众陷入疯狂，我们需要增援。大量增援。","선배, 지금 오지에랑 같이 교구에 있어요. \n정체 불명의 광기가 교구를 집어 삼켰어요. 지원이 필요해요, 되도록이면 많이!"
+AvgDialog_8228_Content_8,aqBV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,276,AvgDialog,Content,威廉,审查会与当地警方已经从广场西南方抵达大圣堂，正是他们确认了异常情况的出现，才将消息同步给了我们。,"알아. 심사회와 현지 경찰이 대성당으로 향하고 있어, 그들의 보고를 받고 연락한 거니 상황은 설명하지 않아도 돼."
+AvgDialog_8228_Content_9,aqBW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,277,AvgDialog,Content,威廉,你们先想办法汇合，我去找德克斯特，看看能不能从审查会那里再要点人过去。,너희들은 일단 합류를 목표로 삼아. 나는 덱스터 경을 찾아 인력 지원을 추가로 받을 수 있을지 알아볼게.
+AvgDialog_8228_Content_10,aqAz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,278,AvgDialog,Content,,那平民怎么办？,민간인들은 어떻게 할까요?
+AvgDialog_8228_Content_11,aqAA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,279,AvgDialog,Content,玩家,我们这里除了自残的，还有一批有严重暴力倾向的，走不开啊。,자해하는 사람들 말고도 맹목적인 폭력을 휘두르는 사람들도 있어요. 우리가 떠나면 아수라장이 될 거에요.
+AvgDialog_8228_Content_12,aqAB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,280,AvgDialog,Content,威廉,"……尽力而为，一切以发现事件源头并将其彻底解决为重。
+只有尽快停止异象，他们才能真正安全。",..... 최선의 선택을 해. 네가 거기서 막아 봐야 일시적 대응에 불과해. 근본적인 원인을 해소하는 쪽이 피해를 더 줄일 수 있을 거야.
+AvgDialog_8228_Content_13,aqAC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,281,AvgDialog,Content,,伦蒂尼恩怎么那么危险啊——,론디니움은 왜 항상 위험한 일만——
+AvgDialog_8228_Content_14,aqAD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,282,AvgDialog,Content,威廉,……这大概就是大城市的代价吧。,...대도시에서 사는 대가라고 생각해야지.
+AvgDialog_8228_Content_15,aqAE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,283,AvgDialog,Content,威廉,总之，只有尽快停止异象，他们才能真正安全。,"아무튼, 원인을 먼저 해결하는 게 그 사람들을 위한 거야."
+AvgDialog_8228_Content_16,aqAF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,284,AvgDialog,Content,威廉,"抓紧时间，守密人。
+务必在情况进一步恶化前解决此事。","서둘러, 수호자.\n 네가 서둘러야 무고한 희생자를 줄일 수 있어."
+AvgDialog_8228_Content_17,aqAG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,285,AvgDialog,Content,玩家,"我知道了。
+奥吉尔，先撤下屏障，我们去和审查会的探员汇合。","알겠습니다. \n오지에, 장벽을 해제해 줘. 심사회 사람들과 합류하자."
+AvgDialog_8228_Content_18,aqAH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,286,AvgDialog,Content,奥吉尔,"可，这些人该怎么办呢？
+撤下屏障的话，他们肯定会暴动的。","알겠습니다. 하지만 이 사람들은 어떻게 할까요? 장벽을 해제하면, 분명, 겉잡을 수 없는 사태가 될 겁니다."
+AvgDialog_8228_Content_19,aqAI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,287,AvgDialog,Content,,你迟疑了一会。,당신은 잠시 망설였다.
+AvgDialog_8228_Content_20,aqAK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,288,AvgDialog,Content,玩家,我知道，我也很担心。但……但威廉说得没错，只有尽快停止异象，大家才能真正安全。,"알아. 하지만 윌리엄 선배의 말이 맞아. 우리가 할 수 있는 최선을 선택해야 해. 우리가 여기서 사람들을 붙잡는 것보다, 원인을 해결하는 게 희생자를 줄일 수 있을 거야."
+AvgDialog_8228_Content_21,aqAL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,289,AvgDialog,Content,奥吉尔,……我知道了，主君。一切听你安排。,"…알겠습니다, 주군. 뜻대로 하겠습니다."
+AvgDialog_8228_Content_22,aqAM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,290,AvgDialog,Content,玩家,萨尔瓦多主教，这里危险，还请你先和我们一起行动，等与审查会合警方汇合后，我们会再派人手将你送到安全的地方去。,"살바도르 주교님, 여긴 위험하니 저희랑 함께 가요. 심사회와 경찰이 있는 곳까지 모셔 드릴테니, 그분들과 함께 안전한 곳으로 대피해주세요."
+AvgDialog_8228_Content_23,aqAN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,291,AvgDialog,Content,萨尔瓦多,莫要担心，一切以你们的工作为重。,그렇게 하죠. 걱정할 필요 없습니다.
+AvgDialog_8228_Content_24,aqAO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,292,AvgDialog,Content,玩家,那么，出发。,"그럼, 가시죠."
+AvgDialog_8228_Content_25,aqAP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,293,AvgDialog,Content,,原本热闹的广场此刻一片混乱，四处奔逃的、追逐的、尖叫的、自残的……每个人都陷入了不同程度、不同症状的疯狂。,"아까 전까지만 해도 활기와 희망으로 가득 차 있던 광장은 지옥과 다를 바 없었다. 쫓는 자, 쫓기는 자, 비명을 지르는 자, 광소하는 자... 머리를 박으며 자해하는 자까지, 모두가 서로 다른 광기와 증상에 사로잡혀 날뛰고 있었다."
+AvgDialog_8228_Content_26,aqAQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,294,AvgDialog,Content,,你跟在奥吉尔身后，用尽可能快的速度往广场的东南角赶去，却无可避免地被人群冲散。,"당신은 오지에와 함께 광장의 남동쪽으로 향했지만, 거센 인파에 휩쓸려 오지에와 흩어졌다."
+AvgDialog_8228_Content_27,aqAR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,295,AvgDialog,Content,,正在你思考是否要折返时，听到一个熟悉的声音。,"오지에를 찾는 것과 심사회에 합류하는 것, 어느 쪽을 우선해야 할 지 고민하던 중, 익숙한 목소리가 들려왔다."
+AvgDialog_8228_Content_28,aqAS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,296,AvgDialog,Content,索菲亚,%player%！,%player%!
+AvgDialog_8228_Content_29,aqAT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,297,AvgDialog,Content,,索菲亚惊慌的面容出现在你身前，她身后跟着几个人：其中两个穿着审查会的制服，剩下两个则是做警察打扮。,눈앞에 소피아가 겁에 질린 듯한 얼굴로 나타났다. 그녀의 뒤에는 두 명의 심사회 제복 차림과 두 명의 경찰관 복장을 한 사람들이 서 있었다.
+AvgDialog_8228_Content_30,aqAV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,298,AvgDialog,Content,审查会探员A,你是……守密人？,당신은... 수호자?
+AvgDialog_8228_Content_31,aqAW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,299,AvgDialog,Content,,你有些惊讶地看向一旁的探员。,당신은 조금 놀라 옆에 있는 요원을 쳐다보았다.
+AvgDialog_8228_Content_32,aqAX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,300,AvgDialog,Content,玩家,你认识我？,절 아시나요?
+AvgDialog_8228_Content_33,aqAY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,301,AvgDialog,Content,审查会探员A,"我们都看过你的照片，守密人%sirormadam%。
+<Blue:MTC区域维护与管理第一响应队>阿尔法小组，向你报告。","저희 모두 당신의 사진을 봤습니다, 수호자님. <Blue:MTC 구역 유지 및 관리 제1 대응팀> 알파팀, 보고드립니다."
+AvgDialog_8228_Content_34,aqAZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,302,AvgDialog,Content,玩家,怎么就你们几个，增援呢？,왜 당신들뿐이죠? 증원 병력은요?
+AvgDialog_8228_Content_35,aqBa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,303,AvgDialog,Content,审查会探员A,我们只是调查小组，增援应该还在赶来的路上。,저희는 조사팀일 뿐입니다. 증원 병력은 오는 중일 겁니다.
+AvgDialog_8228_Content_36,aqBb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,304,AvgDialog,Content,警官A,我们是接到这位小姐的报案过来的。本来以为只是小打小闹，没想到这么严重。,"이 아가씨의 신고를 받고 왔습니다. 처음에는 사소한 다툼인 줄 알았는데, 이렇게 심각할 줄은 몰랐네요."
+AvgDialog_8228_Content_37,aqBc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,305,AvgDialog,Content,审查会探员A,必须赶紧联络——,우선 본대와의 연락을 서두르겠…
+AvgDialog_8228_Content_38,aqBd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,306,AvgDialog,Content,,耀眼的白光从不知何处照射而来，针刺一般的疼痛从眼底直穿大脑，你用力捂住眼睛，却无法缓解哪怕一点疼痛。,"눈부신 백색광이 어디선가 비춰왔다. 바늘로 찌르는 듯한 고통이 안구 깊은 곳에서부터 뇌까지 꿰뚫었다. 당신은 두 눈을 세게 감았지만, 고통은 조금도 가시지 않았다."
+AvgDialog_8228_Content_39,aqBe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,307,AvgDialog,Content,审查会探员B,联络……啊……联络……,연락... 아... 연락...
+AvgDialog_8228_Content_40,aqBg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,308,AvgDialog,Content,,审查会探员的声音小了下去，残留在眼中的光斑阻挡了你的视线，但你清楚地听到了有人倒地的声音。,"심사회 요원의 목소리가 잦아들었다. 눈에 남은 잔상이 시야를 가렸지만, 누군가 쓰러지는 소리는 똑똑히 들렸다."
+AvgDialog_8228_Content_41,aqBh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,309,AvgDialog,Content,审查会探员B,<Small:这里是……阿尔法……唔……>,<Small:여기는... 알파... 으윽...>
+AvgDialog_8228_Content_42,aqBi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,310,AvgDialog,Content,,一个。,한 명.
+AvgDialog_8228_Content_43,aqBj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,311,AvgDialog,Content,警官A,<Small:我……好几天没睡觉了……>,<Small:요즘... 며칠 동안 잠을 못 자서...>
+AvgDialog_8228_Content_44,aqBk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,312,AvgDialog,Content,,两个。,두 명.
+AvgDialog_8228_Content_45,aqBl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,313,AvgDialog,Content,警官A,<Small:好累啊……我得坐会儿……>,<Small:너무 피곤해... 좀 앉아야겠어...>
+AvgDialog_8228_Content_46,aqBm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,314,AvgDialog,Content,,三个。,세 명.
+AvgDialog_8228_Content_47,aqBn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,315,AvgDialog,Content,审查会探员A,<Small:守……密人……>,<Small:수... 호자… 님...>
+AvgDialog_8228_Content_48,aqBo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,316,AvgDialog,Content,,热源，有人靠近了你，并且抓住了你的手。,온기가 느껴졌다. 누군가 당신에게 다가와 손을 잡았다.
+AvgDialog_8228_Content_49,aqBp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,317,AvgDialog,Content,审查会探员A,<Small:通报……然后……>,<Small:보고를... 그리고...>
+AvgDialog_8228_Content_50,aqBr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,318,AvgDialog,Content,,四个。,네 명.
+AvgDialog_8228_Content_51,aqBs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,319,AvgDialog,Content,索菲亚,警官先生，警官先生！还有探员先生！,"겨, 경찰관님! 요원님!"
+AvgDialog_8228_Content_52,aqBt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,320,AvgDialog,Content,,你用力眨眼，勉强看清了面前的情景。,당신은 세게 눈을 깜빡여 겨우 눈앞의 광경을 파악했다.
+AvgDialog_8228_Content_53,aqBu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,321,AvgDialog,Content,,审查会探员和警官横七竖八地倒在地上，双眼紧闭，除了随着呼吸起伏的胸腔以外一动不动，像是——,"심사회 요원과 경찰관들이 사방에 쓰러져 있었다. 그들은 두 눈을 감고, 숨을 쉴 때마다 오르내리는 가슴 외에는 미동도 없었다. 마치——"
+AvgDialog_8228_Content_54,aqBv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,322,AvgDialog,Content,玩家,……睡着了？,...잠든 건가?
+AvgDialog_8228_Content_55,aqBw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,323,AvgDialog,Content,,更多人倒下的声音传来，借着已经没有多少的天光，你发现广场上的人似乎没有原先密集了。,"더 많은 사람이 쓰러지는 소리가 들려왔다. 희미해져가는 빛 사이로, 광장의 인파가 줄어든 것이 보였다."
+AvgDialog_8228_Content_56,aqBx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,324,AvgDialog,Content,,或者说，站着的人没有那么多了，他们中有很大一部分躺在地上，和你脚边的几人一样，似乎陷入了深眠之中。,"아니, 정확히는 서 있는 사람이 줄어들었다. 그들 중 상당수는 발치에 있는 몇몇처럼 깊은 잠에 빠진 듯 바닥에 누워 있었다."
+AvgDialog_8228_Content_57,aqBy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,325,AvgDialog,Content,,"还有一部分则坐在地上，一动不动。
+你小心地靠近其中一个。",또 다른 이들은 땅바닥에 주저앉아 미동도 하지 않았다. 당신은 조심스럽게 그중 한 명에게 다가갔다.
+AvgDialog_8228_Content_58,aqBz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,326,AvgDialog,Content,玩家,"先生，先生？
+你还好吗，先生？","선생님, 선생님? 괜찮으세요, 선생님?"
+AvgDialog_8228_Content_59,aqBA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,327,AvgDialog,Content,,那人懒懒地看了你一眼，没有回答。,"남자는 나른하게 당신을 쳐다볼 뿐, 대답하지 않았다."
+AvgDialog_8228_Content_60,aqBC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,328,AvgDialog,Content,索菲亚,他们……他们看上去好像很累的样子……,다들... 다들 무척 피곤해 보여요...
+AvgDialog_8228_Content_61,aqBD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,329,AvgDialog,Content,,累？你看向睡着了的警官，又看了看面前呆坐着的市民，不得不承认索菲亚说得有几分道理。,피곤? 잠든 경찰관과 멍하니 앉아 있는 시민을 번갈아 본 당신은 소피아의 말이 일리가 있다고 인정할 수밖에 없었다.
+AvgDialog_8228_Content_62,aqBE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,330,AvgDialog,Content,,这些人无精打采的，没有一点生机与活力，就好像有什么东西无限放大了他们的倦怠，让他们不再愿意动弹。,쓰러진 사람들은 생기와 활력이라고는 하나도 없이 무기력해 보였다. 마치 무언가가 그들의 권태감을 무한히 증폭시켜 더는 움직이고 싶지 않게 만든 것 같았다.
+AvgDialog_8228_Content_63,aqBF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,331,AvgDialog,Content,玩家,威廉学长，情况有变，我们需要更多增援。,"윌리엄 선배, 상황이 바뀌었어요. 지원 병력이 더 필요해요."
+AvgDialog_8228_Content_64,aqBG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,332,AvgDialog,Content,威廉,我们已经通知审查会了，你再坚持一下。,심사회에 연락해 뒀어. 조금만 더 버텨 줘.
+AvgDialog_8228_Content_65,aqBH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,333,AvgDialog,Content,索菲亚,现在怎么办？他们就这么躺在这里，万一那些疯子又……,"이제 어떡하죠? 사람들이 이렇게 누워 있는데, 만약 그 미치광이들이 또..."
+AvgDialog_8228_Content_66,aqBI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,334,AvgDialog,Content,玩家,我想想，我想想……,"잠깐, 생각 좀 해볼게요..."
+AvgDialog_8228_Content_67,aqBJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,335,AvgDialog,Content,,你闭上眼，将自己沉进黑暗之中。,당신은 눈을 감고 어둠 속으로 의식을 가라앉혔다.
+AvgDialog_8228_Content_68,aqBK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,336,AvgDialog,Content,,喧闹的人声逐渐变得朦胧，你的意识不断上升、上升，直到所有的叫喊都化作遥远的阴影，直到连声音这个概念本身都不复存在。,"소란스러운 사람들의 목소리가 점차 희미해지고, 당신의 의식은 계속해서 떠올랐다. 모든 외침이 머나먼 그림자로 변해, 소리라는 개념 자체가 사라질 때까지."
+AvgDialog_8228_Content_69,aqBL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,337,AvgDialog,Content,,两颗明亮的星星悬在你面前，其中一颗上下摇晃，亲昵地朝你靠近。,밝은 별 두 개가 당신 앞에 떠 있었다. 그중 하나가 위아래로 흔들리며 친근하게 다가왔다.
+AvgDialog_8228_Content_70,aqBN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,338,AvgDialog,Content,,你暂时压下心头的疑虑，低下头，无声地向它低语。,"당신은 일단 마음속의 의심을 억누르고, 고개를 숙여 조용히 속삭였다."
+AvgDialog_8228_Content_71,aqBO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,339,AvgDialog,Content,玩家,奥吉尔，过来。,"오지에, 이리 와."
+AvgDialog_8228_Content_72,aqBP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,340,AvgDialog,Content,玩家,奥吉尔，沿着链接，到我这里来。,"오지에, 링크를 따라 이쪽으로 와."
+AvgDialog_8228_Content_73,aqBQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,341,AvgDialog,Content,奥吉尔,主君……？,주군...?
+AvgDialog_8228_Content_74,aqBR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,342,AvgDialog,Content,奥吉尔,主君需要我，可是……,주군께서 절 필요로 하십니다. 하지만...
+AvgDialog_8228_Content_75,aqBS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,343,AvgDialog,Content,,"小骑士为难地转头，看向好不容易与自己会合的主教。
+如果他就这么离开，主教能不能保证自己的安全就成了问题。","어린 기사는 곤란한 듯 고개를 돌려, 겨우 합류한 주교를 바라보았다. 만약 그가 이대로 떠나 버리면 주교의 안전을 보장할 수 없게 된다."
+AvgDialog_8228_Content_76,aqBT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,344,AvgDialog,Content,,注意到他的目光，萨尔瓦多没有多问，只是温和地点头。,그의 시선을 눈치챈 살바도르는 더 묻지 않고 온화하게 고개를 끄덕였다.
+AvgDialog_8228_Content_77,aqBU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,345,AvgDialog,Content,萨尔瓦多,%heorshe%应当是遇到麻烦了，我们一起去吧。,수호자가 곤란을 겪고 있는 모양이군요. 함께 가도록 하죠.
+AvgDialog_8231_Content_1,aqCQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,346,AvgDialog,Content,,把饥肠填满,굶주림을 채워라
+AvgDialog_8231_Content_2,aqDn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,347,AvgDialog,Content,玩家,这就是最后一个了。,"휴, 이게 마지막이에요."
+AvgDialog_8231_Content_3,aqDy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,348,AvgDialog,Content,,你和索菲亚尽可能轻地将警官搬到板条箱后隐藏起来，暂时躲过了暴民的目光。,"당신과 소피아는 최대한 조심스럽게 경찰관을 나무 상자 뒤로 옮겨 숨겼고, 폭도들의 눈을 잠시 피할 수 있었다."
+AvgDialog_8231_Content_4,aqDJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,349,AvgDialog,Content,索菲亚,我们躲在这里，奥吉尔找得到吗？,저희가 여기 숨어 있으면 오지에가 찾을 수 있을까요?
+AvgDialog_8231_Content_5,aqDU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,350,AvgDialog,Content,玩家,"我和他有……你就当做是默契吧。
+他会来的。",저와 그 아이에겐... 설명하기 힘든 연결이 있어요. 반드시 올 거에요.
+AvgDialog_8231_Content_6,aqEf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,351,AvgDialog,Content,,索菲亚点了点头，小心地朝广场上张望。,소피아는 고개를 끄덕이고 조심스럽게 광장을 내다보았다.
+AvgDialog_8231_Content_7,aqEq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,352,AvgDialog,Content,索菲亚,不知道主教阁下怎么样了……,주교님은 괜찮으실까요...
+AvgDialog_8231_Content_8,aqEB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,353,AvgDialog,Content,玩家,我和奥吉尔分开前让他去找主教了，他们应该没事的。,오지에와 헤어지기 전에 주교님을 찾아가라고 했어요. 두 사람 다 무사할 거에요.
+AvgDialog_8231_Content_9,aqEM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,354,AvgDialog,Content,索菲亚,这样……,그렇군요...
+AvgDialog_8231_Content_10,aqCR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,355,AvgDialog,Content,,看她捏着围裙的手仍在颤抖，你决定说点什么转移她的注意力。,"앞치마를 붙잡은 그녀의 손이 여전히 떨리는 것을 보고, 당신은 화제를 전환하기로 했다."
+AvgDialog_8231_Content_11,aqDc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,356,AvgDialog,Content,玩家,你和萨尔瓦多主教认识很久了吗？,살바도르 주교님과는 오래전부터 아는 사이인가요?
+AvgDialog_8231_Content_12,aqDf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,357,AvgDialog,Content,索菲亚,嗯？噢，那是……十年前的事情了，那时我还是个孩子，跟母亲和<Yellow:姐姐>一起来拜访新到任的主教。,"네? 아, 그건... 10년 전의 일이에요. 전 아직 어렸고, 어머니와 <Yellow:언니>를 따라 새로 부임하신 주교님을 찾아뵈었죠."
+AvgDialog_8231_Content_13,aqDg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,358,AvgDialog,Content,索菲亚,"他时常到我家资助的济贫院帮忙，而我们也与他渐渐相熟。
+主教阁下有一颗善良的心，对一切都充满宽容与爱，我非常尊敬他。","주교님은 저희 집에서 후원하는 구빈원에서 자주 봉사하셨고, 저희도 그분과 점점 가까워졌어요. 주교님은 선한 마음을 가졌고 모든 것에 관용과 사랑으로 가득 차 계셔서, 전 그분을 매우 존경해요."
+AvgDialog_8231_Content_14,aqDh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,359,AvgDialog,Content,玩家,所以你才在圣堂做事务员吗？,그래서 성당에서 사무원으로 일하시는 건가요?
+AvgDialog_8231_Content_15,aqDi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,360,AvgDialog,Content,索菲亚,我确实希望帮助更多的人，但……如果不是发生了那件事，我……我应该不会像现在这样。,"물론 더 많은 사람을 돕고 싶었지만... 만약 그 일이 없었다면, 전... 전 지금과는 달랐을 거예요."
+AvgDialog_8231_Content_16,aqDj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,361,AvgDialog,Content,索菲亚,主教阁下，主教阁下！,"주교님, 주교님!"
+AvgDialog_8231_Content_17,aqDk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,362,AvgDialog,Content,萨尔瓦多,索菲亚……？这么晚了，这是怎么了？,소피아...? 이렇게 늦은 시간에 무슨 일이죠?
+AvgDialog_8231_Content_18,aqDl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,363,AvgDialog,Content,索菲亚,主教阁下，不好了，我姐姐她、她——您快点来吧，求求您快点来吧！,"주교님, 도와주세요, 언니가... 제 언니가! 제발, 제발 도와주세요!"
+AvgDialog_8231_Content_19,aqDm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,364,AvgDialog,Content,萨尔瓦多,"她睡下了。
+不过这几天要注意静养，给她吃些有营养的东西。","잠들었습니다. 하지만 며칠 동안은 안정을 취하게 하고, 영양가 있는 음식을 먹이도록 하세요."
+AvgDialog_8231_Content_20,aqDo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,365,AvgDialog,Content,索菲亚母亲,我会的，我会的，感谢您，主教阁下，真的感谢您……,"네, 그럴게요. 감사합니다, 주교님. 정말 감사해요..."
+AvgDialog_8231_Content_21,aqDp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,366,AvgDialog,Content,萨尔瓦多,她手腕上的伤口很深，几乎伤到筋骨了。她……是发生了什么吗？,손목의 상처가 깊어 힘줄까지 거의 다쳤더군요. 혹시... 무슨 일이 있었나요?
+AvgDialog_8231_Content_22,aqDq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,367,AvgDialog,Content,,优雅的妇人张了张嘴，本就不再年轻的面容显得愈发苍老。,"우아한 노부인이 입을 열자, 이미 황혼에 이른 얼굴의 주름이 더 깊어지는 듯 보였다."
+AvgDialog_8231_Content_23,aqDr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,368,AvgDialog,Content,索菲亚母亲,噢，主教阁下，我究竟该从何说起呢……我的女儿，我可怜的奥利维亚……,"주교님, 어디서부터 말씀을 드려야 할지... 제 딸, 가여운 올리비아..."
+AvgDialog_8231_Content_24,aqDs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,369,AvgDialog,Content,索菲亚,是<Blue:爱德华·贝利>，主教阁下。卡莱尔街上的那个画家。,"<Blue:에드워드 베일리>예요, 주교님. 칼라일 가의 그 화가요."
+AvgDialog_8231_Content_25,aqDt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,370,AvgDialog,Content,索菲亚,他说他认识一个准备在伦蒂尼恩开艺术中心的亚格罗商人，他说他们什么都准备好了，就缺一个当地有名望的合作伙伴做为门面。,"그는 론디니움에 예술의 전당을 열려는 아글로 상인을 안다고 했어요. 모든 준비는 끝났고, 간판으로 내세울 만한 명망 있는 현지 협력자만 구하면 된다고 했죠."
+AvgDialog_8231_Content_26,aqDu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,371,AvgDialog,Content,索菲亚,奥利维亚签了所有的协议，租赁、贷款、抵押……全部。等我和妈妈发现的时候，一切都已经晚了。我们……,"올리비아는 임대, 대출, 담보 등 모든 계약서에 서명했어요... 전부요. 저와 어머니가 알았을 땐 이미 모든 게 늦어버렸어요. 저희는..."
+AvgDialog_8231_Content_27,aqDv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,372,AvgDialog,Content,索菲亚,"银行今天送来最后通牒，告诉我们他们明天就要收回房屋。
+奥利维亚看到了，她……她承受不了。","오늘 은행에서 통보를 받았어요, 내일까지 상환하지 않으면 집을 압류하겠다고. 언니는 이 사실에... 절망하고, 그만…"
+AvgDialog_8231_Content_28,aqDw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,373,AvgDialog,Content,,夫人低低地啜泣着，手帕早已被泪水浸湿。萨尔瓦多微侧过身，似乎望向了紧闭的房门。,"부인이 애써 슬픔을 참으려 하고 있음에도 손수건은 이미 눈물로 흠뻑 젖어 있었다. 살바도르는 잠시 고개를 들어, 굳게 닫힌 방문을 바라보며 생각에 잠겼다."
+AvgDialog_8231_Content_29,aqDx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,374,AvgDialog,Content,萨尔瓦多,我的孩子，我恐怕有一个不情之请。,"소피아, 염치없는 부탁이 하나 있습니다."
+AvgDialog_8231_Content_30,aqDz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,375,AvgDialog,Content,索菲亚,主教阁下？,주교님?
+AvgDialog_8231_Content_31,aqDA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,376,AvgDialog,Content,萨尔瓦多,负责圣堂日常事务的福斯特太太最近病了，需要休息。而我对这些事情又不擅长，实在头疼，不知道你是否愿意来暂时担任圣堂的事务员呢？,성당의 일상 업무를 담당하던 포스터 부인이 최근 병이 나서 휴식이 필요합니다. 그런데 저는 이런 일에 서툴러서 골치가 아프군요. 잠시 성당의 사무원 일을 맡아줄 수 있을까요?
+AvgDialog_8231_Content_32,aqDB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,377,AvgDialog,Content,索菲亚,主教阁下……我……,주교님... 저는...
+AvgDialog_8231_Content_33,aqDC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,378,AvgDialog,Content,萨尔瓦多,"当然了，事务员需要搬到圣堂来住。
+虽然不太方便，但我们总是有很多空房间，足以容纳你和你的家人。","물론, 사무원은 성당에서 지내야 합니다. 조금 불편하겠지만, 저희에겐 빈방이 많으니 당신과 당신의 가족을 수용하기에 충분할 겁니다."
+AvgDialog_8231_Content_34,aqDD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,379,AvgDialog,Content,萨尔瓦多,你愿意帮我这个忙吗？,제 부탁을 들어주시겠습니까?
+AvgDialog_8231_Content_35,aqDE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,380,AvgDialog,Content,索菲亚,"当然……！我、我当然愿意帮忙！
+谢谢你，主教阁下，真的，谢谢你……","물론이죠...! 기, 기꺼이 돕겠습니다! 감사합니다, 주교님, 정말... 감사합니다..."
+AvgDialog_8231_Content_36,aqDF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,381,AvgDialog,Content,索菲亚,"奥利维亚一直很自责，在庭审之后，她受到了很大打击。
+后来，她趁我和妈妈不注意的时候跑到了桥上。","올리비아는 계속 자책했어요. 재판이 끝난 후, 큰 충격을 받았죠. 그러다 저와 엄마가 한눈판 사이에 다리 위로 달려갔어요."
+AvgDialog_8231_Content_37,aqDG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,382,AvgDialog,Content,索菲亚,"我们找到她的时候，已经是两天后了。她……
+妈妈心碎了，而在那之后不久，她也回归了父神的怀抱。","저희가 그 애를 찾았을 땐 이미 이틀이 지난 후였어요. 그 애는 이미... \n어머니는 상심하셨고, 그 후 얼마 지나지 않아 어머니도 아버지 신의 품으로 돌아가셨죠."
+AvgDialog_8231_Content_38,aqDH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,383,AvgDialog,Content,,索菲亚侧转过脸。你看到她抬起手抹了抹脸，放下时指尖残留了些许湿痕。,"소피아는 고개를 돌렸다. 당신은 그녀가 손을 들어 얼굴을 닦는 것을 보았고, 손을 내렸을 때에는 손가락 끝에 약간의 젖은 자국이 남아 있었다."
+AvgDialog_8231_Content_39,aqDI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,384,AvgDialog,Content,索菲亚,不过，一切都过去了。,하지만 이제 다 지난 일이에요.
+AvgDialog_8231_Content_40,aqDK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,385,AvgDialog,Content,索菲亚,在<Yellow:祂>的引导下，黑色的罪孽终将消散，而我们也会迎来黎明。,"<Yellow:그분>의 인도 아래 검은 죄악은 결국 사라지고, 우리에게도 여명이 찾아올 거예요."
+AvgDialog_8231_Content_41,aqDL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,386,AvgDialog,Content,,急促的脚步声迅速朝你们靠近，索菲亚紧绷起来。你抬手示意她稍安勿躁，然后小心地探出头。,"다급한 발소리가 빠르게 다가오자 소피아는 몸을 굳혔다. 당신은 손을 들어 진정하라고 신호한 뒤, 조심스럽게 고개를 내밀었다."
+AvgDialog_8231_Content_42,aqDM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,387,AvgDialog,Content,奥吉尔,主君！,주군!
+AvgDialog_8231_Content_43,aqDN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,388,AvgDialog,Content,玩家,"嘘。
+萨尔瓦多主教？你没事吧？",쉿. 살바도르 주교님? 괜찮으세요?
+AvgDialog_8231_Content_44,aqDO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,389,AvgDialog,Content,萨尔瓦多,奥吉尔是个很可靠的孩子。多亏他我才能保全至今。,오지에는 믿음직한 아이입니다. 그 아이 덕분에 지금까지 무사할 수 있었죠.
+AvgDialog_8231_Content_45,aqDP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,390,AvgDialog,Content,奥吉尔,这不是审查会的制服么，还有警官。他们这是怎么了？,이건 심사회의 제복 아닌가요? 경찰관 분들도... 다들 어떻게 된 거죠?
+AvgDialog_8231_Content_46,aqDQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,391,AvgDialog,Content,索菲亚,我们也不知道……他们像是睡着了，一直醒不过来。,저희도 잘 모르겠어요... 다들 잠든 것처럼 계속 깨어나질 못해요.
+AvgDialog_8231_Content_47,aqDR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,392,AvgDialog,Content,萨尔瓦多,圣堂后是神职人员的居所，我上午离开时就落了锁，这时候应该不会有人。,성당 뒤편은 성직자들의 거처입니다. 제가 오전에 나올 때 문을 잠가 둬서 지금은 아무도 없을 겁니다.
+AvgDialog_8231_Content_48,aqDS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,393,AvgDialog,Content,玩家,"趁现在那些人还算安静，赶紧撤到圣堂去吧。增援很快就到。
+又要麻烦你搭把手了，主教阁下。","사람들이 잠잠해진 지금, 서둘러 성당으로 철수하죠. 증원 병력도 곧 올 거예요. 또 신세를 져야겠네요, 주교님."
+AvgDialog_8231_Content_49,aqDT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,394,AvgDialog,Content,萨尔瓦多,没问题，我正是为帮助你们而来。,기꺼이. 여러분의 기쁨이 제 기쁨입니다.
+AvgDialog_8231_Content_50,aqDV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,395,AvgDialog,Content,,你们艰难地在人群中行走。奥吉尔时不时要放下手里半扶半拖的人，去应对那些向你们袭来的暴民，稚嫩的脸上逐渐显出了疲态。,"당신들은 인파 속을 힘겹게 헤쳐 나갔다. 오지에는 자신에게 덤벼드는 폭도들을 막기 위해 부축하던 사람을 종종 내려놓아야 했고, 어린 얼굴에는 점차 피로가 쌓여갔다."
+AvgDialog_8231_Content_51,aqDW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,396,AvgDialog,Content,,萨尔瓦多主教脸上也沾染了灰尘，长发被汗水打湿贴在脸侧，看上去颇为狼狈。,"살바도르 주교의 얼굴에도 먼지가 묻었고, 긴 머리카락이 땀에 젖어 꽤나 지쳐 보였다."
+AvgDialog_8231_Content_52,aqDX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,397,AvgDialog,Content,,事件来得太过突然，恶化得太过蹊跷。纵观弥萨格关于融蚀的记载，也未曾有节奏如此奇怪的异变。,"사건은 너무나 갑작스러웠고, 너무나 기이하게 악화되었다. 미사그의 융식에 대한 기록을 통틀어 보아도 이토록 이상한 흐름의 이변은 없었다."
+AvgDialog_8231_Content_53,aqDY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,398,AvgDialog,Content,,异变……你印象中，随着这些人的异常现象一同出现的，还有一个东西。,이변... 당신의 기억 속에는 이 사람들의 이상 현상과 함께 나타난 것이 하나 더 있었다.
+AvgDialog_8231_Content_54,aqDZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,399,AvgDialog,Content,玩家,奥吉尔，你在过来的路上，有没有注意到奇怪的光？,"오지에, 이리로 오는 길에 이상한 빛을 보지 못했어?"
+AvgDialog_8231_Content_55,aqEa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,400,AvgDialog,Content,奥吉尔,光？,빛... 말씀이십니까?
+AvgDialog_8231_Content_56,aqEb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,401,AvgDialog,Content,玩家,"很刺眼，像是某个东西反射出来的。
+我看到过几次，而每次那道光出现过后，人们的行为都会被激化。","눈이 부실 정도로, 무언가에 반사된 것 같은 빛이었어. 몇 번 봤는데, 그 빛이 나타날 때마다 사람들의 행동이 격해졌어."
+AvgDialog_8231_Content_57,aqEc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,402,AvgDialog,Content,玩家,愤怒的人更加愤怒，那些想做第一的人——可以说是嫉妒吧，他们对第一的身份更加执着。,"분노한 사람은 더 분노했고, 첫 번째가 되고 싶어 하는 사람들——질투라고 할 수 있겠지, 그들은 첫 번째가 되는 데에 더 집착했어."
+AvgDialog_8231_Content_58,aqEd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,403,AvgDialog,Content,玩家,再加上这些突然困倦的人，我怀疑——,게다가 갑자기 잠에 빠진 사람들까지... 아무래도——
+AvgDialog_8231_Content_59,aqEe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,404,AvgDialog,Content,,"剧痛突然从你的后脑蔓延开来。
+奥吉尔的瞳孔在强光下剧烈收缩，他张开嘴，似乎正要说什么。","극심한 고통이 갑자기 뒤통수에서부터 퍼져나갔다. 오지에의 동공이 강한 빛에 격렬하게 수축했고, 입을 벌려 무언가 말하려는 모습이었다."
+AvgDialog_8231_Content_60,aqEg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,405,AvgDialog,Content,,下一秒，你的眼前一片雪白。,"다음 순간, 당신의 눈앞은 새하얗게 변했다."
+AvgDialog_8231_Content_61,aqEh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,406,AvgDialog,Content,,光从你身后而来，将一切都笼罩在其下。刺耳的嗡鸣侵吞了一切，随之而来的是一阵低语，一股冲动。,"빛은 당신의 등 뒤에서부터 와 모든 것을 뒤덮었다. 귀를 찢는 듯한 소음이 모든 것을 삼켰고, 뒤이어 속삭임과 충동이 밀려왔다."
+AvgDialog_8231_Content_62,aqEi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,407,AvgDialog,Content,,睡吧，%player%。,"잠들어라, %player%."
+AvgDialog_8231_Content_63,aqEj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,408,AvgDialog,Content,,晕眩猛地袭来。,현기증이 갑자기 덮쳐왔다.
+AvgDialog_8231_Content_64,aqEk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,409,AvgDialog,Content,,你一直都该沉睡。,넌 잠들어 있어야만 했어.
+AvgDialog_8231_Content_65,aqEl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,410,AvgDialog,Content,,一片白茫茫中，你甚至失去了辨别上下左右的能力。,새하얀 공간 속에서 당신은 상하좌우를 분간할 능력조차 잃었다.
+AvgDialog_8231_Content_66,aqEm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,411,AvgDialog,Content,,唯有你沉睡，世界才能@4,"네가 잠들어야만, 세계가 @4"
+AvgDialog_8231_Content_67,aqEn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,412,AvgDialog,Content,,眼见守密人要倒下，萨尔瓦多赶紧上前接住。,수호자가 쓰러지려는 것을 서둘러 살바도르가 부축했다.
+AvgDialog_8231_Content_68,aqEo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,413,AvgDialog,Content,奥吉尔,主君！,주군!
+AvgDialog_8231_Content_69,aqEp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,414,AvgDialog,Content,,"小骑士又急又慌，在扔下扶着的人和保护平民的责任感之间反复拉扯。
+萨尔瓦多用手探了探守密人的鼻息，对奥吉尔安抚地点头。","어린 기사는 안절부절못하며, 부축하던 사람을 버려야 할지, 민간인을 보호해야 할지 갈등했다. 살바도르는 손으로 수호자의 코에 숨을 대어보고, 오지에를 향해 안심시키듯 고개를 끄덕였다."
+AvgDialog_8231_Content_70,aqEr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,415,AvgDialog,Content,萨尔瓦多,%heorshe%没事，大概只是太累了。,"괜찮습니다, 그저 피곤해서 잠든 것 같습니다."
+AvgDialog_8231_Content_71,aqEs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,416,AvgDialog,Content,奥吉尔,累……是和这些人一样么。,피곤... 저 사람들처럼 말씀이신가요?
+AvgDialog_8231_Content_72,aqEt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,417,AvgDialog,Content,,所有方才还在嘶吼咒骂，相互扭打甚至自残的人，都不知何时停了下来。他们目光呆滞而且空茫，宛如一具具陷入停滞的机械人偶。,"방금까지 울부짖고 저주하며 서로 싸우거나 자해하던 모든 사람들이 어느새 멈춰 있었다. 그들의 눈빛은 멍하고 공허했으며, 마치 실이 끊어진 인형 같았다."
+AvgDialog_8231_Content_73,aqEu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,418,AvgDialog,Content,,整个广场少说也有上百人，却没有发出一点声音。在逐渐暗沉的天空之下，像极了成群迷途的亡灵。,"광장에는 적어도 수백 명은 있었지만, 아무 소리도 들리지 않았다. 저물기 시작한 하늘 아래, 그저 길 잃은 유령처럼 망연히 서 있을 뿐이었다."
+AvgDialog_8231_Content_74,aqEv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,419,AvgDialog,Content,,"萨尔瓦多回过头，望向白光袭来的方向。
+在他身后，扶着警官的索菲亚神情紧张。",살바도르는 고개를 돌려 빛이 덮쳐온 방향을 바라보았다. 그의 뒤에서 경찰관을 부축하던 소피아는 긴장한 표정이었다.
+AvgDialog_8231_Content_75,aqEw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,420,AvgDialog,Content,奥吉尔,都怪我，没能注意主君的状态……如果拉蒙娜小姐在……,"다 제 탓이에요, 주군의 상태를 살피지 못하다니... 라모나 양이 있었더라면..."
+AvgDialog_8231_Content_76,aqEx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,421,AvgDialog,Content,萨尔瓦多,"你已经做得很好了，我的孩子。
+如果不是你的保护，恐怕在圣堂内我们就已经受伤了。","이미 잘해 주었습니다. 만약 오지에 군의 보호가 없었다면, 성당 안에서 저희도 피해를 입었을 겁니다."
+AvgDialog_8231_Content_77,aqEy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,422,AvgDialog,Content,奥吉尔,但主君……,하지만 주군께서...
+AvgDialog_8231_Content_78,aqEz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,423,AvgDialog,Content,萨尔瓦多,"%heorshe%这样应当是受到了什么影响，并非你的过失。
+来吧，再努力一下，接下来的路途也少不了你的帮助的，小骑士。","수호자가 이렇게 된 것은 무언가에 영향을 받아서일 겁니다. 당신의 탓이 아니에요. 자, 조금만 더 힘을 냅시다. 앞으로 남은 길도 당신의 도움이 필요할 테니까요, 어린 기사여."
+AvgDialog_8231_Content_79,aqEA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,424,AvgDialog,Content,奥吉尔,我、我知道了。我会加油的！,"네, 알겠습니다. 힘낼게요!"
+AvgDialog_8231_Content_80,aqEC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,425,AvgDialog,Content,,见男孩打起精神，萨尔瓦多将注意力转回眼前。守密人闭着眼睛清浅地呼吸着，似乎处于某种挣扎之中。,"소년이 기운을 차리는 것을 보고, 살바도르는 다시 눈앞에 집중했다. 수호자는 눈을 감고 얕은 숨을 내쉬며, 무언가와 싸우고 있는 듯했다."
+AvgDialog_8231_Content_81,aqED,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,426,AvgDialog,Content,,借着调整姿势的掩护，戴着黑色手套的手贴上年轻人的额头。,"자세를 고쳐 앉는 척하며, 검은 장갑을 낀 손을 수호자의 이마에 댔다."
+AvgDialog_8231_Content_82,aqEE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,427,AvgDialog,Content,萨尔瓦多,仁慈的父神，向你的子民们降下无边的恩泽……,"자비로우신 아버지시여, 당신의 자녀들에게 끝없는 은총을 내려주소서..."
+AvgDialog_8231_Content_83,aqEF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,428,AvgDialog,Content,,蓝光从他指缝中隐隐透出，还未吸引任何人注意便掩在宽大的衣袍之下。,"푸른빛이 그의 손가락 사이로 희미하게 새어 나왔지만, 누구의 눈에도 띄기 전에 넓은 옷자락 아래로 감춰졌다."
+AvgDialog_8231_Content_84,aqEG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,429,AvgDialog,Content,,守密人的手动了动，%hisorher%眉毛蹙起，口中吐出几句难以听清的呓语。,"수호자의 손이 움직이고, {Male=그의,Female=그녀의} 미간이 찌푸려지며 입에서는 알아들을 수 없는 잠꼬대가 흘러나왔다."
+AvgDialog_8231_Content_85,aqEH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,430,AvgDialog,Content,玩家,不能……睡……,잠들면... 안 돼...
+AvgDialog_8231_Content_86,aqEI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,431,AvgDialog,Content,,奥吉尔走在一行人的最前，萨尔瓦多一手扶着一个，以一人之力负担着两个失去意识的人的躯体。,"오지에는 일행의 맨 앞에서 걸었고, 살바도르는 양손에 한 명씩, 혼자서 의식을 잃은 두 사람의 몸을 지탱했다."
+AvgDialog_8231_Content_87,aqEJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,432,AvgDialog,Content,,飞鸟扑棱着翅膀从上空掠过，某处，悬挂的风铃被风吹动，发出单调的声音。,"새가 날갯짓하며 상공을 스쳐 지나갔고, 어딘가에서 매달린 풍경이 바람에 흔들리며 단조로운 소리를 냈다."
+AvgDialog_8231_Content_88,aqEK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,433,AvgDialog,Content,？？？,……饿……,...배고파...
+AvgDialog_8231_Content_89,aqEL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,434,AvgDialog,Content,奥吉尔,……？,...?
+AvgDialog_8231_Content_90,aqEN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,435,AvgDialog,Content,市民B,好饿啊……,배고파...
+AvgDialog_8231_Content_91,aqEO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,436,AvgDialog,Content,奥吉尔,主教阁下，你有没有听到……,"주교님, 혹시... 들으셨어요?"
+AvgDialog_8231_Content_92,aqEP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,437,AvgDialog,Content,,萨尔瓦多停下脚步。,살바도르는 걸음을 멈췄다.
+AvgDialog_8231_Content_93,aqEQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,438,AvgDialog,Content,,在他们面前，一个原本呆站着不动的男人突然吸了吸鼻子，朝身旁的人伸出手。,"그들 앞에, 멍하니 서 있던 한 남자가 갑자기 코를 킁킁거리더니 옆 사람에게 손을 뻗었다."
+AvgDialog_8231_Content_94,aqER,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,439,AvgDialog,Content,市民C,肉，好多肉……我好饿……<Big:好饿……！>,"고기, 고기가 잔뜩... 배고파... <Big:배고파...！>"
+AvgDialog_8231_Content_95,aqES,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,440,AvgDialog,Content,,温热的鲜血喷洒在地上，腥甜的气味在一瞬间唤醒了所有沉睡的恶灵。,"따뜻한 피가 땅에 흩뿌려지고, 비릿하고 달콤한 냄새가 순식간에 잠들어 있던 모든 악령을 깨웠다."
+AvgDialog_8231_Content_96,aqET,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,441,AvgDialog,Content,市民B,给我肉，我要吃肉！,"고기를 줘, 고기를 먹고 싶어!"
+AvgDialog_8231_Content_97,aqEU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,442,AvgDialog,Content,市民C,<BigShake:啊——！>,<BigShake:아——!>
+AvgDialog_8231_Content_98,aqEV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,443,AvgDialog,Content,,惨叫与血肉撕裂的湿润声响填满了原本寂静的广场，奥吉尔赶忙举起长枪，将几个扑过来的人给挡了回去。,비명과 살점이 찢어지는 축축한 소리가 고요했던 광장을 가득 메웠다. 오지에는 서둘러 장창을 들어 덤벼드는 몇몇을 막아냈다.
+AvgDialog_8231_Content_99,aqEW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,444,AvgDialog,Content,奥吉尔,主教阁下！我们得快点！,주교님! 서둘러야 해요!
+AvgDialog_8231_Content_100,aqCS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,445,AvgDialog,Content,,萨尔瓦多正要迈步，就感到身侧一沉：一个市民冲出人群，抓住了仍在沉睡之中的守密人。,"살바도르가 발을 내디디려는 순간, 옆구리가 묵직해졌다. 한 시민이 인파를 뚫고 나와 잠들어 있는 수호자를 붙잡았다."
+AvgDialog_8231_Content_101,aqCT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,446,AvgDialog,Content,市民A,肉……肉！,고기... 고기!
+AvgDialog_8231_Content_102,aqCU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,447,AvgDialog,Content,,那人张开嘴，萨尔瓦多用力向后一扯，用自己的手臂挡住了对方的啃咬。,"남자가 입을 벌리자, 살바도르는 힘껏 뒤로 물러나 자신의 팔로 상대의 이빨을 막아냈다."
+AvgDialog_8231_Content_103,aqCV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,448,AvgDialog,Content,,同时，巨大的石板在他背后升起。,"동시에, 그의 등 뒤로 거대한 석판이 솟아올랐다."
+AvgDialog_8231_Content_104,aqCW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,449,AvgDialog,Content,,血液的腥味刺激着你的鼻腔，蓝光出现在你的视线边缘，将你眼前的白雾逐渐驱散。,"피비린내가 코를 자극했고, 시야 가장자리에 푸른빛이 나타나 눈앞의 흰 안개를 점차 걷어냈다."
+AvgDialog_8231_Content_105,aqCX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,450,AvgDialog,Content,,难懂的絮语逐渐远去，取而代之的是嘈杂的人声——有人尖叫，有人哀嚎，有人在你身侧低声祷告。,"알아들을 수 없는 속삭임이 점차 멀어지고, 그 자리를 시끄러운 사람들의 소리가 대신했다——누군가는 비명을 지르고, 누군가는 울부짖고, 누군가는 당신 곁에서 나지막이 기도했다."
+AvgDialog_8231_Content_106,aqCY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,451,AvgDialog,Content,萨尔瓦多,仁慈的父神，请将沉睡的「白焰」唤醒，让%heorshe%得以继续指引我们的前路。,"자비로우신 아버지시여, 잠든 「창백한 불꽃」을 깨워 {Male=그가,Female=그녀가} 계속해서 저희의 앞길을 인도하게 하소서."
+AvgDialog_8231_Content_107,aqCZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,452,AvgDialog,Content,,形状规则的阴影笼在你面前，你缓缓睁开眼。,"규칙적인 모양의 그림자가 당신 앞에 드리워졌고, 당신은 천천히 눈을 떴다."
+AvgDialog_8231_Content_108,aqDa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,453,AvgDialog,Content,,癫狂的人们，弥漫的鲜血，混乱而令人心惊的惨叫……所有的一切都被隔绝在巨大的石板之后。,"광기에 휩싸인 사람들, 만연한 피, 혼란스럽고 섬뜩한 비명... 그 모든 것이 거대한 석판 뒤에 가리어졌다."
+AvgDialog_8231_Content_109,aqDb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,454,AvgDialog,Content,,每块石板上都印刻着复杂的符文，每个符文上面都有蓝光流转，如同被缩小无数倍的星河。,"각 석판에는 복잡한 룬이 새겨져 있었고, 은하수처럼 각각의 룬 위로 푸른빛이 흐르고 있었다."
+AvgDialog_8231_Content_110,aqDd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,455,AvgDialog,Content,,其中一缕蓝光顺着萨尔瓦多的手臂流向你，而随着它的到来，你头部的疼痛迅速减轻，直到完全消失。,"그중 한 줄기 푸른빛이 살바도르의 팔을 타고 당신에게로 흘러 들어왔다. 그 빛이 닿자, 당신의 머리를 짓누르던 고통이 빠르게 가라앉아 완전히 사라졌다."
+AvgDialog_8231_Content_111,aqDe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,456,AvgDialog,Content,玩家,萨尔瓦多……主教？,살바도르... 주교님?
+AvgDialog_8229_Content_1,aqBX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,457,AvgDialog,Content,,将罪恶净化,죄악을 정화하라
+AvgDialog_8229_Content_2,aqCi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,458,AvgDialog,Content,,"蓝光如蛇一般在你身上游走，所有的疼痛疲惫都随着它的到访一扫而空。
+你浑身一轻，感到前所未有的精力充沛。","푸른빛이 뱀처럼 당신의 몸을 휘감았다. 모든 고통과 피로가 그 빛과 함께 사라졌다. 온몸이 가벼워지고, 전례 없는 활력이 느껴졌다."
+AvgDialog_8229_Content_3,aqCt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,459,AvgDialog,Content,奥吉尔,萨尔瓦多主教……是……,살바도르 주교님은... 혹시...
+AvgDialog_8229_Content_4,aqCE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,460,AvgDialog,Content,,石板上的符文如呼吸一般规律闪烁，更多的蓝光像巨树的根须向四面八方延展。,"석판 위의 룬이 숨 쉬듯 규칙적으로 깜빡였고, 더 많은 푸른빛이 거대한 나무의 뿌리처럼 사방으로 뻗어 나갔다."
+AvgDialog_8229_Content_5,aqCL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,461,AvgDialog,Content,,无数的伤害与死亡、痛哭与哀嚎，都在这骤然降临的神迹中得到缓解。,"수많은 상처와 죽음, 통곡과 비명이 갑작스럽게 나타난 기적 속에서 가라앉았다."
+AvgDialog_8229_Content_6,aqCM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,462,AvgDialog,Content,,圣堂熏香的气味轻拂过你的鼻尖，浅浅的、淡淡的，仿佛不曾存在，却又将属于鲜血的气味完全遮盖。,"성당의 향 냄새가 당신의 코끝을 스쳤다. 옅고 희미하여 존재하지 않는 듯했지만, 피 냄새를 완전히 덮어버렸다."
+AvgDialog_8229_Content_7,aqCN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,463,AvgDialog,Content,玩家,……唤醒体。,...각성체.
+AvgDialog_8229_Content_8,aqCO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,464,AvgDialog,Content,？？？,你又一次救了那些罪人。,또다시 그 죄인들을 구했군요.
+AvgDialog_8229_Content_9,aqCP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,465,AvgDialog,Content,,一个冰冷的声音打断你的话语，你转身，看到了索菲亚的身影。,"차가운 목소리가 당신의 말을 끊었다. 당신이 돌아보자, 소피아의 모습이 보였다."
+AvgDialog_8229_Content_10,aqBY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,466,AvgDialog,Content,索菲亚,"你又一次将「<Yellow:赐福>」用在了这些渣滓身上。
+告诉我，主教阁下，你当时也是这么救下爱德华的吗？","또다시 「<Yellow:축복>」을 이 쓰레기들에게 사용했군요. 말해 보세요, 주교님. 그때도 그렇게 에드워드를 구한 건가요?"
+AvgDialog_8229_Content_11,aqBZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,467,AvgDialog,Content,奥吉尔,索菲亚小姐，你这是……？,"소피아 님, 이게 무슨...?"
+AvgDialog_8229_Content_12,aqCa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,468,AvgDialog,Content,索菲亚,如果不是我们的好主教出手，早在一年前，他就该死了。而这一切都不会发生。,"우리의 선량하신 주교님이 나서지 않았다면, 그는 1년 전에 죽었어야 했어요. 그럼 이 모든 일도 일어나지 않았을 테고요."
+AvgDialog_8229_Content_13,aqCb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,469,AvgDialog,Content,爱德华,主教……萨尔瓦多主教……,주교님... 살바도르 주교님...
+AvgDialog_8229_Content_14,aqCc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,470,AvgDialog,Content,萨尔瓦多,爱德华？,에드워드?
+AvgDialog_8229_Content_15,aqCd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,471,AvgDialog,Content,,腥甜的气味随着脚步的靠近愈发浓烈，萨尔瓦多早已摒弃了寻常的视觉，却在再度苏醒后变得能看到属于灵魂的光亮。,"발소리가 가까워질수록 비릿하고 달콤한 냄새가 더욱 짙어졌다. 살바도르는 평범한 시력을 버린 지 오래였지만, 다시 깨어난 후 영혼의 빛을 볼 수 있게 되었다."
+AvgDialog_8229_Content_16,aqCe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,472,AvgDialog,Content,,此刻，他眼前的那个灵魂在黑暗中浮浮沉沉，几欲熄灭。,"지금 그의 눈앞에 있는 영혼은 어둠 속에서 떠올랐다 가라앉으며, 곧 꺼질 듯 위태로웠다."
+AvgDialog_8229_Content_17,aqCf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,473,AvgDialog,Content,萨尔瓦多,天啊，爱德华，快扶着我，我带你去医院。,"주여... 에드워드, 어서 제 손을 잡으십시오. 병원으로 데려다주겠습니다."
+AvgDialog_8229_Content_18,aqCg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,474,AvgDialog,Content,爱德华,不！我……不。这是我自找的。,아닙니다! 저... 아닙니다. 이건 제가 자초한 일이에요.
+AvgDialog_8229_Content_19,aqCh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,475,AvgDialog,Content,,"灵魂再次闪烁，甚至愈发暗淡下去。
+他的时间不多了。",영혼이 다시 깜빡이며 더욱 어두워졌다. 그에게 남은 시간은 얼마 없었다.
+AvgDialog_8229_Content_20,aqCj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,476,AvgDialog,Content,爱德华,你警告过我的，不要再以他人的苦痛为生，不要再欺骗。我应该改正的，但我一直没听……咳！,"제게 경고하셨죠. 다른 사람의 고통을 양분 삼아 살지 말라고, 더는 속이지 말라고. 저는 고쳐야 했지만, 계속 듣지 않았어요... 쿨럭!"
+AvgDialog_8229_Content_21,aqCk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,477,AvgDialog,Content,,"咳呛，一滩液体砸到了地上。
+鲜血的味道更加刺鼻了。",기침과 함께 액체가 바닥에 떨어졌다. 피 냄새가 더욱 코를 찔렀다.
+AvgDialog_8229_Content_22,aqCl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,478,AvgDialog,Content,爱德华,"现在她死了……<Blue:米莉>死了……！<Blue:汤普森>那个疯子要我为她陪葬。我……
+我不想死，主教阁下，但我也……","결국 <Blue:밀리>는 죽었어요... 죽었다고요...! <Blue:톰슨> 그 미치광이가 저보고 그녀를 따라 죽으라고 해요. 저는... 죽고 싶지 않아요, 주교님. 하지만 저도..."
+AvgDialog_8229_Content_23,aqCm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,479,AvgDialog,Content,爱德华,<Small:对不起，对不起……宽恕我吧，主教阁下，只有父神能宽恕我了，只有父神……>,"<Small:죄송합니다, 죄송합니다... 저를 용서해 주십시오, 주교님. 오직 아버지 신만이 저를 용서하실 수 있어요, 오직 아버지 신만이...>"
+AvgDialog_8229_Content_24,aqCn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,480,AvgDialog,Content,萨尔瓦多,……,...
+AvgDialog_8229_Content_25,aqCo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,481,AvgDialog,Content,萨尔瓦多,“那些曾经犯错的，祂也愿意张开怀抱，只要他们真心地进行悔改”。,「만일 우리가 우리 죄를 자백하면 그는 미쁘시고 의로우사 우리 죄를 사하시며 우리를 모든 불의에서 깨끗하게 하실 것이요」.
+AvgDialog_8229_Content_26,aqCp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,482,AvgDialog,Content,,莹莹的蓝光自下而上映亮了部分彩窗，彩窗上的父神垂着眼眸静静地望着，一如数百年来所做的那样。,"영롱한 푸른빛이 아래에서부터 스테인드글라스 창의 일부를 밝혔다. 창에 그려진 아버지 신은 수백 년 동안 그래왔던 것처럼, 눈을 내리깔고 조용히 바라보고 있었다."
+AvgDialog_8229_Content_27,aqCq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,483,AvgDialog,Content,,在萨尔瓦多的手下，年轻人满身的伤飞速愈合，甚至没留下多少疤痕。,"살바도르의 손길 아래, 젊은이의 온몸에 가득했던 상처가 빠르게 아물었고, 흉터조차 거의 남지 않았다."
+AvgDialog_8229_Content_28,aqCr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,484,AvgDialog,Content,萨尔瓦多,睁开眼吧，爱德华，珍惜父神予以你的机会。,"눈을 뜨세요, 에드워드. 아버지 신께서 주신 기회를 소중히 여기십시오."
+AvgDialog_8229_Content_29,aqCs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,485,AvgDialog,Content,索菲亚,"汤普森说他下了死手，他想不明白为什么爱德华能活下来。但我知道。
+是你给了爱德华「<Yellow:赐福>」，让他捡了一条命。",톰슨은 그를 죽이려 했다고 했어요. 왜 에드워드가 살아남았는지 이해하지 못했죠. 하지만 저는 알아요. 당신이 에드워드에게 「<Yellow:축복>」을 내려 목숨을 부지하게 해준 거죠.
+AvgDialog_8229_Content_30,aqCu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,486,AvgDialog,Content,索菲亚,然后，他接近了我姐姐，害我家破人亡。,그리고 그는 제 언니에게 접근해서 저희 집안을 풍비박산 냈고요.
+AvgDialog_8229_Content_31,aqCv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,487,AvgDialog,Content,萨尔瓦多,"……她们的死，我确实有责任。
+如果我更留心，及时将爱德华拉回正途，你就不必受此等苦楚。","...그녀들의 죽음에는 분명 제 책임이 있습니다. 제가 좀 더 주의를 기울여, 제때에 에드워드를 올바른 길로 이끌었다면 당신이 이런 고통을 겪지 않았겠죠."
+AvgDialog_8229_Content_32,aqCw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,488,AvgDialog,Content,萨尔瓦多,"如果这能平息你的愤怒，安抚你的内心，那就审判我吧。
+但不要被仇恨蒙蔽双眼，为无辜之人带来不必要的苦楚。","만약 그것이 당신의 분노를 가라앉히고 마음을 달랠 수 있다면, 저를 심판하십시오. 하지만 증오에 눈이 멀어 무고한 이들에게 불필요한 고통을 안겨주진 마십시오."
+AvgDialog_8229_Content_33,aqCx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,489,AvgDialog,Content,索菲亚,你本就应该被审判，傲慢的罪人！,"심판받아야 하는 건 당신이야, 오만한 죄인 같으니!"
+AvgDialog_8229_Content_34,aqCy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,490,AvgDialog,Content,索菲亚,你擅自替受害者宽恕罪恶，你滥用父神的「赐福」，将罪人救回，让善人受苦。你以为你是谁？,"당신은 멋대로 피해자를 대신해 죄를 용서했고, 아버지 신의 「축복」을 남용해 죄인을 구하고 선한 사람들을 고통받게 했어. 당신이 대체 뭔데?"
+AvgDialog_8229_Content_35,aqCz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,491,AvgDialog,Content,索菲亚,你有什么资格给出谅解，有什么资格给那些渣滓「改过的机会」？,"당신이 무슨 자격으로 용서를 하고, 그 쓰레기들에게 「개과천선할 기회」를 주는 거지?"
+AvgDialog_8229_Content_36,aqCA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,492,AvgDialog,Content,索菲亚,<Yellow:提灯>说的没错，罪人庇护的教区只会滋生罪恶。要想他人不再如我般受苦，要想世人都生活在幸福之中……,"<Yellow:등불>의 말이 맞았어. 죄인을 비호하는 교구는 죄악을 낳을 뿐이야. 다른 사람들이 나처럼 고통받지 않게 하려면, 모두가 행복하게 살게 하려면..."
+AvgDialog_8229_Content_37,aqCB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,493,AvgDialog,Content,,她将一把形状奇特的手持镜对准了天空，阳光落入其中的瞬间变得猩红。,"소피아가 기묘한 형태의 손거울을 하늘로 향하자, 저물기 시작한 햇볕을 받아들인 거울이 돌연 핏빛으로 물들었다."
+AvgDialog_8229_Content_38,aqCC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,494,AvgDialog,Content,持镜索菲亚,你，还有这些罪恶的渣滓，都要净化。,당신과 이 죄 많은 쓰레기들은 모두 정화되어야 해.
+AvgDialog_8229_Content_39,aqCD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,495,AvgDialog,Content,,太阳消失在空中。天色迅速暗了下去，血色的月亮凭空出现，占据了大半天空。,"태양이 하늘에서 사라졌다. 하늘은 급격히 어두워지고, 핏빛 달이 허공에 나타나 하늘의 대부분을 차지했다."
+AvgDialog_8229_Content_40,aqCF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,496,AvgDialog,Content,,腥红的月光洒向地面，将一切染成刺目的红。,핏빛 달빛이 땅에 쏟아져 모든 것을 눈부신 붉은색으로 물들였다.
+AvgDialog_8229_Content_41,aqCG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,497,AvgDialog,Content,持镜索菲亚,罪人们啊，切开你们的肉体，将你们的罪恶流出——,"죄인들이여, 너희의 육체를 베어 죄악을 흘려보내라——"
+AvgDialog_8229_Content_42,aqCH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,498,AvgDialog,Content,,本在互相厮打的人们骤然转头，用刀刃和牙齿撕开自己的皮肉。,서로 싸우던 사람들이 갑자기 고개를 돌려 칼날과 이빨로 자신의 살을 찢었다.
+AvgDialog_8229_Content_43,aqCI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,499,AvgDialog,Content,持镜索菲亚,迎接纯银塑身者的无罪净土！,순은으로 빚어진 자의 죄 없는 낙원을 맞이하라!
+AvgDialog_8229_Content_45,aqCK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,501,AvgDialog,Content,,镜面反射的红光剧烈闪烁，惨叫与哀嚎伴随着鲜血遍布整个广场，宛如人间炼狱。,"거울에 반사된 붉은빛이 격렬하게 깜빡였다. 비명과 통곡이 피와 함께 광장 전체에 퍼져나가, 마치 인간 지옥을 방불케 했다."
+AvgDialog_8236_Content_1,aqGw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,502,AvgDialog,Content,,我们的过错,우리의 과오
+AvgDialog_8236_Content_2,aqGH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,503,AvgDialog,Content,,血月高悬，猩红的光如同最有效的催化剂，瞬间将人群点燃。,"핏빛 달이 높이 뜨자, 핏빛의 광채가 순식간에 군중을 불태웠다."
+AvgDialog_8236_Content_3,aqGS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,504,AvgDialog,Content,,斗殴变为虐打，自残变为自杀，而那些本就在积极寻死的，更是开始以匪夷所思的方式结束自己的生命。,"싸움은 학대로, 자해는 자살로 변했고, 이미 적극적으로 죽음을 찾던 이들은 더욱 기상천외한 방법으로 자신의 목숨을 끊기 시작했다."
+AvgDialog_8236_Content_4,aqHd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,505,AvgDialog,Content,,腥味将本来萦绕在你们上空的熏香气息给彻底淹没。红光之下，飞溅的血液看上去如墨般漆黑，癫狂的人们形容狰狞，宛如恶鬼。,"피비린내가 주위를 맴돌던 향 냄새를 완전히 집어삼켰다. 붉은빛 아래, 흩뿌려지는 피는 먹물처럼 검게 보였고, 광기에 휩싸인 사람들은 흉측한 악귀 같았다."
+AvgDialog_8236_Content_5,aqHk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,506,AvgDialog,Content,,无尽的鲜血与杀戮中，唯有索菲亚的衣裙仍旧干净。她抹去飞溅到脸上的血液，放声大笑。,끝없는 피와 살육 속에서 오직 소피아의 옷만이 깨끗했다. 그녀는 얼굴에 튄 피를 닦아내며 크게 웃었다.
+AvgDialog_8236_Content_6,aqHl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,507,AvgDialog,Content,持镜索菲亚,流吧，流出你们身体里的罪恶！流出黑色的血液！,"흘려라, 네 몸속의 죄악을 흘려보내라! 검은 피를 흘려라!"
+AvgDialog_8236_Content_7,aqHm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,508,AvgDialog,Content,持镜索菲亚,忏悔吧，罪人！在严厉的持灯者降下审判前，净化你们肮脏的灵魂！,"참회하라, 죄인들이여! 엄격한 등불을 든 자가 심판을 내리기 전에, 너희의 더러운 영혼을 정화하라!"
+AvgDialog_8236_Content_8,aqHn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,509,AvgDialog,Content,,手持镜不断闪烁，猩红的光刺痛了你的眼睛，甚至穿过双眼，直直地深入你的头脑和精神。,"손거울이 계속해서 깜빡였다. 핏빛의 빛이 당신의 눈을 찔렀고, 눈을 꿰뚫고 머리와 정신 깊숙이 파고들었다."
+AvgDialog_8236_Content_9,aqHo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,510,AvgDialog,Content,,你下意识抱着头，手指深深陷入发间。耳鸣再次占据了你的全部感官，一个声音在你脑中低语，那语气和音调无比陌生，又如此熟悉。,"당신은 무의식적으로 머리를 감싸 쥐었고, 손가락이 머리카락 사이로 깊숙이 파고들었다. 이명이 다시 모든 감각을 장악했고, 낯설면서도 익숙한 목소리가 뇌 속에서 속삭였다."
+AvgDialog_8236_Content_10,aqGx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,511,AvgDialog,Content,,睡吧，%player%，何必苦苦支撑？,"잠들어라, %player%, 왜 굳이 버티려 하는 거야?"
+AvgDialog_8236_Content_11,aqGy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,512,AvgDialog,Content,,睡吧，@4，你本就应该安眠……,"잠들어라, @4, 넌 원래 잠들어 있어야만 했어..."
+AvgDialog_8236_Content_12,aqGz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,513,AvgDialog,Content,,意识模糊之际，你听到了诡异的笛声。,"의식이 흐려질 무렵, 기이한 피리 소리가 들려왔다."
+AvgDialog_8236_Content_13,aqGA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,514,AvgDialog,Content,,睡吧，睡吧……,"잠들어라, 잠들어라..."
+AvgDialog_8236_Content_14,aqGB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,515,AvgDialog,Content,萨尔瓦多,索菲亚，停手吧。,"소피아, 그만하십시오."
+AvgDialog_8236_Content_15,aqGC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,516,AvgDialog,Content,,阴影挡住了刺眼的红光。,그림자가 눈부신 붉은빛을 가렸다.
+AvgDialog_8236_Content_16,aqGD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,517,AvgDialog,Content,,巨大的石板悬在你的身前，繁复的符文上蓝光流转，但已比先前要暗淡不少，指挥石板的萨尔瓦多脸色也愈发苍白。,"거대한 석판이 당신 앞에 떠 있었고, 복잡한 룬 위로 푸른빛이 흘렀지만 이전보다 훨씬 희미했다. 석판을 조종하는 살바도르의 얼굴도 점점 창백해졌다."
+AvgDialog_8236_Content_17,aqGE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,518,AvgDialog,Content,,"你知道这意味着什么。
+索纳尼尔号上，希莱斯特和埃尔顿身上有着类似的情况。","당신은 이것이 무엇을 의미하는지 알았다. 소나-닐 호에서, 셀레스트와 엘튼에게도 비슷한 상황이 있었다."
+AvgDialog_8236_Content_18,aqGF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,519,AvgDialog,Content,埃尔顿,……老毛病了。毕竟和弥萨格百里挑一的学生不一样，我是个普通人，既没有什么顽强的精神力，也没法看见<Yellow:融蚀>。,"...고질병이야. 미사그 최고의 학생들과는 달리 난 평범한 사람이니까. 강인한 정신력도 없고, <Yellow:융식>을 볼 수도 없어."
+AvgDialog_8236_Content_19,aqGG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,520,AvgDialog,Content,图鲁,"链接者的心身难以支持唤醒体施展能力。
+撑起能够隔绝天体牵引的密境，那名唤醒体恐怕已经竭尽全力了。","링크한 자의 심신이 각성체의 능력 발휘를 감당하기 어려운 것 같군. 천체의 인력을 막아낼 수 있는 비경을 펼쳤으니, 그 각성체는 아마 전력을 다했을 것이다."
+AvgDialog_8236_Content_20,aqGI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,521,AvgDialog,Content,萨尔瓦多,"苦难无法被苦难消解，不要成为那些扩散苦难者的一员。
+趁现在一切都还来得及，不要再继续下去了，这不是父神所期望的道路。",고난은 고난으로 해결할 수 없습니다. 고난을 퍼뜨리는 자의 일원이 되지 마십시오. 모든 것을 되돌릴 수 있을 때 멈추어야만 합니다. 이것은 아버지 신께서 바라시는 길이 아닙니다.
+AvgDialog_8236_Content_21,aqGJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,522,AvgDialog,Content,持镜索菲亚,"你错了，罪人主教，我践行的才是真正的神意。
+只有当你和这些罪人统统消失，净土才会降临，义人们才能幸福。","틀렸어요, 죄인이신 주교님. 내가 실천하는 것이야말로 진정한 신의 뜻. 오직 당신과 이 죄인들이 모두 사라져야만 낙원이 강림하고, 의로운 자들이 행복해질 수 있어."
+AvgDialog_8236_Content_22,aqGK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,523,AvgDialog,Content,奥吉尔,可这些人都不是罪人，这一切都是你用那面镜子造成的！,하지만 이 사람들은 죄인이 아닙니다. 이 모든 건 당신이 그 거울로 꾸민 짓이잖아요!
+AvgDialog_8236_Content_23,aqGL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,524,AvgDialog,Content,持镜索菲亚,"天真的孩子，镜子能照出欲望，放大欲望，而不能植入欲望。
+我只是让他们看清自己灵魂中的黑暗罢了。","순진한 아이구나. 거울은 욕망을 비추고 증폭시킬 수는 있지만, 욕망을 심을 수는 없어. 나는 그저 그들이 자신의 영혼 속에 있는 어둠을 보게 했을 뿐이야."
+AvgDialog_8236_Content_24,aqGM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,525,AvgDialog,Content,玩家,你……你审判的标准就是这个？看人是不是有欲望？,당신... 당신의 심판 기준이 고작 그거야? 사람이 욕망을 가졌는지 아닌지?
+AvgDialog_8236_Content_25,aqGN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,526,AvgDialog,Content,持镜索菲亚,他们迟早会向欲望臣服，与其等到那一天，不如现在就斩草除根。不是么？,그들은 언젠가 욕망에 굴복하게 될 거야. 그날이 오기 전에 미리 뿌리 뽑는 게 낫지 않겠어?
+AvgDialog_8236_Content_26,aqGO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,527,AvgDialog,Content,奥吉尔,"这根本不是公正的审判！
+公正的审判应该有证据，有法律——",이건 공정한 심판이 아닙니다! 공정한 심판에는 증거와 법이 있어야만——
+AvgDialog_8236_Content_27,aqGP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,528,AvgDialog,Content,持镜索菲亚,法律……哈。你们知道法律是怎么处置害我家破人亡的罪人的吗？,법... 하. 법이 우리 집안을 망하게 한 죄인을 어떻게 처리했는지 알아?
+AvgDialog_8236_Content_28,aqGQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,529,AvgDialog,Content,律师,我很抱歉，夫人，女士。,"유감입니다, 부인, 아가씨."
+AvgDialog_8236_Content_29,aqGR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,530,AvgDialog,Content,索菲亚母亲,这、这一定是有什么误会吧，怎么会败诉呢？怎么会呢？,"이, 이건 분명 무슨 오해가 있는 거예요. 어떻게 패소할 수 있죠? 어떻게 그럴 수가..."
+AvgDialog_8236_Content_30,aqGT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,531,AvgDialog,Content,律师,很可惜，笔迹专家判定奥利维亚女士的签名属实，他们还有多个证人证明，签名的时候奥利维亚女士神志清醒，没有受到胁迫。,"안타깝게도 필적 전문가가 올리비아 양의 서명이 진짜라고 판단했고, 서명 당시 올리비아 양이 정신이 멀쩡했으며 협박받지 않았다는 증인도 여럿 있습니다."
+AvgDialog_8236_Content_31,aqGU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,532,AvgDialog,Content,索菲亚母亲,那是因为她被骗了啊！,그건 그 애가 속았기 때문이에요!
+AvgDialog_8236_Content_32,aqGV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,533,AvgDialog,Content,律师,我恐怕在没有相关证据的情况下，我能做的也不多。,관련 증거가 없는 상황에서 제가 할 수 있는 일은 많지 않습니다.
+AvgDialog_8236_Content_33,aqGW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,534,AvgDialog,Content,奥利维亚,"不……不……我们一定还能做点什么，我们一定还能做点什么的！
+请你帮帮我们吧，那是我们的全部家当了啊！","아니... 아니에요... 분명 뭔가 할 수 있을 거예요. 분명히요! 제발 저희를 도와주세요, 그건 저희의 전 재산이란 말이에요!"
+AvgDialog_8236_Content_34,aqGX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,535,AvgDialog,Content,律师,"……我实话实说吧，依现在的情况来看，上诉也是白费力气。
+考虑到奥利维亚女士身上的债务，我建议你们把钱财用在更需要的地方。","...솔직히 말씀드리자면, 현재 상황으로서는 항소해도 소용없을 겁니다. 올리비아 양의 빚을 생각하면, 돈을 더 필요한 곳에 쓰시는 편이 낫습니다."
+AvgDialog_8236_Content_35,aqGY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,536,AvgDialog,Content,律师,失陪了，夫人，女士。我衷心祝你们好运。,"실례하겠습니다, 부인, 아가씨. 진심으로 행운을 빕니다."
+AvgDialog_8236_Content_36,aqGZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,537,AvgDialog,Content,持镜索菲亚,罪人制定的律法只会包庇罪人，罪人庇护的教区也只会滋生罪恶。去除所有罪的源头，罪才能真的终结，苦难也才能真的终结。,"죄인이 만든 법은 죄인을 비호할 뿐이고, 죄인을 비호하는 교구는 죄악을 낳을 뿐이야. 모든 죄의 근원을 제거해야만 죄가 진정으로 끝나고, 고난도 진정으로 끝날 수 있어."
+AvgDialog_8236_Content_37,aqHa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,538,AvgDialog,Content,持镜索菲亚,以至高无上的持灯者之名，净化必须完成！,"지고하신 등불지기의 이름 아래, 정화는 이루어질지니!"
+AvgDialog_8236_Content_38,aqHb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,539,AvgDialog,Content,萨尔瓦多,索菲亚……,소피아...
+AvgDialog_8236_Content_39,aqHc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,540,AvgDialog,Content,,萨尔瓦多的声音微弱了下去，身躯肉眼可见地透明了几分。,살바도르의 목소리가 약해지며 몸이 눈에 띄게 투명해졌다.
+AvgDialog_8236_Content_40,aqHe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,541,AvgDialog,Content,,他的力量在迅速衰退，但他却不能停，一旦他停下，周围那些疯狂自残的人都会彻底死去。,"그의 힘은 빠르게 쇠퇴하고 있었지만, 멈출 수는 없었다. 그가 멈추는 순간, 미친 듯이 자해하는 주위의 사람들은 모두 죽게 될 것이다."
+AvgDialog_8236_Content_41,aqHf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,542,AvgDialog,Content,,"怎么办，怎么办？
+你四下张望，目光最终停留在索菲亚的镜子上。","어떻게 하지, 어떻게 해야 하지? 당신은 사방을 둘러보다가 결국 소피아의 거울에 시선이 멈췄다."
+AvgDialog_8236_Content_42,aqHg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,543,AvgDialog,Content,玩家,奥吉尔，我去分散她的注意力，你趁机去夺下她的镜子。,"오지에, 내가 그녀의 주의를 끌게. 넌 그 틈을 타서 거울을 빼앗아."
+AvgDialog_8236_Content_43,aqHh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,544,AvgDialog,Content,奥吉尔,可是——,하지만——
+AvgDialog_8236_Content_44,aqHi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,545,AvgDialog,Content,玩家,我能照顾好自己。主教阁下给我们争取的时间不多了，动作快！,"내 몸은 내가 챙길 수 있어. 주교님이 벌어주신 시간이 얼마 남지 않았어, 서둘러!"
+AvgDialog_8236_Content_45,aqHj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,546,AvgDialog,Content,奥吉尔,是！,네!
+AvgDialog_8240_Content_2,aqIP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,548,AvgDialog,Content,,长枪准确无误地击中了索菲亚手中的镜子。,장창이 정확하게 소피아의 손에 들린 거울을 맞혔다.
+AvgDialog_8240_Content_3,aqIR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,549,AvgDialog,Content,持镜索菲亚,<BigShake:不！>,<BigShake:안 돼!>
+AvgDialog_8240_Content_4,aqIS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,550,AvgDialog,Content,,"镜面开裂，玻璃龟裂的声音回荡在广场上空。
+天空中的月亮也如同镜子一样，上面出现了一道道明显的裂痕。","거울 표면이 갈라지고, 유리가 깨지는 소리가 광장 위로 울려 퍼졌다. 하늘의 달에도 거울처럼, 선명한 균열이 나타났다."
+AvgDialog_8240_Content_5,aqIT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,551,AvgDialog,Content,持镜索菲亚,<Small:尊敬的持灯者，纯银塑身之人啊……请原谅我……>,"<Small:존경하는 등불지기시여, 순은으로 빚어진 분이시여... 부디 저를 용서하소서...>"
+AvgDialog_8240_Content_6,aqIU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,552,AvgDialog,Content,奥吉尔,到此为止了，索菲亚小姐。,"여기까지입니다, 소피아 님."
+AvgDialog_8240_Content_7,aqIV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,553,AvgDialog,Content,,发狂的人们还在继续，索菲亚跪在地上，颤抖着将镜子小心地捧在手心。,"광기에 휩싸인 사람들은 계속해서 날뛰었고, 소피아는 땅에 무릎을 꿇고 떨리는 손으로 거울을 조심스럽게 받쳐 들었다."
+AvgDialog_8240_Content_8,aqIW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,554,AvgDialog,Content,,瘦弱的肩膀剧烈颤抖，她深深地弯下腰，像是彻底失去了希望。,"가녀린 어깨가 심하게 떨렸다. 그녀는 깊이 허리를 숙이며, 완전히 희망을 잃은 듯 보였다."
+AvgDialog_8240_Content_9,aqIX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,555,AvgDialog,Content,持镜索菲亚,<Small:执意行走在黑暗之中的义人，你们的灵魂已被扭曲，你们也已经被污染……>,"<Small:어둠 속을 고집스럽게 걷는 의인들이여, 너희의 영혼은 이미 뒤틀렸고, 너희 또한 오염되었다...>"
+AvgDialog_8240_Content_10,aqIF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,556,AvgDialog,Content,玩家,"跟我们走吧，索菲亚小姐。
+审查会会给予你公正的审判。","저희와 함께 가시죠, 소피아 님. 심사회가 당신에게 공정한 심판을 내릴 겁니다."
+AvgDialog_8240_Content_11,aqIG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,557,AvgDialog,Content,持镜索菲亚,<Small:走……？>,<Small:가자고...?>
+AvgDialog_8240_Content_12,aqIH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,558,AvgDialog,Content,,她侧过脸，借着血色的月光你看清了她的表情。,"그녀는 고개를 돌렸고, 핏빛 달빛 아래 당신은 그녀의 표정을 똑똑히 볼 수 있었다."
+AvgDialog_8240_Content_13,aqII,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,559,AvgDialog,Content,持镜索菲亚,你们以为，我一直和你们废话，是为了什么？,내가 왜 계속 너희와 이야기를 나누고 있었을 것 같아?
+AvgDialog_8240_Content_14,aqIJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,560,AvgDialog,Content,持镜索菲亚,"审判一旦开始，就不会结束。
+唯一能阻止我净化罪人的，只有那个罪人主教。","심판은 한번 시작되면 끝나지 않아. 죄인들을 정화하는 날 막을 수 있는 건, 오직 그 오만한 주교뿐이야."
+AvgDialog_8240_Content_15,aqIK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,561,AvgDialog,Content,持镜索菲亚,现在他撑不住了，而你们，也将为自己的罪孽付出代价！,이제 그는 버틸 수 없어. 그리고 너희도 자신의 죄값을 치르게 될 거야!
+AvgDialog_8240_Content_16,aqIL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,562,AvgDialog,Content,,她猛地将手持镜的握柄深深刺向自己的胸口。,그녀는 손거울의 손잡이를 자신의 가슴에 깊숙이 찔러 넣었다.
+AvgDialog_8240_Content_18,aqIN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,564,AvgDialog,Content,,骨头断裂，血肉撕扯，索菲亚的躯体在你们面前扭曲变换。双手异样地拉长，利爪替代了五指，后腿翻折，足尖如犬类后腿一般踩在血泊之中。,"뼈가 부러지고 살이 찢어지며, 소피아의 몸이 당신 앞에서 뒤틀리고 변형되었다. 양손은 기이하게 길어졌고, 손가락은 날카로운 발톱으로 변했다. 뒷다리는 뒤로 꺾여, 발끝은 개처럼 피웅덩이를 밟고 있었다."
+AvgDialog_8240_Content_19,aqIO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,565,AvgDialog,Content,,细细的血线从她的嘴角向后延伸，扭曲的组织从口腔内钻出，形成类犬吻的结构。,"가느다란 핏줄이 그녀의 입가에서 뒤로 뻗어 나갔고, 뒤틀린 조직이 입안에서 튀어나와 개의 주둥이같은 구조를 형성했다."
+AvgDialog_8240_Content_20,aqIQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,566,AvgDialog,Content,索菲亚怪,<Change>愿……提灯……长明……！,<Change>등불이... 영원히... 빛나기를...!
+AvgDialog_8256_Content_1,aqJZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,567,AvgDialog,Content,,你抛出手提箱挡住了紧随而来的一爪。见一击不成，人面犬冲你们高声咆哮，然后向后一跃，跳入人群之中。,"당신은 서류 가방을 던져 뒤따라오는 발톱을 막았다. 공격이 실패하자, 인간의 얼굴을 한 개는 당신들을 향해 크게 짖고는 뒤로 뛰어 인파 속으로 사라졌다."
+AvgDialog_8256_Content_2,aqKa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,568,AvgDialog,Content,奥吉尔,那个方向……是萨尔瓦多主教！,저 방향은... 살바도르 주교님!
+AvgDialog_8239_Content_1,aqIk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,569,AvgDialog,Content,,已经失去人形的索菲亚高高跃起，它伸长了手爪，朝跪坐在石板后的萨尔瓦多抓去。,이미 인간의 형상을 잃은 소피아가 높이 뛰어올랐다. 길게 뻗은 발톱으로 석판 뒤에 무릎 꿇고 앉아 있는 살바도르를 향해 달려들었다.
+AvgDialog_8239_Content_3,aqIx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,571,AvgDialog,Content,,从地面射出的长枪洞穿了那如枯木一般的肢体，暗色的血液落雨般洒落地面，你抬手遮挡，却不敢移开视线。,"땅에서 솟아난 장창이 마른 나뭇가지 같은 팔다리를 꿰뚫었다. 어두운 피가 비처럼 땅에 쏟아졌고, 당신은 손으로 막았지만 시선을 뗄 수는 없었다."
+AvgDialog_8239_Content_4,aqIy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,572,AvgDialog,Content,索菲亚怪,<Shake:————！>,<Shake:————!>
+AvgDialog_8239_Content_5,aqIz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,573,AvgDialog,Content,,刺耳的嘶叫让地面都为之震动，“索菲亚”拔去长枪，怨毒的目光落到了你们身上。,"귀를 찢는 듯한 비명에 땅이 흔들렸다. '소피아'는 장창을 뽑아내고, 원망스러운 눈빛으로 당신들을 노려보았다."
+AvgDialog_8239_Content_6,aqIA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,574,AvgDialog,Content,索菲亚怪,<Change>不知悔改，不知悔改！,<Change>회개하라! 속죄하라!
+AvgDialog_8239_Content_7,aqIB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,575,AvgDialog,Content,索菲亚怪,<Change>今天我就算在此殒命……也必须完成净化！,"<Change>내 삶이 이곳에서 저문다 하더라도, 정화는 완성되리라!"
+AvgDialog_8239_Content_8,aqIC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,576,AvgDialog,Content,,她再一次变化了。,그녀는 다시 한번 변했다.
+AvgDialog_8239_Content_9,aqID,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,577,AvgDialog,Content,,巨大的肢腕从满地血泊中扬起，刺入“索菲亚”的身躯，黑色将她覆盖，将她包裹，将她拉长扭曲成一条扭曲的巨犬。,"거대한 팔다리가 핏물 웅덩이에서 솟아나 '소피아'의 몸을 꿰뚫었다. 검은색이 그녀를 뒤덮었고, 그녀의 형상은 다시 거대한 개처럼 뒤틀렸다."
+AvgDialog_8239_Content_10,aqIl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,578,AvgDialog,Content,,聚拢的触须凝在头顶，被鲜血黏合的镜子立于其中，像一个扭曲的眼睛。人面犬嚎叫着，转而向你发动攻击。,"모여든 촉수가 머리 위에 뭉쳐졌고, 피로 엉겨 붙은 거울이 뒤틀린 눈처럼 그 가운데에서 사방을 비춘다. 인간의 얼굴을 한 개는 울부짖으며 당신을 향해 공격을 시작했다."
+AvgDialog_8239_Content_11,aqIm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,579,AvgDialog,Content,,手爪破空而来，血液的腥臭和腐败的气息占据了你的鼻腔。你来不及反应，来不及动，耳边只剩下奥吉尔的惊呼。,"발톱이 허공을 갈랐고, 피비린내와 부패한 냄새가 코를 가득 채웠다. 당신은 반응할 수도, 움직일 수도 없었고, 귓가에는 오지에의 놀란 외침만이 들렸다."
+AvgDialog_8239_Content_12,aqIn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,580,AvgDialog,Content,,湿热的液体喷洒在你的脸上。,축축하고 뜨거운 액체가 당신의 얼굴에 튀었다.
+AvgDialog_8239_Content_13,aqIo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,581,AvgDialog,Content,,黑色的身影挡在你和巨大的怪物之间，一只手爪穿透了主教的身躯，只差一点便触到你的面门。,"검은 형체가 당신과 거대한 괴물 사이에 막아섰다. 발톱 하나가 주교의 몸을 꿰뚫고, 당신의 얼굴에 닿기 직전에 멈췄다."
+AvgDialog_8239_Content_14,aqIp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,582,AvgDialog,Content,,石板轰然倒下，萦绕的蓝光闪烁着，几乎就要熄灭。,"석판이 우르르 무너지고, 주위를 맴돌던 푸른빛이 깜빡이며 거의 꺼질 듯했다."
+AvgDialog_8239_Content_15,aqIq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,583,AvgDialog,Content,,手爪抽出，喷涌的鲜血顷刻间在地上汇聚成一滩。萨尔瓦多晃了两下，终究是难以支撑，跪倒在地。,발톱이 뽑히자 뿜어져 나온 피가 순식간에 땅에 웅덩이를 이뤘다. 살바도르는 두어 번 비틀거리더니 결국 버티지 못하고 무릎을 꿇었다.
+AvgDialog_8239_Content_16,aqIr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,584,AvgDialog,Content,玩家,主教！,주교님!
+AvgDialog_8239_Content_17,aqIs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,585,AvgDialog,Content,萨尔瓦多,不用……忧心。,걱정... 마십시오.
+AvgDialog_8239_Content_18,aqIt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,586,AvgDialog,Content,,颤抖的手覆在你的手上，萨尔瓦多的声音微弱，你几乎听不清他的话语。,떨리는 손이 당신의 손을 덮었다. 살바도르의 목소리는 너무 미약해서 거의 들리지 않았다.
+AvgDialog_8239_Content_19,aqIu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,587,AvgDialog,Content,萨尔瓦多,结束这一切吧，%player%。,"이 모든 것을 끝내주십시오, %player%."
+AvgDialog_8239_Content_20,aqIw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,588,AvgDialog,Content,萨尔瓦多,以你苍白的火焰，将迷途的灵魂引向光明。,"당신의 창백한 불꽃으로, 길 잃은 영혼을 빛으로 인도해 주십시오."
+AvgDialog_38725_Content_1,aktD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,589,AvgDialog,Content,,暗淡的蓝光萦绕在你周围，将你浑身的疲惫与疼痛都一扫而空。,희미한 푸른빛이 당신 주위를 맴돌며 온몸의 피로와 고통을 씻어냈다.
+AvgDialog_38725_Content_2,aktE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,590,AvgDialog,Content,萨尔瓦多,父神将「赐福」降临于你。,아버지 신께서 당신에게 「축복」을 내리셨습니다.
+AvgDialog_38725_Content_3,aktF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,591,AvgDialog,Content,玩家,萨尔瓦多主教！,살바도르 주교님!
+AvgDialog_38725_Content_4,aktG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,592,AvgDialog,Content,萨尔瓦多,你是那苍白的使者，是驱散黑暗的火焰。,"당신은 그 창백한 사자이자, 어둠을 몰아내는 불꽃입니다."
+AvgDialog_38725_Content_5,aktH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,593,AvgDialog,Content,萨尔瓦多,你将终结这一切苦难，而我将予以你一切帮助。,"당신이 이 모든 고난을 끝낼 것이며, 저는 당신에게 모든 도움을 드릴 것입니다."
+AvgDialog_8254_Content_1,aqIY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,594,AvgDialog,Content,,奥吉尔用力一掷，长枪钉在了银镜之上。,"오지에는 힘껏 창을 던졌고, 창은 은거울에 박혔다."
+AvgDialog_8254_Content_2,aqJj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,595,AvgDialog,Content,,银镜的碎片如坠落的星辰，随之彻底瓦解的，是天上遍布裂痕的鲜红月亮。,"은거울의 파편이 떨어지는 별처럼 흩어지고, 하늘에 가득했던 균열투성이의 핏빛 달도 함께 무너져 내렸다."
+AvgDialog_8254_Content_3,aqJu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,596,AvgDialog,Content,,一声悲戚的尖叫后，怪物倒在了地上。庞大的身躯迅速溶解成一滩深色的血液，只留下一个匍匐在地的人形。,"비통한 비명과 함께 괴물이 땅에 쓰러졌다. 거대한 몸은 빠르게 녹아 짙은 핏물 웅덩이로 변했고, 땅에 엎드린 인간의 형체만 남았다."
+AvgDialog_8254_Content_4,aqJF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,597,AvgDialog,Content,,"血月散去，阳光重新洒向地面，将那个躺在血泊中的人照亮。
+索菲亚呆呆地望着天空，嘴里仍在低语。",핏빛 달이 사라지고 햇빛이 다시 땅에 쏟아져 핏물 속에 누워 있는 사람을 비췄다. 소피아는 멍하니 하늘을 바라보며 계속 속삭였다.
+AvgDialog_8254_Content_5,aqJQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,598,AvgDialog,Content,索菲亚,"<Yellow:伊芙>女士……我辜负了你，辜负了<Yellow:持灯者>……
+我没能净化他们，没能净化罪恶……","<Yellow:이브> 님... 당신을 실망시켰어요, <Yellow:등불지기>를 실망시켰어요... 전 그들을 정화하지 못했어요, 죄악을 정화하지 못했어요..."
+AvgDialog_8254_Content_6,aqJV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,599,AvgDialog,Content,索菲亚,持灯者……纯银塑身之人……请你……,등불지기... 순은으로 빚어진 분이시여... 부디...
+AvgDialog_8254_Content_7,aqJW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,600,AvgDialog,Content,,她吸入一口气，然后，再也没能将它呼出来。,"그녀는 숨을 들이마신 채, 다시 내뱉지 못했다."
+AvgDialog_8254_Content_8,aqJX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,601,AvgDialog,Content,,整个广场一片狼藉——被怪物所伤的人躺在地上，不少已经失去生命，还有些正痛苦地呻吟着，不明白自己为什么会变成现在的模样。,"광장 전체가 아수라장이었다——괴물에게 다친 사람들이 땅에 누워 있었고, 많은 이들이 이미 목숨을 잃었으며, 또 다른 이들은 자신이 왜 이렇게 됐는지 이해하지 못한 채 고통스럽게 신음하고 있었다."
+AvgDialog_8254_Content_9,aqJY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,602,AvgDialog,Content,市民A,呃……我的头好痛……,으... 머리가 너무 아파...
+AvgDialog_8254_Content_10,aqIZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,603,AvgDialog,Content,市民B,这是哪里？我怎么……,여기가 어디지? 내가 왜...
+AvgDialog_8254_Content_11,aqJa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,604,AvgDialog,Content,市民C,主教阁下，那是主教阁下吗？他这是怎么了？,"주교님, 저분은 주교님 아니야? 대체 무슨 일이…"
+AvgDialog_8254_Content_12,aqJb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,605,AvgDialog,Content,萨尔瓦多,请……等……,기... 다리...
+AvgDialog_8254_Content_13,aqJc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,606,AvgDialog,Content,,蓝光不知何时彻底散去了。,푸른빛은 어느새 완전히 사라졌다.
+AvgDialog_8254_Content_14,aqJd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,607,AvgDialog,Content,,"萨尔瓦多跪在石板之间，还在试图维持着它们的运转。
+他朝你抬起头，白色的绷带下流出两行血泪。","살바도르는 석판들 사이에 무릎을 꿇고 여전히 그것들을 유지하려 애쓰고 있었다. 그는 당신을 향해 고개를 들었고, 하얀 붕대 아래로 두 줄기 피눈물이 흘러내렸다."
+AvgDialog_8254_Content_15,aqJe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,608,AvgDialog,Content,奥吉尔,主君，主教这是怎么了？,"주군, 주교님에게 무슨 일이 일어난 거죠?"
+AvgDialog_8254_Content_16,aqJf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,609,AvgDialog,Content,玩家,应该是链接者精神力不够，但这样严重的不稳……我从来没见过。,아마 링크 상대의 정신력이 부족해서일 거야. 하지만 이렇게 불안정한 상태는... 처음 봐.
+AvgDialog_8254_Content_17,aqJg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,610,AvgDialog,Content,萨尔瓦多,我的链接者……是……这里的前任主教……我不能……透支他……,저와 링크하신 분은… 이곳의... 전임 주교님... 그분을... 무리하게 할 수는...
+AvgDialog_8254_Content_18,aqJh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,611,AvgDialog,Content,萨尔瓦多,苍白的使者……请……请你……,창백한 사자여... 부디... 부디...
+AvgDialog_8254_Content_19,aqJi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,612,AvgDialog,Content,,"他颤抖着抬起手，轻轻覆在你的肩上。
+但你已经几乎感觉不到他的重量了。",그는 떨리는 손을 들어 당신의 어깨에 가볍게 얹었다. 하지만 당신은 이미 그의 무게를 거의 느낄 수 없었다.
+AvgDialog_8254_Content_20,aqJk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,613,AvgDialog,Content,,他在迅速消散，除非——,"그는 빠르게 사라지고 있었다, 만약——"
+AvgDialog_8254_Content_21,aqJl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,614,AvgDialog,Content,,你握住萨尔瓦多的手，闭上了眼睛。,당신은 살바도르의 손을 잡고 눈을 감았다.
+AvgDialog_8254_Content_22,aqJm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,615,AvgDialog,Content,,"黑暗。
+黑暗如此安详，像一个怀抱，又像一场深眠。","어둠. 어둠은 품처럼, 깊은 잠처럼 평온했다."
+AvgDialog_8254_Content_23,aqJn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,616,AvgDialog,Content,,纷繁的光点在你的意识中浮现：慌乱的是周围的市民，坚定的是奥吉尔。,"다양한 빛의 점들이 당신의 의식 속에 떠올랐다. 허둥대는 시민들, 굳건한 오지에."
+AvgDialog_8254_Content_24,aqJo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,617,AvgDialog,Content,,还有一个散发着浅淡的、几乎看不见的蓝光的，正是你先前看到的第二个星星——也正是萨尔瓦多。,"그리고 옅고 거의 보이지 않는 푸른빛을 발하는, 당신이 아까 봤던 두 번째 별——살바도르가 있었다."
+AvgDialog_8254_Content_25,aqJp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,618,AvgDialog,Content,,你向它靠近，听到朦胧的交谈声。,"당신은 그에게 다가갔고, 희미한 대화 소리가 들렸다."
+AvgDialog_8254_Content_26,aqJq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,619,AvgDialog,Content,索菲亚,我家族一直致力于消除苦难，传播父神的恩泽，为什么却沦落到这个地步？,"우리 가문은 줄곧 고난을 없애고 아버지 하느님의 은총을 전파하는 데 힘썼는데, 왜 이런 지경에 이르게 된 걸까요?"
+AvgDialog_8254_Content_27,aqJr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,620,AvgDialog,Content,索菲亚,闭嘴！不准你这样污蔑我父亲，他不是那样的人！不是！,"닥쳐! 감히 우리 아버지를 모욕하지 마, 그분은 그런 사람이 아니야! 아니라고!"
+AvgDialog_8254_Content_28,aqJs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,621,AvgDialog,Content,索菲亚,主教阁下，为什么世界总是充满苦难？,"주교님, 왜 세상은 항상 고난으로 가득 차 있는 거죠?"
+AvgDialog_8254_Content_29,aqJt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,622,AvgDialog,Content,索菲亚,如果世上没有罪人，是不是……像我姐姐、我母亲那样的人，就不会再受他人所害？,만약 세상에 죄인이 없다면... 제 언니나 어머니 같은 사람들은 더 이상 다른 사람에게 해를 입지 않게 될까요?
+AvgDialog_8254_Content_30,aqJv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,623,AvgDialog,Content,索菲亚,是不是就能摆脱苦难，永远快乐地生活？,고난에서 벗어나 영원히 행복하게 살 수 있을까요?
+AvgDialog_8254_Content_31,aqJw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,624,AvgDialog,Content,萨尔瓦多,这是我的责任。,이것은 제 책임입니다.
+AvgDialog_8254_Content_32,aqJx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,625,AvgDialog,Content,,萨尔瓦多的影浮现在了你的身旁。,살바도르의 그림자가 당신 곁에 나타났다.
+AvgDialog_8254_Content_33,aqJy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,626,AvgDialog,Content,,回忆在你们面前不断切换，他看上去没什么表情，你却能感受到一丝哀伤。,"과거의 기억들이 당신들 앞에서 계속해서 바뀌었다. 그는 아무런 표정을 짓지 않았지만, 당신은 약간의 슬픔을 느낄 수 있었다."
+AvgDialog_8254_Content_34,aqJz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,627,AvgDialog,Content,萨尔瓦多,我一直知道的，她心中始终怀有怨恨。我以为她会放下，结果却只是放任了恨意的滋长。,"줄곧 알고 있었습니다. 그녀의 마음속에는 항상 원한이 있었죠. 저는 그녀가 내려놓을 거라 생각했지만, 결국 증오가 자라나는 것을 방치했을 뿐입니다."
+AvgDialog_8254_Content_35,aqJA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,628,AvgDialog,Content,索菲亚,"他说那天是你救了他，是这样吗，萨尔瓦多主教？可是为什么？
+他做了那么多坏事，骗了那么多人，你为什么还要帮助他？","그가 그날 당신이 자신을 구해줬다고 하던데, 사실인가요, 살바도르 주교님? 하지만 어째서죠? 그는 그렇게 많은 나쁜 짓을 하고, 그렇게 많은 사람을 속였는데, 왜 그를 도운 건가요?"
+AvgDialog_8254_Content_36,aqJB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,629,AvgDialog,Content,索菲亚,第二次机会？谁能给我家第二次机会，谁能给我姐姐，我母亲第二次机会？,"두 번째 기회? 우리 가족에게는 누가 두 번째 기회를 주죠? 제 언니, 제 어머니에게는 누가 두 번째 기회를 주나요?"
+AvgDialog_8254_Content_37,aqJC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,630,AvgDialog,Content,索菲亚,她们死了，萨尔瓦多主教，她们回归父神的怀抱，只剩下我……,"엄마도, 언니도 죽었어요, 살바도르 주교님. 모두 아버지 신의 품으로 돌아갔고, 저만 남았어요..."
+AvgDialog_8254_Content_38,aqJD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,631,AvgDialog,Content,索菲亚,只剩下我……,저만 남았어요...
+AvgDialog_8254_Content_39,aqJE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,632,AvgDialog,Content,萨尔瓦多,父神垂怜，让我重新获得一次生命。我应当做得更好，现在却重蹈覆辙。,"아버지 신께서 자비를 베푸시어 제게 다시 한번 생명을 주셨습니다. 한 번 더 기회를 받았음에도, 같은 실수를 반복하고 말았군요."
+AvgDialog_8254_Content_40,aqJG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,633,AvgDialog,Content,于丽埃特？,那些窃贼、赌徒、瘾君子，他们到你这里来寻求的根本不是宽恕和机会，而是自我安慰！一个能继续作恶的借口！,"도둑, 도박꾼, 중독자들, 그들이 당신에게 와서 구하는 건 용서와 기회가 아니라 자기 위안일 뿐이야! 계속 악행을 저지를 수 있는 변명거리라고!"
+AvgDialog_8254_Content_41,aqJH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,634,AvgDialog,Content,于丽埃特？,罪人不知悔改，不会悔改。无尽的宽容只会让善者心寒，恶者猖狂。,"죄인은 뉘우칠 줄 모르고, 뉘우치지도 않아. 끝없는 관용은 선한 자의 마음을 차갑게 하고 악한 자를 날뛰게 할 뿐이야."
+AvgDialog_8254_Content_42,aqJI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,635,AvgDialog,Content,于丽埃特？,这样下去，你谁也救不了。,이대로 가다간 당신은 아무도 구하지 못해.
+AvgDialog_8254_Content_43,aqJJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,636,AvgDialog,Content,萨尔瓦多,"我宽恕他们，给予他们慰藉，正如我宽恕所有人，给予所有人慰藉。
+我们都享有父神的爱，同时具有行差踏错与回归正途的资格。","제가 그들을 용서하고 위로하는 것은, 모든 사람을 용서하고 위로하는 것과 같습니다. 우리는 모두 아버지 신의 사랑을 누리며, 동시에 잘못을 저지를 수도, 올바른 길로 돌아올 수도 있는 자격이 있습니다."
+AvgDialog_8254_Content_44,aqJK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,637,AvgDialog,Content,萨尔瓦多,苦是父神不愿意看到的，苦是父神希望消解的，也是我作为祂的代行者应当消解的。,"고난은 아버지 신께서 원치 않으시는 것이고, 없애고 싶어 하시는 것이며, 그분의 대리인으로서 제가 없애야 하는 것입니다."
+AvgDialog_8254_Content_45,aqJL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,638,AvgDialog,Content,萨尔瓦多,我造成的苦难，必须由我亲自弥补。,제가 초래한 고난은 제가 직접 수습해야 합니다.
+AvgDialog_8254_Content_46,aqJM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,639,AvgDialog,Content,,他伸出手轻轻一拂，泛黄的回忆泛着水一般的波纹缓缓消散，重新聚拢成象征他精神的光点。,"그는 손을 들어 가볍게 쓸어 넘겼고, 빛바랜 기억은 물결처럼 흔들리며 천천히 사라졌다가, 다시 그의 정신을 상징하는 빛의 점으로 모여들었다."
+AvgDialog_8254_Content_47,aqJN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,640,AvgDialog,Content,,他转向你，将捧着的光点递到你的面前。,"그는 당신을 향해 돌아섰고, 품고 있던 빛의 점을 당신 앞에 내밀었다."
+AvgDialog_8254_Content_48,aqJO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,641,AvgDialog,Content,萨尔瓦多,"请你帮助我，苍白的使者。
+帮我消除他们身上的苦，让他们能够安然地走完剩下的路。","저를 도와주십시오, 창백한 사자여. 그들의 고난을 없애고, 남은 길을 평안히 걸어갈 수 있도록 도와주십시오."
+AvgDialog_8254_Content_49,aqJP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,642,AvgDialog,Content,,接过光点,빛을 받아든다
+AvgDialog_8254_Content_50,aqJR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,643,AvgDialog,Content,,蓝色的光在你面前如蛛丝一般摇摆，一头链接着一个年迈但温和的精神，另一头则深入你面前的光点之中。,"푸른빛이 당신 앞에서 거미줄처럼 흔들렸다. 한쪽 끝은 나이 들었지만 온화한 정신과 연결되어 있었고, 다른 쪽 끝은 당신 앞의 빛의 점 깊숙이 파고들고 있었다."
+AvgDialog_8254_Content_51,aqJS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,644,AvgDialog,Content,,你小心地将细线截断，用属于你自己的颜色将它浸染。,"당신은 조심스럽게 가는 실을 잘라내고, 당신 자신의 색으로 그것을 물들였다."
+AvgDialog_8254_Content_52,aqJT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,645,AvgDialog,Content,,白色顺着丝线一路向内，向内，光斑亮起，慢慢地驱散黑暗。,"하얀색이 실을 따라 안으로, 안으로 흘러 들어갔다. 빛의 점이 밝아지며 천천히 어둠을 몰아냈다."
+AvgDialog_8254_Content_53,aqJU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,646,AvgDialog,Content,萨尔瓦多,谢谢你。,감사합니다.
+AvgDialog_38729_Content_1,akuD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,647,AvgDialog,Content,,燃起白色的希望,하얀 희망을 밝혀라
+AvgDialog_38729_Content_2,akuV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,648,AvgDialog,Content,,石板再次升起。,석판이 다시 솟아올랐다.
+AvgDialog_38729_Content_4,akvr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,650,AvgDialog,Content,,萨尔瓦多抬起手，血液从他身上、从他四周源源不断地流向石板。蓝光再次沿着纹路流转，一明一暗，宛如呼吸。,"살바도르가 손을 들자, 그의 몸과 주변에서 피가 끊임없이 석판으로 흘러 들어갔다. 푸른빛이 다시 문양을 따라 흐르며, 숨 쉬듯 밝아졌다 어두워졌다."
+AvgDialog_38729_Content_5,akvC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,651,AvgDialog,Content,萨尔瓦多,创生的父神，仁慈的造主，请聆听我的祈求。,"창조주이신 아버지, 자비로우신 주여, 저의 기도를 들어주소서."
+AvgDialog_38729_Content_6,akvN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,652,AvgDialog,Content,,温润的蓝以石板为中心向四周伸出密匝的须根，它们穿过人群，驱散了残存的血腥味，留下淡淡的熏香气息。,"부드러운 푸른빛이 석판을 중심으로 사방으로 빽빽한 뿌리를 뻗어 나갔다. 그것들은 인파를 뚫고 지나가며 남아있던 피비린내를 없애고, 옅은 향 냄새를 남겼다."
+AvgDialog_38729_Content_7,akvY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,653,AvgDialog,Content,,站着的人们缓缓坐下。,서 있던 사람들이 천천히 주저앉았다.
+AvgDialog_38729_Content_8,akwj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,654,AvgDialog,Content,,坐着的那些张着嘴，呆呆地看着面前堪称神迹的一幕。,앉아 있던 사람들은 입을 벌리고 멍하니 눈앞의 기적 같은 광경을 바라보았다.
+AvgDialog_38729_Content_9,akwu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,655,AvgDialog,Content,,那些失去意识、甚至停止呼吸的，都在微风中缓缓睁开了眼。,의식을 잃거나 심지어 숨이 멎었던 사람들도 미풍 속에서 천천히 눈을 떴다.
+AvgDialog_38729_Content_10,akuE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,656,AvgDialog,Content,萨尔瓦多,请消去他们的伤痛，抚平他们的心。,"그들의 상처를 없애고, 마음을 어루만져 주소서."
+AvgDialog_38729_Content_11,akuM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,657,AvgDialog,Content,,人们的目光变得空茫，身体愈发放松。慌乱与恐惧一扫而空，取而代之的是舒缓和宁静。,"사람들의 시선이 공허해지고, 몸이 더욱 이완되었다. 혼란과 공포는 사라지고, 그 자리를 평온과 안정이 채웠다."
+AvgDialog_38729_Content_12,akuN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,658,AvgDialog,Content,萨尔瓦多,让他们不再受苦难折磨，并给予他们「赐福」。,"그들이 더는 고난에 시달리지 않도록 하고, 그들에게 「축복」을 내려주소서."
+AvgDialog_38729_Content_13,akuO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,659,AvgDialog,Content,,潮汐般的光向四周涌去，所有人都闭上了眼，像是沉浸在安宁之中。,"파도 같은 빛이 사방으로 퍼져나갔고, 모든 사람이 평온에 잠긴 듯 눈을 감았다."
+AvgDialog_38729_Content_14,akuP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,660,AvgDialog,Content,,暖阳俯瞰着一切，万事如常，唯有一团糟的广场证明着方才的癫狂。,"따스한 햇살이 모든 것을 내려다보았다. 모든 것이 평소와 같았고, 오직 엉망진창이 된 광장만이 방금 전의 광기를 증명하고 있었다."
+AvgDialog_38729_Content_15,akuQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,661,AvgDialog,Content,,"石板轻响，又化作看不见的虚影融进夜色。
+萨尔瓦多整了整衣衫，走到索菲亚身旁。",석판이 가볍게 소리를 내며 보이지 않는 환영으로 변해 밤의 어둠 속으로 녹아들었다. 살바도르는 옷을 정돈하고 소피아의 곁으로 걸어갔다.
+AvgDialog_38729_Content_16,akuR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,662,AvgDialog,Content,索菲亚,……你不该救我的。,...날 구하지 말았어야 했어요.
+AvgDialog_38729_Content_17,akuS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,663,AvgDialog,Content,萨尔瓦多,“凡是迷途知返的，都能回到我的怀抱”。,「길을 잃고 돌아온 자는 모두 나의 품으로 돌아올 수 있으리라」.
+AvgDialog_38729_Content_18,akuT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,664,AvgDialog,Content,索菲亚,"“因为你们皆是我的子，而我爱着你们所有”。
+但你错了，主教，《圣典》也错了。","「너희는 모두 나의 자녀이며, 나는 너희 모두를 사랑하기 때문이니라」. 하지만 당신은 틀렸어요, 주교님. 《성전》도 틀렸고요."
+AvgDialog_38729_Content_19,akuU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,665,AvgDialog,Content,索菲亚,有的人是永远也不会变的。,영원히 변하지 않는 사람도 있어요.
+AvgDialog_38729_Content_20,akuW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,666,AvgDialog,Content,索菲亚,你来干什么？,무슨 일로 왔어?
+AvgDialog_38729_Content_21,akuX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,667,AvgDialog,Content,爱德华,索菲亚，我——,"소피아, 나는——"
+AvgDialog_38729_Content_22,akuY,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,668,AvgDialog,Content,索菲亚,闭嘴！害死我姐姐和妈妈还不够，你还要来她们坟前耀武扬威吗？！,"닥쳐! 내 언니와 엄마를 죽인 것도 모자라서, 이제 그녀들의 무덤 앞에서 위세라도 부리러 온 거야?!"
+AvgDialog_38729_Content_23,akuZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,669,AvgDialog,Content,爱德华,我是来道歉的，我没想到……,"사과하러 왔어, 정말 몰랐어..."
+AvgDialog_38729_Content_24,akva,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,670,AvgDialog,Content,,索菲亚尖刻地笑了。,소피아는 날카롭게 웃었다.
+AvgDialog_38729_Content_25,akvb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,671,AvgDialog,Content,索菲亚,你也是这样和<Blue:汤普森>道歉的吗，在害死他唯一的亲人，害死<Blue:米莉>之后？,"<Blue:톰슨>에게도 그렇게 사과했니? 그의 유일한 가족인, <Blue:밀리>를 죽이고 나서?"
+AvgDialog_38729_Content_26,akvc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,672,AvgDialog,Content,索菲亚,你让我恶心，爱德华·贝利。,"역겨워, 에드워드 베일리."
+AvgDialog_38729_Content_27,akvd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,673,AvgDialog,Content,爱德华,我是真的后悔了，索菲亚。我知道我无法获得你的宽恕——,"정말 후회하고 있어, 소피아. 네 용서를 받을 수 없다는 건 알아——"
+AvgDialog_38729_Content_28,akve,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,674,AvgDialog,Content,索菲亚,如果你真的后悔，汤普森杀你那天你就不该去找萨尔瓦多主教。,"정말 후회했다면, 톰슨이 널 죽이려던 날 살바도르 주교님을 찾아가지 말았어야지."
+AvgDialog_38729_Content_29,akvf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,675,AvgDialog,Content,索菲亚,没错，我知道你是怎么活下来的，你这个懦夫。<Yellow:提灯>告诉我了。,"그래, 네가 어떻게 살아남았는지 알아, 이 겁쟁이야. <Yellow:등불>이 내게 말해줬어."
+AvgDialog_38729_Content_30,akvh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,676,AvgDialog,Content,索菲亚,给你「<Yellow:赐福>」是主教最愚蠢的决定。你就该死，贝利，受尽折磨而死。,"너에게 「<Yellow:축복>」을 내린 건 주교님의 가장 어리석은 결정이었어. 넌 죽었어야 해, 베일리. 고통스럽게 죽었어야 한다고."
+AvgDialog_38729_Content_31,akvi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,677,AvgDialog,Content,爱德华,我也不想这样的，我试过控制自己，我试过的！在主教救了我之后我每天都回去圣堂报到，我每周都到你家的济贫院去做义工，你还记得吗？,"나도 이러고 싶지 않았어, 나도 나 자신을 통제하려고 노력했어! 주교님이 날 구해준 후에 매일 성당에 갔고, 매주 너희 집 구빈원에 가서 봉사했잖아, 기억나?"
+AvgDialog_38729_Content_32,akvj,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,678,AvgDialog,Content,爱德华,我想变好，我真的想。是那个亚格罗的家伙，是他说这是个万无一失的生意，要我引荐一个担保人。我也是受害者啊！,"좋은 사람이 되고 싶었어, 정말이야. 그 아글로 녀석, 그 녀석이 이건 절대 실패하지 않을 사업이라며 보증인을 소개해달라고 했어. 나도 피해자라고!"
+AvgDialog_38729_Content_33,akvk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,679,AvgDialog,Content,索菲亚,到现在你还在推卸责任，到现在……你都没有真正悔过。,아직도 피해자인 척… 여전히 넌 진정으로 뉘우친 적이 없어.
+AvgDialog_38729_Content_34,akvl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,680,AvgDialog,Content,,她从裙子的内袋里拿出了一个银白的物件，光滑的表面在阳光下微微一闪，将反射的阳光染成了不祥的鲜红。,그녀는 치마 안주머니에서 은백색의 물건을 꺼냈다. 매끄러운 표면이 햇빛 아래서 살짝 반짝이며 반사된 빛을 불길한 핏빛으로 물들였다.
+AvgDialog_38729_Content_35,akvm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,681,AvgDialog,Content,爱德华,索菲亚……？,소피아...?
+AvgDialog_38729_Content_36,akvn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,682,AvgDialog,Content,持镜索菲亚,忏悔吧。,참회하라.
+AvgDialog_38729_Content_37,akvo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,683,AvgDialog,Content,持镜索菲亚,"听从正义的持灯者的教诲，将你灵魂中的罪恶净化。
+只有这样，才可能获得宽恕。","정의로운 등불지기의 가르침을 따라, 네 영혼 속의 죄악을 정화하라. 오직 그래야만 용서를 받을 수 있으리라."
+AvgDialog_38729_Content_38,akvp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,684,AvgDialog,Content,持镜索菲亚,你是什么？,너는 무엇이냐?
+AvgDialog_38729_Content_39,akvq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,685,AvgDialog,Content,爱德华,我……我是爱德华……,나... 나는 에드워드...
+AvgDialog_38729_Content_40,akvs,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,686,AvgDialog,Content,,"镜子一闪，跪在地上的年轻人眼神再度迷茫。
+他颤抖着举起手上的棍子，重重砸到自己身上。","거울이 반짝이자, 땅에 무릎 꿇고 있던 젊은이의 눈빛이 다시 흐려졌다. 그는 떨리는 손으로 몽둥이를 들어 자신의 몸을 세게 내리쳤다."
+AvgDialog_38729_Content_41,akvt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,687,AvgDialog,Content,持镜索菲亚,我再问一次，你是什么？,"다시 묻겠다, 너는 무엇이냐?"
+AvgDialog_38729_Content_42,akvu,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,688,AvgDialog,Content,爱德华,我是罪人。,나는 죄 지은 자요.
+AvgDialog_38729_Content_43,akvv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,689,AvgDialog,Content,持镜索菲亚,你犯下了什么罪过？,네 죄는 무엇이냐?
+AvgDialog_38729_Content_44,akvw,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,690,AvgDialog,Content,爱德华,我贪婪成性，我放纵欲望，我任由恶魔污染我的灵魂，然后将痛苦带给无辜之人。,"강욕에 물들어 탐욕을 방종하며, 악마와 혼을 섞고, 사욕을 위해 무고한 이를 고통받게 했사옵고…"
+AvgDialog_38729_Content_45,akvx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,691,AvgDialog,Content,持镜索菲亚,你应该怎么做？,그렇다면 어찌해야 하느냐?
+AvgDialog_38729_Content_46,akvy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,692,AvgDialog,Content,爱德华,"我应当向我所害的人忏悔，我应当向神明忏悔。
+我应当受鞭笞之刑，应当流血直到黑色的罪恶流出，以获得<Red:净化>。","내 죄로 하여금 피 흘린 이에게 용서를 구걸하며, 속죄하며, 헌신하며, 채찍으로 아버지께 회개를 맹세하며 내 안의 더러운 죄를 토해내 스스로를 <Red:정화>하며..."
+AvgDialog_38729_Content_47,akvz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,693,AvgDialog,Content,爱德华,审判将至，唯有纯净的灵魂得以进入无罪的净土。,"심판의 날이 도래하리니, 오직 순결한 이만이 낙원에 이르리라."
+AvgDialog_38729_Content_48,akvA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,694,AvgDialog,Content,索菲亚&爱德华,<Red:愿提灯长明>。,<Red:등불이 영원히 빛나기를>.
+AvgDialog_38729_Content_49,akvB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,695,AvgDialog,Content,索菲亚,就像你，即便经历了两次人生，你依旧犯下了一样的过错。,"두 번의 기회가 있어도, 같은 잘못을 저지르는 사람은 있기 마련이죠. 당신처럼요."
+AvgDialog_38729_Content_50,akvD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,696,AvgDialog,Content,萨尔瓦多,……你是如何知道的？,...어떻게 아셨죠?
+AvgDialog_38729_Content_51,akvE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,697,AvgDialog,Content,索菲亚,"这重要吗？
+你的傲慢之罪如此深重，主教，你的灵魂一定无比肮脏。","그게 중요한가요? 당신의 오만의 죄는 너무나 깊어요, 주교님. 당신의 영혼은 분명 더러울 거야."
+AvgDialog_38729_Content_52,akvF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,698,AvgDialog,Content,索菲亚,告诉我，罪人，你为什么不像你所宣教的那样忏悔自己的罪恶？,"말씀해보세요. 그토록 회개하고, 반성하라 말하면서도 왜 스스로 죄를 뉘우치려 하질 않나요?"
+AvgDialog_38729_Content_53,akvG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,699,AvgDialog,Content,萨尔瓦多,……因为那不是罪。,...그것은 죄가 아니기 때문입니다.
+AvgDialog_38729_Content_54,akvH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,700,AvgDialog,Content,萨尔瓦多,父神的造物永远留有祂的光亮，每个人都有可能被蒙蔽，同样的，每个人都可能会重新发现父神的光。,"아버지 신의 창조물은 언제나 그분의 빛을 간직하고 있습니다. 누구나 눈이 멀 수 있고, 마찬가지로 누구나 다시 아버지 신님의 빛을 발견할 수 있습니다."
+AvgDialog_38729_Content_55,akvI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,701,AvgDialog,Content,萨尔瓦多,我们不能因为一个人一时的行为就剥夺他的全部人生。,"그렇기에 저희는 한 때의 실수를 이유로, 그의 삶을 앗아갈 권리가 없습니다."
+AvgDialog_38729_Content_56,akvJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,702,AvgDialog,Content,索菲亚,你这样说，却完全没有想过那些为他们所害的人。,"그렇게 말하면서, 그들 때문에 해를 입은 사람들은 전혀 생각하지 않는군요."
+AvgDialog_38729_Content_57,akvK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,703,AvgDialog,Content,索菲亚,在那些爱德华们找回光亮的时候，又有多少个米莉需要为此牺牲？多少个奥利维亚？,"에드워드 같은 자들이 빛을 되찾을 때, 얼마나 많은 밀리가 희생되어야 하죠? 얼마나 많은 올리비아가?"
+AvgDialog_38729_Content_58,akvL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,704,AvgDialog,Content,索菲亚,罪就是罪，错就是错，一旦犯下就没有回头。,"죄는 죄이고, 잘못은 잘못이에요. 한번 저지르면 돌이킬 수 없어요."
+AvgDialog_38729_Content_59,akvM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,705,AvgDialog,Content,,她看向你们。,그녀는 당신을 바라보았다.
+AvgDialog_38729_Content_60,akvO,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,706,AvgDialog,Content,索菲亚,带我走吧，把我扔给你们腐败的法律。但记住，审判之日终将降临。,"날 데려가, 너희의 썩어빠진 법에 넘겨버려. 하지만 기억해, 심판의 날은 반드시 올 거야."
+AvgDialog_38729_Content_61,akvP,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,707,AvgDialog,Content,索菲亚,届时，你们都将被无罪的净土驱逐。,"그때가 되면, 너희 모두 죄 없는 낙원에서 쫓겨날 테니."
+AvgDialog_38729_Content_62,akvQ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,708,AvgDialog,Content,审查会探员,特殊物件已经收容完毕了，守密人。受影响的平民也已经安排到各大医院中，检查无事后便能离开。,"특수 물품은 수용 완료했습니다, 수호자님. 영향을 받은 민간인들도 각 병원으로 이송했으며, 검사 후 이상이 없으면 퇴원할 수 있을 겁니다."
+AvgDialog_38729_Content_63,akvR,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,709,AvgDialog,Content,审查会探员,官方说法是，这是一次工厂有毒气体泄漏导致的群体致幻事件，市政府明天就会公开道歉，并对相关人员做出处分。,"공식 발표는 공장 유독 가스 누출로 인한 집단 환각 사건으로, 시 정부에서 내일 공개 사과하고 관련자들을 처분할 예정입니다."
+AvgDialog_38729_Content_64,akvS,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,710,AvgDialog,Content,玩家,我知道了，辛苦你们了。,"알겠습니다, 수고 많으셨습니다."
+AvgDialog_38729_Content_65,akvT,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,711,AvgDialog,Content,审查会探员,这都是我们应该做的。,마땅히 해야 할 일을 했을 뿐입니다.
+AvgDialog_38729_Content_66,akvU,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,712,AvgDialog,Content,,穿着制服的年轻男子踟蹰了一下，又说：,제복을 입은 젊은 남자는 잠시 머뭇거리더니 다시 말했다.
+AvgDialog_38729_Content_67,akvV,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,713,AvgDialog,Content,审查会探员,你是怎么做到的？,어떻게 하신 겁니까?
+AvgDialog_38729_Content_68,akvW,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,714,AvgDialog,Content,玩家,什么？,뭐가요?
+AvgDialog_38729_Content_69,akvX,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,715,AvgDialog,Content,审查会探员,当时情况非常混乱，你却仅靠自己和一个唤醒体，就将伤亡控制到只有十数，这几乎是一个奇迹。,"당시 상황은 매우 혼란스러웠는데, 당신은 혼자서 각성체 한 명과 함께 사상자를 단 수십 명으로 통제했습니다. 이건 거의 기적에 가깝습니다."
+AvgDialog_38729_Content_70,akvZ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,716,AvgDialog,Content,,你和奥吉尔悄悄对视一眼，小骑士双手背在身后，轻轻咳嗽了两声。,당신과 오지에는 몰래 눈을 마주쳤다. 어린 기사는 두 손을 등 뒤로 하고 가볍게 헛기침을 두 번 했다.
+AvgDialog_38729_Content_71,akwa,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,717,AvgDialog,Content,奥吉尔,这大概就是我和主君的默契吧。,저와 주군의 신뢰의 성과라고 할 수 있겠죠.
+AvgDialog_38729_Content_72,akwb,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,718,AvgDialog,Content,审查会探员,"无论如何，我仅代表审查会第一响应队向你表示感谢。
+危机之中你没有放弃我们的人，让他们得以安全回家。而且……","어쨌든, 심사회 제1대응팀을 대표하여 감사를 표합니다. 위기 속에서 저희 팀원들을 포기하지 않고 무사히 집으로 돌려보내 주셨습니다. 그리고..."
+AvgDialog_38729_Content_73,akwc,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,719,AvgDialog,Content,审查会探员,"我们中有不少人是在这里长大的，圣堂区对我们意义重大。
+非常感谢你所做的一切。",저희 중 많은 이들이 여기서 자랐습니다. 성당 구역은 저희에게 큰 의미가 있습니다. 당신이 하신 모든 일에 진심으로 감사드립니다.
+AvgDialog_38729_Content_74,akwd,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,720,AvgDialog,Content,,那是我们应该做的。,마땅히 해야 할 일을 했을 뿐이죠.
+AvgDialog_38729_Content_75,akwe,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,721,AvgDialog,Content,,道谢永远不嫌多。,감사는 아무리 해도 지나치지 않죠.
+AvgDialog_38729_Content_76,akwf,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,722,AvgDialog,Content,奥吉尔,索菲亚小姐……她接下来会怎么样？,소피아 양... 그녀는 앞으로 어떻게 되나요?
+AvgDialog_38729_Content_77,akwg,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,723,AvgDialog,Content,审查会探员,审问，等我们搞清楚那个特殊物件是哪里来的之后，我们会对她进行判决。,"심문 후, 그 특수한 물품의 출처를 파악하고 판결을 내릴 겁니다."
+AvgDialog_38729_Content_78,akwh,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,724,AvgDialog,Content,审查会探员,执行异端仪式造成大范围混乱，数人死伤……主教希望她不会被判死刑，但我并不乐观。,"이단 의식을 집행하여 광범위한 혼란과 다수의 사상자를 낸 죄... 주교님은 사형만은 면하길 바라시지만, 저는 비관적입니다."
+AvgDialog_38729_Content_79,akwi,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,725,AvgDialog,Content,审查会探员,等待她的，不会是什么好的结果。,"그녀를 기다리는 건, 좋은 결과가 아닐 겁니다."
+AvgDialog_38729_Content_80,akwk,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,726,AvgDialog,Content,玩家,萨尔瓦多主教。,살바도르 주교님.
+AvgDialog_38729_Content_81,akwl,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,727,AvgDialog,Content,萨尔瓦多,你们要离开了？,이제 떠나시는 겁니까?
+AvgDialog_38729_Content_82,akwm,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,728,AvgDialog,Content,玩家,是的，这次的事件非常感谢你的帮助。,"네, 이번 사건에서는 정말 감사했습니다."
+AvgDialog_38729_Content_83,akwn,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,729,AvgDialog,Content,萨尔瓦多,事情因我而起，你们还为我隐瞒身份，该是我感谢你们才是。,"일이 저 때문에 시작됐고, 제 신분까지 숨겨주셨으니, 제가 감사드려야죠."
+AvgDialog_38729_Content_84,akwo,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,730,AvgDialog,Content,奥吉尔,你真的不跟我们回去吗？,정말 저희와 함께 돌아가지 않으실 건가요?
+AvgDialog_38729_Content_85,akwp,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,731,AvgDialog,Content,玩家,不用担心无法照顾教区，只要条件合适，我们是允许唤醒体在外自己活动的。,교구라면 걱정 않으셔도 돼요. 조건만 맞다면 각성체의 외부 활동에는 제약이 없거든요.
+AvgDialog_38729_Content_86,akwq,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,732,AvgDialog,Content,萨尔瓦多,谢谢你的好意，但，我还是更希望留在这里。,"호의는 감사하지만, 저는 여기에 남고 싶습니다."
+AvgDialog_38729_Content_87,akwr,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,733,AvgDialog,Content,萨尔瓦多,"父神让我复生于此，想必也是希望我帮助更多的人。
+如果你有需要，<Yellow:苍白之火>，可以随时来找我。我一定会为你竭尽全力。","아버지 신께서 저를 이곳에서 부활시키신 것은 더 많은 사람을 돕기를 바라셨기 때문일 겁니다. 필요하시다면, <Yellow:창백한 불꽃>이여, 언제든 저를 찾아오십시오. 전력을 다해 돕겠습니다."
+AvgDialog_38729_Content_88,akws,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,734,AvgDialog,Content,玩家,不好意思，但……请问<Yellow:苍白的使者>，还有<Yellow:苍白之火>，究竟是什么？,실례지만... <Yellow:창백한 사자>와 <Yellow:창백한 불꽃>은 대체 무엇인가요?
+AvgDialog_38729_Content_89,akwt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,735,AvgDialog,Content,萨尔瓦多,是《圣典》中父神的预言。,《성전》에 나오는 아버지 신의 예언입니다.
+AvgDialog_38729_Content_90,akwv,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,736,AvgDialog,Content,萨尔瓦多,“将有无边的黑暗降临世界，那个灵魂苍白温暖的即为希望的使者，%heorshe%将燃起白色的火焰，照亮前进的方向。”,"「무궁한 어둠이 창궐할 때, 창백하고 따뜻한 영혼을 가진 이가 정화의 불빛 아래 희망의 등불을 밝히리라.」"
+AvgDialog_38729_Content_91,akww,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,737,AvgDialog,Content,玩家,这也不一定是我吧？世上有那么多人呢。,꼭 저라고 할 수는 없지 않나요? 세상에는 사람이 아주 많은데요.
+AvgDialog_38729_Content_92,akwx,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,738,AvgDialog,Content,萨尔瓦多,"我虽蒙着双眼，却不会错认灵魂的光辉。
+你的是那样温暖，那样明亮，这么多年，我从未见过第二个。","비록 제 두 눈은 가려져 있지만, 영혼의 빛은 잘못 볼 리가 없습니다. 당신의 영혼은 그토록 따뜻하고 밝으니, 저는 그런 영혼을 본 적이 없습니다."
+AvgDialog_38729_Content_93,akwy,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,739,AvgDialog,Content,,年轻的守密人转身离去，萨尔瓦多目送着那点光亮，在门轴转动之时轻声祈祷。,"젊은 수호자는 몸을 돌려 떠났고, 살바도르는 그 빛이 사라지는 것을 지켜보다가 문이 닫힐 때 나지막이 기도했다."
+AvgDialog_38729_Content_94,akwz,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,740,AvgDialog,Content,萨尔瓦多,愿你以苍白的希望照亮黑暗。,당신의 창백한 희망으로 어둠을 밝히기를.
+AvgDialog_38729_Content_95,akwA,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,741,AvgDialog,Content,,"<Yellow:伦蒂尼恩圣堂区异常事件报告>
+
+A.F. 315 @2@3，伦蒂尼恩大圣堂区，父神济世大圣堂前广场突发暴乱。在场民众出现严重暴力行为与自残行径，无法正常沟通。
+……
+异常行为在不明光源闪烁后加剧，并演变为大范围的同类相食行为。经查，不明光源实为一把镜面纯银的手持镜。该镜通过反射阳光及月光获取能量，受到镜子反光照射的个体，将会受到内心最强的欲望的驱使，包括但不限于暴力、暴食、嗜睡等，进而做出过激行为。
+该镜子由守密人%player%及唤醒体奥吉尔回收，初步判定其中含有银芯或类银芯成分，详情请见弥萨格大学特殊用具研究部出具的研究报告。
+……","<Yellow:론디니움 성당 구역 이상 사건 보고서>  \n\nA.F. 315년 @2@3, 론디니움 대성당 구역, 구세주 성부 대성당 앞 광장에서 폭동이 발발. 현장에 있던 시민들은 심각한 폭력 및 자해 행위를 보였으며, 정상적인 소통이 불가능했음. ... \n\n알 수 없는 광원이 점멸한 후 이상 행동이 심화되었고, 광범위한 식인 행위로까지 번짐. 조사 결과, 해당 광원은 순은 재질의 손거울으로 밝혀짐. 이 거울은 햇빛과 달빛을 반사하여 에너지를 얻으며, 거울에 반사된 빛에 노출된 개체는 내면의 가장 강한 욕망(폭력, 폭식, 기면 등)에 휩싸여 과격한 행동을 하게 됨. 해당 거울은 수호자 %player%와 각성체 오지에가 회수했으며, 은심 또는 은심 유사 성분이 포함된 것으로 잠정 판단됨. 자세한 내용은 미사그 대학 특수 도구 연구부의 연구 보고서 참조. ..."
+AvgDialog_38729_Content_96,akwB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,742,AvgDialog,Content,,"经由密斯底亚协定审查会审问，<Yellow:索菲亚·查兹坦>承认，自己于三年前加入了提灯教会，并在上一次教会活动上自教会首领提灯（即<Yellow:伊芙>女士）处获得仪式镜。
+当探员进一步询问时，索菲亚·查兹坦转而低声祈祷，不再给出任何回应。
+……","미스티아 협정 심사회의 심문 결과, <Yellow:소피아 차스테인>은 3년 전 등불 교회에 가입했으며, 지난 교회 활동에서 교회의 수장인 등불(<Yellow:이브> 님이라고 지칭)에게서 의식용 거울을 받았다고 자백함. 요원이 추가 심문을 진행하자, 소피아 차스테인은 낮은 목소리로 기도만 할 뿐, 더 이상의 답변을 거부함. ..."
+AvgDialog_38729_Content_97,akwC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,743,AvgDialog,Content,,夕阳驱散了空中残留的灰霾，教堂的钟敲响，河边的码头响起船只的汽笛声。,석양이 하늘에 남은 먼지를 걷어내었다 교회의 종이 울리자 강가의 부두에서는 배의 기적 소리가 울렸다.
+AvgDialog_38729_Content_98,akwD,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,744,AvgDialog,Content,,一幢高楼的房顶，一个披着斗篷的身影背对阳光孑然独立。,"고층 빌딩 옥상, 망토를 두른 형체가 햇빛을 등지고 홀로 서 있었다."
+AvgDialog_38729_Content_99,akwE,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,745,AvgDialog,Content,于丽埃特？,"即使投入了异变的罪人，也没有<Red:圣痕>出现。
+看来<Yellow:那面镜子>的价值也就这样了。",이변을 일으킨 죄인을 투입했음에도 <Red:성흔>은 나타나지 않았네. 아무래도 <Yellow:그 거울>의 가치는 이 정도인 모양이야.
+AvgDialog_38729_Content_100,akuF,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,746,AvgDialog,Content,于丽埃特？,给予罪人宽恕，赐予他们「赐福」……这么多年了，你还真是一点都没变啊，萨尔瓦多主教。,"죄인에게 용서를 베풀고, 그들에게 「축복」을 내리다니... 오랜 세월이 흘러도, 당신은 정말 변한 게 없군, 살바도르 주교."
+AvgDialog_38729_Content_101,akuG,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,747,AvgDialog,Content,于丽埃特？,火刑架无法改变你，死而复生也无法改变你。你要什么时候才能看清现实呢？或许——,"화형대도, 죽음에서의 부활도 당신을 바꾸지 못했어. 대체 언제쯤 현실을 직시할 거지? 아니면——"
+AvgDialog_38729_Content_102,akuH,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,748,AvgDialog,Content,,她的手遥遥在空中一点，仿佛隔空触摸着什么不可见的东西。,"그녀는 마치 보이지 않는 무언가를 만지는 듯, 허공에 손을 뻗었다."
+AvgDialog_38729_Content_103,akuI,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,749,AvgDialog,Content,于丽埃特？,"那个有着预言中苍白而又温暖的灵魂的<Yellow:守密人>，可以带来更多的变量。
+你说，%heorshe%会不会愿意加入我们呢？","예언에 나오는, 창백하고 따뜻한 영혼을 가진 그 <Yellow:수호자>가 더 많은 변수를 가져올 지도 모르지. 넌 {Male=그가,Female=그녀가} 우리 편이 될 것 같니?"
+AvgDialog_38729_Content_104,akuJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,750,AvgDialog,Content,,一条巨犬从女人身旁的阴影中浮现，那扭曲的肢体竟与异变的索菲亚有几分相似。听到女人的话后它打了个鼻息，似乎是在回应。,거대한 개 한 마리가 여인의 옆 그림자 속에서 나타났다. 그 뒤틀린 팔다리는 이변을 일으킨 소피아와 어딘가 닮아 있었다. 여인의 말을 들은 개는 코웃음을 치며 화답하는 듯했다.
+AvgDialog_38729_Content_105,akuK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,751,AvgDialog,Content,于丽埃特？,也是，明天总是新的一天。,"그래, 내일은 내일의 해가 뜨겠지."
+AvgDialog_38729_Content_106,akuL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,752,AvgDialog,Content,于丽埃特？,走吧，亲爱的。有机会的话，我们还会与他们相遇的。,"가자. 기회가 된다면, 다시 만나게 될 거야."
+AvgDialog_131225_Content_4,bQzM,avg星辰章5_AvgDialog_C_M.csv,968,AvgDialog,Content,,而此时，一栋金碧辉煌的别墅突兀地出现在两栋棚户房之间，像是被摆放在垃圾堆中的珠宝盒。,"그런데 지금, 마치 쓰레기 더미 속에 놓인 보석함처럼, 화려한 저택 한 채가 두 채의 판잣집 사이에 뜬금없이 나타났다."
 AvgDialog_131225_Content_7,bQzY,avg星辰章5_AvgDialog_C_M.csv,971,AvgDialog,Content,,你警惕地走上前去，本来想敲门，但当你手刚放在门上，门便悄无声息地打开。,"당신은 경계하며 다가가, 문을 두드리려 했지만, 손을 문에 대자마자 문이 소리 없이 열렸다."
 AvgDialog_131225_Content_8,bQzZ,avg星辰章5_AvgDialog_C_M.csv,972,AvgDialog,Content,阿拉克涅NF,看来，我们贴心的主人专门为我们留了门。,"아무래도, 집 주인이 친절하게도 일부러 문을 열어두신 모양이네요."
 AvgDialog_131225_Content_10,bQzg,avg星辰章5_AvgDialog_C_M.csv,974,AvgDialog,Content,,与你凭借经验构想出的空旷截然不同，这栋别墅的内部显得异常拥挤，涅芙蕾亚似乎铁了心要在她的剧本里乱写一气。,"경험을 바탕으로 상상했던 텅 빈 공간과는 달리, 저택의 내부는 유난히 비좁았다. 네프레아가 의도적으로 자신의 각본을 어지럽게 휘갈긴 것만 같았다."
@@ -217,12 +1052,10 @@ AvgDialog_131215_Content_113,bQml,avg星辰章5_AvgDialog_C_M.csv,1540,AvgDialog
 AvgDialog_131215_Content_117,bQmp,avg星辰章5_AvgDialog_C_M.csv,1544,AvgDialog,Content,涅芙蕾亚,职责，危难……你谈论着那宏伟的一切，唯独没有谈论过自己，阿拉克涅，我可怜的姐姐。不过没关系，你痛苦的职责，就要结束了。,"직책, 위난... 언니는 그 웅장한 모든 것을 이야기하지만, 오직 자신에 대해서는 이야기하지 않아, 아라크네, 나의 가엾은 언니. 하지만 괜찮아, 언니의 고통스러운 직책은, 곧 끝날 테니까."
 AvgDialog_131215_Content_120,bQmt,avg星辰章5_AvgDialog_C_M.csv,1547,AvgDialog,Content,涅芙蕾亚,我想了好久、好久。我想到了，亲爱的姐姐！这是我能送你的，最好的礼物——,"오랫동안, 오랫동안 생각했어. 생각해냈어, 사랑하는 언니! 이건 내가 언니에게 줄 수 있는, 최고의 선물이야——"
 AvgDialog_131215_Content_121,bQmu,avg星辰章5_AvgDialog_C_M.csv,1548,AvgDialog,Content,涅芙蕾亚,——<Red:解脱>。,——<Red:해방>.
-Stage_125647_Name,bNnt,g关卡_Stage_A.csv,374,Stage,Name,,重圆,재회
-Stage_125651_Name,bNnB,g关卡_Stage_A.csv,375,Stage,Name,,温柔的枷锁,부드러운 족쇄
-Stage_125648_Name,bNnv,g关卡_Stage_A.csv,376,Stage,Name,,判决,판결
-Stage_125654_Name,bNnH,g关卡_Stage_A.csv,377,Stage,Name,,剧中人,극중 인물
-Stage_125644_Name,bNnn,g关卡_Stage_A.csv,431,Stage,Name,,重圆,재회
-Stage_125657_Name,bNnN,g关卡_Stage_A.csv,432,Stage,Name,,温柔的枷锁,부드러운 족쇄
+AvgDialog_38844_Content_24,akyC,avg测试剧情_AvgDialog_C_M.csv,666,AvgDialog,Content,玩家,在他伤害到其他人前，先把他带到安全的地方吧。然后把警察叫来，让专业的人处理他。,"... 다른 사람에게 또 달려들면 안 되니, 일단 안전한 곳으로 데려가죠. 그런 다음에 경찰을 부르거나 해야겠습니다."
+AvgDialog_38843_Content_1,akxv,avg测试剧情_AvgDialog_C_M.csv,695,AvgDialog,Content,,将罪恶净化,죄악을 정화하라
+AvgDialog_38842_Content_1,akwX,avg测试剧情_AvgDialog_C_M.csv,738,AvgDialog,Content,,我们的过错,우리의 과오
+AvgDialog_38846_Content_1,akzR,avg测试剧情_AvgDialog_C_M.csv,811,AvgDialog,Content,,燃起白色的希望,하얀 희망을 밝혀라
 AvgDialog_23852_Content_1,aiKS,avg章5新_AvgDialog_C_M.csv,8,AvgDialog,Content,,风暴眼,폭풍의 눈
 AvgDialog_23852_Content_2,aiLW,avg章5新_AvgDialog_C_M.csv,9,AvgDialog,Content,？？？,守密人！别松开我的手！,수호자! 내 손을 놓지 마!
 AvgDialog_23852_Content_3,aiMh,avg章5新_AvgDialog_C_M.csv,10,AvgDialog,Content,,鼻尖充斥着煤炭燃尽后的苦臭，手套在须臾的相接后，一方被重力狠狠拉向深渊。,코끝이 다 타버린 석탄의 악취로 가득 찬다. 그 순간 장갑 한 쪽이 미끄러지더니 중력을 따라 심연으로 빨려 들어갔다.
@@ -1800,3 +2633,22 @@ AvgDialog_24092_Content_99,ajkH,avg章5新_AvgDialog_C_M.csv,1453,AvgDialog,Cont
 AvgDialog_24092_Content_100,ajiM,avg章5新_AvgDialog_C_M.csv,1454,AvgDialog,Content,,没走出两步，剧烈的到几乎要将船体撕碎的震动从脚底传来。,"두 걸음도 채 떼지 못했을 때, 선체를 찢을 듯한 격렬한 진동이 발밑에서 전해져 왔다."
 AvgDialog_24092_Content_101,ajiN,avg章5新_AvgDialog_C_M.csv,1455,AvgDialog,Content,,巨大的爆炸声中，火光冲天，灼热的空气将你狠狠掀翻在地。,"거대한 폭발음 속에서, 불길이 하늘로 치솟았고, 뜨거운 공기가 당신을 세차게 땅에 내동댕이쳤다."
 AvgDialog_24092_Content_102,ajiO,avg章5新_AvgDialog_C_M.csv,1456,AvgDialog,Content,,——意识再次断线前，最后映入眼中的，是掠过满月夜空的海鸟。,"——의식이 다시 끊기기 전, 마지막으로 눈에 들어온 것은, 보름달 밤하늘을 스쳐 지나가는 바닷새였다."
+Stage_125647_Name,bNnt,g关卡_Stage_A.csv,374,Stage,Name,,重圆,재회
+Stage_125651_Name,bNnB,g关卡_Stage_A.csv,375,Stage,Name,,温柔的枷锁,부드러운 족쇄
+Stage_125648_Name,bNnv,g关卡_Stage_A.csv,376,Stage,Name,,判决,판결
+Stage_125654_Name,bNnH,g关卡_Stage_A.csv,377,Stage,Name,,剧中人,극중 인물
+Stage_125644_Name,bNnn,g关卡_Stage_A.csv,431,Stage,Name,,重圆,재회
+Stage_125657_Name,bNnN,g关卡_Stage_A.csv,432,Stage,Name,,温柔的枷锁,부드러운 족쇄
+Stage_44553_Name,aSoL,g关卡_Stage_A.csv,1872,Stage,Name,,悔过,회개
+Stage_44554_Name,aSoO,g关卡_Stage_A.csv,1873,Stage,Name,,血腥的符号,피로 물든 상징
+Stage_44555_Name,aSoR,g关卡_Stage_A.csv,1874,Stage,Name,,因暴怒疯狂,분노와 광기
+Stage_44556_Name,aSoU,g关卡_Stage_A.csv,1875,Stage,Name,,为嫉妒杀戮,질투와 살육
+Stage_44557_Name,aSoX,g关卡_Stage_A.csv,1876,Stage,Name,,向倦怠妥协,나태와 굴복
+Stage_44558_Name,aSpa,g关卡_Stage_A.csv,1877,Stage,Name,,把饥肠填满,굶주림을 채워라
+Stage_44559_Name,aSpd,g关卡_Stage_A.csv,1878,Stage,Name,,将罪恶净化,죄악을 정화하라
+Stage_44551_Name,aSoF,g关卡_Stage_A.csv,1879,Stage,Name,,我们的过错,우리의 과오
+Stage_44552_Name,aSoI,g关卡_Stage_A.csv,1880,Stage,Name,,燃起白色的希望,하얀 희망을 밝혀라
+Stage_44561_Name,aSpj,g关卡_Stage_A.csv,1881,Stage,Name,,我们的过错,우리의 과오
+AvgDialog_8232_Content_3,aqFt,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,10,AvgDialog,Content,,"那持灯的预备了火焰，要将一切罪恶从世间驱逐。
+The Lightbearer hath prepared a fire to purge this world of all iniquity.",등불지기의 불꽃이 세상의 모든 사악을 몰아낼 것이니.
+AvgDialog_8240_Content_17,aqIM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,563,AvgDialog,Content,持镜索菲亚,那持灯的预备了火焰，要将一切罪恶从世间驱逐。,등불지기의 불꽃이 세상의 모든 사악을 몰아낼 것이니.
