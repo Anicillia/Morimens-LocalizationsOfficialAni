@@ -430,3 +430,12 @@ Event_125722_ChoiceDesc1,【聆听歌唱】获得25黑印，感染「(Skill.Arg2
 Event_125722_ChoiceDesc2,【放任不管】离开,【無視】離れる
 Event_125707_ChoiceDesc1,【聆听歌唱】获得20黑印，感染「(Skill.Arg2)」,【歌を聴く】20黒章を獲得し、「(Skill.Arg2)」に感染する。選択を続ける
 Event_125707_ChoiceDesc2,【放任不管】离开,【無視】離れる
+PanelText_UI_Main_Panel_1_Text_C_Mission_Content,学籍档案,任務手帳
+LanguageConfig_Main_Title_3_CN,学籍档案,任務手帳
+Event_118431_ChoiceDesc1,【获得100黑印】,【100黒章を獲得】
+Event_118479_ChoiceDesc3,【离开】获得50黑印,【離れる】50黒章を獲得する
+Event_118432_ChoiceDesc3,【无视老鼠】获得25黑印,【ネズミを無視】25黒章を獲得する
+Event_80612_ChoiceDesc3,【离开】获得25黑印,【離れる】25黒章を獲得する
+Event_125716_ChoiceDesc3,【浮出水面】获得25黑印,【水面に浮かび上がる】25黒章を獲得する
+Event_118422_ChoiceDesc3,【离开】获得 Arg1 黑印,【離れる】Arg1黒章を獲得する
+Event_125745_ChoiceDesc3,【离开】获得 Arg1 黑印,【離れる】Arg1黒章を獲得する
