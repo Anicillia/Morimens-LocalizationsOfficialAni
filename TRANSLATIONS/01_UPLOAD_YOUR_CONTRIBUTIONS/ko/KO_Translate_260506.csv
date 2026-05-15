@@ -117,7 +117,6 @@ AvgDialog_38727_Content_8,akuB,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv
 AvgDialog_38727_Content_9,akuC,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,93,AvgDialog,Content,玩家,这个“无罪的净土”，还有“净化”……好像不是《圣典》里的东西？,"""약속의 땅"", ""정화""... 마치 경전에서나 나올 법하지 않나요?"
 AvgDialog_38727_Content_10,aktJ,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,94,AvgDialog,Content,奥吉尔,确实，或许……是邪教？,"그렇다면... 혹시, 사교... 일까요?"
 AvgDialog_38727_Content_11,aktK,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,95,AvgDialog,Content,,无数画面在你脑海中浮现——手握匕首的少女，身穿黑纱的女人，拉伊疗养院深处永远不能开启的房间……,"수많은 기억이 머릿속을 스쳐간다, 단검을 든 소녀, 검은 베일의 여인, 요양원 너머의 열리지 않을 방..."
-AvgDialog_38727_Content_12,aktL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,96,AvgDialog,Content,,这世上究竟还有多少和<Yellow:蹈海者>与<Yellow:提灯教会>一样的组织，又有多少人要成为它们的牺牲品？,<Yellow:해양도약자>나 <Yellow:등불 교회>같은 조직이 얼마나 더 있는 걸까요? 또 얼마나 많은 피가 흘러야만 할까요...?
 AvgDialog_38727_Content_13,aktM,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,97,AvgDialog,Content,玩家,"主教阁下，请问爱德华有没有对你说过什么？
 其他宗教也好，古老信仰也好，哪怕是民俗传说也行。","주교님, 에드워드에게 따로 들으신 것은 없으신가요?\n 종교, 신앙, 구전설화... 이런 것들이요."
 AvgDialog_38727_Content_14,aktN,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,98,AvgDialog,Content,,萨尔瓦多放下手帕，他转向你，尽管双眼被蒙在纱布下，你仍然能感受到他的注视。,살바도르는 손수건을 내려놓고 당신을 바라보았다. 분명 눈은 천으로 가려져있음에도 당신을 또렷이 바라보는 것이 느껴진다.
@@ -1143,8 +1142,6 @@ AvgDialog_23852_Content_52,aiMG,avg章5新_AvgDialog_C_M.csv,59,AvgDialog,Conten
 AvgDialog_23852_Content_53,aiMH,avg章5新_AvgDialog_C_M.csv,60,AvgDialog,Content,,据说图鲁大部分时间都处于沉睡中，醒来的次数屈指可数。让他与调查员同行执行任务，更是天方夜谭。,"툴루는 대부분의 시간 동안 깊은 잠에 빠져있으며, 깨어나는 횟수는 손에 꼽을 정도라고 전해진다. 그런 그가 조사원과 함께 임무를 수행하는 것은 더더욱 말도 안 되는 이야기다."
 AvgDialog_23852_Content_54,aiMI,avg章5新_AvgDialog_C_M.csv,61,AvgDialog,Content,,但此时，你们被无形的<Yellow:链接>紧紧捆绑，图鲁如风暴般磅礴的灵知不断洗刷着你的精神领域。,"하지만 지금 이 순간 당신과 툴루는 보이지 않는 <Yellow:링크>에 의해 단단히 묶여있었으며, 폭풍처럼 웅장한 툴루의 영지가 끊임없이 당신의 정신 영역을 휩쓸고 있었다."
 AvgDialog_23852_Content_55,aiMJ,avg章5新_AvgDialog_C_M.csv,62,AvgDialog,Content,玩家,链接消失？不对…说到底，我和你的链接究竟是怎么回事？你又为什么会在校外？,링크가 사라졌어? 아냐… 애초에 너와 나의 링크는 도대체 어떻게 된 거지? 넌 또 왜 학교 밖에 있는 거고?
-AvgDialog_23852_Content_56,aiMK,avg章5新_AvgDialog_C_M.csv,63,AvgDialog,Content,图鲁,"愚问。现在不是你开玩笑的时候，那女孩剩下的时间已经不多了。
-蹈海者还没有放弃举行降神仪式，<Yellow:群星正在向应去之处升起>。","어리석은 질문이군. 지금은 농담할 때가 아니다. 그녀에게 시간이 얼마 남지 않았어. 해양도약자들은 아직 강신 의식을 포기하지 않았고, <Yellow:별들이 마땅히 있어야 할 곳으로 떠오르고 있다>."
 AvgDialog_23852_Content_57,aiML,avg章5新_AvgDialog_C_M.csv,64,AvgDialog,Content,玩家,那女孩？降神仪式？,그녀? 강신 의식이라고?
 AvgDialog_23852_Content_58,aiMM,avg章5新_AvgDialog_C_M.csv,65,AvgDialog,Content,,你与图鲁间的气氛陡然凝滞，片刻，他长叹一口气，脸上出现了与稚嫩面容格格不入的严肃神情。,"당신과 툴루 사이의 공기가 순간 멈춘다. 잠시 후 그가 깊은 한숨을 내쉬자, 앳된 얼굴과 어울리지 않는 진지한 표정이 드러난다."
 AvgDialog_23852_Content_59,aiMN,avg章5新_AvgDialog_C_M.csv,66,AvgDialog,Content,图鲁,你还记得多少？,얼마나 기억하고 있지?
@@ -1205,7 +1202,6 @@ AvgDialog_23852_Content_107,aiLb,avg章5新_AvgDialog_C_M.csv,114,AvgDialog,Cont
 AvgDialog_23852_Content_108,aiLc,avg章5新_AvgDialog_C_M.csv,115,AvgDialog,Content,,神秘的符文被液体晕染开，像极了舞厅中色泽妍极的地毯——这显然，曾进行了一场小规模的异教仪式。,"신비로운 룬 문자가 액체에 번져, 마치 무도회장의 화려한 융단처럼 보였다. 분명, 소규모의 이교도 의식이 치러진 흔적이었다."
 AvgDialog_23852_Content_109,aiLd,avg章5新_AvgDialog_C_M.csv,116,AvgDialog,Content,,腐臭在舱室中弥漫，你非常肯定，鱼类的腐烂残骸不足以散发如此气味。这场血肉交织的舞会中，一定有更高大，更多脂肪的舞者。,"선실에 떠도는 것은 생선 썩는 냄새만이 아니었다. 이 피와 살이 뒤엉킨 무도회에는 더 크고, 지방이 많은 무용수도 있었을 것이다."
 AvgDialog_23852_Content_110,aiLf,avg章5新_AvgDialog_C_M.csv,117,AvgDialog,Content,玩家,唔……,으음...
-AvgDialog_23852_Content_111,aiLg,avg章5新_AvgDialog_C_M.csv,118,AvgDialog,Content,墨菲？,一看就是蹈海者的手笔，他们一向不讲究……,해양도약자 짓이네. 쟤들은 항상 지저분하단 말이야.
 AvgDialog_23852_Content_112,aiLh,avg章5新_AvgDialog_C_M.csv,119,AvgDialog,Content,,少女嘟囔着，看着倒在祭坛上的你，面露嫌弃。但她绕着你走了两圈，最终托着你尚干净的胳膊，一把将你扶了起来。,"소녀는 제단에 쓰러져 있는 당신을 보고 혐오스러운 표정을 지었다.\n당신 주위를 두 바퀴 돌고 망설이더니, 아직 더럽혀지지 않은 팔을 부축해 일으켜 세웠다."
 AvgDialog_23852_Content_113,aiLi,avg章5新_AvgDialog_C_M.csv,120,AvgDialog,Content,墨菲？,"有图鲁在，他们应该一时半会儿没闲心来追我们……
 我去找块布把这祭坛盖上吧，味道太难闻了。",툴루가 있으니 당분간은 괜찮을 거야...\n이 제단을 덮을 천을 찾아야겠어. 냄새가 너무 심해.
@@ -1249,7 +1245,6 @@ AvgDialog_23854_Content_3,aiOi,avg章5新_AvgDialog_C_M.csv,154,AvgDialog,Conten
 AvgDialog_23854_Content_4,aiOt,avg章5新_AvgDialog_C_M.csv,155,AvgDialog,Content,玩家,墨菲。,머피.
 AvgDialog_23854_Content_5,aiOE,avg章5新_AvgDialog_C_M.csv,156,AvgDialog,Content,墨菲,要不还是找个角落蹲着吧……,구석에 숨어 있는 게 좋으려나...
 AvgDialog_23854_Content_6,aiOP,avg章5新_AvgDialog_C_M.csv,157,AvgDialog,Content,玩家,<BigShake:墨菲！我有事要告诉你！>,<BigShake:머피! 할 말이 있어!>
-AvgDialog_23854_Content_7,aiPa,avg章5新_AvgDialog_C_M.csv,158,AvgDialog,Content,墨菲,别叫这么大声！万一真的把蹈海者引来了怎么办！,그렇게 큰 소리 내지 마! 진짜로 해양도약자들을 끌어들이면 어쩔 거야!
 AvgDialog_23854_Content_8,aiPl,avg章5新_AvgDialog_C_M.csv,159,AvgDialog,Content,墨菲,说吧，什么事？,"말해봐, 무슨 일인데?"
 AvgDialog_23854_Content_9,aiPt,avg章5新_AvgDialog_C_M.csv,160,AvgDialog,Content,玩家,"我…有点搞不清楚发生什么了。
 为什么我会在船上，为什么我又会认识你……","나... 무슨 일이 일어나고 있는지 잘 모르겠어.\n내가 왜 이 배에 있는지, 왜 널 알고 있는지도..."
@@ -1274,8 +1269,6 @@ AvgDialog_23854_Content_25,aiOd,avg章5新_AvgDialog_C_M.csv,176,AvgDialog,Conte
 AvgDialog_23854_Content_26,aiOe,avg章5新_AvgDialog_C_M.csv,177,AvgDialog,Content,,精神追溯向来是你的拿手好戏，但此时你的身体似乎在阻止你在精神世界中潜游。,"정신 추적은 당신의 특기였지만, 지금은 당신의 몸이 정신 세계로 들어가는 것을 거부하는 듯했다."
 AvgDialog_23854_Content_27,aiOf,avg章5新_AvgDialog_C_M.csv,178,AvgDialog,Content,,你非常肯定：将你从精神世界中驱逐出来的是自己的身体，而不是什么其他神秘存在。,"당신은 확신했다. 정신 세계에서 당신을 내쫓은 것은 당신 자신이지, 다른 신비로운 존재가 아니라는 것을."
 AvgDialog_23854_Content_28,aiOg,avg章5新_AvgDialog_C_M.csv,179,AvgDialog,Content,鱼头怪物,@2…咕呜……,@2... 꾸륵...
-AvgDialog_23854_Content_29,aiOh,avg章5新_AvgDialog_C_M.csv,180,AvgDialog,Content,墨菲,"是蹈海者的声音，他们找过来了！
-不能再待在这里了，跟我来。",해양도약자 목소리야. 놈들이 다가오고 있어! 여긴 위험해. 날 따라와.
 AvgDialog_23854_Content_30,aiOj,avg章5新_AvgDialog_C_M.csv,181,AvgDialog,Content,,墨菲吃力地扶起你，你的重量让她双腿都打着抖。你见状将重心微微偏向了船舱，这才在她的搀扶下走向船的深处……,"머피는 힘겹게 당신을 부축했지만, 그 무게에 다리가 떨렸다. 당신은 간신히 힘을 주어 일어서서, 그녀의 도움을 받아 배 안으로 나아갔다..."
 AvgDialog_23854_Content_31,aiOk,avg章5新_AvgDialog_C_M.csv,182,AvgDialog,Content,,你们停在了一扇厚重的铁门前，门上有着诡异的凹陷和凸起。从那已经无法完全闭合的门缝中，隐约飘出燃烧的呛味。,"무거운 철문 앞에 서자, 문에는 기묘한 요철이 있었다. 꽉 닫히지 않은 문틈으로 무언가 타는 냄새가 풍겨왔다."
 AvgDialog_23854_Content_32,aiOl,avg章5新_AvgDialog_C_M.csv,183,AvgDialog,Content,玩家,墨菲，我们要进去吗？,"머피, 안 들어가?"
@@ -1285,7 +1278,6 @@ AvgDialog_23854_Content_35,aiOo,avg章5新_AvgDialog_C_M.csv,186,AvgDialog,Conte
 AvgDialog_23854_Content_36,aiOp,avg章5新_AvgDialog_C_M.csv,187,AvgDialog,Content,,在墨菲推开门前，你看了一眼门上的标签——「动力室」。,머피가 문을 열었다. 문득 문에 걸린 명패를 확인했다.\n여기는 「동력실」인 듯했다.
 AvgDialog_23854_Content_37,aiOq,avg章5新_AvgDialog_C_M.csv,188,AvgDialog,Content,,门后没有你想象中热火朝天的景象：没有肌肉紧实的工人，没有熊熊燃烧的锅炉，只有令人无法忽视的火星四处飞溅。,"문 너머에는 동력실다운 풍경이 없었다. 근육질의 노동자도, 타오르는 보일러도 없이, 그저 불꽃만 튀고 있었다."
 AvgDialog_23854_Content_38,aiOr,avg章5新_AvgDialog_C_M.csv,189,AvgDialog,Content,,地上横七竖八躺着无数冰凉冷硬的身体——是那些一路追赶你们的鱼人怪物。,바닥에는 수많은 차갑고 단단한 시체가 널려 있었다——\n바로 당신들을 쫓아온 어인 괴물들이었다.
-AvgDialog_23854_Content_39,aiOs,avg章5新_AvgDialog_C_M.csv,190,AvgDialog,Content,,墨菲和图鲁称呼他们为“<Yellow:蹈海者>”。,머피와 툴루는 그들을 「<Yellow:해양도약자>」라고 불렀다.
 AvgDialog_23854_Content_40,aiOu,avg章5新_AvgDialog_C_M.csv,191,AvgDialog,Content,,舱壁开出了巨大的孔洞，寒风争先恐后吹进船舱。墨菲捏捏自己冻得通红的耳垂，扶着你跨过火焰，走进了废墟之中。,"선실 벽에 큰 구멍이 뚫려, 찬 바람이 불어 들어왔다. 머피는 빨개진 귓불을 비비며 당신을 부축하고, 불길을 넘어 폐허 속으로 나아갔다."
 AvgDialog_23854_Content_41,aiOv,avg章5新_AvgDialog_C_M.csv,192,AvgDialog,Content,墨菲,咳、咳咳咳……气味也太难闻了。,"쿨럭, 쿨럭... 냄새가 너무 심하네."
 AvgDialog_23854_Content_42,aiOw,avg章5新_AvgDialog_C_M.csv,193,AvgDialog,Content,玩家,这里…经历过一场恶战？,여긴... 격렬한 전투라도 있었나?
@@ -1300,26 +1292,19 @@ AvgDialog_23854_Content_50,aiOF,avg章5新_AvgDialog_C_M.csv,201,AvgDialog,Conte
 AvgDialog_23854_Content_51,aiOG,avg章5新_AvgDialog_C_M.csv,202,AvgDialog,Content,墨菲,明明…她曾经对我是那么好……,어째서... 그렇게나 나에게 다정했는데...
 AvgDialog_23854_Content_52,aiOH,avg章5新_AvgDialog_C_M.csv,203,AvgDialog,Content,,墨菲凝视那把匕首片刻，突然手脚并用爬进了瓦砾堆叠的废墟，伸手去够那把匕首。,"머피는 단검을 바라보더니, 단숨에 잔해 더미로 달려가 손을 뻗었다."
 AvgDialog_23854_Content_53,aiOI,avg章5新_AvgDialog_C_M.csv,204,AvgDialog,Content,蹈海者,咕……咕呜……,꾸... 꾸륵...
-AvgDialog_23854_Content_54,aiOJ,avg章5新_AvgDialog_C_M.csv,205,AvgDialog,Content,,瘫倒一片的蹈海者中，有一人用折断的武器支撑身体，颤颤巍巍爬了起来，用那大到几乎脱离眼眶的眼珠死死瞪着高处的墨菲。,"쓰러져 있는 해양도약자 중 하나가 부러진 무기로 몸을 지탱하고 비틀거리며 일어나, 기묘하게 튀어나온 눈으로 머피를 노려봤다."
 AvgDialog_23854_Content_55,aiOK,avg章5新_AvgDialog_C_M.csv,206,AvgDialog,Content,蹈海者,为什么…为什么……从主祭大人身边……为什么？,"왜, 왜... 주제님 곁에서... 왜?"
 AvgDialog_23854_Content_56,aiOL,avg章5新_AvgDialog_C_M.csv,207,AvgDialog,Content,蹈海者,神母，神母……咕呜，咕呜……！我找到了神母！,"신모, 신모... 꾸륵, 꾸륵...! 신모를 찾았다!"
 AvgDialog_23854_Content_57,aiOM,avg章5新_AvgDialog_C_M.csv,208,AvgDialog,Content,蹈海者,主祭大人，主祭大人！仪式将近，<Big:仪式将近！>,"주제님, 주제님! 의식의 때가 가깝습니다, <Big:의식의 때가 가깝습니다!>"
-AvgDialog_23854_Content_58,aiON,avg章5新_AvgDialog_C_M.csv,209,AvgDialog,Content,,蹈海者的鱼类下颚张大到了极致，连接上下颌的肉膜组织被拉伸到半透明。,"해양도약자의 어류 같은 턱이 최대한 벌어지고, 위아래 턱을 잇는 반투명한 막이 크게 늘어났다."
-AvgDialog_23854_Content_59,aiOO,avg章5新_AvgDialog_C_M.csv,210,AvgDialog,Content,,"被恐惧、希望与信仰驱使，他迸发出了难以想象的生命力。
-蹈海者猛地撞开了你，尖啸着向动力室外冲去。","공포, 희망, 그리고 신앙에 휩싸인 그는 상상 이상의 생명력을 발휘했다.\n해양도약자는 당신을 맹렬히 밀치고 밖으로 달려 나갔다."
 AvgDialog_23854_Content_60,aiOQ,avg章5新_AvgDialog_C_M.csv,211,AvgDialog,Content,玩家,不好，他要跑走了！,"안 돼, 도망치려 해!"
 AvgDialog_23854_Content_61,aiOR,avg章5新_AvgDialog_C_M.csv,212,AvgDialog,Content,,嗤————,휙——
-AvgDialog_23854_Content_62,aiOS,avg章5新_AvgDialog_C_M.csv,213,AvgDialog,Content,,锐利的尖端从灰蓝色胸膛穿出，液体飞溅，蹈海者轰然倒地。,"날카로운 단검이 탁한 푸른 가슴을 꿰뚫었다. 액체가 튀고, 해양도약자는 요란한 소리를 내며 쓰러졌다."
 AvgDialog_23854_Content_63,aiOT,avg章5新_AvgDialog_C_M.csv,214,AvgDialog,Content,,墨菲不知何时守在了动力室门边，灰绿色的稠血静静从手中的匕尖滴落。,머피는 어느새 동력실 문 앞에 서 있었다. 손에 든 단검에서 녹색 피가 조용히 떨어졌다.
 AvgDialog_23854_Content_64,aiOU,avg章5新_AvgDialog_C_M.csv,215,AvgDialog,Content,,那上面挂着布料的碎屑，凹陷的雕花被血肉填满。墨菲的身体肉眼可见颤抖着，握刀的手却格外坚定有力。,"단검에는 상대의 옷 조각이 걸려 있었고, 그 조각에는 피와 살이 묻어 있었다. 머피는 눈에 띄게 떨고 있었지만, 단검을 쥔 손은 매우 강했다."
 AvgDialog_23854_Content_65,aiOV,avg章5新_AvgDialog_C_M.csv,216,AvgDialog,Content,墨菲,……抱歉，不能让你走。,"...미안, 보낼 수 없어."
-AvgDialog_23854_Content_66,aiOW,avg章5新_AvgDialog_C_M.csv,217,AvgDialog,Content,,墨菲沉着眼，盯着匕首看了一会儿，最后擦去了其上蹈海者的鲜血。,"머피는 침착하게 단검을 한번 보고, 마지막으로 그 해양도약자의 피를 닦았다."
 AvgDialog_23854_Content_67,aiOX,avg章5新_AvgDialog_C_M.csv,218,AvgDialog,Content,墨菲,他的反应是想要去通风报信……,저 녀석은 밀고하려 했어...
 AvgDialog_23854_Content_68,aiOY,avg章5新_AvgDialog_C_M.csv,219,AvgDialog,Content,,墨菲靠在门边，侧身看了一眼动力室的满目狼藉，睫毛不安地翕动。,머피는 문가에 기대어 황폐한 동력실을 바라봤다. 그녀의 속눈썹이 불안하게 떨렸다.
 AvgDialog_23854_Content_69,aiOZ,avg章5新_AvgDialog_C_M.csv,220,AvgDialog,Content,墨菲,可<Blue:弥利亚姆>难道不是已经…为什么还不放弃……,하지만 <Blue:미리암>은 이미... 왜 포기하지 않는 거지...
 AvgDialog_23854_Content_70,aiPb,avg章5新_AvgDialog_C_M.csv,221,AvgDialog,Content,,墨菲喃喃自语般道出的名字让你没由来地感到一阵眩晕，你眨了眨眼，等待恶心难受的感觉过去后，才问出了心中疑问。,머피가 중얼거린 이름을 듣고 당신은 현기증을 느꼈다. 당신은 눈을 깜빡여 의식을 되찾았다.
 AvgDialog_23854_Content_71,aiPc,avg章5新_AvgDialog_C_M.csv,222,AvgDialog,Content,玩家,弥利亚姆是？,미리암?
-AvgDialog_23854_Content_72,aiPd,avg章5新_AvgDialog_C_M.csv,223,AvgDialog,Content,墨菲,她是蹈海者…也就是这些鱼人的首领。,그녀는 해양도약자... 여기 어인들의 리더야.
 AvgDialog_23854_Content_73,aiPe,avg章5新_AvgDialog_C_M.csv,224,AvgDialog,Content,玩家,那所谓的「神母」……,그 「신모」라는 건...
 AvgDialog_23854_Content_74,aiPf,avg章5新_AvgDialog_C_M.csv,225,AvgDialog,Content,,问题甫一出口，你便紧张地进行了几次机械性吞咽。,"질문을 입에 담자마자, 왠지 긴장해서 기계적으로 침을 삼켰다."
 AvgDialog_23854_Content_75,aiPg,avg章5新_AvgDialog_C_M.csv,226,AvgDialog,Content,,你的身体似乎早就知道答案，潜意识却又害怕让你想起这个答案。,"당신의 몸은 이미 답을 알고 있는 듯했지만, 잠재의식은 그 답을 떠올리기를 두려워했다."
@@ -1327,7 +1312,6 @@ AvgDialog_23854_Content_76,aiPh,avg章5新_AvgDialog_C_M.csv,227,AvgDialog,Conte
 AvgDialog_23854_Content_77,aiPi,avg章5新_AvgDialog_C_M.csv,228,AvgDialog,Content,,墨菲抬头看向你，悲伤的暗流在她眼中流动。,"머피는 당신을 올려다보며, 슬픔이 깃든 눈빛을 보냈다."
 AvgDialog_23854_Content_78,aiPj,avg章5新_AvgDialog_C_M.csv,229,AvgDialog,Content,墨菲,是我。,나야.
 AvgDialog_23854_Content_79,aiPk,avg章5新_AvgDialog_C_M.csv,230,AvgDialog,Content,墨菲,我是被怪物寄生的可怜虫，是异教神明重生中命定的载体。,나는 괴물에게 기생당한 불쌍한 벌레. 이교도의 신을 되살리기 위한 그릇일 뿐이야.
-AvgDialog_23854_Content_80,aiPm,avg章5新_AvgDialog_C_M.csv,231,AvgDialog,Content,墨菲,我……就是蹈海者教团的「神母」。,내가... 해양도약자 교단의 「신모」야.
 AvgDialog_23854_Content_81,aiPn,avg章5新_AvgDialog_C_M.csv,232,AvgDialog,Content,,随着最后一个词从墨菲口中吐出，白光伴着剧痛在眼前炸开。,"머피의 마지막 말이 끝나자, 격통과 함께 눈앞에서 하얀 빛이 터졌다."
 AvgDialog_23854_Content_82,aiPo,avg章5新_AvgDialog_C_M.csv,233,AvgDialog,Content,墨菲,喂？！喂！%player%？！,어?! 잠깐! %player%?!
 AvgDialog_23854_Content_83,aiPp,avg章5新_AvgDialog_C_M.csv,234,AvgDialog,Content,,身体不受控制后仰倒下，低频的鸣音在耳边盘绕，少女惊呼的声音被疼痛的洪流淹没。,"몸이 통제 불능 상태가 되어 뒤로 쓰러졌다. 낮은 울음소리 같은 것이 귓가에 맴돌고, 소녀의 비명은 고통의 홍수에 휩쓸렸다."
@@ -1491,7 +1475,6 @@ AvgDialog_23861_Content_2,aiUS,avg章5新_AvgDialog_C_M.csv,377,AvgDialog,Conten
 AvgDialog_23865_Content_1,aiVA,avg章5新_AvgDialog_C_M.csv,378,AvgDialog,Content,弥利亚姆？,够了，不过是些无足轻重之人。,이제 됐습니다. 하찮은 자들입니다.
 AvgDialog_23865_Content_2,aiVB,avg章5新_AvgDialog_C_M.csv,379,AvgDialog,Content,,"静立于敌人后排，从最开始就沉默着的身影发话了。
 那是一名成年女性，被黑纱包裹的身体在丑陋畸形的鱼人中格格不入。","적의 후열에 조용히 서 있던 그림자가 입을 열었다. 그것은 검은 베일에 싸인 성인 여성이었고, 흉측한 어인들 사이에서 유독 튀었다."
-AvgDialog_23865_Content_3,aiVC,avg章5新_AvgDialog_C_M.csv,380,AvgDialog,Content,弥利亚姆？,正位之时将至。忠诚的蹈海之人，神国之信徒，结束这场闹剧……迎回<Blue:神母>，迎回神明的再临。,"정위의 순간이 다가왔습니다. 충실한 해양도약자들이여, 신국의 신도들이여, 이 소동을 끝내고... <Blue:신모>를, 신의 재림을 맞이하십시오."
 AvgDialog_23865_Content_4,aiVD,avg章5新_AvgDialog_C_M.csv,381,AvgDialog,Content,,"在她的指令下，一名与周围鱼人格格不入的少年走到人前。
 他毕恭毕敬地对女人弯下了挺拔的脊背，语气中是难掩的忠诚与自豪。","그녀의 명령에 따라, 주위 어인들과는 전혀 다른 분위기의 소년이 앞으로 나섰다. 그는 여성에게 정중히 고개를 숙였고, 그 목소리에는 숨길 수 없는 충성심이 묻어났다."
 AvgDialog_23865_Content_5,aiVE,avg章5新_AvgDialog_C_M.csv,382,AvgDialog,Content,蹈海者少年,谨遵使命，弥利亚姆大人。,"명을 받들겠습니다, 미리암 님."
@@ -1501,13 +1484,11 @@ AvgDialog_23843_Content_4,aiGJ,avg章5新_AvgDialog_C_M.csv,386,AvgDialog,Conten
 AvgDialog_23843_Content_5,aiGQ,avg章5新_AvgDialog_C_M.csv,387,AvgDialog,Content,拉蒙娜,你与那些鱼头人身的怪物不一样，而你的力量……,너는 다른 어인들과는 달라. 그리고 네 그 힘은...
 AvgDialog_23843_Content_6,aiGR,avg章5新_AvgDialog_C_M.csv,388,AvgDialog,Content,,拉蒙娜挽剑，剑尖划出优美而凌厉锋芒，直指向单膝跪地的少年。,"라모나가 검을 휘두르자, 아름다운 검광이 뻗어 나가며 무릎 꿇은 소년을 향했다."
 AvgDialog_23843_Content_7,aiGS,avg章5新_AvgDialog_C_M.csv,389,AvgDialog,Content,拉蒙娜,你是唤醒体……没错吧？,너는 각성체... 맞지?
-AvgDialog_23843_Content_8,aiGT,avg章5新_AvgDialog_C_M.csv,390,AvgDialog,Content,蹈海者少年,放肆！我们血脉远比低贱的人类高贵，你没有资格称呼蹈海者为怪物！,무례하다! 우리 혈통을 천한 인간과 비교하지 마라! 네까짓 게 해양도약자를 괴물이라 부를 자격은 없다!
 AvgDialog_23843_Content_9,aiGU,avg章5新_AvgDialog_C_M.csv,391,AvgDialog,Content,,拉蒙娜的话刺痛了少年的神经，他骤然周身发力，脊上的鳍刺根根竖起，猛地弹开了拉蒙娜的剑。,"라모나의 말이 소년의 신경을 건드렸고, 그는 갑자기 온몸에 힘을 주었다. 그러자 등지느러미가 곤두서며 라모나의 검을 튕겨냈다."
 AvgDialog_23843_Content_10,aiGd,avg章5新_AvgDialog_C_M.csv,392,AvgDialog,Content,玩家,拉蒙娜小心！,라모나 조심해!
 AvgDialog_23843_Content_11,aiGe,avg章5新_AvgDialog_C_M.csv,393,AvgDialog,Content,,你掏出银钥，试图以链接压制暴起的唤醒体少年。,"당신은 은심을 꺼내, 연결을 통해 폭주한 각성체 소년을 억제하려 했다."
 AvgDialog_23843_Content_12,aiGf,avg章5新_AvgDialog_C_M.csv,394,AvgDialog,Content,,但你几乎是霎时就意识到了不对：他的精神无比稳定，而一根蛇形的锁链正将他的精神牵引向不远处。,"하지만 당신은 즉시 이상함을 느꼈다. 그의 정신은 매우 안정적이었고, 뱀 같은 사슬 하나가 그의 정신을 근처로 끌어당기고 있었다."
 AvgDialog_23843_Content_13,aiGg,avg章5新_AvgDialog_C_M.csv,395,AvgDialog,Content,,——牵引向他的链接者。,——그와 링크한 자에게로.
-AvgDialog_23843_Content_14,aiGh,avg章5新_AvgDialog_C_M.csv,396,AvgDialog,Content,,扭曲的虚影自蹈海者群中游动冲出，闪电般撞开了你紧握银钥的手，你整个人也被这强硬的力道撞到了船舷上。,"비틀린 그림자가 해양도약자들 사이에서 헤엄치듯 나타나, 은심을 쥔 당신의 손을 재빨리 쳐냈고, 당신은 배의 난간에 부딪혔다."
 AvgDialog_23843_Content_15,aiGi,avg章5新_AvgDialog_C_M.csv,397,AvgDialog,Content,弥利亚姆,凯刻斯，太久了。,"카이커스, 너무 오래 걸리는군요."
 AvgDialog_23843_Content_16,aiGj,avg章5新_AvgDialog_C_M.csv,398,AvgDialog,Content,凯刻斯,弥、弥利亚姆大人！请再给我一次机会，我一定会解决掉这两个人。,"미, 미리암 님! 한 번만 더 기회를 주십시오. 반드시 저 둘을 처리하겠습니다."
 AvgDialog_23843_Content_17,aiGk,avg章5新_AvgDialog_C_M.csv,399,AvgDialog,Content,,头带荆刺冠冕的女人睨了他一眼，没有回答。视线转向执剑的拉蒙娜，又移向你，最终定格在了你胸前仍闪着微光的银钥上。,"가시관을 쓴 여인은 그를 한번 흘끗 봤지만, 아무 대답도 하지 않았다. 시선은 검을 든 라모나에게로, 그리고 당신에게로 향했고, 마지막에는 당신 가슴에서 희미하게 빛나는 은심에 머물렀다."
@@ -1531,7 +1512,6 @@ AvgDialog_23843_Content_34,aiGD,avg章5新_AvgDialog_C_M.csv,416,AvgDialog,Conte
 AvgDialog_23843_Content_35,aiGE,avg章5新_AvgDialog_C_M.csv,417,AvgDialog,Content,,俨然一副首领之姿的女人信步走到拉蒙娜身前，居高临下地看着她。,"지도자처럼 보이는 여인이 당당하게 라모나 앞에 서서, 그녀를 내려다보았다."
 AvgDialog_23843_Content_36,aiGF,avg章5新_AvgDialog_C_M.csv,418,AvgDialog,Content,弥利亚姆,银钥，链接，唤醒体……,"은심, 링크, 각성체..."
 AvgDialog_23843_Content_37,aiGG,avg章5新_AvgDialog_C_M.csv,419,AvgDialog,Content,弥利亚姆,在港口时未曾注意你们的模样，现在看来，「吾主」的预言确实应验了——无人能阻止星辰行至正位，这俗世一切，都在去向应去之处。,"항구에 있을 땐 당신들을 눈치채지 못했지만, 이제 보니, 「주님」의 예언이 실현되었군요. 아무도 별들이 정위로 향하는 것을 막을 수 없습니다. 이 세상 모든 것은 있어야 할 곳으로 향하고 있습니다."
-AvgDialog_23843_Content_38,aiGH,avg章5新_AvgDialog_C_M.csv,420,AvgDialog,Content,拉蒙娜,港口……命令这些蹈海者一路追逐我们，利用我们破除船上密境边界的人，就是你。,"항구... 해양도약자들에게 우리를 쫓게 하고, 우리를 이용해 배의 비경 경계를 파괴한 건, 바로 당신이었군요."
 AvgDialog_23843_Content_39,aiGI,avg章5新_AvgDialog_C_M.csv,421,AvgDialog,Content,,弥利亚姆不置可否，妍丽的脸上露出了一抹虔诚的笑。,"미리암은 아무 말 없이, 아름다운 얼굴에 경건한 미소를 띠었다."
 AvgDialog_23843_Content_40,aiGK,avg章5新_AvgDialog_C_M.csv,422,AvgDialog,Content,弥利亚姆,弥萨格大学的学生，作为献给「吾主」的养料，再合适不过。,"미사그의 학생은, 「주님」께 바치는 제물로서 더할 나위 없이 적합합니다."
 AvgDialog_23843_Content_41,aiGL,avg章5新_AvgDialog_C_M.csv,423,AvgDialog,Content,,弥利亚姆不再看拉蒙娜，也不在意拉蒙娜手中仍紧握着武器。她似乎胸有成竹，并不在意拉蒙娜的反抗。,"미리암은 라모나를 보지 않았고, 무기를 쥔 라모나도 신경 쓰지 않았다. 그녀는 자신만만했고, 라모나의 저항도 개의치 않았다."
@@ -1539,7 +1519,6 @@ AvgDialog_23843_Content_42,aiGM,avg章5新_AvgDialog_C_M.csv,424,AvgDialog,Conte
 AvgDialog_23843_Content_43,aiGN,avg章5新_AvgDialog_C_M.csv,425,AvgDialog,Content,弥利亚姆,"这是你最后一次机会，凯刻斯。
 带她下去，看管好她。","이게 마지막 기회예요, 카이커스. 그녀를 데리고 가서, 잘 감시하세요."
 AvgDialog_23843_Content_44,aiGO,avg章5新_AvgDialog_C_M.csv,426,AvgDialog,Content,弥利亚姆,她将成为仪式的最后一环，<Yellow:「吾主」>重生后，将饮尽愚者甘美的血肉。,"그녀는 의식의 마지막 조각이 될 겁니다. <Yellow:「주님」>이 재림하시면, 어리석은 자의 달콤한 피와 살을 마실 것입니다."
-AvgDialog_23843_Content_45,aiGP,avg章5新_AvgDialog_C_M.csv,427,AvgDialog,Content,弥利亚姆,<Yellow:祂>将使我们的城从海中升起，将使我们的国重现于这纷乱世间，成为蹈海之人新的未来。,"<Yellow:그분>은 우리의 도시를 바다에서 일으켜 세우고, 이 혼란스러운 세상에 우리의 나라를 다시 세워, 해양도약자들의 새로운 미래가 될 것입니다."
 AvgDialog_23860_Content_1,aiTY,avg章5新_AvgDialog_C_M.csv,428,AvgDialog,Content,,沉溺之徒,탐닉하는 자
 AvgDialog_23860_Content_2,aiUj,avg章5新_AvgDialog_C_M.csv,429,AvgDialog,Content,,"水无止无休地灌进你的身体。
 鼻腔、耳道、咽喉、眼角…上肢所有孔洞都被海水填满。","물이 쉴 새 없이 몸으로 흘러 들어왔다.\n코, 귀, 목, 눈이... 상체의 모든 구멍이 바닷물로 가득 찼다."
@@ -1556,7 +1535,6 @@ AvgDialog_23860_Content_12,aiUb,avg章5新_AvgDialog_C_M.csv,439,AvgDialog,Conte
 AvgDialog_23860_Content_13,aiUc,avg章5新_AvgDialog_C_M.csv,440,AvgDialog,Content,,绿发少年微微皱眉，触肢在他的控制下再度缠在了你身上，然后——,"녹색 머리 소년이 살짝 미간을 찌푸렸고, 그의 조종 아래 촉수가 다시 당신에게 감겨들었다. 그리고——"
 AvgDialog_23860_Content_14,aiUd,avg章5新_AvgDialog_C_M.csv,441,AvgDialog,Content,,触肢用恰到好处的力道收缩了数次，喉咙中的海水与小鱼在挤压中被尽数吐出。,"촉수가 적절한 힘으로 몇 번 수축하자, 목에 있던 바닷물과 작은 물고기가 모두 토해졌다."
 AvgDialog_23860_Content_15,aiUe,avg章5新_AvgDialog_C_M.csv,442,AvgDialog,Content,玩家,咳、咳……谢谢你。,"컥, 콜록... 고마워."
-AvgDialog_23860_Content_16,aiUf,avg章5新_AvgDialog_C_M.csv,443,AvgDialog,Content,古老图鲁,无需言谢，你的声音太大了，会将其他蹈海者引来。,"감사는 필요 없다. 목소리가 너무 크구나, 다른 해양도약자들을 끌어들일 것이다."
 AvgDialog_23860_Content_17,aiUg,avg章5新_AvgDialog_C_M.csv,444,AvgDialog,Content,玩家,……我指的是，把我从海中救上来的事。,...바다에서 구해준 것에 대한 감사였는데.
 AvgDialog_23860_Content_18,aiUh,avg章5新_AvgDialog_C_M.csv,445,AvgDialog,Content,古老图鲁,"虽然成为唤醒体之身非余所愿，但弥萨格大学毕竟结束了余的万年长眠。
 于情于理，余不会对「守密人」见死不救。","각성체가 된 것은 짐의 뜻이 아니었으나, 미사그가 짐을 긴 잠에서 깨워주었지. 이성적으로나 감정적으로나, 「수호자」를 죽게 내버려 둘 수는 없다."
@@ -1583,29 +1561,21 @@ AvgDialog_23860_Content_33,aiUy,avg章5新_AvgDialog_C_M.csv,460,AvgDialog,Conte
 AvgDialog_23860_Content_34,aiUz,avg章5新_AvgDialog_C_M.csv,461,AvgDialog,Content,图鲁,余没有向你们解释的义务，但如有必要，余将出手相助。,"짐은 너희에게 설명할 의무가 없다. 하지만 필요하다면, 돕겠다."
 AvgDialog_23860_Content_35,aiUA,avg章5新_AvgDialog_C_M.csv,462,AvgDialog,Content,,图鲁三缄其口的态度几乎要点燃你的愤怒，但现实保留了你的理性。,"툴루의 입을 굳게 다문 태도에 분노가 치밀었지만, 현실이 당신의 이성을 붙잡았다."
 AvgDialog_23860_Content_36,aiUB,avg章5新_AvgDialog_C_M.csv,463,AvgDialog,Content,,双手几度握成拳，又再度松开。深呼吸几次后，你终于看向了眼前的唤醒体少年。,"몇 번이고 주먹을 쥐었다 폈다. 심호흡을 몇 번 한 후, 당신은 마침내 눈앞의 각성체 소년을 바라보았다."
-AvgDialog_23860_Content_37,aiUC,avg章5新_AvgDialog_C_M.csv,464,AvgDialog,Content,玩家,拉蒙娜在蹈海者的手上。图鲁，我需要你的帮助。,"라모나가 해양도약자들 손에 잡혀 있어. 툴루, 네 도움이 필요해."
 AvgDialog_23860_Content_38,aiUD,avg章5新_AvgDialog_C_M.csv,465,AvgDialog,Content,,图鲁抬头久久看着你的眼睛，似乎在酝酿拒绝的话语。,"툴루는 고개를 들어 당신의 눈을 오랫동안 바라보며, 거절의 말을 고르는 듯했다."
 AvgDialog_23860_Content_39,aiUE,avg章5新_AvgDialog_C_M.csv,466,AvgDialog,Content,,就在他唇边肌肉微动，准备吐出回复时，船舱深处传来了少女凄厉的尖叫。,"그가 입술을 움직여 대답하려는 순간, 선실 깊은 곳에서 소녀의 날카로운 비명이 들려왔다."
 AvgDialog_23860_Content_40,aiUG,avg章5新_AvgDialog_C_M.csv,467,AvgDialog,Content,玩家,是拉蒙娜吗！？我们快过去看看！,라모나인가!? 빨리 가보자!
-AvgDialog_23860_Content_41,aiUH,avg章5新_AvgDialog_C_M.csv,468,AvgDialog,Content,图鲁,还不知道有多少蹈海者登了船，你这么毫无准备地冲进去，着实愚钝。,"얼마나 많은 해양도약자들이 배에 탔는지도 모르는데, 그렇게 무턱대고 뛰어드는 것은 실로 어리석구나."
 AvgDialog_23860_Content_42,aiUI,avg章5新_AvgDialog_C_M.csv,469,AvgDialog,Content,玩家,愚钝？,어리석다고?
 AvgDialog_23860_Content_43,aiUJ,avg章5新_AvgDialog_C_M.csv,470,AvgDialog,Content,玩家,如果真如你所说，你不会对「守密人」见死不救的话。,네 말대로 정말 「수호자」를 죽게 내버려 두지 않을 거라면.
 AvgDialog_23860_Content_44,aiUK,avg章5新_AvgDialog_C_M.csv,471,AvgDialog,Content,玩家,图鲁，我接下来要去送死。,"툴루, 나는 이제 죽으러 갈 거야."
 AvgDialog_23860_Content_45,aiUL,avg章5新_AvgDialog_C_M.csv,472,AvgDialog,Content,,图鲁扶着头未作回答，但在你转身冲向船舱深处前，你听见了少年若有似无的叹息。,"툴루는 머리를 부여잡고 대답하지 않았지만, 당신이 선실 깊은 곳으로 달려가기 전, 소년의 희미한 한숨 소리를 들었다."
 AvgDialog_23866_Content_1,aiVF,avg章5新_AvgDialog_C_M.csv,473,AvgDialog,Content,玩家,快看那边！,저기 봐!
 AvgDialog_23866_Content_2,aiVK,avg章5新_AvgDialog_C_M.csv,474,AvgDialog,Content,蹈海者,@1母…神@2……,@1모... 신@2...
-AvgDialog_23866_Content_3,aiVL,avg章5新_AvgDialog_C_M.csv,475,AvgDialog,Content,,数名蹈海者围成包围圈，团团包围着舱室的一角。他们口中吟诵着刺耳的语调，几乎要将少女的抽泣淹没。,"몇몇 해양도약자들이 원을 그리며 선실 한구석을 둘러싸고 있었다. 그들은 귀에 거슬리는 목소리로 주문을 외우고 있었고, 그 소리에 소녀의 흐느낌이 거의 묻힐 지경이었다."
 AvgDialog_23866_Content_4,aiVM,avg章5新_AvgDialog_C_M.csv,476,AvgDialog,Content,墨菲？,不要…不要靠近我！休想把我抓回去！,오지 마... 나한테서 떨어져! 다시는 잡히지 않을 거야!
 AvgDialog_23866_Content_5,aiVN,avg章5新_AvgDialog_C_M.csv,477,AvgDialog,Content,玩家,那…不是拉蒙娜。,저건... 라모나가 아니야.
-AvgDialog_23866_Content_6,aiVO,avg章5新_AvgDialog_C_M.csv,478,AvgDialog,Content,,领头的蹈海者毕恭毕敬地匍匐于少女身前，其他人则用蹼状手掌擒住了她的手脚。,"선두에 선 해양도약자는 소녀 앞에 공손히 엎드려 있었고, 다른 자들은 물갈퀴가 달린 손으로 그녀의 팔다리를 붙잡고 있었다."
 AvgDialog_23866_Content_7,aiVP,avg章5新_AvgDialog_C_M.csv,479,AvgDialog,Content,,那领头者倏地直起了身，你这才看清“她”头纱之下竟是数条飞舞的蛇头，格外诡异。,선두에 선 자가 갑자기 몸을 일으켰다. 그제야 당신은 「그녀」의 베일 아래에서 여러 개의 뱀 머리가 춤추고 있는 것을 보았다. 기이하기 짝이 없었다.
-AvgDialog_23866_Content_8,aiVQ,avg章5新_AvgDialog_C_M.csv,480,AvgDialog,Content,,蛇头人在地上画出奇异的符文，又接过蹈海者递上的一个行囊，那里面散发出令人作呕的臭味。,"뱀 머리 인간은 바닥에 기묘한 룬 문자를 그리고, 해양도약자가 건네준 가방을 받았다. 그 안에서는 역겨운 냄새가 풍겨 나왔다."
 AvgDialog_23866_Content_9,aiVR,avg章5新_AvgDialog_C_M.csv,481,AvgDialog,Content,,蛇牙在行囊上撕咬开一个口子，腐烂的脏器如沙丁鱼般涌了出来，尽数掉落在符文上，腐臭顿时在舱室弥漫开来。,"뱀의 송곳니가 가방을 찢자, 썩은 내장이 정어리처럼 쏟아져 나와 룬 문자 위로 떨어졌고, 선실에 악취가 순식간에 퍼졌다."
 AvgDialog_23866_Content_10,aiVG,avg章5新_AvgDialog_C_M.csv,482,AvgDialog,Content,墨菲？,你们要做什么！？就凭你们还没资格对本小姐动手动脚！有本事让我去见弥利亚姆！,무슨 짓이야!? 감히 날 건드리지 마! 미리암한테 데려가!
-AvgDialog_23866_Content_11,aiVH,avg章5新_AvgDialog_C_M.csv,483,AvgDialog,Content,玩家,弥利亚姆……是刚刚那个女人的名字！难道这女孩和那个首领是一伙的？可这些蹈海者又为什么会追捕她……,미리암... 방금 그 여자의 이름이잖아! 이 소녀와 그 리더는 한패인가? 그런데 왜 해양도약자들이 그녀를 쫓는 거지...
-AvgDialog_23866_Content_12,aiVI,avg章5新_AvgDialog_C_M.csv,484,AvgDialog,Content,,未等你厘清现状，粗壮的触手擦过你肩膀猛地冲向了蛇形蹈海者。,"당신이 상황을 파악하기도 전에, 굵은 촉수가 당신 어깨를 스치며 뱀 형태의 해양도약자에게 맹렬히 돌진했다."
 AvgDialog_23866_Content_13,aiVJ,avg章5新_AvgDialog_C_M.csv,485,AvgDialog,Content,,后者被撞了个猝不及防，但很快反应过来，吐着蛇信与图鲁的触手缠斗在了一起。,"후자는 기습에 당황했지만, 이내 정신을 차리고 뱀 혀를 날름거리며 툴루의 촉수와 맞서 싸웠다."
-AvgDialog_23844_Content_1,aiGV,avg章5新_AvgDialog_C_M.csv,486,AvgDialog,Content,,触手重重砸下，蹈海者的身体被压得支离破碎，但奇迹般避开了少女的所在。,"촉수가 세차게 내리치자, 해양도약자의 몸은 산산조각이 났지만, 기적적으로 소녀가 있는 곳은 피했다."
 AvgDialog_23844_Content_2,aiHg,avg章5新_AvgDialog_C_M.csv,487,AvgDialog,Content,,图鲁缩回触肢看着其上灰绿、红白交织的液体，脸上嫌恶的神情在他悄悄在甲板上蹭下脏污后转瞬即逝。,"툴루는 촉수를 거두며 그 위에 묻은 회녹색과 붉고 흰 액체를 바라보았다. 그의 얼굴에 혐오스러운 표정이 스쳤다가, 갑판에 오물을 슬쩍 닦아낸 후 순식간에 사라졌다."
 AvgDialog_23844_Content_3,aiHr,avg章5新_AvgDialog_C_M.csv,488,AvgDialog,Content,墨菲？,呼、呼……,"하아, 하아..."
 AvgDialog_23844_Content_4,aiHv,avg章5新_AvgDialog_C_M.csv,489,AvgDialog,Content,,少女捂着手腕剧烈呼吸着，一副惊魂未定的模样。,"소녀는 손목을 부여잡고 거친 숨을 내쉬며, 몹시 놀란 듯한 모습이었다."
@@ -1623,11 +1593,8 @@ AvgDialog_23844_Content_15,aiHb,avg章5新_AvgDialog_C_M.csv,500,AvgDialog,Conte
 AvgDialog_23844_Content_16,aiHc,avg章5新_AvgDialog_C_M.csv,501,AvgDialog,Content,玩家,可能有一些轻微的拉伤，这种程度，静养两天就没问题了。,"가벼운 염좌일 수도 있어. 이 정도면, 며칠 쉬면 괜찮아질 거야."
 AvgDialog_23844_Content_17,aiHd,avg章5新_AvgDialog_C_M.csv,502,AvgDialog,Content,,感受到墨菲的情绪稍稍缓和了下来，你却避开了她的伤处，猛地握紧了她的上臂。,"머피의 기분이 조금 누그러진 것을 느끼자, 당신은 다친 곳을 피해 그녀의 위팔을 갑자기 꽉 잡았다."
 AvgDialog_23844_Content_18,aiHe,avg章5新_AvgDialog_C_M.csv,503,AvgDialog,Content,墨菲,你干嘛？！,뭐 하는 거야?!
-AvgDialog_23844_Content_19,aiHf,avg章5新_AvgDialog_C_M.csv,504,AvgDialog,Content,玩家,"你认识蹈海者的首领弥利亚姆，却又受蹈海者的追捕。
-墨菲，你究竟是什么人？","넌 해양도약자의 리더인 미리암을 알고 있으면서, 해양도약자들에게 쫓기고 있어. 머피, 넌 대체 누구야?"
 AvgDialog_23844_Content_20,aiHh,avg章5新_AvgDialog_C_M.csv,505,AvgDialog,Content,墨菲,我、我……,"나, 나는..."
 AvgDialog_23844_Content_21,aiHi,avg章5新_AvgDialog_C_M.csv,506,AvgDialog,Content,,这时，图鲁结束了对符文的观察，加入了对话。,"그때, 툴루가 룬 문자 관찰을 마치고 대화에 끼어들었다."
-AvgDialog_23844_Content_22,aiHj,avg章5新_AvgDialog_C_M.csv,507,AvgDialog,Content,图鲁,那个符文是蹈海者用于催眠的仪式，那些家伙是想让她睡一会，避免节外生枝……,"저 룬 문자는 해양도약자들이 최면을 걸 때 사용하는 의식이다. 저들은 그녀를 잠시 재워서, 불필요한 문제를 피하려 했던 것 같군..."
 AvgDialog_23844_Content_23,aiHk,avg章5新_AvgDialog_C_M.csv,508,AvgDialog,Content,,图鲁话音未落，墨菲的脸色就变得煞白。她原本对你又踢又咬的挣扎动作也停了下来，似乎是在思考什么。,"툴루의 말이 채 끝나기도 전에, 머피의 얼굴이 새하얗게 질렸다. 당신에게 발길질하고 물어뜯던 저항도 멈추고, 무언가 생각에 잠긴 듯했다."
 AvgDialog_23844_Content_24,aiHl,avg章5新_AvgDialog_C_M.csv,509,AvgDialog,Content,玩家,墨菲？,머피?
 AvgDialog_23844_Content_25,aiHm,avg章5新_AvgDialog_C_M.csv,510,AvgDialog,Content,,——当！,——쾅!
@@ -1641,7 +1608,6 @@ AvgDialog_23844_Content_32,aiHu,avg章5新_AvgDialog_C_M.csv,517,AvgDialog,Conte
 AvgDialog_23872_Content_1,aiWp,avg章5新_AvgDialog_C_M.csv,518,AvgDialog,Content,,使徒,사도
 AvgDialog_23855_Content_1,aiPu,avg章5新_AvgDialog_C_M.csv,519,AvgDialog,Content,玩家,墨菲，别跑了，我们不是坏人！,"머피, 도망가지 마! 우린 나쁜 사람이 아니야!"
 AvgDialog_23855_Content_2,aiPv,avg章5新_AvgDialog_C_M.csv,520,AvgDialog,Content,墨菲,哪有坏人会说自己是坏人的！,나쁜 사람이 자기가 나쁜 사람이라고 말하는 거 봤냐고!
-AvgDialog_23855_Content_3,aiPw,avg章5新_AvgDialog_C_M.csv,521,AvgDialog,Content,墨菲,这小子都能看出符文的作用了，你们还敢说自己和蹈海者不是一伙的！,"저 녀석이 룬 문자의 효과를 알아챘는데도, 너희가 해양도약자랑 한패가 아니라고 말할 수 있어?"
 AvgDialog_23855_Content_4,aiPx,avg章5新_AvgDialog_C_M.csv,522,AvgDialog,Content,图鲁,那是由古代利莫里亚语写作的咒文，凡通晓利莫里亚语之人，没有无法读出符文的道理。,"그것은 고대 레무리아어로 쓰인 주문이다. 레무리아어를 아는 자라면, 룬 문자를 읽지 못할 리가 없지."
 AvgDialog_23855_Content_5,aiPy,avg章5新_AvgDialog_C_M.csv,523,AvgDialog,Content,玩家,你还记得吗，利莫里亚是人类史诞生前就已失落的文明。就算在弥萨格大学里，利莫里亚相关研究论文也只手可数。,"잠깐만, 레무리아는 인류 역사가 시작되기도 전에 사라진 문명이야. 미사그에서도 레무리아 관련 연구 논문은 손에 꼽을 정도라고."
 AvgDialog_23855_Content_6,aiPz,avg章5新_AvgDialog_C_M.csv,524,AvgDialog,Content,图鲁,……哼。,...흥.
@@ -1651,13 +1617,9 @@ AvgDialog_23863_Content_1,aiUW,avg章5新_AvgDialog_C_M.csv,526,AvgDialog,Conten
 AvgDialog_23863_Content_2,aiUX,avg章5新_AvgDialog_C_M.csv,527,AvgDialog,Content,玩家,墨菲？你在这里吗？,머피? 거기 있어?
 AvgDialog_23863_Content_3,aiUY,avg章5新_AvgDialog_C_M.csv,528,AvgDialog,Content,墨菲,啧，也太阴魂不散了吧。,"쳇, 정말 끈질기네."
 AvgDialog_23862_Content_1,aiUT,avg章5新_AvgDialog_C_M.csv,529,AvgDialog,Content,墨菲,可恶的家伙，可恶可恶可恶！,"짜증 나는 놈들, 짜증 나, 짜증 나, 짜증 나!"
-AvgDialog_23862_Content_2,aiUU,avg章5新_AvgDialog_C_M.csv,530,AvgDialog,Content,墨菲,蹈海者本该被索纳尼尔号这个密境挡在外面的，要不是这个小黑斗篷怪人，我本来能安安心心地逃到新大陆去……,"해양도약자들은 소나닐호의 비경 때문에 밖에서 들어올 수 없었을 텐데, 어떻게 들어온 거야. 저 이상한 녀석만 아니었어도, 난 안심하고 신대륙으로 도망칠 수 있었는데..."
-AvgDialog_23862_Content_3,aiUV,avg章5新_AvgDialog_C_M.csv,531,AvgDialog,Content,墨菲,可是…他们打趴下了那么多蹈海者……难道那家伙真的没有骗我？,하지만... 저들은 해양도약자를 엄청나게 쓰러뜨렸어... 설마 정말 날 속이는 게 아닌가?
 AvgDialog_23853_Content_1,aiNG,avg章5新_AvgDialog_C_M.csv,532,AvgDialog,Content,玩家,"眨眼的功夫人就不见了……
 这么找下去不是办法。不然，还是先去找拉蒙娜……","눈 깜짝할 사이에 사라졌네... 이렇게 찾아다녀선 안 되겠다. 차라리, 먼저 라모나를 찾으러 가야..."
 AvgDialog_23853_Content_2,aiNH,avg章5新_AvgDialog_C_M.csv,533,AvgDialog,Content,图鲁,不行，不能放她走！,"안 된다, 그녀를 놓쳐선 안 돼!"
-AvgDialog_23853_Content_3,aiNI,avg章5新_AvgDialog_C_M.csv,534,AvgDialog,Content,图鲁,咳……余的意思是，她身上或许有解开蹈海者之谜的钥匙。,"크흠... 내 말은, 그녀가 해양도약자의 수수께끼를 풀 열쇠를 쥐고 있을지도 모른다는 것이다."
-AvgDialog_23853_Content_4,aiNJ,avg章5新_AvgDialog_C_M.csv,535,AvgDialog,Content,图鲁,从她对蹈海者的熟悉程度来看，她一定知道这些人的目的。,"그녀가 해양도약자들을 잘 아는 것으로 보아, 저들의 목적을 분명히 알고 있을 것이다."
 AvgDialog_23853_Content_5,aiNK,avg章5新_AvgDialog_C_M.csv,536,AvgDialog,Content,玩家,……,...
 AvgDialog_23853_Content_6,aiNL,avg章5新_AvgDialog_C_M.csv,537,AvgDialog,Content,玩家,"好，接下来我会试着用精神追溯去找她。
 这是我第一次用精神追溯定位人类，不能保证奏效。","알았어, 이제 정신 추적으로 그녀를 찾아볼게. 인간을 상대로 정신 추적을 하는 건 처음이라, 성공할지는 장담 못 해."
@@ -1666,12 +1628,8 @@ AvgDialog_23847_Content_2,aiIq,avg章5新_AvgDialog_C_M.csv,539,AvgDialog,Conten
 AvgDialog_23847_Content_3,aiIB,avg章5新_AvgDialog_C_M.csv,540,AvgDialog,Content,玩家,<Gray:……船？>,<Gray:...배?>
 AvgDialog_23847_Content_4,aiIM,avg章5新_AvgDialog_C_M.csv,541,AvgDialog,Content,,白色帆船飘荡在地平线的尽头，洁白、脆弱而陌生。,"하얀 돛단배가 지평선 끝에서 흔들리고 있었다.\n희고, 연약하며, 낯선 존재였다."
 AvgDialog_23847_Content_5,aiIX,avg章5新_AvgDialog_C_M.csv,542,AvgDialog,Content,玩家,<Gray:是因为索纳尼尔号处于特殊密境内部的原因吗，精神世界竟然会因此发生改变。>,"<Gray:소나-닐호가 특별한 비경 안에 있어서 그런가, 정신 세계가 변했네.>"
-AvgDialog_23847_Content_6,aiJi,avg章5新_AvgDialog_C_M.csv,543,AvgDialog,Content,,船的四周游荡着无数光点，像一脚踩进了夏日深林的池塘，蛙鸣定军鼓般此起彼伏……每名蹈海者竟然都有属于自己的痕迹。,"배 주위에는 수많은 빛의 점들이 떠다녔다. 마치 여름 숲의 연못에 발을 들인 듯, 개구리 울음소리가 북소리처럼 울려 퍼졌다... 모든 해양도약자에게는 각자 고유한 흔적이 있는 듯했다."
 AvgDialog_23847_Content_7,aiJo,avg章5新_AvgDialog_C_M.csv,544,AvgDialog,Content,玩家,<Gray:冷静，冷静……离我最近的是图鲁，与我有链接的是拉蒙娜……>,"<Gray:진정해, 진정... 가장 가까운 건 툴루, 나와 연결된 건 라모나...>"
-AvgDialog_23847_Content_8,aiJp,avg章5新_AvgDialog_C_M.csv,545,AvgDialog,Content,,黑暗中，有几点光源格外亮眼，但无论如何追赶都只是徒劳，你的精神被蹈海者拦得水泄不通。,"어둠 속에서 유독 밝게 빛나는 광원이 몇 개 있었지만, 아무리 쫓아가도 당신의 정신은 해양도약자들에게 가로막혀 소용없었다."
 AvgDialog_23847_Content_9,aiJq,avg章5新_AvgDialog_C_M.csv,546,AvgDialog,Content,玩家,<Gray:让开……快让开。>,<Gray:비켜... 빨리 비켜.>
-AvgDialog_23847_Content_10,aiIg,avg章5新_AvgDialog_C_M.csv,547,AvgDialog,Content,,普通人类在精神世界中的呈现通常是微弱的，如果没有如此之多的蹈海者，在无人幽灵船上寻找墨菲本该不是难事。,"일반적인 인간은 정신 세계에서 존재감이 매우 희미하다. 이렇게 많은 해양도약자만 없었다면, 이 배에서 머피를 찾는 것은 그리 어렵지 않았을 것이다."
-AvgDialog_23847_Content_11,aiIh,avg章5新_AvgDialog_C_M.csv,548,AvgDialog,Content,,精神的根须徒劳地穿行在蹈海者集群中，笨拙地撞开一个又一个光点。,"정신의 뿌리는 해양도약자 무리 속을 헛되이 헤매며, 서투르게 빛의 점들을 하나씩 밀쳐냈다."
 AvgDialog_23847_Content_12,aiIi,avg章5新_AvgDialog_C_M.csv,549,AvgDialog,Content,玩家,<Gray:墨菲的精神……究竟哪一个是她……>,<Gray:머피의 정신... 대체 어느 쪽이 그녀지...>
 AvgDialog_23847_Content_13,aiIj,avg章5新_AvgDialog_C_M.csv,550,AvgDialog,Content,,心中正默念着墨菲的名字，突然，一个缥缈的女声落在了你的同频。,"마음속으로 머피의 이름을 되뇌던 중, 갑자기 아련한 여성의 목소리가 정신에 동조했다."
 AvgDialog_23847_Content_14,aiIk,avg章5新_AvgDialog_C_M.csv,551,AvgDialog,Content,,再睁眼时，意识空间竟然扭曲成了另一幅模样。,"다시 눈을 떴을 때, 정신 공간은 다른 모습으로 비틀려 있었다."
@@ -1697,7 +1655,6 @@ AvgDialog_23847_Content_32,aiIE,avg章5新_AvgDialog_C_M.csv,569,AvgDialog,Conte
 AvgDialog_23847_Content_33,aiIF,avg章5新_AvgDialog_C_M.csv,570,AvgDialog,Content,男性教徒,墨菲圣女？可她不是……,머피 성녀님? 하지만 그녀는...
 AvgDialog_23847_Content_34,aiIG,avg章5新_AvgDialog_C_M.csv,571,AvgDialog,Content,女性教徒,是啊，她可是弥利亚姆大人的养女……,"네, 그녀는 미리암 님의 양녀..."
 AvgDialog_23847_Content_35,aiIH,avg章5新_AvgDialog_C_M.csv,572,AvgDialog,Content,女性教徒,就算提灯教会可能不会再提供新的唤醒材料，弥利亚姆大人也不至于让墨菲圣女送命吧……,"등불 교회가 더 이상 새로운 각성 재료를 제공하지 않더라도, 미리암 님이 머피 성녀님을 희생시키진 않겠죠..."
-AvgDialog_23847_Content_36,aiII,avg章5新_AvgDialog_C_M.csv,573,AvgDialog,Content,男性教徒,弥利亚姆主祭是不是太执拗了，蹈海教义里说，神国已覆灭了数万年。,"미리암 주제님은 너무 고집이 세십니다. 해양도약자 교리에 따르면, 신국은 이미 수만 년 전에 멸망했다고 하는데."
 AvgDialog_23847_Content_37,aiIJ,avg章5新_AvgDialog_C_M.csv,574,AvgDialog,Content,男性教徒,墨菲圣女可是大家看着长大的孩子……主祭大人也真是的，万年都等下来了，再花点时间找新的母体又怎么了嘛。,"머피 성녀님은 우리 모두가 지켜보며 자란 아이인데... 주제님도 참, 수만 년을 기다렸는데, 새로운 모체를 찾는 데 시간을 좀 더 쓴다고 뭐가 문제겠습니까."
 AvgDialog_23847_Content_38,aiIK,avg章5新_AvgDialog_C_M.csv,575,AvgDialog,Content,女性教徒,可是据说，圣女出生于上一个星辰正位之刻，想必没有人比她更适合这个位子……,"하지만 듣기로는, 성녀님은 지난 정위의 순간에 태어났다고 합니다. 그녀보다 이 자리에 더 적합한 사람은 없을 겁니다..."
 AvgDialog_23847_Content_39,aiIL,avg章5新_AvgDialog_C_M.csv,576,AvgDialog,Content,,七嘴八舌的议论并没能让弥利亚姆做出什么反应，反而是墨菲被这嘈杂惊扰，悠悠转醒。,"시끄러운 논의에도 미리암은 아무 반응을 보이지 않았고, 오히려 머피가 그 소리에 잠에서 깨어났다."
@@ -1714,7 +1671,6 @@ AvgDialog_23847_Content_49,aiIW,avg章5新_AvgDialog_C_M.csv,586,AvgDialog,Conte
 AvgDialog_23847_Content_50,aiIY,avg章5新_AvgDialog_C_M.csv,587,AvgDialog,Content,,非常规的脱离让你感到天旋地转，你不得不扶着图鲁的触肢才能站稳。,"비정상적인 이탈로 인해 어지러움을 느낀 당신은, 툴루의 촉수에 의지해서야 겨우 설 수 있었다."
 AvgDialog_23847_Content_51,aiIZ,avg章5新_AvgDialog_C_M.csv,588,AvgDialog,Content,玩家,我闯进了弥利亚姆的精神世界，现在她知道我还活着了。,"미리암의 정신 세계에 들어갔다가, 내가 살아있다는 걸 들켰어."
 AvgDialog_23847_Content_52,aiJa,avg章5新_AvgDialog_C_M.csv,589,AvgDialog,Content,图鲁,！？,!?
-AvgDialog_23847_Content_53,aiJb,avg章5新_AvgDialog_C_M.csv,590,AvgDialog,Content,,脚蹼在甲板上奔驰的声音响起，由远及近。不知道是否是弥利亚姆反过来利用了精神追溯，但现在蹈海者正在向你们包围。,"물갈퀴가 갑판을 달리는 소리가 멀리서부터 가까워졌다. 미리암이 정신 추적을 역이용했는지는 알 수 없지만, 지금 해양도약자들이 당신들을 포위하고 있었다."
 AvgDialog_23847_Content_54,aiJc,avg章5新_AvgDialog_C_M.csv,591,AvgDialog,Content,墨菲,喂！还愣着干嘛，跟我来！,"거기! 멍하니 있지 말고, 따라와!"
 AvgDialog_23847_Content_55,aiJd,avg章5新_AvgDialog_C_M.csv,592,AvgDialog,Content,,墨菲站在一扇门边对着你们招了招手。,머피가 문가에 서서 당신들을 향해 손짓했다.
 AvgDialog_23847_Content_56,aiJe,avg章5新_AvgDialog_C_M.csv,593,AvgDialog,Content,,你与图鲁对视一眼，向着她指引的方向跑去。,"당신과 툴루는 눈을 마주치고, 그녀가 가리키는 방향으로 달려갔다."
@@ -1727,7 +1683,6 @@ AvgDialog_23847_Content_62,aiJl,avg章5新_AvgDialog_C_M.csv,599,AvgDialog,Conte
 AvgDialog_23847_Content_63,aiJm,avg章5新_AvgDialog_C_M.csv,600,AvgDialog,Content,弥利亚姆,去解决掉%heorshe%，不能让%heorshe%成为仪式举行的阻碍，仪式必须在这个星辰正位之时举行……,"가서 {Male=그를,Female=그녀를} 처리하십시오. {Male=그가,Female=그녀가} 의식을 방해하게 둘 수 없습니다. 의식은 별들이 정위에 오르는 시간에 거행되어야만 합니다..."
 AvgDialog_23847_Content_64,aiJn,avg章5新_AvgDialog_C_M.csv,601,AvgDialog,Content,弥利亚姆,「吾主」必将在今夜获得重生。,「주님」은 오늘 밤 반드시 부활하실 겁니다.
 AvgDialog_23864_Content_1,aiUZ,avg章5新_AvgDialog_C_M.csv,602,AvgDialog,Content,,船员,선원
-AvgDialog_23864_Content_2,aiVk,avg章5新_AvgDialog_C_M.csv,603,AvgDialog,Content,,墨菲带着你们在舱室间穿行，蹑手蹑脚地躲避着蹈海者的搜捕。,"머피는 당신들을 이끌고 선실 사이를 지나다니며, 해양도약자들의 수색을 피해 조심스럽게 움직였다."
 AvgDialog_23864_Content_3,aiVt,avg章5新_AvgDialog_C_M.csv,604,AvgDialog,Content,玩家,我们这是去哪？,어디로 가는 거야?
 AvgDialog_23864_Content_4,aiVu,avg章5新_AvgDialog_C_M.csv,605,AvgDialog,Content,墨菲,去安全的地方，去找能帮上忙的人。,"안전한 곳으로, 도움을 줄 수 있는 사람을 찾으러."
 AvgDialog_23864_Content_5,aiVv,avg章5新_AvgDialog_C_M.csv,606,AvgDialog,Content,墨菲,你不是还有个同伴被绑走了吗？我知道一个人，对船上所有东西都了若指掌。,네 동료도 잡혀갔잖아? 난 이 배의 모든 것을 훤히 아는 사람을 알아.
@@ -1743,29 +1698,21 @@ AvgDialog_23864_Content_14,aiVe,avg章5新_AvgDialog_C_M.csv,615,AvgDialog,Conte
 AvgDialog_23864_Content_15,aiVf,avg章5新_AvgDialog_C_M.csv,616,AvgDialog,Content,图鲁,守密人，不可对这女孩放下戒备。,"수호자, 저 아이에 대한 경계를 풀어서는 안 된다."
 AvgDialog_23864_Content_16,aiVg,avg章5新_AvgDialog_C_M.csv,617,AvgDialog,Content,玩家,为什么？,왜?
 AvgDialog_23864_Content_17,aiVh,avg章5新_AvgDialog_C_M.csv,618,AvgDialog,Content,,图鲁没有正面解答你的疑问，反而是反问起了你。,"툴루는 당신의 질문에 정면으로 답하지 않고, 오히려 되물었다."
-AvgDialog_23864_Content_18,aiVi,avg章5新_AvgDialog_C_M.csv,619,AvgDialog,Content,图鲁,余想知道，你是如何看待蹈海者的？,짐은 네가 해양도약자들을 어떻게 보는지 알고 싶다.
-AvgDialog_23864_Content_19,aiVj,avg章5新_AvgDialog_C_M.csv,620,AvgDialog,Content,玩家,蹈海者？指间有蹼，尾椎骨以上的部分完全鱼化，保有一定智力。,"해양도약자? 손가락 사이에 물갈퀴가 있고, 꼬리뼈 위쪽은 완전히 물고기화되었지만, 어느 정도 지능은 유지하고 있어."
 AvgDialog_23864_Content_20,aiVl,avg章5新_AvgDialog_C_M.csv,621,AvgDialog,Content,玩家,形体流畅自然，不像雕塑家协会的手笔，那些人总是把他们的实验品弄得一团糟。,"형태가 유려하고 자연스러워서, 조각가 협회의 솜씨는 아닌 것 같아. 그들은 항상 실험체를 엉망으로 만드니까."
 AvgDialog_23864_Content_21,aiVm,avg章5新_AvgDialog_C_M.csv,622,AvgDialog,Content,玩家,我原本以为，它们的外貌是受<Yellow:灾厄>影响后变异的结果，但在这几次战斗中，我并没有发现它们身上存在有明显的<Yellow:融蚀痕>。,"원래는 그들의 외모가 <Yellow:재앙>의 영향으로 변이된 결과라고 생각했지만, 몇 번의 전투에서 그들에게 뚜렷한 <Yellow:융식 흔적>을 발견하지 못했어."
-AvgDialog_23864_Content_22,aiVn,avg章5新_AvgDialog_C_M.csv,623,AvgDialog,Content,玩家,蹈海者…更像是进化论对人类开的一个愚蠢玩笑。,해양도약자는... 마치 진화론이 인류에게 친 어리석은 장난 같아.
 AvgDialog_23864_Content_23,aiVo,avg章5新_AvgDialog_C_M.csv,624,AvgDialog,Content,玩家,他们奉弥利亚姆为主祭，与其说是族群，不如说是以信仰为纽带聚集在一起的团体。,"그들은 미리암을 주제로 섬기고, 종족이라기보다는 신앙으로 뭉친 집단에 가까워."
 AvgDialog_23864_Content_24,aiVp,avg章5新_AvgDialog_C_M.csv,625,AvgDialog,Content,图鲁,“对人类开的一个愚蠢玩笑”，余欣赏你的比喻。,"「인류에게 친 어리석은 장난」이라, 네 비유가 마음에 드는구나."
-AvgDialog_23864_Content_25,aiVq,avg章5新_AvgDialog_C_M.csv,626,AvgDialog,Content,图鲁,这个少女——墨菲，我们遇到她时，蹈海者在她身边匍匐。且以她熟识弥利亚姆一事来看，她绝非普通教众。,"저 소녀, 머피 말이다. 우리가 그녀를 만났을 때, 해양도약자들이 그녀 옆에 엎드려 있었다. 게다가 그녀가 미리암을 잘 아는 것으로 보아, 평범한 신도는 절대 아닐 것이다."
 AvgDialog_23864_Content_26,aiVr,avg章5新_AvgDialog_C_M.csv,627,AvgDialog,Content,图鲁,告诉余，在弥利亚姆的精神世界中，是否有「墨菲」存在？,"말해라, 미리암의 정신 세계에, 「머피」가 있었느냐?"
 AvgDialog_23864_Content_27,aiVs,avg章5新_AvgDialog_C_M.csv,628,AvgDialog,Content,,你张了张嘴，但在声带震动前，门后传来了小声惊叫与含糊不清的怪声。,"당신이 입을 열었지만, 목소리가 나오기 전에 문 뒤에서 작은 비명과 알아들을 수 없는 기괴한 소리가 들려왔다."
 AvgDialog_23848_Content_1,aiJr,avg章5新_AvgDialog_C_M.csv,629,AvgDialog,Content,,硬邦邦的靴底狠狠踩在了异变体身上，融蚀浆飞溅满地。,"딱딱한 부츠 밑창이 이변체를 힘껏 짓밟자, 융식액이 사방으로 튀었다."
 AvgDialog_23848_Content_2,aiJz,avg章5新_AvgDialog_C_M.csv,630,AvgDialog,Content,,墨菲放下挥舞的铁锹，嫌恶地甩了甩手，似乎想甩掉那并没有沾上的融蚀浆。,"머피는 휘두르던 삽을 내려놓고, 혐오스럽게 손을 털었다. 마치 묻지도 않은 융식액을 털어내려는 듯했다."
-AvgDialog_23848_Content_3,aiJA,avg章5新_AvgDialog_C_M.csv,631,AvgDialog,Content,墨菲,"呼……幸亏不是蹈海者，不然我还不敢动手……
-你们来得也太慢了，我们快走吧。","휴... 해양도약자가 아니라서 다행이네, 그랬으면 손도 못 썼을 텐데... 너희들 너무 늦잖아, 빨리 가자."
 AvgDialog_23848_Content_4,aiJB,avg章5新_AvgDialog_C_M.csv,632,AvgDialog,Content,图鲁,慢着。,기다려라.
 AvgDialog_23848_Content_5,aiJC,avg章5新_AvgDialog_C_M.csv,633,AvgDialog,Content,,图鲁语气冷硬，但想到之前他对你说的话，有关墨菲身上的重重谜团，你最终选择了沉默。,"툴루의 말투는 차가웠지만, 이전에 그가 했던 말과 머피를 둘러싼 수수께끼를 떠올리며, 당신은 결국 침묵을 선택했다."
-AvgDialog_23848_Content_6,aiJD,avg章5新_AvgDialog_C_M.csv,634,AvgDialog,Content,图鲁,虽然你带我们走过的这些舱室没有蹈海者的痕迹，但越往里走，融蚀异变体的活动就越频繁。,"네가 우리를 데려온 이 선실들에는 해양도약자의 흔적이 없었지만, 안으로 들어갈수록 융식 변이체의 활동이 더 잦아지고 있다."
 AvgDialog_23848_Content_7,aiJE,avg章5新_AvgDialog_C_M.csv,635,AvgDialog,Content,图鲁,你一直在把我们引向危险的地方。,넌 우리를 계속 위험한 곳으로 이끌고 있어.
 AvgDialog_23848_Content_8,aiJF,avg章5新_AvgDialog_C_M.csv,636,AvgDialog,Content,墨菲,异变体？……啊，你说这些怪物？,"변이체? ...아, 이 괴물들 말이야?"
 AvgDialog_23848_Content_9,aiJG,avg章5新_AvgDialog_C_M.csv,637,AvgDialog,Content,墨菲,听船长说，这船上以前是闹过什么灾厄。有些水手变成了怪物什么的，但他不忍心清理掉，就把他们大多数都锁在了船舱里。,"선장님 말로는, 이 배에 예전에 무슨 재앙이 닥쳤었다고 해. 몇몇 선원들이 괴물로 변했는데, 차마 처리하지 못하고 대부분 선실에 가뒀다고 하더라고."
 AvgDialog_23848_Content_10,aiJs,avg章5新_AvgDialog_C_M.csv,638,AvgDialog,Content,墨菲,哎呀，你问够了没？,"어휴, 질문 다 했어?"
 AvgDialog_23848_Content_11,aiJt,avg章5新_AvgDialog_C_M.csv,639,AvgDialog,Content,,墨菲跺跺脚，指向了被图鲁挡在身后的你。,"머피가 발을 구르며, 툴루 뒤에 있는 당신을 가리켰다."
-AvgDialog_23848_Content_12,aiJu,avg章5新_AvgDialog_C_M.csv,640,AvgDialog,Content,墨菲,这家伙的同伴不是还在蹈海者手上吗？要是你们再磨磨唧唧，浪费时间，那人要是出了什么事，我可不负责。,"이 녀석 동료는 아직 해양도약자들 손에 있잖아? 너희가 계속 꾸물거리다 시간 낭비해서, 그 사람한테 무슨 일 생기면, 난 책임 안 져."
 AvgDialog_23848_Content_13,aiJv,avg章5新_AvgDialog_C_M.csv,641,AvgDialog,Content,玩家,……,...
 AvgDialog_23848_Content_14,aiJw,avg章5新_AvgDialog_C_M.csv,642,AvgDialog,Content,,图鲁侧身看了你片刻，似乎是在观察你脸上的神情。,"툴루가 옆으로 당신을 잠시 쳐다보며, 당신의 표정을 살피는 듯했다."
 AvgDialog_23848_Content_15,aiJx,avg章5新_AvgDialog_C_M.csv,643,AvgDialog,Content,玩家,"伙伴遇险，我们又一路都在战斗，图鲁有些紧张过度了。
@@ -1796,28 +1743,20 @@ AvgDialog_23867_Content_19,aiWc,avg章5新_AvgDialog_C_M.csv,663,AvgDialog,Conte
 AvgDialog_23867_Content_20,aiWe,avg章5新_AvgDialog_C_M.csv,664,AvgDialog,Content,图鲁,如果想要去机械室的话，需要从这座楼梯离开这层舱室，上到上层甲板。,"기계실로 가려면, 이 계단으로 이 층을 떠나 상층 갑판으로 올라가야 한다."
 AvgDialog_23867_Content_21,aiWf,avg章5新_AvgDialog_C_M.csv,665,AvgDialog,Content,墨菲,对、对！我也想起来了，机械室那儿很封闭，但因为只有一条路进出，所以也更安全。,"마, 맞아! 나도 생각났어. 기계실은 꽤 막혀 있지만, 길이 하나뿐이라 더 안전하다고 했어."
 AvgDialog_23867_Content_22,aiWg,avg章5新_AvgDialog_C_M.csv,666,AvgDialog,Content,玩家,那看来，不得不重新回到甲板上了。,"그렇다면, 다시 갑판으로 돌아가야겠네."
-AvgDialog_23867_Content_23,aiWh,avg章5新_AvgDialog_C_M.csv,667,AvgDialog,Content,玩家,我和拉蒙娜就是在甲板上遭受了蹈海者的围堵……甲板上肯定还有蹈海者在游荡巡逻，我们要小心些，尽量避免战斗。,"나와 라모나가 갑판에서 해양도약자들에게 포위당했었지... 갑판에는 분명 아직 해양도약자들이 순찰하고 있을 거야. 조심해서, 최대한 싸움은 피하자."
 AvgDialog_23849_Content_1,aiJH,avg章5新_AvgDialog_C_M.csv,668,AvgDialog,Content,,舱门被推开一道缝隙，绚烂的光争先恐后涌入昏暗的船舱。,"선실 문이 틈새만큼 열리자, 찬란한 빛이 어두운 선실 안으로 쏟아져 들어왔다."
-AvgDialog_23849_Content_2,aiJI,avg章5新_AvgDialog_C_M.csv,669,AvgDialog,Content,,如果没有远处游荡的蹈海者，索纳尼尔号或许真的能成为与世隔绝的乌托邦……,"멀리서 배회하는 해양도약자들만 없었다면, 소나닐호는 정말 세상과 단절된 유토피아가 될 수 있었을 텐데..."
 AvgDialog_23845_Content_1,aiHB,avg章5新_AvgDialog_C_M.csv,670,AvgDialog,Content,,你们蹑手蹑脚地一路穿越甲板，墨菲抿着嘴指了指不远处的桥楼，示意机械室就在那里面。,"당신들은 살금살금 갑판을 가로질렀고, 머피는 입술을 오므린 채 가까운 함교를 가리키며 기계실이 그 안에 있다고 알렸다."
-AvgDialog_23845_Content_2,aiHM,avg章5新_AvgDialog_C_M.csv,671,AvgDialog,Content,,只要能引开门口蹈海者的注意，你们就能无声无息地潜进楼里……,"입구에 있는 해양도약자들의 주의만 끌 수 있다면, 소리 없이 건물 안으로 잠입할 수 있을 텐데..."
 AvgDialog_23845_Content_3,aiHO,avg章5新_AvgDialog_C_M.csv,672,AvgDialog,Content,,你了然地点点头，正在口袋里摸索着能被扔出去的杂物时，沉重的脚步由远及近地传来。,"당신은 알았다는 듯 고개를 끄덕이며, 주머니에서 던질 만한 물건을 찾고 있을 때, 묵직한 발소리가 멀리서부터 다가왔다."
 AvgDialog_23845_Content_4,aiHP,avg章5新_AvgDialog_C_M.csv,673,AvgDialog,Content,,墨菲倒吸一口冷气，满脸惊惧。她左右环视了一圈，最后猛地掀开了货箱上的防水布，手脚并用地爬进了箱子里。,"머피가 숨을 들이마셨다, 얼굴에 공포가 가득했다. 그녀는 주위를 둘러보다가, 갑자기 화물 상자의 방수포를 홱 젖히고 손발을 써서 상자 안으로 기어 들어갔다."
 AvgDialog_23845_Content_5,aiHQ,avg章5新_AvgDialog_C_M.csv,674,AvgDialog,Content,玩家,<Small:墨菲？>,<Small:머피?>
 AvgDialog_23845_Content_6,aiHR,avg章5新_AvgDialog_C_M.csv,675,AvgDialog,Content,,箱子不再有任何回音和动静，像静寂的黑洞般吞噬了墨菲。,"상자는 더 이상 아무 소리도, 움직임도 없이, 마치 고요한 블랙홀처럼 머피를 삼켜버렸다."
 AvgDialog_23845_Content_7,aiHS,avg章5新_AvgDialog_C_M.csv,676,AvgDialog,Content,图鲁,噤声，那边有人来了。,"조용히, 저쪽에서 누가 온다."
-AvgDialog_23845_Content_8,aiHT,avg章5新_AvgDialog_C_M.csv,677,AvgDialog,Content,,"用古老语言唤走蹈海者守卫的，无疑是个巨人。
-你们的角度无法看见正身，但其映在甲板上影子格外巨大。","고대 언어로 해양도약자 경비병을 물러가게 한 자는, 의심할 여지없이 거인이었다. 당신들의 위치에서는 본체를 볼 수 없었지만, 갑판에 비친 그림자는 유난히 거대했다."
 AvgDialog_23845_Content_9,aiHU,avg章5新_AvgDialog_C_M.csv,678,AvgDialog,Content,,巨大到，仿佛足以踏平山川、吞食日月——,"마치 산과 강을 짓밟고, 해와 달을 삼킬 수 있을 만큼 거대한——"
 AvgDialog_23845_Content_10,aiHC,avg章5新_AvgDialog_C_M.csv,679,AvgDialog,Content,,巨刃被从远处粗暴地投向你们，力量之大撕破了空气，带起了猛烈的冲击波。,"칼날이 멀리서부터 거칠게 당신들을 향해 날아왔다, 그 힘은 공기를 찢고 맹렬한 충격파를 일으켰다."
 AvgDialog_23845_Content_11,aiHD,avg章5新_AvgDialog_C_M.csv,680,AvgDialog,Content,图鲁,小心！,조심해!
 AvgDialog_23845_Content_12,aiHE,avg章5新_AvgDialog_C_M.csv,681,AvgDialog,Content,,坚实的触肢卷住你的腰，一把把你拽离了巨刃落点。,"단단한 촉수가 당신의 허리를 감싸, 거대한 칼날이 떨어지는 지점에서 당신을 끌어냈다."
-AvgDialog_23845_Content_13,aiHF,avg章5新_AvgDialog_C_M.csv,682,AvgDialog,Content,图鲁,蹈海者大多身体羸弱，擅使轻兵。这把巨剑另有主人，小心应对。,"해양도약자 대부분은 몸이 약하고, 가벼운 무기를 잘 쓴다. 이 거대한 검은 다른 주인이 있을 테니, 조심해서 상대해라."
 AvgDialog_23845_Content_14,aiHG,avg章5新_AvgDialog_C_M.csv,683,AvgDialog,Content,戈利亚？,身体羸弱…我同意你对这些家伙的看法。,몸이 약하다라... 이 녀석들에 대한 네 생각에는 동의한다.
 AvgDialog_23845_Content_15,aiHH,avg章5新_AvgDialog_C_M.csv,684,AvgDialog,Content,戈利亚？,但作为战争前锋，缺乏自我意识的家伙可是不能再好用了。,"하지만 전쟁의 선봉으로, 자의식 없는 녀석들만큼 쓰기 좋은 건 없지."
-AvgDialog_23845_Content_16,aiHI,avg章5新_AvgDialog_C_M.csv,685,AvgDialog,Content,,壮硕高大的男人拖着长长的尾鳍，踢开匍匐脚边的蹈海者，迈着沉重的步子走向你们。,"몸집이 크고 건장한 남자가 긴 꼬리지느러미를 끌며, 발치에 엎드린 해양도약자를 걷어차고, 묵직한 걸음으로 당신들에게 다가왔다."
 AvgDialog_23845_Content_17,aiHJ,avg章5新_AvgDialog_C_M.csv,686,AvgDialog,Content,,他拔起深插在甲板上的巨刃，语气嘲弄，投向你的眼神充满了审视和兴致。,"그는 갑판에 깊이 박힌 거대한 칼날을 뽑아 들었다, 말투는 조롱조였고, 당신을 향한 시선에는 심사와 흥미가 가득했다."
-AvgDialog_23845_Content_18,aiHK,avg章5新_AvgDialog_C_M.csv,687,AvgDialog,Content,玩家,地位高于蹈海者的唤醒体……难道这家伙也是弥利亚姆的同伙？！,해양도약자보다 지위가 높은 각성체... 설마 이 녀석도 미리암의 동료인가?!
 AvgDialog_23845_Content_19,aiHL,avg章5新_AvgDialog_C_M.csv,688,AvgDialog,Content,戈利亚？,“弥利亚姆的同伙”？啧，真难听。,"「미리암의 동료」? 쯧, 듣기 거북하군."
 AvgDialog_23845_Content_20,aiHN,avg章5新_AvgDialog_C_M.csv,689,AvgDialog,Content,戈利亚,"吾名戈利亚。
 记住了，这是踏破诸海之人的名讳！","내 이름은 골리아다. 기억해 둬, 모든 바다를 제패한 자의 이름이다!"
@@ -1834,12 +1773,9 @@ AvgDialog_23851_Content_9,aiKR,avg章5新_AvgDialog_C_M.csv,698,AvgDialog,Conten
 AvgDialog_23851_Content_10,aiJY,avg章5新_AvgDialog_C_M.csv,699,AvgDialog,Content,,狂笑在密境空间回荡，气氛变得更加剑拔弩张。,"광기 어린 웃음소리가 비경 공간에 울려 퍼지며, 분위기는 더욱 팽팽해졌다."
 AvgDialog_23851_Content_11,aiJZ,avg章5新_AvgDialog_C_M.csv,700,AvgDialog,Content,戈利亚,别这么紧张，我不打算在这里解决掉你们。,"그렇게 긴장하지 마, 여기서 너희를 끝장낼 생각은 없으니까."
 AvgDialog_23851_Content_12,aiKa,avg章5新_AvgDialog_C_M.csv,701,AvgDialog,Content,戈利亚,提灯教会那些废物，连点守备的活都做不好，居然让这小矮子溜了进来……不过也多亏了他们的无能，现在这场仪式可变得更精彩了。,"등불 교회의 저 무능한 놈들, 경비 하나 제대로 못 해서 이 꼬마를 들여보내다니... 하지만 저들의 무능 덕분에, 이제 이 의식은 더 재밌어지겠군."
-AvgDialog_23851_Content_13,aiKb,avg章5新_AvgDialog_C_M.csv,702,AvgDialog,Content,玩家,提灯教会……蹈海者和提灯教会竟然是一伙人？,등불 교회... 해양도약자와 등불 교회가 한패였나?
-AvgDialog_23851_Content_14,aiKc,avg章5新_AvgDialog_C_M.csv,703,AvgDialog,Content,戈利亚,哈？别把我和那群疯子相提并论。蹈海者的外形难以行走世间，而他们想要我们的力量……怪人的相互利用，抱团取暖罢了。,"하? 날 그 미치광이들과 한통속으로 묶지 마. 해양도약자들의 외형은 세상에 나서기 어렵고, 저들은 우리의 힘을 원해... 괴물들끼리 서로 이용하고, 뭉쳐서 온기를 나누는 것뿐이야."
 AvgDialog_23851_Content_15,aiKd,avg章5新_AvgDialog_C_M.csv,704,AvgDialog,Content,玩家,不仅和提灯教会有牵连，而且你口中的<Blue:仪式>……,"등불 교회와 연관이 있을 뿐만 아니라, 네가 말하는 <Blue:의식>..."
 AvgDialog_23851_Content_16,aiKe,avg章5新_AvgDialog_C_M.csv,705,AvgDialog,Content,玩家,戈利亚……你究竟是什么人？,골리아... 너는 대체 누구야?
 AvgDialog_23851_Content_17,aiKf,avg章5新_AvgDialog_C_M.csv,706,AvgDialog,Content,戈利亚,我是什么人？哈哈哈哈哈！为什么不问问你身边那家伙呢？,내가 누구냐고? 하하하하! 왜 옆에 있는 저 녀석에게 묻지 않지?
-AvgDialog_23851_Content_18,aiKg,avg章5新_AvgDialog_C_M.csv,707,AvgDialog,Content,戈利亚,我，还有这些蹈海者从何而来——您不会猜不到吧？毕竟您可是至高无上的……,"나, 그리고 이 해양도약자들이 어디서 왔는지—— 짐작이 안 가는 건 아니겠지? 당신은 지고하신..."
 AvgDialog_23851_Content_19,aiKh,avg章5新_AvgDialog_C_M.csv,708,AvgDialog,Content,图鲁,僭越！,무례하다!
 AvgDialog_23851_Content_20,aiKj,avg章5新_AvgDialog_C_M.csv,709,AvgDialog,Content,戈利亚,真吓人真吓人——但可惜，我可不是你那些忠心耿耿的臣子。,"무섭네, 무서워—— 하지만 아쉽게도, 난 네 충성스러운 신하는 아니야."
 AvgDialog_23851_Content_21,aiKk,avg章5新_AvgDialog_C_M.csv,710,AvgDialog,Content,戈利亚,我还得继续为仪式做准备，没空和你们继续纠缠不清。,"난 의식을 계속 준비해야 해서, 너희와 더 이상 얽힐 시간이 없어."
@@ -1876,20 +1812,14 @@ AvgDialog_23856_Content_1,aiPB,avg章5新_AvgDialog_C_M.csv,737,AvgDialog,Conten
 AvgDialog_23856_Content_2,aiQc,avg章5新_AvgDialog_C_M.csv,738,AvgDialog,Content,玩家,墨菲，墨菲？,"머피, 머피?"
 AvgDialog_23856_Content_3,aiQn,avg章5新_AvgDialog_C_M.csv,739,AvgDialog,Content,玩家,不用躲了，戈利亚已经走得足够远了。,"숨지 않아도 돼, 골리아는 이미 멀리 갔어."
 AvgDialog_23856_Content_4,aiQy,avg章5新_AvgDialog_C_M.csv,740,AvgDialog,Content,墨菲,真、真的吗？,"저, 정말?"
-AvgDialog_23856_Content_5,aiQJ,avg章5新_AvgDialog_C_M.csv,741,AvgDialog,Content,玩家,"没事了，甲板上的蹈海者也跟着他走掉了。
-来，手给我，我扶你出来。","괜찮아, 갑판의 해양도약자들도 그를 따라갔어. 자, 손 줘, 내가 꺼내 줄게."
 AvgDialog_23856_Content_6,aiQU,avg章5新_AvgDialog_C_M.csv,742,AvgDialog,Content,,墨菲刚一站定，图鲁的触手就在你的默许下紧紧捆住了她的脚踝。,"머피가 막 일어서자, 툴루의 촉수가 당신의 묵인 하에 그녀의 발목을 단단히 묶었다."
 AvgDialog_23856_Content_7,aiRf,avg章5新_AvgDialog_C_M.csv,743,AvgDialog,Content,墨菲,干、干什么？！我知道我扔下你们单独面对戈利亚，是我的不对……,"뭐, 뭐 하는 거야?! 내가 너희를 버리고 골리아와 마주하게 한 건, 내 잘못이지만..."
 AvgDialog_23856_Content_8,aiRq,avg章5新_AvgDialog_C_M.csv,744,AvgDialog,Content,墨菲,但、但如果他是来找我的，被他抓到我就只有死路一条！我、我……,"하지만, 하지만 그가 날 찾으러 온 거라면, 잡히면 난 죽을 수밖에 없어! 나, 난..."
 AvgDialog_23856_Content_9,aiRB,avg章5新_AvgDialog_C_M.csv,745,AvgDialog,Content,玩家,墨菲。,머피.
 AvgDialog_23856_Content_10,aiPC,avg章5新_AvgDialog_C_M.csv,746,AvgDialog,Content,墨菲,干、干什么，干嘛突然这么看着我？你们俩这是什么眼神？,"뭐, 뭐야, 왜 갑자기 그렇게 쳐다보는 거야? 너희 둘, 그 눈빛은 뭐야?"
 AvgDialog_23856_Content_11,aiPN,avg章5新_AvgDialog_C_M.csv,747,AvgDialog,Content,玩家,你能够通过脚步判断来人是戈利亚，而再之前，你的言行中已经透露出了你对弥利亚姆的熟识。,"넌 발소리만으로도 골리아인 줄 알았고, 그전에도 네 말과 행동에서 미리암을 잘 알고 있다는 게 드러났어."
-AvgDialog_23856_Content_12,aiPU,avg章5新_AvgDialog_C_M.csv,748,AvgDialog,Content,玩家,你很了解「蹈海者」这个组织，你是「蹈海者」的一份子，甚至身居高位……或者说，他们就是为你而来。,"넌 「해양도약자」라는 조직을 잘 알고 있고, 그 일원이며, 심지어 지위도 높아... 아니, 저들이 널 찾아온 거지."
-AvgDialog_23856_Content_13,aiPV,avg章5新_AvgDialog_C_M.csv,749,AvgDialog,Content,玩家,你是蹈海者口中的「神母」，孕育新神的容器……是吗？,"넌 해양도약자들이 말하는 「신모」, 새로운 신을 잉태할 그릇... 맞지?"
 AvgDialog_23856_Content_14,aiPW,avg章5新_AvgDialog_C_M.csv,750,AvgDialog,Content,墨菲,<Big:我不是！>,<Big:아니야!>
-AvgDialog_23856_Content_15,aiPX,avg章5新_AvgDialog_C_M.csv,751,AvgDialog,Content,玩家,那要如何解释你对戈利亚、弥利亚姆的熟悉，以及你对蹈海者的逃避？,"그럼 골리아, 미리암과 친한 것, 그리고 해양도약자들로부터 도망치는 건 어떻게 설명할 건데?"
 AvgDialog_23856_Content_16,aiPY,avg章5新_AvgDialog_C_M.csv,752,AvgDialog,Content,墨菲,我只是……侍女……普通的侍女，在教团驻地里，像我这样的女孩多得数不清。,"난 그냥... 시녀... 평범한 시녀야. 교단 주둔지에, 나 같은 여자애들은 셀 수 없이 많아."
-AvgDialog_23856_Content_17,aiPZ,avg章5新_AvgDialog_C_M.csv,753,AvgDialog,Content,玩家,在蹈海者的群体中，人类外表应该是非常稀有的。不然凭借他们的战斗力，也不会需要与提灯教会进行合作。,"해양도약자들 사이에서, 인간의 모습은 매우 드물 거야. 그렇지 않다면 그들의 전투력으로, 등불 교회와 협력할 필요도 없었겠지."
 AvgDialog_23856_Content_18,aiQa,avg章5新_AvgDialog_C_M.csv,754,AvgDialog,Content,玩家,如果你只是一个无关紧要的人类侍女，为什么他们会大动干戈地追捕你？,"네가 그저 중요하지 않은 인간 시녀라면, 왜 그들이 그렇게 대대적으로 널 쫓는 거지?"
 AvgDialog_23856_Content_19,aiQb,avg章5新_AvgDialog_C_M.csv,755,AvgDialog,Content,墨菲,都是、这只是……,"다, 이건 그냥..."
 AvgDialog_23856_Content_20,aiQd,avg章5新_AvgDialog_C_M.csv,756,AvgDialog,Content,玩家,墨菲，我需要知道发生了什么。,"머피, 무슨 일이 있었는지 알아야 해."
@@ -1988,7 +1918,6 @@ AvgDialog_23856_Content_100,aiPD,avg章5新_AvgDialog_C_M.csv,836,AvgDialog,Cont
 AvgDialog_23856_Content_101,aiPE,avg章5新_AvgDialog_C_M.csv,837,AvgDialog,Content,墨菲,为什么……为什么要告诉我这些？,왜... 왜 이걸 나한테 말해주는 거야?
 AvgDialog_23856_Content_102,aiPF,avg章5新_AvgDialog_C_M.csv,838,AvgDialog,Content,戈利亚,郁郁寡欢可不是什么好事，要知道，你的状态可决定了「神」的生长。,"우울해하는 건 좋은 게 아니지, 네 상태가 「신」의 성장을 결정한다는 걸 알아 두라고."
 AvgDialog_23856_Content_103,aiPG,avg章5新_AvgDialog_C_M.csv,839,AvgDialog,Content,戈利亚,下一个星辰正位之时在二十五年后。我估计，弥利亚姆这两天就要来让你沉睡了。,"다음 정위의 순간은 25년 후야. 내 생각엔, 미리암이 조만간 널 재우러 올 거다."
-AvgDialog_23856_Content_104,aiPH,avg章5新_AvgDialog_C_M.csv,840,AvgDialog,Content,戈利亚,做点什么你喜欢的事吧，搞破坏，对蹈海者抽鞭子，折腾你的女仆……随便什么都行。,"네가 좋아하는 일을 해, 파괴를 하든, 해양도약자를 채찍질하든, 네 하녀를 괴롭히든... 뭐든지 괜찮아."
 AvgDialog_23856_Content_105,aiPI,avg章5新_AvgDialog_C_M.csv,841,AvgDialog,Content,,戈利亚单方面中止了这场对话，毫无温情可言地拍了拍她的发顶。,"골리아가 일방적으로 대화를 중단하고, 아무런 온정 없이 그녀의 머리를 툭 쳤다."
 AvgDialog_23856_Content_106,aiPJ,avg章5新_AvgDialog_C_M.csv,842,AvgDialog,Content,,离开时，他看了一眼被墨菲扔到墙角的木雕。少女的手艺非常差，那木质底座上端坐着的形状肥大而诡异，让人只看一眼就心生厌烦。,"떠날 때, 그는 머피가 구석에 던져놓은 목각을 흘끗 보았다. 소녀의 솜씨는 매우 서툴렀고, 그 나무 받침대 위에 앉아 있는 것은 모양이 뚱뚱하고 기괴해서, 한 번만 봐도 싫증이 났다."
 AvgDialog_23856_Content_107,aiPK,avg章5新_AvgDialog_C_M.csv,843,AvgDialog,Content,戈利亚,嗤。,흥.
@@ -2001,7 +1930,6 @@ AvgDialog_23856_Content_113,aiPR,avg章5新_AvgDialog_C_M.csv,849,AvgDialog,Cont
 AvgDialog_23856_Content_114,aiPS,avg章5新_AvgDialog_C_M.csv,850,AvgDialog,Content,,……,...
 AvgDialog_23856_Content_115,aiPT,avg章5新_AvgDialog_C_M.csv,851,AvgDialog,Content,墨菲,我也不想……就这么结束……,나도... 이렇게 끝나고 싶지 않아...
 AvgDialog_23857_Content_1,aiRM,avg章5新_AvgDialog_C_M.csv,852,AvgDialog,Content,,命运的种子,운명의 씨앗
-AvgDialog_23857_Content_2,aiRX,avg章5新_AvgDialog_C_M.csv,853,AvgDialog,Content,玩家,蹈海者教团、被冒险队破坏的仪式、被融蚀的前任母体……还有你体内的「神明」……,"해양도약자 교단, 모험대가 파괴한 의식, 융식된 전임 모체... 그리고 네 몸 안의 「신」..."
 AvgDialog_23857_Content_3,aiSi,avg章5新_AvgDialog_C_M.csv,854,AvgDialog,Content,,艾继丝、梅森小姐、莉莉、丽莎……迄今为止，你遇见了不少受到身体改造的人。,"아이기스, 메이슨, 릴리, 리사... 지금까지, 당신은 신체 개조를 받은 사람들을 꽤 많이 만났다."
 AvgDialog_23857_Content_4,aiSt,avg章5新_AvgDialog_C_M.csv,855,AvgDialog,Content,,但将<Blue:“神明”>移植进活人的身体里？这实在是……,하지만 <Blue:「신」>을 살아있는 사람의 몸에 이식한다? 그것은 너무나...
 AvgDialog_23857_Content_5,aiSA,avg章5新_AvgDialog_C_M.csv,856,AvgDialog,Content,墨菲,你这是什么表情？不相信就算了，我也没指望你一时半会能听懂我的话。,"그 표정은 뭐야? 안 믿으면 됐어, 나도 네가 금방 내 말을 이해할 거라고 기대 안 했으니까."
@@ -2039,7 +1967,6 @@ AvgDialog_23857_Content_32,aiSl,avg章5新_AvgDialog_C_M.csv,883,AvgDialog,Conte
 AvgDialog_23857_Content_33,aiSm,avg章5新_AvgDialog_C_M.csv,884,AvgDialog,Content,玩家,希莱斯特是？,셀레스트?
 AvgDialog_23857_Content_34,aiSn,avg章5新_AvgDialog_C_M.csv,885,AvgDialog,Content,,"墨菲看向回转着奇异流光的天空。
 飞鸟在光幕下盘旋，光线扭曲而柔和，隔绝了外部可能的狂风暴雨。","머피는 기이한 빛으로 회전하는 하늘을 바라보았다. 새들이 빛의 막 아래에서 선회하고, 빛은 왜곡되고 부드러우며, 외부의 가능한 폭풍우를 막아주었다."
-AvgDialog_23857_Content_35,aiSo,avg章5新_AvgDialog_C_M.csv,886,AvgDialog,Content,墨菲,蹈海者教团的笔记中，反复强调着<Blue:星辰正位>的重要性，降生仪式也必须在特定的时间进行，这就是那女人让我沉睡的原因。,"해양도약자 교단의 기록에는, <Blue:별들의 정위>의 중요성이 반복적으로 강조되고, 강신 의식도 특정 시간에 진행되어야 해. 그 여자가 날 잠재우려는 이유도 그거야."
 AvgDialog_23857_Content_36,aiSp,avg章5新_AvgDialog_C_M.csv,887,AvgDialog,Content,墨菲,"船长推测，祂的成长也许与天体运转的规则有关。
 所以希莱斯特就以船为中心，制造出了这个与世隔绝的密境。","선장님은 그분의 성장이 아마 천체의 운행 규칙과 관련이 있을 거라고 추측했어. 그래서 셀레스트가 배를 중심으로, 이 세상과 단절된 비경을 만든 거야."
 AvgDialog_23857_Content_37,aiSq,avg章5新_AvgDialog_C_M.csv,888,AvgDialog,Content,墨菲,我们猜对了，自从离开了真正的天空，祂就沉寂了下来。只要在船上躲过这一次的「星辰正位之时」，也许祂就会永远休眠下去。,"우리가 맞았어, 진짜 하늘을 떠난 이후로, 그분은 잠잠해졌어. 배 위에서 이번 「정위의 순간」만 넘기면, 아마 영원히 잠들지도 몰라."
@@ -2047,7 +1974,6 @@ AvgDialog_23857_Content_38,aiSr,avg章5新_AvgDialog_C_M.csv,889,AvgDialog,Conte
 AvgDialog_23857_Content_39,aiSs,avg章5新_AvgDialog_C_M.csv,890,AvgDialog,Content,玩家,"听起来，她也是一名唤醒体。
 等等……她就是你口中“能帮忙找到拉蒙娜”的人？","듣자 하니, 그녀도 각성체인 것 같네. 잠깐... 그녀가 네가 말한 「라모나를 찾는 데 도움이 될 사람」이야?"
 AvgDialog_23857_Content_40,aiSu,avg章5新_AvgDialog_C_M.csv,891,AvgDialog,Content,墨菲,没错，这艘船上什么东西都逃不过她的眼睛。,"맞아, 이 배에 있는 건 뭐든 그녀의 눈을 피할 수 없어."
-AvgDialog_23857_Content_41,aiSv,avg章5新_AvgDialog_C_M.csv,892,AvgDialog,Content,墨菲,她肯定带着船长躲开了蹈海者，只要我们找到她，找到你同伴的位置就是小菜一碟。,"그녀는 분명 선장님을 데리고 해양도약자들을 피했을 거야, 우리가 그녀를 찾기만 하면, 네 동료의 위치를 찾는 건 식은 죽 먹기지."
 AvgDialog_23857_Content_42,aiSw,avg章5新_AvgDialog_C_M.csv,893,AvgDialog,Content,图鲁,换句话说，无论我们选择先帮你，还是先去救拉蒙娜，这位希莱斯特都是关键。,"다시 말해, 우리가 먼저 너를 돕든, 라모나를 구하러 가든, 이 셀레스트가 핵심이라는 거군."
 AvgDialog_23857_Content_43,aiSx,avg章5新_AvgDialog_C_M.csv,894,AvgDialog,Content,,图鲁不再说话，只歪过头看着你，等待你做决定。,"툴루는 더 이상 말하지 않고, 고개를 기울여 당신을 바라보며, 당신의 결정을 기다렸다."
 AvgDialog_23857_Content_44,aiSy,avg章5新_AvgDialog_C_M.csv,895,AvgDialog,Content,,没错。不管是让这艘船回到陆地，阻止降神仪式，还是救出拉蒙娜，现在唯一的出路都是找到「希莱斯特」。,"이 배를 육지로 돌려보내든, 강신 의식을 막든, 라모나를 구하든, 지금 유일한 방법은 「셀레스트」를 찾는 것뿐이군."
@@ -2079,8 +2005,6 @@ AvgDialog_23842_Content_22,aiFU,avg章5新_AvgDialog_C_M.csv,918,AvgDialog,Conte
 AvgDialog_24081_Content_1,ajfY,avg章5新_AvgDialog_C_M.csv,919,AvgDialog,Content,,另一个奇迹,또 다른 기적
 AvgDialog_24081_Content_2,ajgj,avg章5新_AvgDialog_C_M.csv,920,AvgDialog,Content,埃尔顿,希莱斯特……,셀레스트...
 AvgDialog_24081_Content_3,ajgn,avg章5新_AvgDialog_C_M.csv,921,AvgDialog,Content,,埃尔顿闭了闭眼，吐烟圈似地长吁一口气，似乎这样就能排尽体内的污秽。,"엘튼은 눈을 감고, 마치 몸 안의 오물을 뱉어내려는 듯 길게 한숨을 내쉬었다."
-AvgDialog_24081_Content_4,ajgo,avg章5新_AvgDialog_C_M.csv,922,AvgDialog,Content,埃尔顿,"蹈海者登船时，我和希莱斯特并不在一起。
-在安全屋等了这么久，你们是最先找到我的人。","해양도약자들이 배에 올랐을 때, 난 혼자였다. 안전가옥에서 계속 기다렸는데, 자네들이 날 먼저 찾았군."
 AvgDialog_24081_Content_5,ajgp,avg章5新_AvgDialog_C_M.csv,923,AvgDialog,Content,墨菲,怎、怎么会？希莱斯特不擅长战斗，万一她……,"어, 어째서? 셀레스트는 싸움을 잘 못하잖아. 만약 그녀가..."
 AvgDialog_24081_Content_6,ajgq,avg章5新_AvgDialog_C_M.csv,924,AvgDialog,Content,埃尔顿,她没事，我和她之间的链接很稳定。,그녀는 괜찮아. 그녀와의 링크는 안정적이니까.
 AvgDialog_24081_Content_7,ajgr,avg章5新_AvgDialog_C_M.csv,925,AvgDialog,Content,玩家,链接？这么说，这位希莱斯特确实是唤醒体……,"링크? 그럼, 셀레스트는 정말로 각성체..."
@@ -2175,13 +2099,10 @@ AvgDialog_24084_Content_52,ajhP,avg章5新_AvgDialog_C_M.csv,1007,AvgDialog,Cont
 AvgDialog_24079_Content_1,ajeB,avg章5新_AvgDialog_C_M.csv,1008,AvgDialog,Content,,追逐繁星,별을 쫓아서
 AvgDialog_24079_Content_2,ajeM,avg章5新_AvgDialog_C_M.csv,1009,AvgDialog,Content,,"外海货轮·索纳尼尔号
 动力室",외해 화물선 소나-닐호\n동력실
-AvgDialog_24079_Content_3,ajeX,avg章5新_AvgDialog_C_M.csv,1010,AvgDialog,Content,,煤渣堆积成山，皮肤潮湿的蹈海者们在动力室来回走动，尾鳍在地上拖出一道道状若污泥的黑痕。,"석탄재가 산처럼 쌓여 있었고, 축축한 피부의 해양도약자들이 동력실을 오가며, 꼬리지느러미가 바닥에 진흙 같은 검은 흔적을 남겼다."
 AvgDialog_24079_Content_4,ajfi,avg章5新_AvgDialog_C_M.csv,1011,AvgDialog,Content,拉蒙娜,<Gray:动力室只有一个出入口，从我的位置全力冲过去应该只需要7秒，但是……>,"<Gray:동력실은 출입구가 하나뿐이야, 내 위치에서 전력으로 달려가면 7초면 되겠지만...>"
 AvgDialog_24079_Content_5,ajft,avg章5新_AvgDialog_C_M.csv,1012,AvgDialog,Content,,她倾身揉了揉脚踝，虽然紧急处理了脱臼的关节，但伤处还是无可避免地肿了起来。只是简单的触碰，都能带来火烧般的疼痛。,"그녀는 몸을 숙여 발목을 주물렀다. 탈구된 관절을 응급 처치했지만, 상처 부위는 어쩔 수 없이 부어올랐다. 그냥 간단히 만지기만 해도, 불타는 듯한 통증이 느껴졌다."
 AvgDialog_24079_Content_6,ajfE,avg章5新_AvgDialog_C_M.csv,1013,AvgDialog,Content,拉蒙娜,<Gray:疼痛指数在4级左右，按照我本学期的运动功能缺损评估来看，速度会降低20%……>,"<Gray:통증 지수는 4등급 정도, 이번 학기 운동 기능 손상 평가로 보면, 속도가 20% 감소할 거야...>"
-AvgDialog_24079_Content_7,ajfO,avg章5新_AvgDialog_C_M.csv,1014,AvgDialog,Content,拉蒙娜,<Gray:时间不够。现在动力室成了他们的据点，敌人太多了，我在冲到门边之前就会被蹈海者拦下来。>,"<Gray:시간이 부족해. 지금 동력실은 저들의 거점이 되었고, 적이 너무 많아서 문가에 다다르기 전에 해양도약자들에게 막힐 거야.>"
 AvgDialog_24079_Content_8,ajfP,avg章5新_AvgDialog_C_M.csv,1015,AvgDialog,Content,拉蒙娜,<Gray:况且……这家伙也看得太紧了吧。>,"<Gray:게다가... 이 녀석, 감시가 너무 철저해.>"
-AvgDialog_24079_Content_9,ajfQ,avg章5新_AvgDialog_C_M.csv,1016,AvgDialog,Content,,蹈海者们在为「仪式」做着准备，而那唤醒体少年也忠诚地履行着使命，一动不动、寸步不移地看守着她。,"해양도약자들은 「의식」을 준비하고 있었고, 그 각성체 소년도 충실히 사명을 이행하며, 꼼짝도 않고 한 발짝도 움직이지 않고 그녀를 지키고 있었다."
 AvgDialog_24079_Content_10,ajeC,avg章5新_AvgDialog_C_M.csv,1017,AvgDialog,Content,,拉蒙娜每次一有动作，哪怕只是换了个坐姿缓解疼痛，凯刻斯都会投来警惕的目光，将武器对准她。,"라모나가 움직일 때마다, 심지어 통증을 완화하기 위해 앉는 자세를 바꿀 때조차, 카이커스는 경계의 눈빛을 보내며 무기를 그녀에게 겨눴다."
 AvgDialog_24079_Content_11,ajeD,avg章5新_AvgDialog_C_M.csv,1018,AvgDialog,Content,拉蒙娜,凯刻斯，你……,"카이커스, 너..."
 AvgDialog_24079_Content_12,ajeE,avg章5新_AvgDialog_C_M.csv,1019,AvgDialog,Content,凯刻斯,"老实点！
@@ -2191,7 +2112,6 @@ AvgDialog_24079_Content_14,ajeG,avg章5新_AvgDialog_C_M.csv,1021,AvgDialog,Cont
 AvgDialog_24079_Content_15,ajeH,avg章5新_AvgDialog_C_M.csv,1022,AvgDialog,Content,,拉蒙娜长舒一口气，调整呼吸节奏以让自己忽略脚踝若有似无的疼痛。同时认真观察着动力室内的情形，生怕错过任何可乘之机。,"라모나는 긴 한숨을 내쉬고, 호흡 리듬을 조절하여 발목의 희미한 통증을 무시하려 했다. 동시에 동력실 안의 상황을 진지하게 관찰하며, 어떤 기회도 놓치지 않으려 했다."
 AvgDialog_24079_Content_16,ajeI,avg章5新_AvgDialog_C_M.csv,1023,AvgDialog,Content,,锁芯转动声响起时，浑身肌肉都随之紧绷了起来。,"자물쇠가 돌아가는 소리가 들리자, 온몸의 근육이 그에 따라 팽팽해졌다."
 AvgDialog_24079_Content_17,ajeJ,avg章5新_AvgDialog_C_M.csv,1024,AvgDialog,Content,提灯女性1,咳、咳咳……一股陈旧的腐朽气息。,"콜록, 콜록... 낡고 썩은 냄새가 나네."
-AvgDialog_24079_Content_18,ajeK,avg章5新_AvgDialog_C_M.csv,1025,AvgDialog,Content,,女人曼妙挺拔的身姿与蹈海者们形成极为鲜明的对比，她的脸上也写满嫌恶，显然，她并不愿与蹈海者教团并肩同行。,"여인의 우아하고 꼿꼿한 자태는 해양도약자들과 극명한 대조를 이루었고, 그녀의 얼굴에도 혐오감이 가득했다. 분명, 그녀는 해양도약자 교단과 어깨를 나란히 하고 싶지 않은 듯했다."
 AvgDialog_24079_Content_19,ajeL,avg章5新_AvgDialog_C_M.csv,1026,AvgDialog,Content,男性教徒,别走那么快，你多少搭把手吧！我手上牵着的可是个唤醒体啊！,"그렇게 빨리 가지 마, 좀 도와줘! 내가 데리고 있는 건 각성체라고!"
 AvgDialog_24079_Content_20,ajeN,avg章5新_AvgDialog_C_M.csv,1027,AvgDialog,Content,,唤醒体？,각성체?
 AvgDialog_24079_Content_21,ajeO,avg章5新_AvgDialog_C_M.csv,1028,AvgDialog,Content,,拉蒙娜猛地抬头看向门边，一名白裙少女正被那黑衣教徒桎梏着，却也抬头迎上了拉蒙娜的目光。,"라모나가 갑자기 고개를 들어 문가를 쳐다보았다. 흰 드레스를 입은 소녀가 그 검은 옷의 교도에게 묶여 있었지만, 고개를 들어 라모나의 시선을 마주했다."
@@ -2203,7 +2123,6 @@ AvgDialog_24079_Content_26,ajeT,avg章5新_AvgDialog_C_M.csv,1033,AvgDialog,Cont
 这些野蛮人，真是不讲究。","흥... 이런 낡고 더러운 곳에 둥지를 틀다니. 이 야만인들, 정말 세련되지 못해."
 AvgDialog_24079_Content_27,ajeU,avg章5新_AvgDialog_C_M.csv,1034,AvgDialog,Content,男性教徒,"行啦行啦，等完成任务回到<Yellow:提灯驻地>，你爱怎么说怎么说。
 别忘了我们现在可是在别人的地盘里。","됐다, 됐어. 임무 마치고 <Yellow:등불 주둔지>로 돌아가면, 네 맘대로 말해. 우리가 지금 남의 구역에 있다는 걸 잊지 마."
-AvgDialog_24079_Content_28,ajeV,avg章5新_AvgDialog_C_M.csv,1035,AvgDialog,Content,拉蒙娜,<Gray:提灯驻地……这两人莫非是提灯教会的成员？他们和蹈海者果然有关联。>,<Gray:등불 주둔지... 이 두 사람은 등불 교회 신도인가? 그들과 해양도약자는 역시 관련이 있었어.>
 AvgDialog_24079_Content_29,ajeW,avg章5新_AvgDialog_C_M.csv,1036,AvgDialog,Content,,女性教徒冷哼一声，接过捆绑着唤醒体的绳子，粗暴地将她拉扯到了凯刻斯面前。,"여성 신도가 코웃음을 치며, 각성체를 묶은 밧줄을 받아들고, 그녀를 거칠게 카이커스 앞으로 끌고 갔다."
 AvgDialog_24079_Content_30,ajeY,avg章5新_AvgDialog_C_M.csv,1037,AvgDialog,Content,提灯女性1,弥利亚姆让我转告你：看好她们两个。,미리암이 전하라고 했어. 저 둘을 잘 지켜보라고.
 AvgDialog_24079_Content_31,ajeZ,avg章5新_AvgDialog_C_M.csv,1038,AvgDialog,Content,,面对提灯教众的无礼，凯刻斯此时竟表现得尤其平静，他将唤醒体少女拉到拉蒙娜身边，又当起了沉默的士兵。,"등불 교도들의 무례함에도, 카이커스는 이때 유난히 평온한 모습을 보였다. 그는 각성체 소녀를 라모나 곁으로 끌어당기고, 다시 침묵의 병사가 되었다."
@@ -2236,7 +2155,6 @@ AvgDialog_24079_Content_55,ajfz,avg章5新_AvgDialog_C_M.csv,1062,AvgDialog,Cont
 AvgDialog_24079_Content_56,ajfA,avg章5新_AvgDialog_C_M.csv,1063,AvgDialog,Content,,趁所有人的注意力都在弥利亚姆身上，拉蒙娜悄悄碰了碰少女唤醒体的手。后者抬头看向她，脸上的表情似乎不包含任何情绪。,"모든 사람의 주의가 미리암에게 쏠린 틈을 타, 라모나가 살짝 소녀 각성체의 손을 건드렸다. 후자는 그녀를 쳐다보았고, 그 얼굴에는 아무런 감정도 담겨 있지 않은 듯했다."
 AvgDialog_24079_Content_57,ajfB,avg章5新_AvgDialog_C_M.csv,1064,AvgDialog,Content,拉蒙娜,<Small:希莱斯特…我或许有办法能让我们逃出去。>,<Small:셀레스트... 우리가 탈출할 방법이 있을지도 몰라.>
 AvgDialog_24079_Content_58,ajfC,avg章5新_AvgDialog_C_M.csv,1065,AvgDialog,Content,,希莱斯特眼中的云雾散去了一些，闪现出几丝错愕。,"셀레스트의 눈에 낀 안개가 조금 걷히고, 몇 가닥의 당혹감이 스쳤다."
-AvgDialog_24079_Content_59,ajfD,avg章5新_AvgDialog_C_M.csv,1066,AvgDialog,Content,拉蒙娜,<Small:你是密境的主人，如果你能让密境消失一会儿，引起蹈海者混乱的话……>,"<Small:넌 비경의 주인이잖아, 만약 비경을 잠시 사라지게 해서, 해양도약자들을 혼란에 빠뜨릴 수 있다면...>"
 AvgDialog_24079_Content_60,ajfF,avg章5新_AvgDialog_C_M.csv,1067,AvgDialog,Content,,希莱斯特没有回应她，只是眨了眨眼。拉蒙娜不明白对方是否能够理解自己，但她自己知道，手套下早就泌出了紧张的汗水。,"셀레스트는 그녀에게 대답하지 않고, 그저 눈을 깜빡였다. 라모나는 상대가 자신을 이해할 수 있는지 알 수 없었지만, 그녀 자신은 장갑 아래에 긴장으로 땀이 배어 있다는 것을 알고 있었다."
 AvgDialog_24079_Content_61,ajfG,avg章5新_AvgDialog_C_M.csv,1068,AvgDialog,Content,希莱斯特,<Small:这是……你的愿望？>,<Small:이게... 당신의 소원이야?>
 AvgDialog_24079_Content_62,ajfH,avg章5新_AvgDialog_C_M.csv,1069,AvgDialog,Content,,拉蒙娜怔住了，但身体先于思维做出了反应——她下意识地点了点头。,"라모나는 멈칫했지만, 몸이 생각보다 먼저 반응했다——그녀는 무심코 고개를 끄덕였다."
@@ -2245,13 +2163,11 @@ AvgDialog_24079_Content_64,ajfJ,avg章5新_AvgDialog_C_M.csv,1071,AvgDialog,Cont
 AvgDialog_24079_Content_65,ajfK,avg章5新_AvgDialog_C_M.csv,1072,AvgDialog,Content,蹈海者,月亮！月亮！,달이다! 달!
 AvgDialog_24079_Content_66,ajfL,avg章5新_AvgDialog_C_M.csv,1073,AvgDialog,Content,,就在那一刻，动力室陷入一片黑暗。陌生而深沉的寂静在周围弥漫，黑暗淹没了一切形体，却让拉蒙娜的肾上腺素猛然飙升。,"바로 그 순간, 동력실은 칠흑 같은 어둠에 잠겼다. 낯설고 깊은 정적이 주위를 감돌았고, 어둠이 모든 형체를 삼켰지만, 라모나의 아드레날린은 맹렬히 솟구쳤다."
 AvgDialog_24079_Content_67,ajfM,avg章5新_AvgDialog_C_M.csv,1074,AvgDialog,Content,拉蒙娜,<Small:趁现在！>,<Small:지금이야!>
-AvgDialog_24079_Content_68,ajfN,avg章5新_AvgDialog_C_M.csv,1075,AvgDialog,Content,,拉蒙娜拉住了唤醒体的手，全身的力量都集中在了下肢。她撞开身边的蹈海者，全速向动力室外冲去。,"라모나가 각성체의 손을 잡고, 온몸의 힘을 하체에 집중했다. 그녀는 옆에 있던 해양도약자를 밀치고, 전속력으로 동력실 밖으로 뛰쳐나갔다."
 AvgDialog_24083_Content_1,ajgJ,avg章5新_AvgDialog_C_M.csv,1076,AvgDialog,Content,,"在希莱斯特的指引下，两人在迷宫般的舱室间穿行。
 不多时，她们拐入了一个昏暗的舱室。","셀레스트의 안내로, 두 사람은 미로 같은 선실 사이를 헤쳐나갔다. 얼마 지나지 않아, 그녀들은 어두컴컴한 선실로 꺾어 들어갔다."
 AvgDialog_24083_Content_2,ajgM,avg章5新_AvgDialog_C_M.csv,1077,AvgDialog,Content,,沉重的脚步声穿透上方甲板，每一步都如同命运之神落下的铁锤，在灵魂上敲出阵阵难以忍受的恐惧。,"무거운 발소리가 위 갑판을 뚫고 들려왔다, 한 걸음 한 걸음이 마치 운명의 신이 내리치는 쇠망치처럼, 영혼에 참을 수 없는 공포를 두드렸다."
 AvgDialog_24083_Content_3,ajgN,avg章5新_AvgDialog_C_M.csv,1078,AvgDialog,Content,拉蒙娜,<Small:好沉重的脚步声……希莱斯特，你知道这声音是谁发出的吗？>,"<Small:무거운 발소리... 셀레스트, 이 소리가 누구 것인지 알아?>"
 AvgDialog_24083_Content_4,ajgO,avg章5新_AvgDialog_C_M.csv,1079,AvgDialog,Content,,希莱斯特摇了摇头，那张脸上不再能看出任何情绪。,"셀레스트는 고개를 저었고, 그 얼굴에서는 더 이상 어떤 감정도 읽을 수 없었다."
-AvgDialog_24083_Content_5,ajgP,avg章5新_AvgDialog_C_M.csv,1080,AvgDialog,Content,拉蒙娜,<Small:难道是蹈海者派来追击我们的人吗……希望守密人不要和脚步主人产生正面冲突，我不在身边，%heorshe%单打独斗，很可能不是对方的对手……>,"<Small:설마 해양도약자들이 우리를 쫓아온 건가... 수호자가 발소리 주인과 정면으로 부딪히지 않았으면 좋겠는데, 내가 옆에 없으면, %heorshe% 혼자서는 상대가 안 될 가능성이 높아...>"
 AvgDialog_24083_Content_6,ajgQ,avg章5新_AvgDialog_C_M.csv,1081,AvgDialog,Content,希莱斯特,……来了。,...왔어.
 AvgDialog_24083_Content_7,ajgR,avg章5新_AvgDialog_C_M.csv,1082,AvgDialog,Content,拉蒙娜,什么？,뭐?
 AvgDialog_24083_Content_8,ajgS,avg章5新_AvgDialog_C_M.csv,1083,AvgDialog,Content,,希莱斯特话音未落，急促的脚步就在本层甲板响起。由远及近，最终停在了她们藏身的舱室外。,"셀레스트의 말이 채 끝나기도 전에, 급한 발소리가 이 층 갑판에서 울려 퍼졌다. 멀리서부터 가까워지더니, 마침내 그녀들이 숨어 있는 선실 밖에서 멈췄다."
@@ -2266,8 +2182,6 @@ AvgDialog_24080_Content_5,ajfV,avg章5新_AvgDialog_C_M.csv,1091,AvgDialog,Conte
 AvgDialog_24080_Content_6,ajfW,avg章5新_AvgDialog_C_M.csv,1092,AvgDialog,Content,拉蒙娜,<Small:……等、等等？这是档案编号-6291的唤醒体图鲁？！>,"<Small:...자, 잠깐? 저건 파일 번호-6291의 각성체 툴루잖아?!>"
 AvgDialog_24080_Content_7,ajfX,avg章5新_AvgDialog_C_M.csv,1093,AvgDialog,Content,玩家,<Small:我们先去与船长和墨菲会合，到时我一点点和你解释发生了什么。>,"<Small:일단 선장과 머피와 합류하고, 그때 무슨 일이 있었는지 차근차근 설명해 줄게.>"
 AvgDialog_24078_Content_1,ajdZ,avg章5新_AvgDialog_C_M.csv,1094,AvgDialog,Content,,腐败的腥臭逐渐飘入鼻腔。,부패한 비린내가 점차 코로 들어왔다.
-AvgDialog_24078_Content_2,ajek,avg章5新_AvgDialog_C_M.csv,1095,AvgDialog,Content,,"蹈海者们受到首领的召唤，从四面八方的舱室鱼贯而出。
-而为首追击你们的，正是那让你尤为忌惮的巨人。","해양도약자들은 우두머리의 부름을 받고, 사방팔방의 선실에서 줄지어 나왔다. 그리고 선두에서 당신들을 추격하는 것은, 바로 당신이 특히 경계하던 그 거인이었다."
 AvgDialog_24078_Content_3,ajeu,avg章5新_AvgDialog_C_M.csv,1096,AvgDialog,Content,拉蒙娜,好难缠的敌人……！,끈질긴 적이야...!
 AvgDialog_24078_Content_4,ajev,avg章5新_AvgDialog_C_M.csv,1097,AvgDialog,Content,玩家,别和他纠缠！图鲁，掩护我们离开！,"저 녀석하고 얽히지 마! 툴루, 우리가 벗어나게 엄호해 줘!"
 AvgDialog_24078_Content_5,ajew,avg章5新_AvgDialog_C_M.csv,1098,AvgDialog,Content,,你拉着拉蒙娜逃离了战斗，不顾一切地想要跑向舱室之外。,"당신은 라모나를 끌고 전투에서 벗어나, 필사적으로 선실 밖으로 뛰쳐나가려 했다."
@@ -2313,11 +2227,9 @@ AvgDialog_24093_Content_14,ajkN,avg章5新_AvgDialog_C_M.csv,1135,AvgDialog,Cont
 AvgDialog_24093_Content_15,ajkO,avg章5新_AvgDialog_C_M.csv,1136,AvgDialog,Content,,他们……就是墨菲和索纳尼尔号的船长，是守密人愿意用以身犯险保护的人。,"그들... 바로 머피와 소나닐호의 선장, 수호자가 기꺼이 위험을 무릅쓰고 지키려 한 사람들이었다."
 AvgDialog_24093_Content_16,ajkP,avg章5新_AvgDialog_C_M.csv,1137,AvgDialog,Content,拉蒙娜,"拉蒙娜·德克斯特，可以叫我拉蒙娜。
 寒暄的话就免了，我现在需要知道这艘船上发生的一切，简短，尽快。","라모나 덱스터, 라모나라고 불러. 인사는 됐고, 지금 이 배에서 일어난 모든 일을 알아야 해. 간단하게, 최대한 빨리."
-AvgDialog_24093_Content_17,ajkQ,avg章5新_AvgDialog_C_M.csv,1138,AvgDialog,Content,拉蒙娜,你们是谁，蹈海者为什么追捕你们，以及弥利亚姆所狂热执着的「仪式」……,"너희가 누구인지, 해양도약자들이 왜 너희를 쫓는지, 그리고 미리암이 광적으로 집착하는 「의식」..."
 AvgDialog_24093_Content_18,ajkR,avg章5新_AvgDialog_C_M.csv,1139,AvgDialog,Content,墨菲,我、我是……,"나, 나는..."
 AvgDialog_24093_Content_19,ajkS,avg章5新_AvgDialog_C_M.csv,1140,AvgDialog,Content,,埃尔顿拦住了想要急急开口的墨菲，他知道这个孩子没法在重压之下全须全尾地描述全貌。,엘튼은 급하게 입을 열려는 머피를 막았다. 그는 이 아이가 중압감 속에서 전체 상황을 제대로 설명하지 못할 것을 알고 있었다.
 AvgDialog_24093_Content_20,ajkU,avg章5新_AvgDialog_C_M.csv,1141,AvgDialog,Content,埃尔顿,我是埃尔顿，那是我的搭档希莱斯特，是这艘索纳尼尔号货轮唯二的船员。,"나는 엘튼, 저쪽은 내 동료 셀레스트, 이 소나닐호 화물선의 유이한 선원이다."
-AvgDialog_24093_Content_21,ajkV,avg章5新_AvgDialog_C_M.csv,1142,AvgDialog,Content,埃尔顿,在我的青年时代，弥利亚姆帮助我唤醒了希莱斯特。作为回报，我们驾驶着索纳尼尔号，往返大陆与极地，为蹈海者教团运送物资。,"내 젊은 시절, 미리암이 셀레스트를 각성시키는 것을 도와주었다. 그 보답으로, 우리는 소나-닐호를 몰고 대륙과 극지를 오가며, 해양도약자 교단에 물자를 운송했지."
 AvgDialog_24093_Content_22,ajkW,avg章5新_AvgDialog_C_M.csv,1143,AvgDialog,Content,埃尔顿,最后，我们因为帮助了墨菲逃离教团，而遭到了弥利亚姆的追捕。,"결국, 우리는 머피가 교단을 탈출하는 것을 도왔기 때문에, 미리암에게 쫓기게 되었다."
 AvgDialog_24093_Content_23,ajkX,avg章5新_AvgDialog_C_M.csv,1144,AvgDialog,Content,埃尔顿,墨菲体内寄生着弥利亚姆意图召唤的伪神，我不知道那是否是真正的神明，但仪式举行，墨菲难逃一劫。,"머피 몸 안에는 미리암이 소환하려는 가짜 신이 기생하고 있다. 그게 진짜 신인지는 모르겠지만, 의식이 거행되면 머피는 죽음을 면치 못하겠지."
 AvgDialog_24093_Content_24,ajkY,avg章5新_AvgDialog_C_M.csv,1145,AvgDialog,Content,,墨菲也讲述了一些，她的身体，她与弥利亚姆，她在教团中的过去……,"머피도 약간 이야기했다, 그녀의 몸, 그녀와 미리암, 그녀가 교단에 있던 과거..."
@@ -2339,7 +2251,6 @@ AvgDialog_24093_Content_39,ajlo,avg章5新_AvgDialog_C_M.csv,1160,AvgDialog,Cont
 AvgDialog_24093_Content_40,ajlq,avg章5新_AvgDialog_C_M.csv,1161,AvgDialog,Content,,拉蒙娜先一步理解了船长的意思。,라모나가 선장의 뜻을 먼저 이해했다.
 AvgDialog_24093_Content_41,ajlr,avg章5新_AvgDialog_C_M.csv,1162,AvgDialog,Content,拉蒙娜,我和守密人能联络交通工具，只要让希莱斯特把我们的汽车也变成密境……,나와 수호자는 교통수단을 연락할 수 있어. 셀레스트가 우리 차도 비경으로 만들어주기만 한다면...
 AvgDialog_24093_Content_42,ajls,avg章5新_AvgDialog_C_M.csv,1163,AvgDialog,Content,埃尔顿,没错，这样就能为你争取到足够的时间。,"맞아, 그렇게 하면 너에게 충분한 시간을 벌어줄 수 있을 거야."
-AvgDialog_24093_Content_43,ajlt,avg章5新_AvgDialog_C_M.csv,1164,AvgDialog,Content,墨菲,别开玩笑了！你以为凭你能拖住那些怪物吗？你连蹈海者都不是，你只是纯粹的人类啊！,"농담하지 마! 네가 저 괴물들을 막을 수 있을 거라고 생각해? 넌 해양도약자도 아니잖아, 그냥 순수한 인간이라고!"
 AvgDialog_24093_Content_44,ajlu,avg章5新_AvgDialog_C_M.csv,1165,AvgDialog,Content,拉蒙娜,不，这件事交给我们。,"아니, 그 일은 우리에게 맡겨."
 AvgDialog_24093_Content_45,ajlv,avg章5新_AvgDialog_C_M.csv,1166,AvgDialog,Content,拉蒙娜,"阻止异教仪式，从未知中守护世界……
 这是弥萨格大学每个人应尽的职责。","이교도의 의식을 막고, 미지로부터 세계를 지키는 것... 이것이 미사그에 소속된 자의 의무야."
@@ -2376,7 +2287,6 @@ AvgDialog_24093_Content_71,ajlY,avg章5新_AvgDialog_C_M.csv,1192,AvgDialog,Cont
 AvgDialog_24093_Content_72,ajlZ,avg章5新_AvgDialog_C_M.csv,1193,AvgDialog,Content,墨菲,"我不能直接找上学校，告诉校长，他们的学生为了帮我而牺牲。
 我需要你们的引荐，你们俩一个都不准死。","난 학교에 바로 찾아가서, 교장에게 그들의 학생이 날 돕다가 희생되었다고 말할 수 없어. 난 너희의 추천이 필요해, 너희 둘 다 죽으면 안 돼."
 AvgDialog_24093_Content_73,ajma,avg章5新_AvgDialog_C_M.csv,1194,AvgDialog,Content,图鲁,余不会分神保护你。,짐은 널 보호할 여력이 없다.
-AvgDialog_24093_Content_74,ajmb,avg章5新_AvgDialog_C_M.csv,1195,AvgDialog,Content,墨菲,不用你保护，蹈海者的弱点在哪我清楚得很，我能照顾好自己。,"네 보호는 필요 없어, 해양도약자의 약점은 내가 잘 알아, 내 몸은 내가 챙길 수 있어."
 AvgDialog_24093_Content_75,ajmc,avg章5新_AvgDialog_C_M.csv,1196,AvgDialog,Content,图鲁,好，若你执意如此。,"좋다, 네가 정 그렇다면."
 AvgDialog_24093_Content_76,ajmd,avg章5新_AvgDialog_C_M.csv,1197,AvgDialog,Content,墨菲,你这是什么眼神？,그 눈빛은 뭐야?
 AvgDialog_24093_Content_77,ajme,avg章5新_AvgDialog_C_M.csv,1198,AvgDialog,Content,图鲁,"余原本以为，你不值得他们付出如此牺牲。
@@ -2432,7 +2342,6 @@ AvgDialog_24096_Content_40,ajne,avg章5新_AvgDialog_C_M.csv,1242,AvgDialog,Cont
 您怎么会…有唤醒体的气息？",<Blue:주님>... 저의 존귀하신 <Blue:왕>이시여... 어찌하여... 당신에게서 각성체의 기운이 느껴지는 것입니까?
 AvgDialog_24096_Content_41,ajnf,avg章5新_AvgDialog_C_M.csv,1243,AvgDialog,Content,弥利亚姆,是谁玷污了你的圣髑？是谁……玷污了我们的约定？,누가 당신의 성유물을 더럽혔습니까? 누가... 우리의 약속을 더럽혔습니까?
 AvgDialog_24096_Content_42,ajng,avg章5新_AvgDialog_C_M.csv,1244,AvgDialog,Content,,你被巨蛇倒举半空，全身的血液都流向了大脑，眼前阵阵发黑。,"당신은 거대한 뱀에게 거꾸로 매달려, 온몸의 피가 머리로 쏠렸고, 눈앞이 캄캄해졌다."
-AvgDialog_24096_Content_43,ajnh,avg章5新_AvgDialog_C_M.csv,1245,AvgDialog,Content,,但恍惚之中，你还是瞥见了两个少女……她们被蹈海者包围了，为什么越来越靠近了？,"하지만 흐릿한 의식 속에서도, 두 소녀를 힐끗 보았다... 그녀들은 해양도약자들에게 둘러싸여 있었는데, 왜 점점 가까워지는 거지?"
 AvgDialog_24096_Content_44,ajni,avg章5新_AvgDialog_C_M.csv,1246,AvgDialog,Content,墨菲,拉蒙娜！现在！,라모나! 지금이야!
 AvgDialog_24096_Content_45,ajnj,avg章5新_AvgDialog_C_M.csv,1247,AvgDialog,Content,,拉蒙娜深吸一口气，单腿微曲，借着在脚底汇聚的能量高高跳起——,"라모나가 심호흡을 하고, 한쪽 다리를 살짝 굽혀, 발바닥에 모인 에너지를 빌려 높이 뛰어올랐다——"
 AvgDialog_24096_Content_47,ajnl,avg章5新_AvgDialog_C_M.csv,1249,AvgDialog,Content,,细剑尖端破开蛇鳞形能量体，刺入巨蛇的七寸。,"세검 끝이 뱀 비늘 모양의 에너지체를 꿰뚫고, 거대한 뱀의 급소에 박혔다."
@@ -2446,21 +2355,11 @@ AvgDialog_24096_Content_54,ajnt,avg章5新_AvgDialog_C_M.csv,1256,AvgDialog,Cont
 AvgDialog_24096_Content_55,ajnu,avg章5新_AvgDialog_C_M.csv,1257,AvgDialog,Content,,你回头看向弥利亚姆，蛇形再次凝结，而她的眼神也落在了你和拉蒙娜身上。,"당신이 뒤돌아 미리암을 보자, 뱀 모양이 다시 응축되었고, 그녀의 시선도 당신과 라모나에게 쏠렸다."
 AvgDialog_24096_Content_56,ajnv,avg章5新_AvgDialog_C_M.csv,1258,AvgDialog,Content,,那如同毒蛇盯上猎物般的眼神。,그것은 마치 독사가 사냥감을 노리는 듯한 시선이었다.
 AvgDialog_24096_Content_57,ajnw,avg章5新_AvgDialog_C_M.csv,1259,AvgDialog,Content,拉蒙娜,图鲁！不要和她纠缠，优先保护墨菲离开。,"툴루! 그녀와 얽히지 말고, 우선 머피를 보호해서 떠나."
-AvgDialog_24094_Content_1,ajml,avg章5新_AvgDialog_C_M.csv,1260,AvgDialog,Content,,伴随着弥利亚姆心智的动荡，蹈海者的集群也变得不再稳定，混乱无序悄然蔓延开来。,"미리암의 심리가 흔들리면서, 해양도약자들의 집단도 불안정해졌고, 혼란과 무질서가 은밀히 퍼져나갔다."
-AvgDialog_24094_Content_2,ajmm,avg章5新_AvgDialog_C_M.csv,1261,AvgDialog,Content,,蹈海者们认出了“孕育”着神明的墨菲，近乎本能地在她靠近时纷纷退下，你们就这么小跑着穿过了怪物的包围。,"해양도약자들은 신을 「잉태」한 머피를 알아보고, 그녀가 다가오자 본능적으로 물러났다. 당신들은 그렇게 괴물들의 포위를 뚫고 달려 나갔다."
-AvgDialog_24095_Content_1,ajmn,avg章5新_AvgDialog_C_M.csv,1262,AvgDialog,Content,,触手抽飞了围上来的蹈海者，图鲁行在队伍的最后，为你们扫着尾。,"촉수가 달려드는 해양도약자들을 쳐내고, 툴루는 대열의 맨 뒤에서, 당신들을 위해 꼬리를 쓸어주었다."
-AvgDialog_24095_Content_2,ajmo,avg章5新_AvgDialog_C_M.csv,1263,AvgDialog,Content,,"蹈海者们虽然低智，但事到如今，竟突然变得彷徨起来。
-集群中开始窃窃私语，那语言古老而晦涩，但图鲁却因此紧皱起了眉。","해양도약자들은 비록 지능이 낮지만, 이 지경에 이르자 갑자기 망설이기 시작했다. 무리 속에서 수군거림이 시작되었고, 그 언어는 고대하고 난해했지만, 툴루는 그 때문에 미간을 찌푸렸다."
-AvgDialog_24095_Content_3,ajmp,avg章5新_AvgDialog_C_M.csv,1264,AvgDialog,Content,图鲁,这些蹈海者的猜忌，只会激怒弥利亚姆。,"이 해양도약자들의 의심은, 미리암을 분노하게 할 뿐이다."
 AvgDialog_24095_Content_4,ajmq,avg章5新_AvgDialog_C_M.csv,1265,AvgDialog,Content,拉蒙娜,猜忌？你能听明白他们的话吗？,의심? 그들의 말을 알아들을 수 있어?
 AvgDialog_24095_Content_5,ajmr,avg章5新_AvgDialog_C_M.csv,1266,AvgDialog,Content,,没有给图鲁解释的时间，弥利亚姆用行动将这古老的语言完完全全翻译了出来。,"툴루가 설명할 시간도 없이, 미리암은 행동으로 이 고대 언어를 완전히 번역해냈다."
-AvgDialog_24095_Content_6,ajms,avg章5新_AvgDialog_C_M.csv,1267,AvgDialog,Content,,匕首划过数名蹈海者的咽喉，她沐浴着喷溅的灰蓝色血液，穿过蹈海者的集群。,"단검이 여러 해양도약자의 목을 스쳐 지나갔고, 그녀는 뿜어져 나오는 회청색 피를 뒤집어쓴 채, 해양도약자 무리를 헤쳐나갔다."
 AvgDialog_24095_Content_7,ajmt,avg章5新_AvgDialog_C_M.csv,1268,AvgDialog,Content,弥利亚姆,"神王再世？不……
 祂只会在星辰正位之刻，经由仪式的牵引而降生于世！","신왕 재림? 아니... 그분은 오직 별들이 정위에 오르는 시간에, 의식의 인도를 통해 세상에 강림하신다!"
 AvgDialog_24095_Content_8,ajmu,avg章5新_AvgDialog_C_M.csv,1269,AvgDialog,Content,弥利亚姆,只有我的仪式能让神王重生，让神国再临！只有我！,"오직 나의 의식만이 신왕을 부활시키고, 신국을 재림시킬 수 있다! 오직 나만이!"
-AvgDialog_24095_Content_9,ajmv,avg章5新_AvgDialog_C_M.csv,1270,AvgDialog,Content,弥利亚姆,蹈海者……让这些亵渎了吾主之名的恶徒，见证神国血脉的威仪！,"해양도약자여... 이 나의 주님의 이름을 더럽힌 악인들에게, 신국 혈통의 위엄을 보여주어라!"
-AvgDialog_24091_Content_1,ajhU,avg章5新_AvgDialog_C_M.csv,1271,AvgDialog,Content,墨菲,蹈海者都不太怕痛的，我小时候经常踩到他们尾巴，没多少人有反应。,"해양도약자들은 통증을 잘 못 느껴. 어릴 때 내가 자주 그들 꼬리를 밟았는데, 반응하는 사람이 별로 없었어."
-AvgDialog_24091_Content_2,ajif,avg章5新_AvgDialog_C_M.csv,1272,AvgDialog,Content,玩家,这意味着蹈海者会源源不断地爬起来……我们没法保证每一次都能彻底杀死他们，这么打下去不是办法。,"그 말은 해양도약자들이 계속해서 일어난다는 거네... 매번 완전히 죽일 수 있다는 보장도 없고, 이렇게 싸우다간 끝이 없어."
 AvgDialog_24091_Content_3,ajiq,avg章5新_AvgDialog_C_M.csv,1273,AvgDialog,Content,拉蒙娜,能战斗的只有我、图鲁和守密人三人，提升战斗力的空间也很有限……,"싸울 수 있는 건 나, 툴루, 수호자 세 명뿐이고, 전투력을 높일 여지도 거의 없어..."
 AvgDialog_24091_Content_4,ajiB,avg章5新_AvgDialog_C_M.csv,1274,AvgDialog,Content,,话说到一半，拉蒙娜眼睛突然亮了一下。,"말을 하던 도중, 라모나의 눈이 갑자기 반짝였다."
 AvgDialog_24091_Content_5,ajiF,avg章5新_AvgDialog_C_M.csv,1275,AvgDialog,Content,拉蒙娜,图鲁和守密人……还没有链接，对吗？,"툴루와 수호자는... 아직 링크하지 않았지, 그렇지?"
@@ -2657,28 +2556,6 @@ AvgDialog_24092_Content_99,ajkH,avg章5新_AvgDialog_C_M.csv,1453,AvgDialog,Cont
 AvgDialog_24092_Content_100,ajiM,avg章5新_AvgDialog_C_M.csv,1454,AvgDialog,Content,,没走出两步，剧烈的到几乎要将船体撕碎的震动从脚底传来。,"두 걸음도 채 떼지 못했을 때, 선체를 찢을 듯한 격렬한 진동이 발밑에서 전해져 왔다."
 AvgDialog_24092_Content_101,ajiN,avg章5新_AvgDialog_C_M.csv,1455,AvgDialog,Content,,巨大的爆炸声中，火光冲天，灼热的空气将你狠狠掀翻在地。,"거대한 폭발음 속에서, 불길이 하늘로 치솟았고, 뜨거운 공기가 당신을 세차게 땅에 내동댕이쳤다."
 AvgDialog_24092_Content_102,ajiO,avg章5新_AvgDialog_C_M.csv,1456,AvgDialog,Content,,——意识再次断线前，最后映入眼中的，是掠过满月夜空的海鸟。,"——의식이 다시 끊기기 전, 마지막으로 눈에 들어온 것은, 보름달 밤하늘을 스쳐 지나가는 바닷새였다."
-PanelText_UI_Recharge_Panel_Main_Text_C_Buttom_Tips_Content,aIVt,j界面文字表_PanelText_C.csv,221,PanelText,Content,,每档首充额外赠送等量「源液」，仅限一次,각 금액대별 최초 충전 시 동일한 양의 「은심」이 추가로 지급됩니다. (1회 한정)
-Stage_125647_Name,bNnt,g关卡_Stage_A.csv,374,Stage,Name,,重圆,재회
-Stage_125651_Name,bNnB,g关卡_Stage_A.csv,375,Stage,Name,,温柔的枷锁,부드러운 족쇄
-Stage_125648_Name,bNnv,g关卡_Stage_A.csv,376,Stage,Name,,判决,판결
-Stage_125654_Name,bNnH,g关卡_Stage_A.csv,377,Stage,Name,,剧中人,극중 인물
-Stage_125644_Name,bNnn,g关卡_Stage_A.csv,431,Stage,Name,,重圆,재회
-Stage_125657_Name,bNnN,g关卡_Stage_A.csv,432,Stage,Name,,温柔的枷锁,부드러운 족쇄
-Stage_20428_Name,aROm,g关卡_Stage_A.csv,1797,Stage,Name,,她的国,그녀의 왕국
-Stage_20429_Name,aROp,g关卡_Stage_A.csv,1798,Stage,Name,,记忆屏障,기억의 장벽
-Stage_20430_Name,aROs,g关卡_Stage_A.csv,1799,Stage,Name,,迷宫的尽头,미궁의 끝
-Stage_20715_Name,aRQq,g关卡_Stage_A.csv,1801,Stage,Name,,迷宫的尽头,미궁의 끝
-Stage_20713_Name,aRQk,g关卡_Stage_A.csv,1803,Stage,Name,,迷宫的尽头,미궁의 끝
-Stage_44553_Name,aSoL,g关卡_Stage_A.csv,1872,Stage,Name,,悔过,회개
-Stage_44554_Name,aSoO,g关卡_Stage_A.csv,1873,Stage,Name,,血腥的符号,피로 물든 상징
-Stage_44555_Name,aSoR,g关卡_Stage_A.csv,1874,Stage,Name,,因暴怒疯狂,분노와 광기
-Stage_44556_Name,aSoU,g关卡_Stage_A.csv,1875,Stage,Name,,为嫉妒杀戮,질투와 살육
-Stage_44557_Name,aSoX,g关卡_Stage_A.csv,1876,Stage,Name,,向倦怠妥协,나태와 굴복
-Stage_44558_Name,aSpa,g关卡_Stage_A.csv,1877,Stage,Name,,把饥肠填满,굶주림을 채워라
-Stage_44559_Name,aSpd,g关卡_Stage_A.csv,1878,Stage,Name,,将罪恶净化,죄악을 정화하라
-Stage_44551_Name,aSoF,g关卡_Stage_A.csv,1879,Stage,Name,,我们的过错,우리의 과오
-Stage_44552_Name,aSoI,g关卡_Stage_A.csv,1880,Stage,Name,,燃起白色的希望,하얀 희망을 밝혀라
-Stage_44561_Name,aSpj,g关卡_Stage_A.csv,1881,Stage,Name,,我们的过错,우리의 과오
 Charge_18371_Name,auWA,c充值_Charge_A.csv,8,Charge,Name,,60源液,60 원액
 Charge_18373_Name,auWC,c充值_Charge_A.csv,9,Charge,Name,,300源液,300 원액
 Charge_18372_Name,auWB,c充值_Charge_A.csv,10,Charge,Name,,980源液,980 원액
@@ -2960,10 +2837,8 @@ CommonID_EmojiType_17_Desc,btOP,t通用中文ID_CommonID_A.csv,627,CommonID,Desc
 CommonID_EmojiType_18_Desc,bKUD,t通用中文ID_CommonID_A.csv,628,CommonID,Desc,,比心弥萨格,사랑을 담아
 CommonID_EmojiType_19_Desc,bKUE,t通用中文ID_CommonID_A.csv,645,CommonID,Desc,,弥萨格假期,미사그의 휴일
 CommonID_EmojiType_20_Desc,bLRV,t通用中文ID_CommonID_A.csv,646,CommonID,Desc,,冬渡弥萨格,미사그 겨울나기
-CommonID_EmojiType_21_Desc,bLRW,t通用中文ID_CommonID_A.csv,647,CommonID,Desc,,姜饼派对,진저브레드 파티
 CommonID_EmojiType_22_Desc,bOeW,t通用中文ID_CommonID_A.csv,648,CommonID,Desc,,校园趣闻,캠퍼스 에피소드
 CommonID_EmojiType_23_Desc,bOeX,t通用中文ID_CommonID_A.csv,649,CommonID,Desc,,弥萨格调查员,미사그 조사원
-CommonID_EmojiType_24_Desc,bPEX,t通用中文ID_CommonID_A.csv,650,CommonID,Desc,,弥萨格幕间剧,미사그 막간극
 CommonID_DepressionHit_Desc,avXz,t通用中文ID_CommonID_A.csv,631,CommonID,Desc,,受击抑郁,우울 피격
 CommonID_ManiaHit_Desc,awaP,t通用中文ID_CommonID_A.csv,632,CommonID,Desc,,受击狂躁,광란 타격
 CommonID_GetLikeLevel_Desc,avYY,t通用中文ID_CommonID_A.csv,634,CommonID,Desc,,函数,함수
@@ -4087,6 +3962,7 @@ PVPOpeningVoice_131810_AwakerVoiceContent,bRqf,pPVP开场对话_PVPOpeningVoice_
 PVPOpeningVoice_131818_AwakerVoiceContent,bRqn,pPVP开场对话_PVPOpeningVoice_A.csv,581,PVPOpeningVoice,AwakerVoiceContent,,鲸鱼鲸鱼！大浪来啦！,"고래, 고래! 큰 파도가 온다!"
 PVPOpeningVoice_131808_AwakerVoiceContent,bRqd,pPVP开场对话_PVPOpeningVoice_A.csv,582,PVPOpeningVoice,AwakerVoiceContent,,蛛网，可怕！莫丝，躲起来……,"거미줄, 무서워! 모스, 숨을래…"
 PVPOpeningVoice_123996_AwakerVoiceContent,bMdy,pPVP开场对话_PVPOpeningVoice_A.csv,589,PVPOpeningVoice,AwakerVoiceContent,,你的双眼尚被迷雾所蔽，自然不会知晓责任的重量。,"네 눈은 아직 안개에 가려져 있으니, 책임의 무게를 알 리가 없지."
+PanelText_UI_Recharge_Panel_Main_Text_C_Buttom_Tips_Content,aIVt,j界面文字表_PanelText_C.csv,221,PanelText,Content,,每档首充额外赠送等量「源液」，仅限一次,각 금액대별 최초 충전 시 동일한 양의 「은심」이 추가로 지급됩니다. (1회 한정)
 SdkErrorCode_68170_Content,aKgA,sSdk错误码_SdkErrorCode_C.csv,11,SdkErrorCode,Content,,网络繁忙，请稍后重试,네트워크가 혼잡합니다. 잠시 후 다시 시도해 주세요.
 SdkErrorCode_68174_Content,aKgE,sSdk错误码_SdkErrorCode_C.csv,14,SdkErrorCode,Content,,网络繁忙，请稍后重试,네트워크가 혼잡합니다. 잠시 후 다시 시도해 주세요.
 SdkErrorCode_68173_Content,aKgD,sSdk错误码_SdkErrorCode_C.csv,15,SdkErrorCode,Content,,网络繁忙，请稍后重试,네트워크가 혼잡합니다. 잠시 후 다시 시도해 주세요.
@@ -4162,3 +4038,626 @@ SdkErrorCode_68202_Content,aKhg,sSdk错误码_SdkErrorCode_C.csv,103,SdkErrorCod
 SdkErrorCode_68210_Content,aKho,sSdk错误码_SdkErrorCode_C.csv,104,SdkErrorCode,Content,,网络异常，请检查网络,"네트워크 연결 오류, 네트워크를 확인해 주세요."
 SdkErrorCode_68207_Content,aKhl,sSdk错误码_SdkErrorCode_C.csv,105,SdkErrorCode,Content,,网络连接中断，请检查网络,"네트워크 연결 오류, 네트워크를 확인해 주세요."
 SdkErrorCode_68037_Content,aKdX,sSdk错误码_SdkErrorCode_C.csv,269,SdkErrorCode,Content,,游戏短时间内调用多次acquire接口，一定概率可能拿到其中一个失效的ejoy_token（16个token会互相覆盖），用来登录游戏服就会报401,"게임이 짧은 시간 내에 acquire 인터페이스를 여러 번 호출할 경우, 일정 확률로 만료된 ejoy_token(16개의 토큰이 서로 중첩됨)을 획득할 수 있으며, 해당 토큰을 게임 서버 로그인에 사용할 시 401 오류가 발생합니다."
+Stage_125647_Name,bNnt,g关卡_Stage_A.csv,374,Stage,Name,,重圆,재회
+Stage_125651_Name,bNnB,g关卡_Stage_A.csv,375,Stage,Name,,温柔的枷锁,부드러운 족쇄
+Stage_125648_Name,bNnv,g关卡_Stage_A.csv,376,Stage,Name,,判决,판결
+Stage_125654_Name,bNnH,g关卡_Stage_A.csv,377,Stage,Name,,剧中人,극중 인물
+Stage_125644_Name,bNnn,g关卡_Stage_A.csv,431,Stage,Name,,重圆,재회
+Stage_125657_Name,bNnN,g关卡_Stage_A.csv,432,Stage,Name,,温柔的枷锁,부드러운 족쇄
+Stage_20428_Name,aROm,g关卡_Stage_A.csv,1797,Stage,Name,,她的国,그녀의 왕국
+Stage_20429_Name,aROp,g关卡_Stage_A.csv,1798,Stage,Name,,记忆屏障,기억의 장벽
+Stage_20430_Name,aROs,g关卡_Stage_A.csv,1799,Stage,Name,,迷宫的尽头,미궁의 끝
+Stage_20715_Name,aRQq,g关卡_Stage_A.csv,1801,Stage,Name,,迷宫的尽头,미궁의 끝
+Stage_20713_Name,aRQk,g关卡_Stage_A.csv,1803,Stage,Name,,迷宫的尽头,미궁의 끝
+Stage_44553_Name,aSoL,g关卡_Stage_A.csv,1872,Stage,Name,,悔过,회개
+Stage_44554_Name,aSoO,g关卡_Stage_A.csv,1873,Stage,Name,,血腥的符号,피로 물든 상징
+Stage_44555_Name,aSoR,g关卡_Stage_A.csv,1874,Stage,Name,,因暴怒疯狂,분노와 광기
+Stage_44556_Name,aSoU,g关卡_Stage_A.csv,1875,Stage,Name,,为嫉妒杀戮,질투와 살육
+Stage_44557_Name,aSoX,g关卡_Stage_A.csv,1876,Stage,Name,,向倦怠妥协,나태와 굴복
+Stage_44558_Name,aSpa,g关卡_Stage_A.csv,1877,Stage,Name,,把饥肠填满,굶주림을 채워라
+Stage_44559_Name,aSpd,g关卡_Stage_A.csv,1878,Stage,Name,,将罪恶净化,죄악을 정화하라
+Stage_44551_Name,aSoF,g关卡_Stage_A.csv,1879,Stage,Name,,我们的过错,우리의 과오
+Stage_44552_Name,aSoI,g关卡_Stage_A.csv,1880,Stage,Name,,燃起白色的希望,하얀 희망을 밝혀라
+Stage_44561_Name,aSpj,g关卡_Stage_A.csv,1881,Stage,Name,,我们的过错,우리의 과오
+AvgCommunicate_70507_Content_6,acTn,avg通讯器聊天表_AvgCommunicate_A_M.csv,2078,AvgCommunicate,Content,墨菲,弥利亚姆变了。戈利亚变了。那些蹈海者也变了。,"미리암도, 골리아도, 도해자들도... 모두, 변해 버렸어."
+AvgCommunicate_70505_Content_10,acRD,avg通讯器聊天表_AvgCommunicate_A_M.csv,2099,AvgCommunicate,Content,图鲁,蹈海者之事，余有责任。,"도해자들의 일은, 짐에게도 책임이 있느니라."
+AvgCommunicate_70524_Option_2,adfw,avg通讯器聊天表_AvgCommunicate_A_M.csv,2113,AvgCommunicate,Option,玩家,上次蹈海者的事，威廉学长也帮了不少忙,"지난번 도해자 사건에서도, 윌리엄 선배가 많이 도와줬잖아요"
+AvgCommunicate_70524_Content_2,adfl,avg通讯器聊天表_AvgCommunicate_A_M.csv,2113,AvgCommunicate,Content,玩家,上次蹈海者的事，威廉学长也是帮了不少忙的！,"지난번 도해자 사건에서도, 윌리엄 선배가 많이 도와줬잖아요!"
+AvgCommunicate_70518_Content_12,adbh,avg通讯器聊天表_AvgCommunicate_A_M.csv,2553,AvgCommunicate,Content,戈利亚,非利士人的复兴，并非只有夺取蹈海者的权力这一条路。,도해자의 권력을 빼앗는 것만이 블레셋인을 부흥시킬 유일한 방법은 아니지.
+AvgDialog_38727_Content_12,aktL,avgV1.3萨尔瓦多大型支线_AvgDialog_C_M.csv,96,AvgDialog,Content,,这世上究竟还有多少和<Yellow:蹈海者>与<Yellow:提灯教会>一样的组织，又有多少人要成为它们的牺牲品？,<Yellow:도해자>나 <Yellow:등불 교회>같은 조직이 얼마나 더 있는 걸까요? 또 얼마나 많은 피가 흘러야만 할까요...?
+AvgDialog_89086_Content_48,bxdU,avg星辰章3_AvgDialog_C_M.csv,720,AvgDialog,Content,玩家,……蹈海者？！,...도해자?!
+AvgDialog_89086_Content_51,bxdY,avg星辰章3_AvgDialog_C_M.csv,723,AvgDialog,Content,,寒雾汇成的手臂从地上钻出，如同荆棘般锁住了蹈海者们的腿。,"차가운 안개로 만들어진 팔이 땅에서 솟아나, 도해자들의 다리를 가시처럼 묶었다."
+AvgDialog_89086_Content_55,bABo,avg星辰章3_AvgDialog_C_M.csv,727,AvgDialog,Content,,为首的蹈海者眼见没了退路，猛然挣扎，不顾荆棘刺伤的双腿，带领着十几个信徒孤注一掷地向你们冲了过来。,"선두에 선 도해자는 탈출구가 없음을 보고, 가시에 찔린 다리를 무시하고, 십여 명의 추종자들을 이끌고 필사적으로 당신을 향해 돌진했다."
+AvgDialog_89083_Content_4,bwZS,avg星辰章3_AvgDialog_C_M.csv,731,AvgDialog,Content,,他等来的，是一群蹈海者的俘虏。,"그가 기다리고 있던 것은, 한 무리의 도해자 포로들이었다."
+AvgDialog_89083_Content_11,bwZn,avg星辰章3_AvgDialog_C_M.csv,738,AvgDialog,Content,,杜勒赛因来到一个蹈海者身后，伸出手。一道黑雾从他手上散出，汇成一道绳索，钻入它的脑海。,도어세인은 한 도해자의 등 뒤로 다가가 손을 뻗었다. 그의 손에서 검은 안개가 피어 나와 밧줄이 되어 그 머릿속으로 파고들었다.
+AvgDialog_89083_Content_13,bwZp,avg星辰章3_AvgDialog_C_M.csv,740,AvgDialog,Content,,凄厉的叫声在房间内短暂地响起。很快，那个蹈海者瘫软着倒了下去，没了声息。,날카로운 비명이 방 안에 잠시 울려 퍼졌다. 곧이어 그 도해자는 힘없이 쓰러져 숨을 거뒀다.
+AvgDialog_89083_Content_14,bwZq,avg星辰章3_AvgDialog_C_M.csv,741,AvgDialog,Content,,其他的几个蹈海者的五感都被黑雾屏蔽，毫无反应地跪在一旁。,"다른 도해자들의 오감은 검은 안개에 차단되어, 아무런 반응 없이 옆에 무릎을 꿇고 있었다."
+AvgDialog_89083_Content_17,bwZt,avg星辰章3_AvgDialog_C_M.csv,744,AvgDialog,Content,杜勒赛因,刚才这位蹈海者先生告诉了我不少事。他们用来传讯的设备在第三个俘虏的身上，卫兵，把它取出来吧。,"방금 이 도해자 분께서 꽤 많은 것을 알려주셨습니다. 통신 장비가 세 번째 포로의 몸에 있다고 하는군요. 경비병, 그것을 가져오시오."
+AvgDialog_89083_Content_21,bwZy,avg星辰章3_AvgDialog_C_M.csv,748,AvgDialog,Content,杜勒赛因,这是特殊改造过的通讯设备。用这个蹈海者的手指，向他们的上级汇报。,"이것은 특별히 개조된 통신 장비입니다. 이 도해자의 손가락을 써서, 그들의 상급자에게 보고하도록 하죠."
+AvgDialog_89083_Content_43,bwZW,avg星辰章3_AvgDialog_C_M.csv,770,AvgDialog,Content,杜勒赛因,这让我感到担忧。我知道，你的心里，还残留着一丝念头，一线留给蹈海者的希望。,"그 점이 저를 걱정스럽게 했습니다. 당신 마음속에 아직 한 가닥 희망, 도해자들이 혹시나 하는 희망이 남아있다는 것을 알았기 때문입니다."
+AvgDialog_89083_Content_46,bwZZ,avg星辰章3_AvgDialog_C_M.csv,773,AvgDialog,Content,杜勒赛因,所以，当你第一次主动联络蹈海者的那天，我很失望……与其说失望，不如说，难过。,"그래서, 당신이 처음으로 도해자에게 손을 내밀었을 때, 저는 실망했습니다... 아니, 오히려 마음이 아팠습니다."
+AvgDialog_89083_Content_49,bxac,avg星辰章3_AvgDialog_C_M.csv,776,AvgDialog,Content,杜勒赛因,我感到难过，弗兰。我知道，从你接受蹈海者的提议那天开始，我便要失去我最后一个挚友了。,"슬펐습니다, 프란. 당신이 도해자의 제안을 받아들인 날부터, 마지막 절친한 친구를 잃게 될 것이라는 것을 알았습니다."
+AvgDialog_89083_Content_98,byLX,avg星辰章3_AvgDialog_C_M.csv,825,AvgDialog,Content,食尸鬼士兵,是。我们派出去的侦察兵发来了消息，在距离海岸70海里的地方发现一艘巨大的蹈海者的船只。,네. 정찰병들이 해안에서 70해리 떨어진 곳에서 다수의 도해자 선박을 발견했다는 소식을 전해왔습니다.
+AvgDialog_89085_Content_20,bxcl,avg星辰章3_AvgDialog_C_M.csv,851,AvgDialog,Content,蹈海者祭司,蹈海者，前进吧！在吾主的指引下，替吾主夺回祂的失物！,"도해자들이여, 진격하라! 그분의 인도 아래, 마땅히 그분의 것을 되찾으리라!"
+AvgDialog_89085_Content_21,bxcm,avg星辰章3_AvgDialog_C_M.csv,852,AvgDialog,Content,,令人厌恶的潮湿声音此起彼伏地响起，蹈海者们高声怒吼着从舰艇上跃入水中。,"역겨운 축축한 소리가 울려 퍼지는 가운데, 도해자들이 크게 포효하며 배에서 물속으로 뛰어들었다."
+AvgDialog_89085_Content_24,bxcp,avg星辰章3_AvgDialog_C_M.csv,855,AvgDialog,Content,,蹈海者们的脚蹼扬起砂砾，挥舞着手里的刀刃，毫不留情地砍杀着挡在自己面前的士兵与平民，带着来自深海的污秽气味，向葬骸城的城门冲去。,"도해자들은 물갈퀴로 자갈을 차 올리며 손에 든 칼날을 휘둘러, 길을 막는 병사와 민간인을 무자비하게 학살하고, 심해의 악취를 풍기며 성문을 향해 돌진했다."
+AvgDialog_89085_Content_26,bxcr,avg星辰章3_AvgDialog_C_M.csv,857,AvgDialog,Content,,就在蹈海者们向城墙四处冲去的时候，葬骸城的城门突然打开。,"도해자들이 성벽을 향해 돌진하자, 네크로비아의 문이 갑자기 열렸다."
+AvgDialog_89085_Content_27,bxcs,avg星辰章3_AvgDialog_C_M.csv,858,AvgDialog,Content,,锈蚀的摩擦声让所有蹈海者都停下了他们的动作。他们转过头来，望着那个从城门里走出来的身影。,녹슨 마찰음이 모든 도해자들의 행동을 멈추게 했다. 그들은 고개를 돌려 성문에서 걸어 나오는 인물을 보았다.
+AvgDialog_89085_Content_30,bxcw,avg星辰章3_AvgDialog_C_M.csv,861,AvgDialog,Content,,杜勒赛因打了个响指。食尸鬼士兵扛着十二具蹈海者的尸体，扔在门外的沙地上。,도어세인이 손가락을 튕겼다. 구울 병사들이 열두 구의 도해자 시체를 운반하여 성문 밖 모래 위에 던졌다.
+AvgDialog_89085_Content_32,bxcy,avg星辰章3_AvgDialog_C_M.csv,863,AvgDialog,Content,,望着如海啸般涌向城门的蹈海者，食尸鬼之王轻蔑地摇了摇头，用修长的手指划破了自己的手腕。,"해일처럼 성문을 향해 몰려드는 도해자들을 보며, 구울의 왕은 경멸적으로 고개를 저으며 긴 손가락으로 손목을 그었다."
+AvgDialog_89080_Content_2,bwVl,avg星辰章3_AvgDialog_C_M.csv,885,AvgDialog,Content,,那位年轻的蹈海者死前最后一眼，看到的是那个食尸鬼之王刀刃般的尖牙。,젊은 도해자가 죽기 전 마지막으로 본 것은 그 구울 왕의 날카로운 송곳니였다.
+AvgDialog_89080_Content_6,bwWd,avg星辰章3_AvgDialog_C_M.csv,889,AvgDialog,Content,,杜勒赛因疯狂地笑着，泛红的双眼闪动，捕捉着每一个侵入自己领地的蹈海者。,"도어세인은 광적으로 웃었고, 붉어진 눈이 번뜩이며 자신의 영토를 침범하는 모든 도해자를 포착했다."
+AvgDialog_89080_Content_8,bwWq,avg星辰章3_AvgDialog_C_M.csv,891,AvgDialog,Content,,在他身侧，泛着紫色光芒的亡灵军团汇入蹈海者的海潮，在月光下与这些来自深海的入侵者绞杀成一团。,"그의 옆에서, 보라색으로 빛나는 언데드 군단이 도해자의 조류에 합류하여, 달빛 아래 심해에서 온 침략자들과 뒤엉켰다."
+AvgDialog_89080_Content_11,bwVc,avg星辰章3_AvgDialog_C_M.csv,894,AvgDialog,Content,,杀戮的声音仍在持续，似乎永远没有停歇的那一刻。站着的亡灵与蹈海者以肉眼可见的速度减少，尸体如杂乱的石碑，迅速铺满整座墓园。,"살육의 소리가 계속되었다, 마치 결코 멈추지 않을 것처럼. 서 있는 언데드와 도해자들의 수가 눈에 띄게 줄어들었고, 그들의 시체는 무질서한 묘비처럼 묘지를 뒤덮었다."
+AvgDialog_89080_Content_18,bwVj,avg星辰章3_AvgDialog_C_M.csv,901,AvgDialog,Content,,金属碰撞出清脆的声响，蹈海者祭司手中的神杖脱离掉落，倒插在泥土中，如同一块崭新的墓碑。,"도해자 사제의 지팡이가 떨어져 새 묘비처럼 진흙에 박히자, 금속이 부딪히는 날카로운 소리가 울려 퍼졌다."
+AvgDialog_89080_Content_19,bwVk,avg星辰章3_AvgDialog_C_M.csv,902,AvgDialog,Content,,蹈海者士兵们围成一圈将他保护起来，更外面包围着他们的，是不断倒下又站起、似乎永无尽头的亡者大军。,도해자 병사들이 그를 보호하기 위해 둘러쌌다. 밖에서는 계속해서 되살아나는 끝없는 시체 군단에 포위되어 있었다.
+AvgDialog_89080_Content_30,bwVx,avg星辰章3_AvgDialog_C_M.csv,913,AvgDialog,Content,,在蹈海者的后方，一个高大的身影带着援军，从船只中来到海岸。,"도해자들 뒤에서, 키 큰 인물이 배에서 해안으로 지원군을 데려왔다."
+AvgDialog_89080_Content_40,bwVI,avg星辰章3_AvgDialog_C_M.csv,923,AvgDialog,Content,蹈海者祭司,蹈海者！把那些银芯，全部拿出来……,도해자들이여! 모든 은심을 꺼내라!
+AvgDialog_89080_Content_44,bwVM,avg星辰章3_AvgDialog_C_M.csv,927,AvgDialog,Content,,蹈海者对着海上的船只张开双臂。舰船发出一阵低沉的嗡鸣，甲板上的那只巨大箱子缓缓打开。,"도해자들은 바다 위의 배들에게 신호를 보냈다. 해안에 가장 가까운 배에서 낮은 윙윙거리는 소리가 나고, 갑판의 큰 상자가 천천히 열렸다."
+AvgDialog_89080_Content_52,bwVV,avg星辰章3_AvgDialog_C_M.csv,935,AvgDialog,Content,杜勒赛因,我竟未想到，弗兰在这深渊中陷落得如此之深，居然连葬骸城最禁忌的秘术也告诉了他们……,"프란과 도해자들이, 네크로비아의 가장 금기시되는 비밀까지 드러낼 만큼 깊이 결탁하였을 줄은 상상도 못 했군요..."
+AvgDialog_89080_Content_54,bwVX,avg星辰章3_AvgDialog_C_M.csv,937,AvgDialog,Content,蹈海者祭司,蹈海者！聆听吧……聆听吾主的神谕！,도해자들이여! 들어라... 우리 주님의 신성한 계시를 들어라!
+AvgDialog_89080_Content_55,bwVY,avg星辰章3_AvgDialog_C_M.csv,938,AvgDialog,Content,,你的话被蹈海者祭司的怒吼打断。听到命令，蹈海者们颤抖着举起了自己的刀刃。,"당신의 말은 도해자 사제의 분노에 찬 포효에 가로막혔다. 명령을 듣자, 도해자들은 떨며 칼날을 들었다."
+AvgDialog_89080_Content_61,bwWf,avg星辰章3_AvgDialog_C_M.csv,944,AvgDialog,Content,,神杖尖锐的底部刺破鳞片，贯穿心脏。在祭司的带领下，蹈海者们整齐地将手中的刀刃刺入自己的胸膛，用尽全力划出一道巨大的伤口。,"신성한 지팡이의 날카로운 끝이 비늘을 뚫고, 심장을 꿰뚫었다. 사제가 이끄는 가운데, 도해자들은 질서정연하게 손에 든 칼날을 가슴에 꽂고, 온 힘을 다해 거대한 상처를 냈다."
+AvgDialog_89080_Content_62,bwWg,avg星辰章3_AvgDialog_C_M.csv,945,AvgDialog,Content,,鲜血从他们身体上喷涌而出，与地上蹈海者尸体的血液一起，汇入地上那道猩红的法阵。,"그들의 몸에서 피가 솟구쳐 나와, 땅에 있는 도해자 시체들의 피와 합쳐져, 주홍색 마법진으로 흘러 들어갔다."
+AvgDialog_89080_Content_67,bwWl,avg星辰章3_AvgDialog_C_M.csv,950,AvgDialog,Content,,一群未被献祭的蹈海者信徒，向你们围攻了过来。,도해자 신도 한 무리가 당신에게 다가왔다. 그들은 아직 희생되지 않았다.
+AvgDialog_89080_Content_69,bwWn,avg星辰章3_AvgDialog_C_M.csv,952,AvgDialog,Content,,他与蹈海者祭司说话时，你尚未看清。当那把巨刃出现在你面前，你终于分清了来者。,당신은 그 거대한 칼날을 알아봤다. 그가 도해자 사제와 이야기할 때 느꼈던 익숙함의 출처를 마침내 이해했다.
+AvgDialog_89076_Content_10,bwRb,avg星辰章3_AvgDialog_C_M.csv,964,AvgDialog,Content,,戈利亚不退反进，带着没有被献祭的蹈海者冲向亡灵大军，如同海潮中一块鲁莽的礁石。,"골리아은 앞으로 돌진하여, 희생되지 않은 도해자들을 이끌고 언데드 군대로 돌격했다, 마치 파도 속의 무모한 바위처럼."
+AvgDialog_89076_Content_12,bwRd,avg星辰章3_AvgDialog_C_M.csv,966,AvgDialog,Content,戈利亚,蹈海者的刃与盾，好好见识一下吧，食尸鬼的亡国之君。,"도해자들의 칼과 방패 맛 좀 봐라, 구울의 왕... 네 왕국이 무너지기 전에."
+AvgDialog_89076_Content_15,bwRg,avg星辰章3_AvgDialog_C_M.csv,969,AvgDialog,Content,,黑雾迅速扩散，将那些蹈海者信徒彻底笼罩。急剧下降的气温，让他们的身体止不住地颤抖，再也无力招架成倍的亡灵士兵举起的刀刃。,"검은 안개가 빠르게 퍼져, 그 도해자 신자들을 완전히 감쌌다. 급격히 떨어지는 기온 때문에 그들의 몸은 걷잡을 수 없이 떨렸고, 늘어난 언데드 병사들이 든 칼날을 더 이상 견딜 수 없었다."
+AvgDialog_89076_Content_22,bwRo,avg星辰章3_AvgDialog_C_M.csv,976,AvgDialog,Content,戈利亚,从现在起，站在蹈海者这一边。等我们攻破食尸鬼的王城，你将会得到你应得的那一部分。,"지금부터, 도해자 편에 서라. 구울 왕의 궁전을 함락시키면, 네 몫을 받게 될 것이다."
+AvgDialog_89076_Content_26,bwRs,avg星辰章3_AvgDialog_C_M.csv,980,AvgDialog,Content,,他拖着手中那把巨刃，缓步向你们走来。蹈海者们献祭的法阵中，猩红的光线如丝线般渗出，缠绕在他身体上。,그는 손에 든 거대한 칼날을 끌며 천천히 당신을 향해 걸어왔다. 도해자들의 희생 마법진에서 진홍색 빛이 실처럼 새어 나와 그의 몸을 휘감았다.
+AvgDialog_89071_Content_13,bwLX,avg星辰章3_AvgDialog_C_M.csv,1004,AvgDialog,Content,,城墙上的士兵听见海洋的恸哭。数千具正在腐烂的蹈海者残骸漂浮而起，伤口处钻出闪着磷光的肉须，像被无形裁缝操控的腥臭丝线般彼此缝合。,"성벽 위의 병사들은 바다의 통곡을 들었다. 수천 구의 썩어가는 도해자 시체들이 떠올랐고, 상처에서는 인광을 발하는 촉수들이 튀어나와 보이지 않는 재봉사에 의해 조종되는 악취 나는 실처럼 서로 꿰매어졌다."
+AvgDialog_89071_Content_17,bwMb,avg星辰章3_AvgDialog_C_M.csv,1008,AvgDialog,Content,,戈利亚带着巨刃，转身离去，看也没有看那些死去的蹈海者信徒一眼。,"골리아는 거대한 칼날을 들고, 죽은 도해자 신도들을 쳐다보지도 않고 돌아서 떠났다."
+AvgDialog_89071_Content_19,bwMd,avg星辰章3_AvgDialog_C_M.csv,1010,AvgDialog,Content,,杜勒赛因的衣衫裂开蛛网状纹路，透过破碎的寒雾，他窥见千米深的海沟正在蠕动——某种覆盖藤壶与沉船铁链的巨物，正被蹈海者的血祭唤醒。,"도어세인의 옷이 거미줄처럼 찢어졌고, 부서진 차가운 안개를 통해 그는 천 미터 깊이의 해구가 꿈틀거리는 것을 엿보았다—따개비와 난파선 사슬로 뒤덮인 어떤 거대한 존재가 도해자의 피의 제물에 의해 깨어나고 있었다."
+AvgDialog_89071_Content_20,bwMf,avg星辰章3_AvgDialog_C_M.csv,1011,AvgDialog,Content,,甲板上的银芯似乎听到某种诏令，强烈地颤动起来。银光汇入法阵，与鲜血链接，注入每一个蹈海者的尸体之中。,"갑판의 은이 어떤 명령을 들은 듯, 격렬하게 진동했다. 은빛이 마법진으로 합쳐져 피와 연결되고, 모든 도해자의 몸에 주입되었다."
+AvgDialog_89071_Content_21,bwMg,avg星辰章3_AvgDialog_C_M.csv,1012,AvgDialog,Content,,泥土的沙沙声从你脚下响起，你抬起头，看到一个蹈海者的尸体缓缓地在地上移动，似乎正被一道无形的力量所牵引。,"발밑에서 진흙이 부서지는 소리가 당신을 놀라게 했다. 고개를 들어 보니, 도해자의 시체가 보이지 않는 힘에 이끌리는 듯 땅 위에서 천천히 움직이고 있었다."
+AvgDialog_89071_Content_23,bwMi,avg星辰章3_AvgDialog_C_M.csv,1014,AvgDialog,Content,杜勒赛因,你说的没错，我通过与亡者的魂灵沟通来驱使他们，而蹈海者现在所用的，是葬骸城的禁术。,"당신 말이 맞습니다. 저는 죽은 자의 영혼과 소통을 통해 그들을 조종하고, 도해자들은 지금 네크로비아의 금지된 기술을 사용하고 있습니다."
+AvgDialog_89071_Content_25,bwMk,avg星辰章3_AvgDialog_C_M.csv,1016,AvgDialog,Content,,受到光线的牵引，蹈海者们的尸体开始向蹈海者祭司的方向移动，如同一道糜烂的海潮。,"빛에 이끌려, 도해자들의 시체들이 썩어가는 조류처럼 도해자 사제를 향해 움직이기 시작했다."
+AvgDialog_89082_Content_5,bwYD,avg星辰章3_AvgDialog_C_M.csv,1033,AvgDialog,Content,,祭司的鲜血刺激了士兵们的神经。借着这座巨山的掩护，还活着的蹈海者从变异的声带里发出凄厉的吼叫声，再次向亡灵的军队发起冲击。,"사제의 피가 병사들의 신경을 자극했다. 이 거대한 산 뒤에 몸을 숨긴 채, 남아있던 도해자들이 변이된 성대에서 꿰뚫는 듯한 울음소리를 내며, 다시 한번 언데드 군대를 향해 돌격했다."
+AvgDialog_89082_Content_29,bwYg,avg星辰章3_AvgDialog_C_M.csv,1057,AvgDialog,Content,,食尸鬼的残军已几乎无力再进行抵抗，在这遮天的巨幕之下，蹈海者的军队轻易撕破那道薄弱的防线，向城门涌来。,"구울의 남은 병력은 더 이상 저항할 수 없었다. 이 거대하고 하늘을 가리는 장막 아래, 도해자의 군대는 그 약한 방어선을 쉽게 뚫고 성문을 향해 몰려들었다."
+AvgDialog_97173_Content_3,bALw,avg星辰章3_AvgDialog_C_M.csv,1063,AvgDialog,Content,,在蹈海者潮水般的冲击下，杜勒赛因的身体因虚弱而开始颤抖起来，他靠在城墙边，调整着自己凌乱的呼吸。,"도어세인의 몸은 도해자들의 파도 같은 충격 아래 떨렸다. 그는 성벽에 몸을 기댄 채, 필사적으로 거친 숨을 몰아쉬었다."
+AvgDialog_89077_Content_22,bwRZ,avg星辰章3_AvgDialog_C_M.csv,1180,AvgDialog,Content,,巨怪的外壳被剥离，凄厉的伤口下，露出蹈海者祭司的头颅，所有的红光都向着他的尸体汇聚。,"거대한 괴물의 외피가 벗겨져, 끔찍한 상처 아래 도해자 사제의 머리가 드러났고, 모든 붉은 빛이 그의 시체를 향해 모였다."
+AvgDialog_89077_Content_25,bwSc,avg星辰章3_AvgDialog_C_M.csv,1183,AvgDialog,Content,,蹈海者们的骸骨在浅滩上排列成逆旋涡阵，巨怪残存的头颅仰天嘶吼，声波震碎了云层，暴露出星空背后蠕动的巨大漩涡。,"도해자들의 뼈는 얕은 해변에 역 소용돌이 형태로 배열되었다. 거인의 남은 머리가 하늘을 향해 포효했다. 음파가 구름을 산산조각 내고, 별이 빛나는 하늘 뒤에 꿈틀거리는 거대한 소용돌이를 드러냈다."
+AvgDialog_89077_Content_29,bwSg,avg星辰章3_AvgDialog_C_M.csv,1187,AvgDialog,Content,杜勒赛因,是来自深海的禁术……蹈海者，将他们最后的力量祭献给了海洋……,심해에서 온 금지된 예술... 도해자들이 마지막 힘을 바다에 희생했군요...
+AvgDialog_89077_Content_30,bwSi,avg星辰章3_AvgDialog_C_M.csv,1188,AvgDialog,Content,,海洋接纳了蹈海者的献祭，从四面八方咆哮着升起，如同一只从深渊中爬出的巨怪。,"바다는 도해자들의 희생을 받아들여, 심연에서 기어 나오는 거대한 괴물처럼 사방에서 포효하며 솟아올랐다."
+AvgDialog_89077_Content_70,byKN,avg星辰章3_AvgDialog_C_M.csv,1228,AvgDialog,Content,杜勒赛因,深海人……尸体……腥气极重……,도해자... 시체... 냄새가... 지독하니...
+AvgDialog_89073_Content_19,bwNf,avg星辰章3_AvgDialog_C_M.csv,1249,AvgDialog,Content,,蹈海者祭司的尸体安静地躺在餐盘中，周身被华丽的珊瑚装点，破碎的胸腔中摆放着精致的海生植物，让整个尸体显得端庄肃穆。,"도해자 사제의 시체는 쟁반 위에 조용히 누워 있었고, 화려한 산호로 장식되어 있었으며, 부서진 가슴 안에는 섬세한 해양 식물이 놓여 있어 전체 시신이 위엄 있고 엄숙해 보였다."
+AvgDialog_89073_Content_23,bwNk,avg星辰章3_AvgDialog_C_M.csv,1253,AvgDialog,Content,杜勒赛因,另外，也要感谢你的帮助。正如我之前所说，深海人的去腥尤为重要，这是我经过无数次实践所得出的宝贵经验。,"또한, 당신의 도움에 감사드립니다. 제가 말했듯이, 도해자들의 강한 냄새를 제거하는 것이 가장 중요합니다. 저는 수많은 시도를 통해 이 귀중한 경험을 얻었습니다."
+AvgDialog_89073_Content_30,bwNs,avg星辰章3_AvgDialog_C_M.csv,1260,AvgDialog,Content,,看着你疑惑的眼神，杜勒赛因从蹈海者祭司的尸体上切下一块，放入自己的餐盘中。,"당신의 의아한 눈을 보며, 도어세인은 도해자 사제의 몸에서 한 조각을 잘라내어 자신의 접시에 놓았다."
+AvgDialog_89073_Content_32,bwNu,avg星辰章3_AvgDialog_C_M.csv,1262,AvgDialog,Content,杜勒赛因,弗兰的记忆中，有一段与蹈海者祭司谈论的场景，他们曾经聊到过这件事。而从那位蹈海者祭司的反应来看，他知道这个人。,"프란의 기억 속에는, 도해자 사제와의 대화가 있었습니다. 그들은 이 문제에 대해 논의했었죠. 그리고 사제의 반응으로 보아, 그는 이 사람을 알고 있었습니다."
+AvgDialog_89073_Content_80,bwOv,avg星辰章3_AvgDialog_C_M.csv,1310,AvgDialog,Content,杜勒赛因,我的推算没有错。不知道他是否是调查到了什么，离开葬骸城以后，他便去到了蹈海者藏身的岛屿。,"제 계산이 맞았습니다. 그가 무언가를 발견했는지는 모르지만, 네크로비아를 떠난 후 그는 도해자들이 숨어있는 섬으로 여행했습니다."
+AvgDialog_117501_Content_4,bItc,avg星辰章4_AvgDialog_C_M.csv,11,AvgDialog,Content,弥利亚姆,早些安歇吧，明日就是正位之日了，还需您以圣血为蹈海者指明前路。,"어서 쉬십시오. 내일은 정위의 날이니, 성혈로 도해자의 앞길을 밝혀주셔야 합니다."
+AvgDialog_117501_Content_19,bIsF,avg星辰章4_AvgDialog_C_M.csv,26,AvgDialog,Content,弥利亚姆,安心吧，蹈海者的夙愿已经达成，祂存在，祂已在此世降临。,"안심하십시오. 도해자의 오랜 소원이 이루어졌습니다. 그분은 존재하며, 이 세상에 강림하셨습니다."
+AvgDialog_117501_Content_35,bIsX,avg星辰章4_AvgDialog_C_M.csv,42,AvgDialog,Content,,"噗叽一声，传来黏稠血肉被贯穿的异声。
+黝黑的黏液逐渐扩散，濡湿了天鹅绒襁褓上扎眼的蹈海者符文。","'푸슉' 하는 소리와 함께, 끈적한 살점이 꿰뚫리는 기이한 소리가 들려왔다. 검고 끈적한 액체가 점점 퍼져나가며 벨벳 포대기 위의 눈에 띄는 도해자 룬을 적셨다."
+AvgDialog_117501_Content_71,bItL,avg星辰章4_AvgDialog_C_M.csv,78,AvgDialog,Content,弥利亚姆,遵神母之命，蹈海者已恭候您的苏醒多时了。来，饮下这杯神母为您准备的良药吧。,"신모님의 명에 따라, 도해자들이 당신이 깨어나기를 오랫동안 기다렸습니다. 자, 신모님께서 준비하신 이 약을 드시지요."
+AvgDialog_117501_Content_82,bKMy,avg星辰章4_AvgDialog_C_M.csv,89,AvgDialog,Content,？？？（诞妄·墨菲）,帕拉黛斯号游轮，蹈海者唯一的也是最重要的海上「乐园」。,"파라다이스 호 유람선, 도해자의 유일하고도 가장 중요한 해상 「낙원」이지."
+AvgDialog_117503_Content_34,bIvd,avg星辰章4_AvgDialog_C_M.csv,124,AvgDialog,Content,玩家,字面意义，我们想办法离开这艘船，脱离蹈海者的控制。,"말 그대로야. 이 배를 떠나서, 도해자의 통제에서 벗어날 방법을 찾자는 거야."
+AvgDialog_117503_Content_59,bIvE,avg星辰章4_AvgDialog_C_M.csv,149,AvgDialog,Content,诞妄·墨菲,那又怎样？有谁见过蹈海者口中的神明诞生时的模样吗？,그게 뭐 어때서? 도해자들이 말하는 신이 태어날 때의 모습을 본 사람이 있기나 해?
+AvgDialog_117503_Content_62,bIvI,avg星辰章4_AvgDialog_C_M.csv,152,AvgDialog,Content,诞妄·墨菲,我不是你认识的墨菲，我是蹈海者的神母，是祂血脉相容的唯一之人。,"나는 네가 아는 머피가 아니야. 나는 도해자의 신모이며, 그분의 혈통과 융합된 유일한 존재."
+AvgDialog_117503_Content_90,bIwn,avg星辰章4_AvgDialog_C_M.csv,180,AvgDialog,Content,玩家,我追着威廉的船驶入风暴中，遭遇事故，被蹈海者的船救起……,"윌리엄 선배의 배를 쫓아 폭풍 속으로 들어갔다가, 사고를 당했고, 도해자의 배에 구조됐어..."
+AvgDialog_117503_Content_91,bIwo,avg星辰章4_AvgDialog_C_M.csv,181,AvgDialog,Content,玩家,圣婴已经诞生，墨菲成为了蹈海者的圣母，弥利亚姆在收集银芯，戈利亚则在暗中筹划着什么……,"성태는 이미 태어났고, 머피는 도해자의 성모가 되었고, 미리암은 은심을 모으고 있고, 골리아는 무언가를 몰래 계획하고 있고..."
+AvgDialog_117504_Content_16,bIwE,avg星辰章4_AvgDialog_C_M.csv,213,AvgDialog,Content,弥利亚姆,回顾以往的历程，你与蹈海者之间的冲突全无必要。,"지난날을 돌이켜보면, 당신과 도해자 사이의 충돌은 전혀 불필요했습니다."
+AvgDialog_117504_Content_17,bIwF,avg星辰章4_AvgDialog_C_M.csv,214,AvgDialog,Content,玩家,怎么可能，我曾经亲眼目睹过蹈海者举行邪祟的祭祀……,그럴 리가요. 저는 도해자들이 사악한 제사를 지내는 것을 직접 목격했는데...
+AvgDialog_117504_Content_18,bIwG,avg星辰章4_AvgDialog_C_M.csv,215,AvgDialog,Content,弥利亚姆,那是一场误会。蹈海者举行秘仪，是为了搜集维持这艘船航行的能源。,"오해입니다. 도해자들이 비밀 의식을 거행한 것은, 이 배를 항해시키는 데 필요한 에너지를 모으기 위해서였습니다."
+AvgDialog_117504_Content_20,bIwJ,avg星辰章4_AvgDialog_C_M.csv,217,AvgDialog,Content,弥利亚姆,因此，蹈海者深入葬骸城，网罗逝者析出的银芯。只是此举恰与葬骸城主杜勒塞因食用尸体的习性相悖。,"그래서 도해자들이 네크로비아 깊숙이 들어가, 죽은 자들에게서 나온 은심을 거두었습니다. 다만 이 행동이 네크로비아의 주인인 도어세인의 시체 식성과 충돌했을 뿐입니다."
+AvgDialog_117504_Content_24,bIwN,avg星辰章4_AvgDialog_C_M.csv,221,AvgDialog,Content,玩家,弥利亚姆……你和蹈海者的目的是什么？,미리암... 당신과 도해자의 목적은 무엇이죠?
+AvgDialog_117504_Content_33,bIwX,avg星辰章4_AvgDialog_C_M.csv,230,AvgDialog,Content,玩家,法洛思，你又是为什么加入蹈海者？,"파로스, 당신은 왜 도해자에 합류했나요?"
+AvgDialog_117504_Content_64,bIxF,avg星辰章4_AvgDialog_C_M.csv,261,AvgDialog,Content,弥利亚姆,尊敬的神母，请牵引神王的血脉，引导迷途的蹈海者，为我们指明利莫里亚的所在。,"존경하는 신모님, 신왕의 혈통을 이끌어, 길 잃은 도해자들을 인도하시고, 우리에게 레무리아의 길을 보여주십시오."
+AvgDialog_117504_Content_89,bKin,avg星辰章4_AvgDialog_C_M.csv,286,AvgDialog,Content,,她踏着拥在少女身前的蹈海者躯体上前，用一重黑色的教袍裹住了墨菲的身躯。在教袍之下，血溪依然淅淅沥沥地流淌。,"그녀는 소녀 앞에 모여든 도해자들의 몸을 밟고 앞으로 나아가, 무거운 검은 로브로 머피의 몸을 감쌌다. 로브 아래로는 피가 여전히 계속 흘러내렸다."
+AvgDialog_117504_Content_113,bKhQ,avg星辰章4_AvgDialog_C_M.csv,310,AvgDialog,Content,,伴随着海面的剧烈沸腾，万千蹈海者与水蛇簇拥着惨白的象牙雕像，带着无尽的压迫感升腾而起。,"바다가 격렬하게 요동치는 가운데, 수천 명의 도해자와 뱀들이 창백한 상아 조각상 주위로 솟아올라, 끝없는 위협을 뿜어냈다."
+AvgDialog_117502_Content_5,bIuc,avg星辰章4_AvgDialog_C_M.csv,321,AvgDialog,Content,玩家,（祭典是蹈海者集体出动的时间，在这个时候闯入……真是冲动的错误决策。）,"(의식은 도해자들이 집단으로 움직이는 시간인데, 이럴 때 뛰어들다니... 정말 충동적이고 끔찍한 결정이었어.)"
+AvgDialog_117500_Content_6,bIrD,avg星辰章4_AvgDialog_C_M.csv,334,AvgDialog,Content,玩家,为什么，我明明记得我被数不尽的蹈海者围攻，然后……,"어째서? 난 분명 수많은 도해자들에게 둘러싸여 있었는데, 그리고..."
+AvgDialog_117500_Content_21,bIqN,avg星辰章4_AvgDialog_C_M.csv,349,AvgDialog,Content,弥利亚姆,遵神母之命，蹈海者已恭候您的苏醒多时了。,"신모님의 명에 따라, 도해자들은 오랫동안 당신이 깨어나기를 기다렸습니다."
+AvgDialog_118962_Content_22,bJoN,avg星辰章4_AvgDialog_C_M.csv,564,AvgDialog,Content,弥利亚姆,无论是你还是你的朋友，自从登船，全体蹈海者都以礼相待。,"당신이든 당신의 친구분들이든, 승선한 이후로 모든 도해자들은 신성한 존중으로 당신들을 대했습니다."
+AvgDialog_118962_Content_34,bJpa,avg星辰章4_AvgDialog_C_M.csv,576,AvgDialog,Content,弥利亚姆,神国赐予我等足以对抗天灾的力量，这等微不足道的阻碍自然无法困住蹈海者。,"신국은 우리에게 대재앙을 견딜 힘을 주셨고, 이처럼 하찮은 장애물로는 도해자들을 막을 수 없습니다."
+AvgDialog_118962_Content_36,bJpc,avg星辰章4_AvgDialog_C_M.csv,578,AvgDialog,Content,弥利亚姆,除了游轮上驻守的蹈海者，环绕着整艘船体的海洋生物，都是受吾主灵性的感召而来，听凭我等的驱使。,"유람선에 주둔한 도해자들 외에, 이 배를 둘러싼 해양 생물들은 모두 우리 주님의 영적인 부름에 이끌려, 우리 명령에 복종합니다."
+AvgDialog_118962_Content_37,bJpd,avg星辰章4_AvgDialog_C_M.csv,579,AvgDialog,Content,弥利亚姆,即便不是以这样的方式，你也应该知道，你不可能靠这样一个小房间对抗整个蹈海者教会……,"그게 아니더라도, 당신은 이 작은 방에서 도해자 교회 전체를 막을 수 없다는 것을 알아야 합니다..."
+AvgDialog_118948_Content_16,bJbQ,avg星辰章4_AvgDialog_C_M.csv,612,AvgDialog,Content,凯刻斯,我只知道，蹈海者暂时安置了你，这不等于你可以随意进出关键场所。,"내가 아는 건, 도해자들이 임시로 널 이곳에 두었다는 것뿐이다. 그렇다고 해서 네가 중요한 구역에 자유롭게 드나들 수 있다는 뜻은 아니야."
+AvgDialog_118950_Content_12,bJcz,avg星辰章4_AvgDialog_C_M.csv,694,AvgDialog,Content,,双目鼓胀的祭司高高举起了本属于少年的长矛，精准而残忍地刺向少年的脊背。锋利的矛尖穿透身体，将少年死死地钉在了甲板之上。,"눈이 튀어나온 도해자 사제가 카이커스의 창을 들어 올려, 무자비하게 그 날카로운 끝을 그의 등에 박아 갑판에 고정시켰다."
+AvgDialog_118950_Content_49,bKxE,avg星辰章4_AvgDialog_C_M.csv,731,AvgDialog,Content,,鱼人祭司怪异地原地转了个圈，捧腹大笑起来。,"도해자 사제는 기이한 원을 그리며 돌았고, 웃음을 터뜨렸다."
+AvgDialog_118954_Content_38,bJfs,avg星辰章4_AvgDialog_C_M.csv,779,AvgDialog,Content,玩家,第一个轮回，我初步了解了蹈海者；第三个轮回虽然惨烈失败，但对船上其他人的动向有了基本的掌握。,"첫 번째 루프에서는 도해자들에 대해 대략적으로 파악했고, 세 번째 루프는 참혹한 실패로 끝났지만, 이 배에 있는 다른 사람들의 기본적인 목표를 파악했죠."
+AvgDialog_118954_Content_40,bJfv,avg星辰章4_AvgDialog_C_M.csv,781,AvgDialog,Content,玩家,当务之急是收集更多有关帕拉黛斯号和蹈海者的信息。,지금 당장 우선순위는 파라다이스 호와 도해자들에 대한 정보를 더 모으는 거에요.
+AvgDialog_118958_Content_53,bJlc,avg星辰章4_AvgDialog_C_M.csv,880,AvgDialog,Content,,身着奇异黑袍的蹈海者们没有发出任何声响，如同一群虔诚的黑色幽灵，沉默地沐浴那幽深的神佑，沉默地将匕首送入敌人的胸膛。,"기묘한 검은 로브를 입은 도해자들은 소리를 내지 않았고, 경건한 검은 유령들처럼, 깊은 신의 은총 속에서 조용히 몸을 담그고, 조용히 적들의 가슴에 단검을 찔러 넣었다."
+AvgDialog_118958_Content_56,bJlf,avg星辰章4_AvgDialog_C_M.csv,883,AvgDialog,Content,,巨大的刀刃无可阻拦地割下拦在面前的蹈海者信徒头颅，喷涌而出的咸腥鲜血将戈利亚的大半张脸染成猩红。,거대한 칼날이 막아서는 도해자 신도의 머리를 거침없이 베어냈다. 솟구쳐 나오는 짜고 비린 피가 골리아의 얼굴 절반을 진홍색으로 물들였다.
+AvgDialog_118946_Content_15,bIYE,avg星辰章4_AvgDialog_C_M.csv,945,AvgDialog,Content,玩家,仪式结束，叛乱爆发，正是整个蹈海者教会最脆弱的时候。,"의식이 끝나고 반란이 일어날 때가, 도해자 교회 전체가 가장 취약해지는 때에요."
+AvgDialog_118946_Content_30,bIYV,avg星辰章4_AvgDialog_C_M.csv,960,AvgDialog,Content,玩家,戈利亚和凯刻斯筹划夺船，法洛思图谋象牙雕像的权柄，整个蹈海者已经四分五裂。,"골리아와 카이커스는 배를 빼앗을 계획을 세우고 있고, 파로스는 상아 조각상의 권능을 노리고 있지. 도해자 교회는 이미 분열됐어."
+AvgDialog_118963_Content_9,bJqk,avg星辰章4_AvgDialog_C_M.csv,1039,AvgDialog,Content,玩家,无所谓，你是蹈海者的神母，也是帕拉黛斯号的船长，乐园的主人。这和我要给你放个假没关系。,"상관없어. 넌 도해자의 신모이자 파라다이스 호의 선장, 낙원의 주인이잖아. 내가 너에게 휴가를 주려는 것과는 상관없는 일이야."
+AvgDialog_118963_Content_18,bJpI,avg星辰章4_AvgDialog_C_M.csv,1048,AvgDialog,Content,玩家,快上去，只有那里视野好，又能观察巡逻的蹈海者的情况。,"얼른 올라와, 거기만 시야가 좋아서 순찰하는 도해자들의 상황을 살필 수 있어."
+AvgDialog_118963_Content_31,bJpX,avg星辰章4_AvgDialog_C_M.csv,1061,AvgDialog,Content,,你们屏息凝神，一队蹈海者披着破旧脏污的稻草雨披，摇摇摆摆地颠过甲板。,두 사람은 숨을 죽였다. 낡고 더러운 짚으로 만든 비옷을 입은 도해자 한 무리가 갑판을 비틀거리며 지나갔다.
+AvgDialog_118947_Content_6,bJbk,avg星辰章4_AvgDialog_C_M.csv,1125,AvgDialog,Content,,蹈海者畸形黏湿的焦急脚步声不时沿着木制地板传来，薄薄的门扉却隔绝了两个世界，这片小天地内充盈着有如幻觉般过分简单的幸福与暖意。,"도해자의 뒤틀리고, 축축하고, 불안한 발소리가 때때로 나무 바닥을 따라 울려 퍼졌지만, 얇은 문은 두 세계를 분리했다. 이 작은 공간은 환상처럼 지나치게 단순한 행복과 따뜻함으로 가득 차 있었다."
+AvgDialog_118947_Content_55,bJbf,avg星辰章4_AvgDialog_C_M.csv,1174,AvgDialog,Content,玩家,如果我们就这么离开，弥利亚姆不会善罢甘休。总有一天，来自蹈海者的阴影还会追上你。,우리가 이렇게 떠나면 미리암은 가만있지 않을 거야. 언젠가 도해자의 그림자가 너를 쫓아올 거라고.
+AvgDialog_118947_Content_56,bJbg,avg星辰章4_AvgDialog_C_M.csv,1175,AvgDialog,Content,玩家,我必须留在这里，确保蹈海者和圣胎永远沉没在深海中。,나는 여기에 남아 도해자와 성태가 영원히 심해에 가라앉도록 해야 해.
+AvgDialog_118947_Content_83,bKSo,avg星辰章4_AvgDialog_C_M.csv,1202,AvgDialog,Content,弥利亚姆,<Red:<Shake:但现在，先承受蹈海之人的怒火吧！>>,"<Red:<Shake:하지만 먼저, 도해자들의 분노를 감당해야 할 것입니다!>>"
+AvgDialog_118961_Content_21,bJnx,avg星辰章4_AvgDialog_C_M.csv,1249,AvgDialog,Content,戈利亚,一个蹈海者主祭，一个从天而降的神秘人，被一个小姑娘耍得团团转。,도해자 제사장이랑 하늘에서 내려온 신비한 녀석이 작은 여자아이에게 놀아나다니.
+AvgDialog_118961_Content_28,bJnE,avg星辰章4_AvgDialog_C_M.csv,1256,AvgDialog,Content,,圣女失踪的消息已经传开，蹈海者在集结队伍。,"성녀가 사라졌다는 소문이 퍼졌고, 도해자들이 병력을 집결하고 있었다."
+AvgDialog_118961_Content_33,bJnK,avg星辰章4_AvgDialog_C_M.csv,1261,AvgDialog,Content,,因为那个将她送进蹈海者，又幡然悔悟将她送出的人……,왜냐하면 그녀를 도해자에게 넘겼다가 뒤늦게 뉘우치고 그녀를 도망치게 했던 그 사람은…
+AvgDialog_118952_Content_26,bJeq,avg星辰章4_AvgDialog_C_M.csv,1322,AvgDialog,Content,诞妄·墨菲,在掌握神母的权柄之后，我阅读过蹈海者的全部记录。,"신모의 권위를 장악한 후, 나는 도해자들의 모든 기록을 읽었어."
+AvgDialog_118955_Content_6,bJhx,avg星辰章4_AvgDialog_C_M.csv,1397,AvgDialog,Content,,你举目四望，开阔的甲板上空空荡荡，没有紫色蜘蛛，也没有环绕在四周的海国信众。,"주위를 둘러보니, 열린 갑판은 텅 비어 있었고, 보라색 거미도, 당신을 둘러싼 도해자들도 없었다."
+AvgDialog_118955_Content_13,bJgy,avg星辰章4_AvgDialog_C_M.csv,1404,AvgDialog,Content,,无数黑袍的蹈海者横七竖八地睡倒在她身边，而她安静地倚在祭坛上，手中捧着一团猩红发臭的腐肉。,"수많은 검은 로브를 입은 도해자들이 그녀 주위에 널브러져 있었고, 그녀는 조용히 제단에 기대어, 악취 나는 썩은 살덩어리를 들고 있었다."
+AvgDialog_121744_Content_7,bKQt,avg星辰章4_AvgDialog_C_M.csv,1557,AvgDialog,Content,弥利亚姆,安心吧，神母大人。无论您今后作何打算，蹈海者都是您身后最稳固坚牢的基石。,"안심하십시오, 신모님. 앞으로 무슨 계획을 하시든, 도해자들은 언제나 당신 뒤에서 가장 굳건한 버팀목이 될 것입니다."
+AvgDialog_23852_Content_56,aiMK,avg章5新_AvgDialog_C_M.csv,63,AvgDialog,Content,图鲁,"愚问。现在不是你开玩笑的时候，那女孩剩下的时间已经不多了。
+蹈海者还没有放弃举行降神仪式，<Yellow:群星正在向应去之处升起>。","어리석은 질문이군. 지금은 농담할 때가 아니다. 그녀에게 시간이 얼마 남지 않았어. 도해자들은 아직 강신 의식을 포기하지 않았고, <Yellow:별들이 마땅히 있어야 할 곳으로 떠오르고 있다>."
+AvgDialog_23852_Content_111,aiLg,avg章5新_AvgDialog_C_M.csv,118,AvgDialog,Content,墨菲？,一看就是蹈海者的手笔，他们一向不讲究……,도해자 짓이네. 쟤들은 항상 지저분하단 말이야.
+AvgDialog_23854_Content_7,aiPa,avg章5新_AvgDialog_C_M.csv,158,AvgDialog,Content,墨菲,别叫这么大声！万一真的把蹈海者引来了怎么办！,그렇게 큰 소리 내지 마! 진짜로 도해자들을 끌어들이면 어쩔 거야!
+AvgDialog_23854_Content_29,aiOh,avg章5新_AvgDialog_C_M.csv,180,AvgDialog,Content,墨菲,"是蹈海者的声音，他们找过来了！
+不能再待在这里了，跟我来。",도해자 목소리야. 놈들이 다가오고 있어! 여긴 위험해. 날 따라와.
+AvgDialog_23854_Content_39,aiOs,avg章5新_AvgDialog_C_M.csv,190,AvgDialog,Content,,墨菲和图鲁称呼他们为“<Yellow:蹈海者>”。,머피와 툴루는 그들을 「<Yellow:도해자>」라고 불렀다.
+AvgDialog_23854_Content_54,aiOJ,avg章5新_AvgDialog_C_M.csv,205,AvgDialog,Content,,瘫倒一片的蹈海者中，有一人用折断的武器支撑身体，颤颤巍巍爬了起来，用那大到几乎脱离眼眶的眼珠死死瞪着高处的墨菲。,"쓰러져 있는 도해자 중 하나가 부러진 무기로 몸을 지탱하고 비틀거리며 일어나, 기묘하게 튀어나온 눈으로 머피를 노려봤다."
+AvgDialog_23854_Content_58,aiON,avg章5新_AvgDialog_C_M.csv,209,AvgDialog,Content,,蹈海者的鱼类下颚张大到了极致，连接上下颌的肉膜组织被拉伸到半透明。,"도해자의 어류 같은 턱이 최대한 벌어지고, 위아래 턱을 잇는 반투명한 막이 크게 늘어났다."
+AvgDialog_23854_Content_59,aiOO,avg章5新_AvgDialog_C_M.csv,210,AvgDialog,Content,,"被恐惧、希望与信仰驱使，他迸发出了难以想象的生命力。
+蹈海者猛地撞开了你，尖啸着向动力室外冲去。","공포, 희망, 그리고 신앙에 휩싸인 그는 상상 이상의 생명력을 발휘했다.\n도해자는 당신을 맹렬히 밀치고 밖으로 달려 나갔다."
+AvgDialog_23854_Content_62,aiOS,avg章5新_AvgDialog_C_M.csv,213,AvgDialog,Content,,锐利的尖端从灰蓝色胸膛穿出，液体飞溅，蹈海者轰然倒地。,"날카로운 단검이 탁한 푸른 가슴을 꿰뚫었다. 액체가 튀고, 도해자는 요란한 소리를 내며 쓰러졌다."
+AvgDialog_23854_Content_66,aiOW,avg章5新_AvgDialog_C_M.csv,217,AvgDialog,Content,,墨菲沉着眼，盯着匕首看了一会儿，最后擦去了其上蹈海者的鲜血。,"머피는 침착하게 단검을 한번 보고, 마지막으로 그 도해자의 피를 닦았다."
+AvgDialog_23854_Content_72,aiPd,avg章5新_AvgDialog_C_M.csv,223,AvgDialog,Content,墨菲,她是蹈海者…也就是这些鱼人的首领。,그녀는 도해자... 여기 어인들의 리더야.
+AvgDialog_23854_Content_80,aiPm,avg章5新_AvgDialog_C_M.csv,231,AvgDialog,Content,墨菲,我……就是蹈海者教团的「神母」。,내가... 도해자 교단의 「신모」야.
+AvgDialog_23865_Content_3,aiVC,avg章5新_AvgDialog_C_M.csv,380,AvgDialog,Content,弥利亚姆？,正位之时将至。忠诚的蹈海之人，神国之信徒，结束这场闹剧……迎回<Blue:神母>，迎回神明的再临。,"정위의 순간이 다가왔습니다. 충실한 도해자들이여, 신국의 신도들이여, 이 소동을 끝내고... <Blue:신모>를, 신의 재림을 맞이하십시오."
+AvgDialog_23843_Content_8,aiGT,avg章5新_AvgDialog_C_M.csv,390,AvgDialog,Content,蹈海者少年,放肆！我们血脉远比低贱的人类高贵，你没有资格称呼蹈海者为怪物！,무례하다! 우리 혈통을 천한 인간과 비교하지 마라! 네까짓 게 도해자를 괴물이라 부를 자격은 없다!
+AvgDialog_23843_Content_14,aiGh,avg章5新_AvgDialog_C_M.csv,396,AvgDialog,Content,,扭曲的虚影自蹈海者群中游动冲出，闪电般撞开了你紧握银钥的手，你整个人也被这强硬的力道撞到了船舷上。,"비틀린 그림자가 도해자들 사이에서 헤엄치듯 나타나, 은심을 쥔 당신의 손을 재빨리 쳐냈고, 당신은 배의 난간에 부딪혔다."
+AvgDialog_23843_Content_38,aiGH,avg章5新_AvgDialog_C_M.csv,420,AvgDialog,Content,拉蒙娜,港口……命令这些蹈海者一路追逐我们，利用我们破除船上密境边界的人，就是你。,"항구... 도해자들에게 우리를 쫓게 하고, 우리를 이용해 배의 비경 경계를 파괴한 건, 바로 당신이었군요."
+AvgDialog_23843_Content_45,aiGP,avg章5新_AvgDialog_C_M.csv,427,AvgDialog,Content,弥利亚姆,<Yellow:祂>将使我们的城从海中升起，将使我们的国重现于这纷乱世间，成为蹈海之人新的未来。,"<Yellow:그분>은 우리의 도시를 바다에서 일으켜 세우고, 이 혼란스러운 세상에 우리의 나라를 다시 세워, 도해자들의 새로운 미래가 될 것입니다."
+AvgDialog_23860_Content_16,aiUf,avg章5新_AvgDialog_C_M.csv,443,AvgDialog,Content,古老图鲁,无需言谢，你的声音太大了，会将其他蹈海者引来。,"감사는 필요 없다. 목소리가 너무 크구나, 다른 도해자들을 끌어들일 것이다."
+AvgDialog_23860_Content_37,aiUC,avg章5新_AvgDialog_C_M.csv,464,AvgDialog,Content,玩家,拉蒙娜在蹈海者的手上。图鲁，我需要你的帮助。,"라모나가 도해자들 손에 잡혀 있어. 툴루, 네 도움이 필요해."
+AvgDialog_23860_Content_41,aiUH,avg章5新_AvgDialog_C_M.csv,468,AvgDialog,Content,图鲁,还不知道有多少蹈海者登了船，你这么毫无准备地冲进去，着实愚钝。,"얼마나 많은 도해자들이 배에 탔는지도 모르는데, 그렇게 무턱대고 뛰어드는 것은 실로 어리석구나."
+AvgDialog_23866_Content_3,aiVL,avg章5新_AvgDialog_C_M.csv,475,AvgDialog,Content,,数名蹈海者围成包围圈，团团包围着舱室的一角。他们口中吟诵着刺耳的语调，几乎要将少女的抽泣淹没。,"몇몇 도해자들이 원을 그리며 선실 한구석을 둘러싸고 있었다. 그들은 귀에 거슬리는 목소리로 주문을 외우고 있었고, 그 소리에 소녀의 흐느낌이 거의 묻힐 지경이었다."
+AvgDialog_23866_Content_6,aiVO,avg章5新_AvgDialog_C_M.csv,478,AvgDialog,Content,,领头的蹈海者毕恭毕敬地匍匐于少女身前，其他人则用蹼状手掌擒住了她的手脚。,"선두에 선 도해자는 소녀 앞에 공손히 엎드려 있었고, 다른 자들은 물갈퀴가 달린 손으로 그녀의 팔다리를 붙잡고 있었다."
+AvgDialog_23866_Content_8,aiVQ,avg章5新_AvgDialog_C_M.csv,480,AvgDialog,Content,,蛇头人在地上画出奇异的符文，又接过蹈海者递上的一个行囊，那里面散发出令人作呕的臭味。,"뱀 머리 인간은 바닥에 기묘한 룬 문자를 그리고, 도해자가 건네준 가방을 받았다. 그 안에서는 역겨운 냄새가 풍겨 나왔다."
+AvgDialog_23866_Content_11,aiVH,avg章5新_AvgDialog_C_M.csv,483,AvgDialog,Content,玩家,弥利亚姆……是刚刚那个女人的名字！难道这女孩和那个首领是一伙的？可这些蹈海者又为什么会追捕她……,미리암... 방금 그 여자의 이름이잖아! 이 소녀와 그 리더는 한패인가? 그런데 왜 도해자들이 그녀를 쫓는 거지...
+AvgDialog_23866_Content_12,aiVI,avg章5新_AvgDialog_C_M.csv,484,AvgDialog,Content,,未等你厘清现状，粗壮的触手擦过你肩膀猛地冲向了蛇形蹈海者。,"당신이 상황을 파악하기도 전에, 굵은 촉수가 당신 어깨를 스치며 뱀 형태의 도해자에게 맹렬히 돌진했다."
+AvgDialog_23844_Content_1,aiGV,avg章5新_AvgDialog_C_M.csv,486,AvgDialog,Content,,触手重重砸下，蹈海者的身体被压得支离破碎，但奇迹般避开了少女的所在。,"촉수가 세차게 내리치자, 도해자의 몸은 산산조각이 났지만, 기적적으로 소녀가 있는 곳은 피했다."
+AvgDialog_23844_Content_19,aiHf,avg章5新_AvgDialog_C_M.csv,504,AvgDialog,Content,玩家,"你认识蹈海者的首领弥利亚姆，却又受蹈海者的追捕。
+墨菲，你究竟是什么人？","넌 도해자의 리더인 미리암을 알고 있으면서, 도해자들에게 쫓기고 있어. 머피, 넌 대체 누구야?"
+AvgDialog_23844_Content_22,aiHj,avg章5新_AvgDialog_C_M.csv,507,AvgDialog,Content,图鲁,那个符文是蹈海者用于催眠的仪式，那些家伙是想让她睡一会，避免节外生枝……,"저 룬 문자는 도해자들이 최면을 걸 때 사용하는 의식이다. 저들은 그녀를 잠시 재워서, 불필요한 문제를 피하려 했던 것 같군..."
+AvgDialog_23855_Content_3,aiPw,avg章5新_AvgDialog_C_M.csv,521,AvgDialog,Content,墨菲,这小子都能看出符文的作用了，你们还敢说自己和蹈海者不是一伙的！,"저 녀석이 룬 문자의 효과를 알아챘는데도, 너희가 도해자랑 한패가 아니라고 말할 수 있어?"
+AvgDialog_23862_Content_2,aiUU,avg章5新_AvgDialog_C_M.csv,530,AvgDialog,Content,墨菲,蹈海者本该被索纳尼尔号这个密境挡在外面的，要不是这个小黑斗篷怪人，我本来能安安心心地逃到新大陆去……,"도해자들은 소나닐호의 비경 때문에 밖에서 들어올 수 없었을 텐데, 어떻게 들어온 거야. 저 이상한 녀석만 아니었어도, 난 안심하고 신대륙으로 도망칠 수 있었는데..."
+AvgDialog_23862_Content_3,aiUV,avg章5新_AvgDialog_C_M.csv,531,AvgDialog,Content,墨菲,可是…他们打趴下了那么多蹈海者……难道那家伙真的没有骗我？,하지만... 저들은 도해자를 엄청나게 쓰러뜨렸어... 설마 정말 날 속이는 게 아닌가?
+AvgDialog_23853_Content_3,aiNI,avg章5新_AvgDialog_C_M.csv,534,AvgDialog,Content,图鲁,咳……余的意思是，她身上或许有解开蹈海者之谜的钥匙。,"크흠... 내 말은, 그녀가 도해자의 수수께끼를 풀 열쇠를 쥐고 있을지도 모른다는 것이다."
+AvgDialog_23853_Content_4,aiNJ,avg章5新_AvgDialog_C_M.csv,535,AvgDialog,Content,图鲁,从她对蹈海者的熟悉程度来看，她一定知道这些人的目的。,"그녀가 도해자들을 잘 아는 것으로 보아, 저들의 목적을 분명히 알고 있을 것이다."
+AvgDialog_23847_Content_6,aiJi,avg章5新_AvgDialog_C_M.csv,543,AvgDialog,Content,,船的四周游荡着无数光点，像一脚踩进了夏日深林的池塘，蛙鸣定军鼓般此起彼伏……每名蹈海者竟然都有属于自己的痕迹。,"배 주위에는 수많은 빛의 점들이 떠다녔다. 마치 여름 숲의 연못에 발을 들인 듯, 개구리 울음소리가 북소리처럼 울려 퍼졌다... 모든 도해자에게는 각자 고유한 흔적이 있는 듯했다."
+AvgDialog_23847_Content_8,aiJp,avg章5新_AvgDialog_C_M.csv,545,AvgDialog,Content,,黑暗中，有几点光源格外亮眼，但无论如何追赶都只是徒劳，你的精神被蹈海者拦得水泄不通。,"어둠 속에서 유독 밝게 빛나는 광원이 몇 개 있었지만, 아무리 쫓아가도 당신의 정신은 도해자들에게 가로막혀 소용없었다."
+AvgDialog_23847_Content_10,aiIg,avg章5新_AvgDialog_C_M.csv,547,AvgDialog,Content,,普通人类在精神世界中的呈现通常是微弱的，如果没有如此之多的蹈海者，在无人幽灵船上寻找墨菲本该不是难事。,"일반적인 인간은 정신 세계에서 존재감이 매우 희미하다. 이렇게 많은 도해자만 없었다면, 이 배에서 머피를 찾는 것은 그리 어렵지 않았을 것이다."
+AvgDialog_23847_Content_11,aiIh,avg章5新_AvgDialog_C_M.csv,548,AvgDialog,Content,,精神的根须徒劳地穿行在蹈海者集群中，笨拙地撞开一个又一个光点。,"정신의 뿌리는 도해자 무리 속을 헛되이 헤매며, 서투르게 빛의 점들을 하나씩 밀쳐냈다."
+AvgDialog_23847_Content_36,aiII,avg章5新_AvgDialog_C_M.csv,573,AvgDialog,Content,男性教徒,弥利亚姆主祭是不是太执拗了，蹈海教义里说，神国已覆灭了数万年。,"미리암 주제님은 너무 고집이 세십니다. 도해자 교리에 따르면, 신국은 이미 수만 년 전에 멸망했다고 하는데."
+AvgDialog_23847_Content_53,aiJb,avg章5新_AvgDialog_C_M.csv,590,AvgDialog,Content,,脚蹼在甲板上奔驰的声音响起，由远及近。不知道是否是弥利亚姆反过来利用了精神追溯，但现在蹈海者正在向你们包围。,"물갈퀴가 갑판을 달리는 소리가 멀리서부터 가까워졌다. 미리암이 정신 추적을 역이용했는지는 알 수 없지만, 지금 도해자들이 당신들을 포위하고 있었다."
+AvgDialog_23864_Content_2,aiVk,avg章5新_AvgDialog_C_M.csv,603,AvgDialog,Content,,墨菲带着你们在舱室间穿行，蹑手蹑脚地躲避着蹈海者的搜捕。,"머피는 당신들을 이끌고 선실 사이를 지나다니며, 도해자들의 수색을 피해 조심스럽게 움직였다."
+AvgDialog_23864_Content_18,aiVi,avg章5新_AvgDialog_C_M.csv,619,AvgDialog,Content,图鲁,余想知道，你是如何看待蹈海者的？,짐은 네가 도해자들을 어떻게 보는지 알고 싶다.
+AvgDialog_23864_Content_19,aiVj,avg章5新_AvgDialog_C_M.csv,620,AvgDialog,Content,玩家,蹈海者？指间有蹼，尾椎骨以上的部分完全鱼化，保有一定智力。,"도해자? 손가락 사이에 물갈퀴가 있고, 꼬리뼈 위쪽은 완전히 물고기화되었지만, 어느 정도 지능은 유지하고 있어."
+AvgDialog_23864_Content_22,aiVn,avg章5新_AvgDialog_C_M.csv,623,AvgDialog,Content,玩家,蹈海者…更像是进化论对人类开的一个愚蠢玩笑。,도해자는... 마치 진화론이 인류에게 친 어리석은 장난 같아.
+AvgDialog_23864_Content_25,aiVq,avg章5新_AvgDialog_C_M.csv,626,AvgDialog,Content,图鲁,这个少女——墨菲，我们遇到她时，蹈海者在她身边匍匐。且以她熟识弥利亚姆一事来看，她绝非普通教众。,"저 소녀, 머피 말이다. 우리가 그녀를 만났을 때, 도해자들이 그녀 옆에 엎드려 있었다. 게다가 그녀가 미리암을 잘 아는 것으로 보아, 평범한 신도는 절대 아닐 것이다."
+AvgDialog_23848_Content_3,aiJA,avg章5新_AvgDialog_C_M.csv,631,AvgDialog,Content,墨菲,"呼……幸亏不是蹈海者，不然我还不敢动手……
+你们来得也太慢了，我们快走吧。","휴... 도해자가 아니라서 다행이네, 그랬으면 손도 못 썼을 텐데... 너희들 너무 늦잖아, 빨리 가자."
+AvgDialog_23848_Content_6,aiJD,avg章5新_AvgDialog_C_M.csv,634,AvgDialog,Content,图鲁,虽然你带我们走过的这些舱室没有蹈海者的痕迹，但越往里走，融蚀异变体的活动就越频繁。,"네가 우리를 데려온 이 선실들에는 도해자의 흔적이 없었지만, 안으로 들어갈수록 융식 변이체의 활동이 더 잦아지고 있다."
+AvgDialog_23848_Content_12,aiJu,avg章5新_AvgDialog_C_M.csv,640,AvgDialog,Content,墨菲,这家伙的同伴不是还在蹈海者手上吗？要是你们再磨磨唧唧，浪费时间，那人要是出了什么事，我可不负责。,"이 녀석 동료는 아직 도해자들 손에 있잖아? 너희가 계속 꾸물거리다 시간 낭비해서, 그 사람한테 무슨 일 생기면, 난 책임 안 져."
+AvgDialog_23867_Content_23,aiWh,avg章5新_AvgDialog_C_M.csv,667,AvgDialog,Content,玩家,我和拉蒙娜就是在甲板上遭受了蹈海者的围堵……甲板上肯定还有蹈海者在游荡巡逻，我们要小心些，尽量避免战斗。,"나와 라모나가 갑판에서 도해자들에게 포위당했었지... 갑판에는 분명 아직 도해자들이 순찰하고 있을 거야. 조심해서, 최대한 싸움은 피하자."
+AvgDialog_23849_Content_2,aiJI,avg章5新_AvgDialog_C_M.csv,669,AvgDialog,Content,,如果没有远处游荡的蹈海者，索纳尼尔号或许真的能成为与世隔绝的乌托邦……,"멀리서 배회하는 도해자들만 없었다면, 소나닐호는 정말 세상과 단절된 유토피아가 될 수 있었을 텐데..."
+AvgDialog_23845_Content_2,aiHM,avg章5新_AvgDialog_C_M.csv,671,AvgDialog,Content,,只要能引开门口蹈海者的注意，你们就能无声无息地潜进楼里……,"입구에 있는 도해자들의 주의만 끌 수 있다면, 소리 없이 건물 안으로 잠입할 수 있을 텐데..."
+AvgDialog_23845_Content_8,aiHT,avg章5新_AvgDialog_C_M.csv,677,AvgDialog,Content,,"用古老语言唤走蹈海者守卫的，无疑是个巨人。
+你们的角度无法看见正身，但其映在甲板上影子格外巨大。","고대 언어로 도해자 경비병을 물러가게 한 자는, 의심할 여지없이 거인이었다. 당신들의 위치에서는 본체를 볼 수 없었지만, 갑판에 비친 그림자는 유난히 거대했다."
+AvgDialog_23845_Content_13,aiHF,avg章5新_AvgDialog_C_M.csv,682,AvgDialog,Content,图鲁,蹈海者大多身体羸弱，擅使轻兵。这把巨剑另有主人，小心应对。,"도해자 대부분은 몸이 약하고, 가벼운 무기를 잘 쓴다. 이 거대한 검은 다른 주인이 있을 테니, 조심해서 상대해라."
+AvgDialog_23845_Content_16,aiHI,avg章5新_AvgDialog_C_M.csv,685,AvgDialog,Content,,壮硕高大的男人拖着长长的尾鳍，踢开匍匐脚边的蹈海者，迈着沉重的步子走向你们。,"몸집이 크고 건장한 남자가 긴 꼬리지느러미를 끌며, 발치에 엎드린 도해자를 걷어차고, 묵직한 걸음으로 당신들에게 다가왔다."
+AvgDialog_23845_Content_18,aiHK,avg章5新_AvgDialog_C_M.csv,687,AvgDialog,Content,玩家,地位高于蹈海者的唤醒体……难道这家伙也是弥利亚姆的同伙？！,도해자보다 지위가 높은 각성체... 설마 이 녀석도 미리암의 동료인가?!
+AvgDialog_23851_Content_13,aiKb,avg章5新_AvgDialog_C_M.csv,702,AvgDialog,Content,玩家,提灯教会……蹈海者和提灯教会竟然是一伙人？,등불 교회... 도해자와 등불 교회가 한패였나?
+AvgDialog_23851_Content_14,aiKc,avg章5新_AvgDialog_C_M.csv,703,AvgDialog,Content,戈利亚,哈？别把我和那群疯子相提并论。蹈海者的外形难以行走世间，而他们想要我们的力量……怪人的相互利用，抱团取暖罢了。,"하? 날 그 미치광이들과 한통속으로 묶지 마. 도해자들의 외형은 세상에 나서기 어렵고, 저들은 우리의 힘을 원해... 괴물들끼리 서로 이용하고, 뭉쳐서 온기를 나누는 것뿐이야."
+AvgDialog_23851_Content_18,aiKg,avg章5新_AvgDialog_C_M.csv,707,AvgDialog,Content,戈利亚,我，还有这些蹈海者从何而来——您不会猜不到吧？毕竟您可是至高无上的……,"나, 그리고 이 도해자들이 어디서 왔는지—— 짐작이 안 가는 건 아니겠지? 당신은 지고하신..."
+AvgDialog_23856_Content_5,aiQJ,avg章5新_AvgDialog_C_M.csv,741,AvgDialog,Content,玩家,"没事了，甲板上的蹈海者也跟着他走掉了。
+来，手给我，我扶你出来。","괜찮아, 갑판의 도해자들도 그를 따라갔어. 자, 손 줘, 내가 꺼내 줄게."
+AvgDialog_23856_Content_12,aiPU,avg章5新_AvgDialog_C_M.csv,748,AvgDialog,Content,玩家,你很了解「蹈海者」这个组织，你是「蹈海者」的一份子，甚至身居高位……或者说，他们就是为你而来。,"넌 「도해자」라는 조직을 잘 알고 있고, 그 일원이며, 심지어 지위도 높아... 아니, 저들이 널 찾아온 거지."
+AvgDialog_23856_Content_13,aiPV,avg章5新_AvgDialog_C_M.csv,749,AvgDialog,Content,玩家,你是蹈海者口中的「神母」，孕育新神的容器……是吗？,"넌 도해자들이 말하는 「신모」, 새로운 신을 잉태할 그릇... 맞지?"
+AvgDialog_23856_Content_15,aiPX,avg章5新_AvgDialog_C_M.csv,751,AvgDialog,Content,玩家,那要如何解释你对戈利亚、弥利亚姆的熟悉，以及你对蹈海者的逃避？,"그럼 골리아, 미리암과 친한 것, 그리고 도해자들로부터 도망치는 건 어떻게 설명할 건데?"
+AvgDialog_23856_Content_17,aiPZ,avg章5新_AvgDialog_C_M.csv,753,AvgDialog,Content,玩家,在蹈海者的群体中，人类外表应该是非常稀有的。不然凭借他们的战斗力，也不会需要与提灯教会进行合作。,"도해자들 사이에서, 인간의 모습은 매우 드물 거야. 그렇지 않다면 그들의 전투력으로, 등불 교회와 협력할 필요도 없었겠지."
+AvgDialog_23856_Content_104,aiPH,avg章5新_AvgDialog_C_M.csv,840,AvgDialog,Content,戈利亚,做点什么你喜欢的事吧，搞破坏，对蹈海者抽鞭子，折腾你的女仆……随便什么都行。,"네가 좋아하는 일을 해, 파괴를 하든, 도해자를 채찍질하든, 네 하녀를 괴롭히든... 뭐든지 괜찮아."
+AvgDialog_23857_Content_2,aiRX,avg章5新_AvgDialog_C_M.csv,853,AvgDialog,Content,玩家,蹈海者教团、被冒险队破坏的仪式、被融蚀的前任母体……还有你体内的「神明」……,"도해자 교단, 모험대가 파괴한 의식, 융식된 전임 모체... 그리고 네 몸 안의 「신」..."
+AvgDialog_23857_Content_35,aiSo,avg章5新_AvgDialog_C_M.csv,886,AvgDialog,Content,墨菲,蹈海者教团的笔记中，反复强调着<Blue:星辰正位>的重要性，降生仪式也必须在特定的时间进行，这就是那女人让我沉睡的原因。,"도해자 교단의 기록에는, <Blue:별들의 정위>의 중요성이 반복적으로 강조되고, 강신 의식도 특정 시간에 진행되어야 해. 그 여자가 날 잠재우려는 이유도 그거야."
+AvgDialog_23857_Content_41,aiSv,avg章5新_AvgDialog_C_M.csv,892,AvgDialog,Content,墨菲,她肯定带着船长躲开了蹈海者，只要我们找到她，找到你同伴的位置就是小菜一碟。,"그녀는 분명 선장님을 데리고 도해자들을 피했을 거야, 우리가 그녀를 찾기만 하면, 네 동료의 위치를 찾는 건 식은 죽 먹기지."
+AvgDialog_24081_Content_4,ajgo,avg章5新_AvgDialog_C_M.csv,922,AvgDialog,Content,埃尔顿,"蹈海者登船时，我和希莱斯特并不在一起。
+在安全屋等了这么久，你们是最先找到我的人。","도해자들이 배에 올랐을 때, 난 혼자였다. 안전가옥에서 계속 기다렸는데, 자네들이 날 먼저 찾았군."
+AvgDialog_24079_Content_3,ajeX,avg章5新_AvgDialog_C_M.csv,1010,AvgDialog,Content,,煤渣堆积成山，皮肤潮湿的蹈海者们在动力室来回走动，尾鳍在地上拖出一道道状若污泥的黑痕。,"석탄재가 산처럼 쌓여 있었고, 축축한 피부의 도해자들이 동력실을 오가며, 꼬리지느러미가 바닥에 진흙 같은 검은 흔적을 남겼다."
+AvgDialog_24079_Content_7,ajfO,avg章5新_AvgDialog_C_M.csv,1014,AvgDialog,Content,拉蒙娜,<Gray:时间不够。现在动力室成了他们的据点，敌人太多了，我在冲到门边之前就会被蹈海者拦下来。>,"<Gray:시간이 부족해. 지금 동력실은 저들의 거점이 되었고, 적이 너무 많아서 문가에 다다르기 전에 도해자들에게 막힐 거야.>"
+AvgDialog_24079_Content_9,ajfQ,avg章5新_AvgDialog_C_M.csv,1016,AvgDialog,Content,,蹈海者们在为「仪式」做着准备，而那唤醒体少年也忠诚地履行着使命，一动不动、寸步不移地看守着她。,"도해자들은 「의식」을 준비하고 있었고, 그 각성체 소년도 충실히 사명을 이행하며, 꼼짝도 않고 한 발짝도 움직이지 않고 그녀를 지키고 있었다."
+AvgDialog_24079_Content_18,ajeK,avg章5新_AvgDialog_C_M.csv,1025,AvgDialog,Content,,女人曼妙挺拔的身姿与蹈海者们形成极为鲜明的对比，她的脸上也写满嫌恶，显然，她并不愿与蹈海者教团并肩同行。,"여인의 우아하고 꼿꼿한 자태는 도해자들과 극명한 대조를 이루었고, 그녀의 얼굴에도 혐오감이 가득했다. 분명, 그녀는 도해자 교단과 어깨를 나란히 하고 싶지 않은 듯했다."
+AvgDialog_24079_Content_28,ajeV,avg章5新_AvgDialog_C_M.csv,1035,AvgDialog,Content,拉蒙娜,<Gray:提灯驻地……这两人莫非是提灯教会的成员？他们和蹈海者果然有关联。>,<Gray:등불 주둔지... 이 두 사람은 등불 교회 신도인가? 그들과 도해자는 역시 관련이 있었어.>
+AvgDialog_24079_Content_59,ajfD,avg章5新_AvgDialog_C_M.csv,1066,AvgDialog,Content,拉蒙娜,<Small:你是密境的主人，如果你能让密境消失一会儿，引起蹈海者混乱的话……>,"<Small:넌 비경의 주인이잖아, 만약 비경을 잠시 사라지게 해서, 도해자들을 혼란에 빠뜨릴 수 있다면...>"
+AvgDialog_24079_Content_68,ajfN,avg章5新_AvgDialog_C_M.csv,1075,AvgDialog,Content,,拉蒙娜拉住了唤醒体的手，全身的力量都集中在了下肢。她撞开身边的蹈海者，全速向动力室外冲去。,"라모나가 각성체의 손을 잡고, 온몸의 힘을 하체에 집중했다. 그녀는 옆에 있던 도해자를 밀치고, 전속력으로 동력실 밖으로 뛰쳐나갔다."
+AvgDialog_24083_Content_5,ajgP,avg章5新_AvgDialog_C_M.csv,1080,AvgDialog,Content,拉蒙娜,<Small:难道是蹈海者派来追击我们的人吗……希望守密人不要和脚步主人产生正面冲突，我不在身边，%heorshe%单打独斗，很可能不是对方的对手……>,"<Small:설마 도해자들이 우리를 쫓아온 건가... 수호자가 발소리 주인과 정면으로 부딪히지 않았으면 좋겠는데, 내가 옆에 없으면, %heorshe% 혼자서는 상대가 안 될 가능성이 높아...>"
+AvgDialog_24078_Content_2,ajek,avg章5新_AvgDialog_C_M.csv,1095,AvgDialog,Content,,"蹈海者们受到首领的召唤，从四面八方的舱室鱼贯而出。
+而为首追击你们的，正是那让你尤为忌惮的巨人。","도해자들은 우두머리의 부름을 받고, 사방팔방의 선실에서 줄지어 나왔다. 그리고 선두에서 당신들을 추격하는 것은, 바로 당신이 특히 경계하던 그 거인이었다."
+AvgDialog_24093_Content_17,ajkQ,avg章5新_AvgDialog_C_M.csv,1138,AvgDialog,Content,拉蒙娜,你们是谁，蹈海者为什么追捕你们，以及弥利亚姆所狂热执着的「仪式」……,"너희가 누구인지, 도해자들이 왜 너희를 쫓는지, 그리고 미리암이 광적으로 집착하는 「의식」..."
+AvgDialog_24093_Content_21,ajkV,avg章5新_AvgDialog_C_M.csv,1142,AvgDialog,Content,埃尔顿,在我的青年时代，弥利亚姆帮助我唤醒了希莱斯特。作为回报，我们驾驶着索纳尼尔号，往返大陆与极地，为蹈海者教团运送物资。,"내 젊은 시절, 미리암이 셀레스트를 각성시키는 것을 도와주었다. 그 보답으로, 우리는 소나-닐호를 몰고 대륙과 극지를 오가며, 도해자 교단에 물자를 운송했지."
+AvgDialog_24093_Content_43,ajlt,avg章5新_AvgDialog_C_M.csv,1164,AvgDialog,Content,墨菲,别开玩笑了！你以为凭你能拖住那些怪物吗？你连蹈海者都不是，你只是纯粹的人类啊！,"농담하지 마! 네가 저 괴물들을 막을 수 있을 거라고 생각해? 넌 도해자도 아니잖아, 그냥 순수한 인간이라고!"
+AvgDialog_24093_Content_74,ajmb,avg章5新_AvgDialog_C_M.csv,1195,AvgDialog,Content,墨菲,不用你保护，蹈海者的弱点在哪我清楚得很，我能照顾好自己。,"네 보호는 필요 없어, 도해자의 약점은 내가 잘 알아, 내 몸은 내가 챙길 수 있어."
+AvgDialog_24096_Content_43,ajnh,avg章5新_AvgDialog_C_M.csv,1245,AvgDialog,Content,,但恍惚之中，你还是瞥见了两个少女……她们被蹈海者包围了，为什么越来越靠近了？,"하지만 흐릿한 의식 속에서도, 두 소녀를 힐끗 보았다... 그녀들은 도해자들에게 둘러싸여 있었는데, 왜 점점 가까워지는 거지?"
+AvgDialog_24094_Content_1,ajml,avg章5新_AvgDialog_C_M.csv,1260,AvgDialog,Content,,伴随着弥利亚姆心智的动荡，蹈海者的集群也变得不再稳定，混乱无序悄然蔓延开来。,"미리암의 심리가 흔들리면서, 도해자들의 집단도 불안정해졌고, 혼란과 무질서가 은밀히 퍼져나갔다."
+AvgDialog_24094_Content_2,ajmm,avg章5新_AvgDialog_C_M.csv,1261,AvgDialog,Content,,蹈海者们认出了“孕育”着神明的墨菲，近乎本能地在她靠近时纷纷退下，你们就这么小跑着穿过了怪物的包围。,"도해자들은 신을 「잉태」한 머피를 알아보고, 그녀가 다가오자 본능적으로 물러났다. 당신들은 그렇게 괴물들의 포위를 뚫고 달려 나갔다."
+AvgDialog_24095_Content_1,ajmn,avg章5新_AvgDialog_C_M.csv,1262,AvgDialog,Content,,触手抽飞了围上来的蹈海者，图鲁行在队伍的最后，为你们扫着尾。,"촉수가 달려드는 도해자들을 쳐내고, 툴루는 대열의 맨 뒤에서, 당신들을 위해 꼬리를 쓸어주었다."
+AvgDialog_24095_Content_2,ajmo,avg章5新_AvgDialog_C_M.csv,1263,AvgDialog,Content,,"蹈海者们虽然低智，但事到如今，竟突然变得彷徨起来。
+集群中开始窃窃私语，那语言古老而晦涩，但图鲁却因此紧皱起了眉。","도해자들은 비록 지능이 낮지만, 이 지경에 이르자 갑자기 망설이기 시작했다. 무리 속에서 수군거림이 시작되었고, 그 언어는 고대하고 난해했지만, 툴루는 그 때문에 미간을 찌푸렸다."
+AvgDialog_24095_Content_3,ajmp,avg章5新_AvgDialog_C_M.csv,1264,AvgDialog,Content,图鲁,这些蹈海者的猜忌，只会激怒弥利亚姆。,"이 도해자들의 의심은, 미리암을 분노하게 할 뿐이다."
+AvgDialog_24095_Content_6,ajms,avg章5新_AvgDialog_C_M.csv,1267,AvgDialog,Content,,匕首划过数名蹈海者的咽喉，她沐浴着喷溅的灰蓝色血液，穿过蹈海者的集群。,"단검이 여러 도해자의 목을 스쳐 지나갔고, 그녀는 뿜어져 나오는 회청색 피를 뒤집어쓴 채, 도해자 무리를 헤쳐나갔다."
+AvgDialog_24095_Content_9,ajmv,avg章5新_AvgDialog_C_M.csv,1270,AvgDialog,Content,弥利亚姆,蹈海者……让这些亵渎了吾主之名的恶徒，见证神国血脉的威仪！,"도해자여... 이 나의 주님의 이름을 더럽힌 악인들에게, 신국 혈통의 위엄을 보여주어라!"
+AvgDialog_24091_Content_1,ajhU,avg章5新_AvgDialog_C_M.csv,1271,AvgDialog,Content,墨菲,蹈海者都不太怕痛的，我小时候经常踩到他们尾巴，没多少人有反应。,"도해자들은 통증을 잘 못 느껴. 어릴 때 내가 자주 그들 꼬리를 밟았는데, 반응하는 사람이 별로 없었어."
+AvgDialog_24091_Content_2,ajif,avg章5新_AvgDialog_C_M.csv,1272,AvgDialog,Content,玩家,这意味着蹈海者会源源不断地爬起来……我们没法保证每一次都能彻底杀死他们，这么打下去不是办法。,"그 말은 도해자들이 계속해서 일어난다는 거네... 매번 완전히 죽일 수 있다는 보장도 없고, 이렇게 싸우다간 끝이 없어."
+AvgDialog_19196_Content_16,ahyT,avg章6_AvgDialog_C_M.csv,23,AvgDialog,Content,玩家,拉蒙娜、图鲁、埃尔顿船长、希莱斯特、蹈海者们以及你与那个寄生物……,"라모나, 툴루, 엘튼 선장, 셀레스트, 도해자들 그리고 너와 그 기생충..."
+AvgDialog_19196_Content_17,ahyU,avg章6_AvgDialog_C_M.csv,24,AvgDialog,Content,墨菲,把我和这怪物绑在一起就算了，你甚至不肯把我放在蹈海者之前想起来吗！,"나를 이 괴물과 묶는 건 그렇다 쳐도, 설마 도해자보다 나를 나중에 기억해 내다니!"
+AvgDialog_34970_Content_19,ajDM,avg章6_AvgDialog_C_M.csv,82,AvgDialog,Content,,身后传来重物倒地的声音，转身瞬间，你与被赘生物砸倒在地的蹈海者对上了视线。,"뒤에서 무거운 물건이 쓰러지는 소리가 들렸다. 돌아서는 순간, 당신은 증식체에 깔려 쓰러진 도해자와 시선이 마주쳤다."
+AvgDialog_34970_Content_21,ajDP,avg章6_AvgDialog_C_M.csv,84,AvgDialog,Content,,墨菲陷入了长久的沉默，见她久未有反应，你上前一步，挡在了她与蹈海者之间。,"머피는 오랫동안 침묵에 잠겼고, 그녀가 오랫동안 반응이 없자, 당신은 한 걸음 앞으로 나아가 그녀와 도해자 사이에 섰다."
+AvgDialog_34981_Content_2,ajLM,avg章6_AvgDialog_C_M.csv,176,AvgDialog,Content,拉蒙娜,嘘……小声些，外面还游荡着不少蹈海者。,"쉿... 조용히, 밖에 아직 도해자들이 많이 돌아다니고 있어."
+AvgDialog_34965_Content_2,ajAm,avg章6_AvgDialog_C_M.csv,201,AvgDialog,Content,墨菲,这些蹈海者怎么肚子大成了这样？,이 도해자들은 왜 배가 이렇게 부풀어 올랐지?
+AvgDialog_34965_Content_3,ajAx,avg章6_AvgDialog_C_M.csv,202,AvgDialog,Content,,墨菲警惕地靠近了被你们击败的蹈海者，拉蒙娜紧随其后跟了上去。,"머피는 경계하며 당신들이 쓰러뜨린 도해자에게 다가갔고, 라모나가 그 뒤를 바짝 따랐다."
+AvgDialog_34965_Content_4,ajAA,avg章6_AvgDialog_C_M.csv,203,AvgDialog,Content,,她们对视一眼，合力将蹈海者趴卧的身体翻了过来。,"그녀들은 눈을 마주치고, 힘을 합쳐 도해자의 엎드린 몸을 뒤집었다."
+AvgDialog_34965_Content_9,ajAF,avg章6_AvgDialog_C_M.csv,208,AvgDialog,Content,,蹈海者的腹部如气球般泄了气，寄生物不再动弹。拉蒙娜朝着无人的空处挥了挥剑，甩掉了剑尖沾染上的污水。,"도해자의 복부가 풍선처럼 바람이 빠졌고, 기생충은 더 이상 움직이지 않았다. 라모나는 사람이 없는 빈 곳을 향해 검을 휘둘러, 검 끝에 묻은 오물을 털어냈다."
+AvgDialog_34965_Content_11,ajAd,avg章6_AvgDialog_C_M.csv,210,AvgDialog,Content,,没等你出声阻拦，拉蒙娜便撕下了蹈海者身上的布料缠绕在了武器尖端，将武器伸进了蹈海者尸身的腹腔中搅动了起来。,"당신이 막으려 하기도 전에, 라모나는 도해자의 옷을 찢어 무기 끝에 감고, 무기를 도해자 시체의 복강에 넣어 휘저었다."
+AvgDialog_34965_Content_17,ajAj,avg章6_AvgDialog_C_M.csv,216,AvgDialog,Content,,拉蒙娜皱着眉，收起自己的细剑，转而拾起了地上的蹈海者长矛，轻轻划破了寄生物的胶质皮肤——,"라모나는 미간을 찌푸리고, 자신의 세검을 집어넣고, 대신 바닥에 떨어진 도해자 장창을 주워, 기생충의 젤라틴 피부를 가볍게 갈랐다——"
+AvgDialog_34965_Content_22,ajAp,avg章6_AvgDialog_C_M.csv,221,AvgDialog,Content,拉蒙娜,这些蹈海者之前没表现出哪怕半分被寄生的迹象，至少在爆炸前没有……,"이 도해자들은 이전에 기생된 흔적을 조금도 보이지 않았어, 적어도 폭발 전에는..."
+AvgDialog_34965_Content_28,ajAv,avg章6_AvgDialog_C_M.csv,227,AvgDialog,Content,玩家,精神孱弱、心智混沌的蹈海者们，首当其冲受到灾厄影响，这些寄生物大概也是一种融蚀赘生物的体现。,"정신이 약하고, 마음이 혼란스러운 도해자들이, 가장 먼저 재앙의 영향을 받았고, 이 기생충들도 아마 일종의 융식증식체의 발현일 거야."
+AvgDialog_19163_Content_8,ahxh,avg章6_AvgDialog_C_M.csv,238,AvgDialog,Content,拉蒙娜,蹈海者群体中出现被寄生的异常个体，恐怕也与融蚀现象的蔓延脱不了干系。,"도해자들 중에 기생당한 이상 개체가 나타난 것도, 이 융식 현상의 확산과 무관하지 않을 거야."
+AvgDialog_19163_Content_11,ahwx,avg章6_AvgDialog_C_M.csv,241,AvgDialog,Content,玩家,图鲁正在独自调查，他想要确认蹈海者为什么还在继续行动。,툴루는 단독으로 조사하러 갔어. 그는 도해자들이 왜 아직도 움직이는지 확인하고 싶어 하는 것 같아.
+AvgDialog_34973_Content_9,ajFY,avg章6_AvgDialog_C_M.csv,335,AvgDialog,Content,拉蒙娜,呼……幸好船长锁着门。除了赘生物外，异变体、蹈海者都没有闯进来。,"휴... 다행히 선장님이 문을 잠가두셨네. 증식체 외에는, 변이체나 도해자들은 들어오지 않았어."
+AvgDialog_34978_Content_22,ajIS,avg章6_AvgDialog_C_M.csv,381,AvgDialog,Content,,"A.F.2@2年 深冬
+「蹈海者」教团，艾尔沃斯圣所","A.F. 2@2년 한겨울\n「도해자」 교단, 엘워스 성소"
+AvgDialog_34978_Content_36,ajJh,avg章6_AvgDialog_C_M.csv,395,AvgDialog,Content,,接头的蹈海者猛地匍匐下去，身体撞在冷硬的黑岩石上，听得让人耳朵一酸。,"접선책 도해자가 갑자기 엎드렸고, 몸이 차갑고 단단한 검은 바위에 부딪히는 소리가 귀에 거슬렸다."
+AvgDialog_34978_Content_38,ajJj,avg章6_AvgDialog_C_M.csv,397,AvgDialog,Content,,即使我从未见过教团高层，但凭身边蹈海者的反应，我也知道来人的身份是何其高贵。,"나는 교단 고위층을 한 번도 본 적이 없었지만, 주변 도해자들의 반응만으로도, 온 사람의 신분이 얼마나 높은지 알 수 있었다."
+AvgDialog_34978_Content_51,ajJy,avg章6_AvgDialog_C_M.csv,410,AvgDialog,Content,,"蹈海者主祭弥利亚姆派给了我新的任务。
+那次航程所运输的货物，变成了一个<Yellow:女婴>。","도해자 주제 미리암이 내게 새로운 임무를 주었다. 그 항해에서 운송한 화물은, <Yellow:여자 아기>였다."
+AvgDialog_34978_Content_73,ajJW,avg章6_AvgDialog_C_M.csv,432,AvgDialog,Content,,"三个月前
+「蹈海者」教团，艾尔沃斯圣所","3개월 전\n「도해자」 교단, 엘워스 성소"
+AvgDialog_34978_Content_84,ajKi,avg章6_AvgDialog_C_M.csv,443,AvgDialog,Content,,那个曾留着蹈海者之血，却已为魔像之身的少年腼腆地笑了笑——于我而言，凯刻斯确实是个孩子。,"도해자의 피를 가졌지만, 이미 골렘의 몸이 된 소년이 수줍게 웃었다——내게, 카이커스는 정말 아이였다."
+AvgDialog_34978_Content_104,ajIj,avg章6_AvgDialog_C_M.csv,463,AvgDialog,Content,？？？（墨菲）,都让你别叫了！成心想让那些蹈海者听见吗！,소리 지르지 말랬잖아! 도해자들한테 들리게 할 셈이야!
+AvgDialog_34978_Content_110,ajIq,avg章6_AvgDialog_C_M.csv,469,AvgDialog,Content,墨菲,我知道你们，你们不是蹈海者，只是运货的合作者……只要你能把我从这里送走，送得越远越好——这些财宝就都是你的。,"너희들을 알아, 너희는 도해자가 아니라, 그냥 화물 운송 협력자잖아... 날 여기서 데리고 나가주기만 하면, 멀리 갈수록 좋아——이 보물들은 다 당신들 거야."
+AvgDialog_34978_Content_111,ajIr,avg章6_AvgDialog_C_M.csv,470,AvgDialog,Content,,变戏法似的，她从包里掏出好几尊塑像——那些看一眼就让人感到头晕的拙劣木雕，深受蹈海者崇拜，但在外人眼中一文不值。,"마술처럼, 그녀는 가방에서 여러 개의 조각상을 꺼냈다——그 한 번만 봐도 어지러운 조악한 목각들은, 도해자들에게 숭배받았지만, 외부인에게는 아무 가치가 없었다."
+AvgDialog_34980_Content_4,ajLv,avg章6_AvgDialog_C_M.csv,489,AvgDialog,Content,玩家,因为亲手把墨菲送给了教团而愧疚着……这是你决心背叛蹈海者的原因吗？,머피를 직접 교단에 넘겨준 죄책감... 그것이 당신이 도해자를 배신하기로 결심한 이유인가요?
+AvgDialog_34980_Content_26,ajLp,avg章6_AvgDialog_C_M.csv,511,AvgDialog,Content,,游荡在下层甲板的蹈海者纷纷引颈抬头，一双双无神的鱼眼对上了你们的视线。,"하층 갑판을 배회하던 도해자들이 일제히 고개를 들었고, 한 쌍씩 무표정한 물고기 눈이 당신들의 시선과 마주쳤다."
+AvgDialog_34980_Content_27,ajLq,avg章6_AvgDialog_C_M.csv,512,AvgDialog,Content,埃尔顿,怎么样，蹈海者没注意到我们吧？,"어때, 도해자들이 우리를 눈치챈 것 같나?"
+AvgDialog_34983_Content_2,ajMD,avg章6_AvgDialog_C_M.csv,517,AvgDialog,Content,玩家,都是些神志不清的蹈海者，还有些融蚀异变体。,"정신이 혼미한 도해자들이랑, 융식 변이체들이에요."
+AvgDialog_34982_Content_1,ajMa,avg章6_AvgDialog_C_M.csv,522,AvgDialog,Content,,你从驾驶室门内探出头去，甲板上躺倒了一片蹈海者。外貌如常的、怀揣寄生物的、貌如蛇形的……,"당신이 조타실 문에서 고개를 내밀자, 갑판에는 도해자들이 쓰러져 있었다. 외모가 평범한 자, 기생충을 품은 자, 뱀 모양인 자..."
+AvgDialog_34982_Content_4,ajMw,avg章6_AvgDialog_C_M.csv,525,AvgDialog,Content,,你踢了踢脚边已经失去生命气息的蹈海者。,당신은 발치에 이미 생명 기운을 잃은 도해자를 걷어찼다.
+AvgDialog_34982_Content_10,ajMb,avg章6_AvgDialog_C_M.csv,531,AvgDialog,Content,拉蒙娜,你快过来看这个蹈海者。,이리 와서 이 도해자 좀 봐.
+AvgDialog_34982_Content_11,ajMc,avg章6_AvgDialog_C_M.csv,532,AvgDialog,Content,,拉蒙娜挑开一堆乱七八糟的海藻、珊瑚碎屑，露出了被埋在最下面的一个蹈海者。,"라모나가 뒤엉킨 해초, 산호 조각 더미를 헤치자, 가장 아래에 묻혀 있던 도해자 한 명이 드러났다."
+AvgDialog_34982_Content_13,ajMe,avg章6_AvgDialog_C_M.csv,534,AvgDialog,Content,,它的皮肤是白色的，在一众灰扑扑的蹈海者中尤为显眼。就像麻雀群中的鹅，或者灰驴中的白色大宛马。,"그의 피부는 흰색이었고, 칙칙한 도해자들 사이에서 유난히 눈에 띄었다. 마치 참새 떼 속의 거위, 또는 회색 당나귀 속의 흰색 대완마 같았다."
+AvgDialog_34982_Content_15,ajMg,avg章6_AvgDialog_C_M.csv,536,AvgDialog,Content,拉蒙娜,你再仔细想想，我们之前与白色个体蹈海者的交手，都发生在什么情况下？,"다시 한번 잘 생각해봐, 우리가 이전에 흰색 개체 도해자와 싸웠을 때, 어떤 상황에서였지?"
+AvgDialog_34982_Content_18,ajMj,avg章6_AvgDialog_C_M.csv,539,AvgDialog,Content,拉蒙娜,没错，白色个体的蹈海者……是戈利亚的亲卫。,"맞아, 흰색 개체의 도해자는... 골리아의 친위대야."
+AvgDialog_34982_Content_23,ajMp,avg章6_AvgDialog_C_M.csv,544,AvgDialog,Content,,已有鱼人之形的少年唤醒体收回了长戟，低头看着躺倒一地的蹈海者。他半个身子都隐在巨大烟管投下的阴影中，你完全看不清他脸上的表情。,"물고기 모양을 한 소년 각성체가 장창을 거두고, 바닥에 널브러진 도해자들을 내려다보았다. 그의 몸 절반은 거대한 연통이 드리운 그림자에 가려져, 당신은 그의 얼굴 표정을 전혀 볼 수 없었다."
+AvgDialog_34972_Content_6,ajFo,avg章6_AvgDialog_C_M.csv,555,AvgDialog,Content,,蹈海者少年的呼吸都停滞了下来，那双鱼目因紧张而圆瞪着，目光死死停留在戈利亚身上。,"도해자 소년의 호흡이 멎었고, 그 물고기 눈은 긴장으로 동그래져, 시선은 골리아에게 고정되었다."
+AvgDialog_34972_Content_23,ajFj,avg章6_AvgDialog_C_M.csv,572,AvgDialog,Content,凯刻斯,蹈海者们！星辰正位之时将至！,도해자들이여! 정위의 때가 다가왔다!
+AvgDialog_34975_Content_2,ajHp,avg章6_AvgDialog_C_M.csv,575,AvgDialog,Content,,拉蒙娜正背对着你，全心应付着蹈海者源源不绝的攻势，但她挺拔不折的背影就是最好的回应。,"라모나는 당신에게 등을 돌리고, 도해자들의 끊임없는 공세에 온 힘을 다해 맞서고 있었지만, 그녀의 꼿꼿하고 꺾이지 않는 뒷모습이 최고의 대답이었다."
+AvgDialog_34975_Content_4,ajHr,avg章6_AvgDialog_C_M.csv,577,AvgDialog,Content,,眼见蹈海者要从暗处夹击拉蒙娜，船长猛地将舵轮往一个方向打满。,"도해자가 어둠 속에서 라모나를 협공하려는 것을 보고, 선장이 갑자기 조타기를 한 방향으로 끝까지 돌렸다."
+AvgDialog_34967_Content_9,ajAX,avg章6_AvgDialog_C_M.csv,589,AvgDialog,Content,,你扭头看了看仍在抵御蹈海者攻势的拉蒙娜，最后深呼吸了一下，闭眼沉入了精神维度……,"당신은 고개를 돌려 여전히 도해자들의 공세를 막고 있는 라모나를 보고, 마지막으로 심호흡을 한 뒤, 눈을 감고 정신 차원으로 빠져들었다..."
+AvgDialog_34971_Content_23,ajEm,avg章6_AvgDialog_C_M.csv,620,AvgDialog,Content,玩家,显然……你并不完全忠诚于蹈海者，甚至对他们的信仰、他们的神明嗤之以鼻……,"분명... 넌 도해자에게 완전히 충성하지 않고, 심지어 그들의 신앙, 그들의 신을 비웃고 있어..."
+AvgDialog_34971_Content_26,ajEp,avg章6_AvgDialog_C_M.csv,623,AvgDialog,Content,戈利亚,主祭殉道，蹈海者群龙无首。,"주제는 순교했고, 도해자들에겐 우두머리가 없어."
+AvgDialog_34971_Content_29,ajEs,avg章6_AvgDialog_C_M.csv,626,AvgDialog,Content,拉蒙娜,你要成为主导蹈海者的人，要成为教团的唯一新首领。,"넌 도해자를 주도하는 사람이 되고 싶고, 교단의 유일한 새 지도자가 되고 싶어."
+AvgDialog_34971_Content_30,ajEu,avg章6_AvgDialog_C_M.csv,627,AvgDialog,Content,拉蒙娜,为此…你需要「神母」，需要在形式上完成这场仪式，以巩固自己在蹈海者教团中的地位……,"그러기 위해... 넌 「신모」가 필요하고, 형식적으로 이 의식을 마쳐, 도해자 교단에서의 네 지위를 공고히 해야 해..."
+AvgDialog_34968_Content_77,ajCL,avg章6_AvgDialog_C_M.csv,723,AvgDialog,Content,,拉蒙娜向朵尔简单描述了船上发生的一切：有关降神仪式，有关蹈海者教团，有关墨菲，有关守密人的昏迷……,"라모나는 돌에게 배 위에서 일어난 모든 일을 간단히 설명했다: 강신 의식에 대해, 도해자 교단에 대해, 머피에 대해, 수호자의 혼수상태에 대해..."
+AvgDialog_34968_Content_83,ajCS,avg章6_AvgDialog_C_M.csv,729,AvgDialog,Content,朵尔,艾瑞卡在资料库中找到了蹈海者的资料，不要抱太多希望，只有一点点。,"에리카가 자료실에서 도해자 자료를 찾았어, 너무 기대하지는 마, 아주 조금뿐이야."
+AvgDialog_34968_Content_97,ajDh,avg章6_AvgDialog_C_M.csv,743,AvgDialog,Content,埃尔顿,没有人教过他什么是正确的，他也没有找到自己在蹈海者之外的存在意义。,"아무도 녀석에게 무엇이 옳은지 가르쳐주지 않았고, 녀석도 도해자 외의 존재 의미를 찾지 못했어."
+AvgDialog_34968_Content_107,ajBh,avg章6_AvgDialog_C_M.csv,753,AvgDialog,Content,朵尔,这意味着，蹈海者主祭弥利亚姆尚未失能。,"그 말은, 도해자 주제 미리암이 아직 무력화되지 않았다는 뜻이야."
+AvgDialog_35533_Content_65,ajQU,avg章6_AvgDialog_C_M.csv,828,AvgDialog,Content,,蹈海者少年撞开了舱门，他刚走进舱室，拉蒙娜和图鲁就双双起身挡在了他面前。,"도해자 소년이 선실 문을 밀치고 들어왔고, 그가 선실에 들어서자마자 라모나와 툴루가 나란히 일어나 그의 앞을 막았다."
+AvgDialog_35533_Content_72,ajRc,avg章6_AvgDialog_C_M.csv,835,AvgDialog,Content,凯刻斯,别离我太近，要是沾上太多你们的气味，我会被其他蹈海者注意到的。,"나한테 너무 가까이 오지 마, 너희 냄새가 너무 많이 배면, 다른 도해자들이 날 알아볼 거야."
+AvgDialog_35533_Content_77,ajRh,avg章6_AvgDialog_C_M.csv,840,AvgDialog,Content,埃尔顿,"别误会，孩子。
+我只是担心，你会因此受蹈海者内部的惩罚。","오해하지 마, 꼬마야. 난 그냥, 네가 그 때문에 도해자 내부에서 처벌받을까 봐 걱정될 뿐이야."
+AvgDialog_35533_Content_79,ajRj,avg章6_AvgDialog_C_M.csv,842,AvgDialog,Content,凯刻斯,他们不会发现的，负责保存药物的蹈海者已经在这次行动中丧生了。,"그들은 모를 겁니다, 약을 보관하던 도해자는 이미 이번 작전에서 죽었으니까."
+AvgDialog_35533_Content_83,ajRo,avg章6_AvgDialog_C_M.csv,846,AvgDialog,Content,凯刻斯,戈利亚大人一定会留人守着驾驶室，那些留守的蹈海者，我就无能为力了。,"골리아 님은 분명 조타실을 지키는 사람을 남겨둘 겁니다, 그 남겨진 도해자들은, 저도 어쩔 수 없습니다."
+AvgDialog_35529_Content_7,ajNW,avg章6_AvgDialog_C_M.csv,859,AvgDialog,Content,墨菲,之后，我们会巡游整个世界。一边躲避蹈海者的追捕，一边寻找剥离它的办法，但……,"그 후, 우리는 온 세상을 순회하며, 도해자들의 추적을 피하면서 그것을 분리할 방법을 찾을 계획이었는데, 하지만..."
+AvgDialog_35529_Content_9,ajNY,avg章6_AvgDialog_C_M.csv,861,AvgDialog,Content,玩家,地点就定在了布里尔珀特镇？也就是我们被蹈海者追上船的那个渔镇。,"장소는 브리지포트 마을로 정해졌나요? 즉, 우리가 도해자들에게 쫓겨 배에 오른 그 어촌 말인가요?"
+AvgDialog_35530_Content_5,ajOd,avg章6_AvgDialog_C_M.csv,869,AvgDialog,Content,,驾驶室内确实不见戈利亚的踪影，只有寥寥数名蹈海者呆愣地在室内徘徊游荡。,"조타실에는 정말로 골리아의 모습이 없었고, 도해자들 몇몇만이 멍하니 실내를 배회하고 있었다."
+AvgDialog_35537_Content_4,ajTG,avg章6_AvgDialog_C_M.csv,876,AvgDialog,Content,,蹈海者少年跟在巨人身后，亦步亦趋，沉默不言。,"도해자 소년이 거인 뒤를 따라, 한 걸음 한 걸음, 말없이 걸었다."
+AvgDialog_35537_Content_12,ajTc,avg章6_AvgDialog_C_M.csv,884,AvgDialog,Content,凯刻斯,那名弥萨格的赝品魔像才是我们真正的对手……蹈海者真正的对手。,그 미사그의 가짜 골렘이야말로 우리의 진짜 상대입니다... 도해자의 진짜 상대.
+AvgDialog_35537_Content_40,ajTH,avg章6_AvgDialog_C_M.csv,912,AvgDialog,Content,凯刻斯,戈利亚大人，船上的蹈海者，大部分都在这里了。,"골리아 님, 배 위의 도해자들은, 대부분 여기에 있습니다."
+AvgDialog_35537_Content_47,ajTO,avg章6_AvgDialog_C_M.csv,919,AvgDialog,Content,,从蹈海者口中漏出的词语让戈利亚皱紧了眉。 它们难以被辨认，无法被理解，它们拒绝着他——拒绝着体内没有流淌着神血之人。,"도해자의 입에서 흘러나오는 단어에 골리아가 미간을 찌푸렸다. 그것들은 알아볼 수 없었고, 이해할 수 없었으며, 그를 거부했다——몸에 신의 피가 흐르지 않는 자를 거부했다."
+AvgDialog_35537_Content_55,ajTX,avg章6_AvgDialog_C_M.csv,927,AvgDialog,Content,,在蹈海者狂热的祈祷中，丝缕不成形的能量体从船体破口飘入，缠绕在了戈利亚身边。,"도해자들의 광적인 기도 속에서, 실낱같은 무형의 에너지체가 선체 파손 부위에서 흘러나와, 골리아 주변을 감쌌다."
+AvgDialog_35537_Content_66,ajUj,avg章6_AvgDialog_C_M.csv,938,AvgDialog,Content,,在短暂的思考与沉默后，蹈海者们爆发出一阵狂喜的欢呼。,"짧은 생각과 침묵 끝에, 도해자들은 광희의 환호성을 터뜨렸다."
+AvgDialog_35531_Content_6,ajOo,avg章6_AvgDialog_C_M.csv,1065,AvgDialog,Content,,目光所及之处，尽是体态各异的蹈海者。他们在动力室废墟中踱步，把各种爆炸后烧焦的材料堆在了一起。,"시야에 들어온 것은 모두 모양과 크기가 다른 도해자들이었다. 그들은 동력실 안을 돌아다니며, 폭발 후 불에 탄 재료들을 쌓아 올리고 있었다."
+AvgDialog_35531_Content_10,ajOi,avg章6_AvgDialog_C_M.csv,1069,AvgDialog,Content,,拉蒙娜低声说着，指了指那些受「灾厄」影响，从腹中生出了赘生物的蹈海者。,"라모나는 속삭이며, 「재앙」의 영향으로 복부에서 기생체를 낳고 있는 도해자들을 가리켰다."
+AvgDialog_35534_Content_3,ajRS,avg章6_AvgDialog_C_M.csv,1073,AvgDialog,Content,,你和拉蒙娜用极低的声音交换着信息，生怕引起蹈海者们的注意。,"두 사람은 목소리를 최대한 낮춰, 도해자들에게 들키지 않도록 정보를 교환했다."
+AvgDialog_35534_Content_5,ajSb,avg章6_AvgDialog_C_M.csv,1075,AvgDialog,Content,,你摸着一座又一座冰凉的锅炉，周围游荡的蹈海者把绝望与恐惧放大到了极致。,"손으로 만져보는 보일러는 모두 얼음장처럼 차가웠고, 주위를 배회하는 도해자들이 절망과 공포를 극한까지 증폭시켰다."
+AvgDialog_35534_Content_17,ajRE,avg章6_AvgDialog_C_M.csv,1087,AvgDialog,Content,,没等你反应过来，拉蒙娜就拉着你快步冲向动力室的门，也不再顾及脚步是否会惊扰到正在筑巢的蹈海者。,"물어볼 틈도 없이, 라모나는 당신의 손을 잡고 달리기 시작했다. 둥지를 틀고 있는 도해자들을 자극하지 않으려는 배려는 버린 지 오래였다."
+AvgDialog_35534_Content_20,ajRI,avg章6_AvgDialog_C_M.csv,1090,AvgDialog,Content,,少年瘦长的身体在出口前投下了一个格外巨大的阴影，数名蹈海者在他身后站立，让冰冷的空气中额外弥漫起了紧张与危险的味道。,"출구 앞에, 호리호리한 소년이 긴 그림자를 드리우고 서 있었다. 몇몇 도해자들이 그의 뒤에 서 있었고, 차가운 공기가 순식간에 팽팽해졌다."
+AvgDialog_35534_Content_26,ajRO,avg章6_AvgDialog_C_M.csv,1096,AvgDialog,Content,凯刻斯,你们没有经历过我所经历的那些事，不明白蹈海者的力量意味着什么……,"너희는 도해자의 힘이 무엇을 의미하는지, 이해하지 못해..."
+AvgDialog_35535_Content_6,ajSl,avg章6_AvgDialog_C_M.csv,1112,AvgDialog,Content,,下一秒，一个熟悉无比的脚步声，在蹈海者的簇拥中由远及近地向你们走来。,"다음 순간, 익숙한 발소리가, 도해자들에게 둘러싸여 멀리서부터 가까이 다가왔다."
+AvgDialog_35824_Content_25,ajWe,avg章6_AvgDialog_C_M.csv,1138,AvgDialog,Content,,环绕她身边，早已蠢蠢欲动的蹈海者们一拥而上，包围了你们。,"그녀 주위를 맴돌며, 이미 들떠 있던 도해자들이 일제히 몰려들어, 당신들을 포위했다."
+AvgDialog_35820_Content_3,ajUB,avg章6_AvgDialog_C_M.csv,1142,AvgDialog,Content,玩家,先专心对付蹈海者，但要留意凯刻斯的状态。,"일단 도해자들에게 집중하자, 하지만 카이커스의 상태도 주시해."
+AvgDialog_35831_Content_2,akaD,avg章6_AvgDialog_C_M.csv,1144,AvgDialog,Content,,蹈海者挥舞着武器，冷兵器在月光下折射出一道银白的光芒，让凯刻斯不由自主地眯起了眼。,"도해자들이 무기를 휘두르자, 차가운 무기가 달빛에 반사되어 은백색 빛을 냈고, 카이커스는 무심코 눈을 가늘게 떴다."
+AvgDialog_35831_Content_7,akaI,avg章6_AvgDialog_C_M.csv,1149,AvgDialog,Content,,他对身世的执念，对蹈海者的执念引领他来到了这里。,"그의 출신에 대한 집념, 도해자에 대한 집념이 그를 이곳으로 이끌었다."
+AvgDialog_35831_Content_10,akau,avg章6_AvgDialog_C_M.csv,1152,AvgDialog,Content,,四周的声音霎时间停了下来，先前叫嚣着要把他赶出去的蹈海者们呆愣地看向高台上的女人，等待着来自主人的下一步指示。,"주위의 소리가 순식간에 멎었고, 이전에 그를 내쫓으려 소리치던 도해자들이 멍하니 높은 단상의 여인을 바라보며, 주인의 다음 지시를 기다렸다."
+AvgDialog_35831_Content_17,akaB,avg章6_AvgDialog_C_M.csv,1159,AvgDialog,Content,弥利亚姆,既然已经唤醒了你，看在奥恩家族的份上，我可以维持你作为魔像的存在……维护蹈海者与人类协作者的工作，以后就交给你了。,"이미 당신을 깨웠으니, 오르네 가문을 생각해서, 당신을 골렘으로 존재하게 해줄 수는 있습니다... 도해자와 인간 협력자를 유지하는 일은, 앞으로 당신에게 맡기겠습니다."
+AvgDialog_35830_Content_7,akaq,avg章6_AvgDialog_C_M.csv,1167,AvgDialog,Content,埃尔顿,等等……马上就要下雪了。这个自然港不是蹈海者的常驻地，你要去什么地方避雪？,"잠깐... 곧 눈이 내릴 거야. 이 자연 항구는 도해자들의 상주지가 아니잖아, 어디 가서 눈을 피할 거야?"
+AvgDialog_35827_Content_1,ajXw,avg章6_AvgDialog_C_M.csv,1178,AvgDialog,Content,弥利亚姆,"「蹈海者」身负神赐之血，乃吾主迈过万古浩劫的钥匙……
+星辰正位降至，吾主降生在即……懦弱之徒，不配再与神国同行。","「도해자」는 신이 내린 피를 짊어지고, 나의 주님이 만고의 재앙을 넘는 열쇠... 별들이 정위에 이르렀고, 나의 주님의 탄생이 임박했다... 비겁한 자는, 더 이상 신국과 함께할 자격이 없다."
+AvgDialog_35827_Content_3,ajXS,avg章6_AvgDialog_C_M.csv,1180,AvgDialog,Content,拉蒙娜,继续和蹈海者缠斗下去，于事无补。我们没办法一直挡着蹈海者，他如果继续维持失神状态，我们就只能把他留在弥利亚姆手中了。,"계속해서 도해자들과 싸우는 것은 소용없어. 우리가 계속 도해자들을 막을 수는 없어. 그가 계속 정신을 잃은 상태라면, 우리는 그를 미리암의 손에 넘겨줄 수밖에 없어."
+AvgDialog_35827_Content_5,ajXW,avg章6_AvgDialog_C_M.csv,1182,AvgDialog,Content,埃尔顿,像你这样的孩子，怎么会和蹈海者混在一起呢？,"너 같은 아이가, 어떻게 도해자들과 어울리게 된 거야?"
+AvgDialog_35827_Content_16,ajXD,avg章6_AvgDialog_C_M.csv,1193,AvgDialog,Content,弥利亚姆,无碍，你不属于蹈海者……我从一开始就知道了。,"괜찮습니다, 당신은 도해자에 속하지 않아요... 전 처음부터 알고 있었습니다."
+AvgDialog_35826_Content_6,ajXs,avg章6_AvgDialog_C_M.csv,1241,AvgDialog,Content,,图鲁宛若一座不可撼动的神像，迎风立于门外，阻拦着那些似乎永远不知疲惫的蹈海者。,"툴루는 마치 움직이지 않는 신상처럼, 문밖에 바람을 맞으며 서서, 영원히 지치지 않는 듯한 도해자들을 막고 있었다."
+AvgDialog_35826_Content_23,ajWP,avg章6_AvgDialog_C_M.csv,1258,AvgDialog,Content,,内脏感觉都快被这股力量撕裂，图鲁喘息着扫落又一名冲上前的蹈海者，然后再也无法起身。,"내장이 그 힘에 찢어질 것 같았고, 툴루는 숨을 헐떡이며 또 다른 달려드는 도해자를 쓰러뜨리고, 더 이상 일어서지 못했다."
+AvgDialog_35826_Content_25,ajWR,avg章6_AvgDialog_C_M.csv,1260,AvgDialog,Content,,更多的蹈海者涌进了驾驶室外的甲板平台，海藻和腐烂浮游生物的气味瞬间包围了所有人。,"더 많은 도해자들이 조타실 밖 갑판 플랫폼으로 몰려들었고, 해초와 썩은 플랑크톤 냄새가 순식간에 모두를 감쌌다."
+AvgDialog_35826_Content_28,ajWU,avg章6_AvgDialog_C_M.csv,1263,AvgDialog,Content,戈利亚,原本只是想着试一试，没想到你们竟然真的就如那女人所计划的那样，分头行动了——在明知蹈海者仍在追捕你们的情况下。,"원래는 그냥 한번 해본 건데, 너희가 정말 그 여자가 계획한 대로, 따로 행동할 줄은 몰랐어——도해자들이 아직 너희를 쫓고 있다는 걸 알면서도."
+AvgDialog_19170_Content_4,ahxQ,avg章6_AvgDialog_C_M.csv,1512,AvgDialog,Content,玩家,我还在想海上发生的那些事……那些蹈海者，那个变成尘埃后消失海上的「伪神」……,"바다에서 일어난 일들이 계속 생각나요... 그 도해자들, 먼지가 되어 바다 위로 사라진 「가짜 신」..."
+AvgDialog_19170_Content_10,ahxk,avg章6_AvgDialog_C_M.csv,1518,AvgDialog,Content,朵尔,至于那些蹈海者的去向……等我们赶到海上时，索纳尼尔号已经完全沉没了，我们一无所获。,"도해자들의 행방에 관해서는... 우리가 바다에 도착했을 때, 소나-닐호는 이미 완전히 침몰했고, 우리는 아무것도 얻지 못했어."
+AvgDialog_19170_Content_63,ahyq,avg章6_AvgDialog_C_M.csv,1571,AvgDialog,Content,墨菲（唤醒体）,什么怎么样？你是在说弥萨格大学寡淡的甜点？在说我们终于摆脱了蹈海者？还是说我变成了唤醒体这件事？,어떤 느낌이냐고? 미사그 대학의 밍밍한 디저트 말이야? 우리가 마침내 도해자들을 물리친 거 말이야? 아니면 내가 각성체가 된 거 말이야?
+AvgDialog_60107_Content_99,anMz,avg章8_AvgDialog_C_M.csv,106,AvgDialog,Content,于丽埃特八章,雕塑家协会和蹈海者的游戏，替我们吸引了足够多的注意力，我们的身影隐藏得很好。,조각가 협회와 도해자들의 놀이가 우리의 주의를 충분히 끌어주었죠. 우리는 잘 숨어 있었습니다.
+AvgDialog_60210_Content_70,anQU,avg章8_AvgDialog_C_M.csv,516,AvgDialog,Content,玩家,雕塑家协会，蹈海者……这些人……,"조각가 협회, 도해자들… 그 단체들…"
+AvgDialog_60210_Content_75,anQZ,avg章8_AvgDialog_C_M.csv,521,AvgDialog,Content,哈姆林,至于蹈海者，不过是一群精神仍活在旧时代的愚民。,도해자들은 그저 지나간 시대에 갇힌 유물일 뿐입니다.
+AvgRole_1107_RoleName,aqQk,avg角色_AvgRole_C.csv,115,AvgRole,RoleName,,蹈海者,도해자
+AvgRole_1216_RoleName,aqWz,avg角色_AvgRole_C.csv,224,AvgRole,RoleName,,蹈海者少年,도해자 소년
+AvgRole_1545_RoleName,arpp,avg角色_AvgRole_C.csv,550,AvgRole,RoleName,,蹈海者,도해자
+AvgRole_1571_RoleName,arqP,avg角色_AvgRole_C.csv,576,AvgRole,RoleName,,蹈海者,도해자
+AvgRole_1605_RoleName,arsN,avg角色_AvgRole_C.csv,610,AvgRole,RoleName,,蹈海者少年,도해자 소년
+AvgRole_1972_RoleName,bxhY,avg角色_AvgRole_C.csv,979,AvgRole,RoleName,,蹈海者祭司,도해자 제사장
+AvgRole_1989_RoleName,byNT,avg角色_AvgRole_C.csv,996,AvgRole,RoleName,,蹈海者士兵,도해자 병사
+AvgRole_1990_RoleName,byNU,avg角色_AvgRole_C.csv,997,AvgRole,RoleName,,蹈海者们,도해자들
+CollectionHall_49758_Title,avgE,t图鉴_CollectionHall_A.csv,21,CollectionHall,Title,,蹈海者,도해자
+CollectionHall_51455_Title,avuq,t图鉴_CollectionHall_A.csv,1207,CollectionHall,Title,,<RedQuality:行道之骸>,<RedQuality:여정의 유골>
+CollectionHall_118609_Title,bJrw,t图鉴_CollectionHall_A.csv,1242,CollectionHall,Title,,<OrangeQuality:乐团指挥棒>,<OrangeQuality:악단의 지휘봉>
+Item_123557_Name,bLSl,d道具_Item_A.csv,1285,Item,Name,,姜饼派对·杜勒赛因,진저브레드 파티·도어세인
+Item_123552_Name,bLRY,d道具_Item_A.csv,1286,Item,Name,,姜饼派对·凯刻斯,진저브레드 파티·카이커스
+Item_123555_Name,bLSg,d道具_Item_A.csv,1287,Item,Name,,姜饼派对·奥尔拉,진저브레드 파티·오를라
+Item_130543_Name,bPFK,d道具_Item_A.csv,1291,Item,Name,,弥萨格幕间剧：熔毁·朵尔,미사그 막간극: 융해·돌
+Item_130547_Name,bPFO,d道具_Item_A.csv,1295,Item,Name,,弥萨格幕间剧：「24」,미사그 막간극: 「24」
+Item_130549_Name,bPFQ,d道具_Item_A.csv,1297,Item,Name,,弥萨格幕间剧：宁菲亚,미사그 막간극: 님피아
+Item_46769_Name,aDpl,d道具_Item_A.csv,1448,Item,Name,,卡茜亚·魔术时间,카시아·매직 타임
+Item_72947_Name,aFxV,d道具_Item_A.csv,1490,Item,Name,,旺达·抽打,완다·찰싹
+Item_72901_Name,aFut,d道具_Item_A.csv,1549,Item,Name,,宁菲亚·惨,님피아·비참
+Item_72869_Name,aFrZ,d道具_Item_A.csv,1562,Item,Name,,卡茜亚·魔术,카시아·마술
+Item_127038_EmojiName,bOgb,d道具_Item_A.csv,1670,Item,EmojiName,,潜行,은신
+Item_9972_Name,aGuR,d道具_Item_A.csv,1568,Item,Name,,蹈海者教会logo清晰版,도해자 로고 선명한 버전
+Item_9580_Name,aFSt,d道具_Item_A.csv,1569,Item,Name,,蹈海者教会logo模糊版,도해자 로고 흐린 버전
+LanguageConfig_Monster_B0009_Name1_CN,aGSc,d多语言_LanguageConfig_C.csv,2348,LanguageConfig,CN,,「托乎瓦波，亘古混沌」,"「토후-와-보후, 영원의 혼돈」"
+LanguageConfig_Monster_8unit_EndBoss_Select_TaweiCard_Tips1_CN,aGRk,d多语言_LanguageConfig_C.csv,2355,LanguageConfig,CN,,是吗？在怨恨的锁链遍布中…拯救你的伙伴们吧。,"그것이 그대의 답이라면, 원한의 사슬 속에서... 동료들을 구해 보아라."
+LanguageConfig_Monster_8unit_EndBoss_Select_TaweiCard_Tips2_CN,aGRl,d多语言_LanguageConfig_C.csv,2356,LanguageConfig,CN,,是吗？在无数的畸变衍生中…拯救你看重的世界吧。,"그것이 그대의 답이라면, 수많은 왜곡 속에서... 소중한 세계를 구해 보아라."
+LanguageConfig_Monster_8unit_EndBoss_Select_TaweiCard_Tips3_CN,aGRm,d多语言_LanguageConfig_C.csv,2357,LanguageConfig,CN,,是吗？在自身的方向迷失中…拯救你自己吧。,"그것이 그대의 답이라면, 방향을 알 수 없는 세계에서... 자신을 구해 보아라."
+LanguageConfig_Monster_8unit_EndBoss_Select_TaweiCard_Tips4_CN,aGRn,d多语言_LanguageConfig_C.csv,2358,LanguageConfig,CN,,沉默，犹疑，软弱…你的弱点是致命的，守密人。,"침묵, 망설임, 나약함... 그대의 약점은 치명적이다, 수호자."
+LanguageConfig_Speicial_kuangre1_CN,aHgS,d多语言_LanguageConfig_C.csv,2721,LanguageConfig,CN,,即将进入「指令狂热」状态，当前剩余 3 张指令卡……,곧 「명령 광열」 상태에 진입합니다. 현재 남은 명령 카드 3장...
+LanguageConfig_Speicial_kuangre2_CN,aHgT,d多语言_LanguageConfig_C.csv,2722,LanguageConfig,CN,,即将进入「指令狂热」状态，当前剩余 2 张指令卡……,곧 「명령 광열」 상태에 진입합니다. 현재 남은 명령 카드 2장...
+LanguageConfig_Speicial_kuangre3_CN,aHgU,d多语言_LanguageConfig_C.csv,2723,LanguageConfig,CN,,即将进入「指令狂热」状态，当前剩余 1 张指令卡……,곧 「명령 광열」 상태에 진입합니다. 현재 남은 명령 카드 1장...
+LanguageConfig_Speicial_kuangre4_CN,aHgV,d多语言_LanguageConfig_C.csv,2724,LanguageConfig,CN,,已进入「指令狂热」！本回合每打出 1 张指令卡，指令卡算力消耗+1，额外获得 100 点狂气。,"「명령 광열」 상태에 진입했습니다! 이번 턴에 명령 카드를 1장 사용할 때마다 명령 카드의 산출력 소모가 1 증가하고, 추가로 100 광기를 획득합니다."
+LanguageConfig_Monster_SeaWandererBoss_tips_03_CN,bARR,d多语言_LanguageConfig_C.csv,3001,LanguageConfig,CN,,当心卡牌上附带的「蹈海者狂乱」！打出或弃掉时会有深海分殖体出现！,카드에 부여된 「도해자의 광란」에 주의하세요! 사용하거나 버릴 때 도해자 분열체가 나타납니다!
+LoadingTips_36779_LoadingTips,aHst,j加载界面提示_LoadingTips_C.csv,59,LoadingTips,LoadingTips,,提灯教会，一个隐秘而邪恶的宗教组织。似乎与雕塑家协会和蹈海者有很深的联系。,등불 교회는 은밀하고 악한 종교 집단입니다. 조각가 협회와 도해자들과 깊은 연관이 있는 것으로 보입니다.
+LoadingTips_36774_LoadingTips,aHso,j加载界面提示_LoadingTips_C.csv,60,LoadingTips,LoadingTips,,蹈海者，一个以弥利亚姆为首的古老宗教组织。\n他们苦心经营，只为复活他们唯一的神王。,도해자들은 미리암을 중심으로 한 고대 종교 집단입니다. \n그들은 오로지 그들의 유일한 신왕을 부활시키기 위해 힘쓰고 있습니다.
+MonsterConfig_23417_Desc,aHNN,g怪物_MonsterConfig_A.csv,204,MonsterConfig,Desc,,与蹈海者同行的神秘少年。嶙峋的棘刺，似鱼的耳鳍，一切都暗示着他并非常人。,"도해자들과 동행하는 신비한 소년. 뾰족한 가시, 지느러미 같은 귀, 이 모든 것이 그가 평범하지 않다는 것을 암시한다."
+MonsterConfig_14053_MonsterName,aHKC,g怪物_MonsterConfig_A.csv,217,MonsterConfig,MonsterName,,蹈海者少年,도해자 소년
+MonsterConfig_14053_Desc,aHKB,g怪物_MonsterConfig_A.csv,217,MonsterConfig,Desc,,与蹈海者同行的神秘少年。嶙峋的棘刺，似鱼的耳鳍，一切都暗示着他并非常人。,"도해자들과 동행하는 신비한 소년. 뾰족한 가시, 지느러미 같은 귀, 이 모든 것이 그가 평범하지 않다는 것을 암시한다."
+MonsterConfig_13999_MonsterName,aHIE,g怪物_MonsterConfig_A.csv,233,MonsterConfig,MonsterName,,蹈海者,도해자
+MonsterConfig_14076_MonsterName,aHLw,g怪物_MonsterConfig_A.csv,235,MonsterConfig,MonsterName,,蹈海者亲卫,도해자 친위대
+MonsterConfig_22339_MonsterName,aHNM,g怪物_MonsterConfig_A.csv,236,MonsterConfig,MonsterName,,蹈海者近卫,도해자 근위
+MonsterConfig_24249_Desc,aHNZ,g怪物_MonsterConfig_A.csv,242,MonsterConfig,Desc,,蹈海者们相信，弥利亚姆的力量来自旧日神明。她鞠躬尽瘁，将为神国献出一切。,도해자들은 미리암의 힘이 고대의 신으로부터 나왔다고 믿는다. 그녀는 신국을 위해 자신의 모든 것을 아낌없이 바칠 것이다.
+MonsterConfig_24251_Desc,aHOb,g怪物_MonsterConfig_A.csv,243,MonsterConfig,Desc,,蹈海者们相信，利莫里亚是神明的国度。而那位贤明的代行之王，本应带领神国迈入永世。,도해자들은 레무리아가 신의 나라라고 믿는다. 그리고 그 현명한 대행자인 왕은 신국을 영생으로 이끌어야 했다.
+MonsterConfig_24248_Desc,aHNX,g怪物_MonsterConfig_A.csv,245,MonsterConfig,Desc,,蹈海者们相信，弥利亚姆的力量来自旧日神明。她鞠躬尽瘁，将为神国献出一切。,도해자들은 미리암의 힘이 고대의 신으로부터 나왔다고 믿는다. 그녀는 신국을 위해 자신의 모든 것을 아낌없이 바칠 것이다.
+MonsterConfig_24252_Desc,aHOd,g怪物_MonsterConfig_A.csv,246,MonsterConfig,Desc,,蹈海者们相信，利莫里亚是神明的国度。而那位贤明的代行之王，本应带领神国迈入永世。,도해자들은 레무리아가 신의 나라라고 믿는다. 그리고 그 현명한 대행자인 왕은 신국을 영생으로 이끌어야 했다.
+MonsterConfig_35584_Desc,aHOT,g怪物_MonsterConfig_A.csv,252,MonsterConfig,Desc,,因「灾厄」影响而异变的蹈海者，赘生物自内向外生长，将它蚕食成一具空壳。,「재앙」의 영향으로 변이된 도해자. 과잉 성장한 조직이 몸을 뚫고 나와 그를 빈 껍데기처럼 만들었다.
+MonsterConfig_35580_Desc,aHOP,g怪物_MonsterConfig_A.csv,253,MonsterConfig,Desc,,它的模样大变，只令人隐约感到熟悉。数次对视后，你才意识到这是无法抵抗「灾厄」影响的蹈海者助祭。,"그 모습은 크게 변했지만, 어렴풋한 익숙함이 남아 있다. 여러 번 눈길을 주고받은 뒤에서야 당신은 이 괴물이 「재앙」을 피하지 못한 도해자 보조 사제라는 사실을 깨달았다."
+MonsterConfig_94700_Desc,byWc,g怪物_MonsterConfig_A.csv,455,MonsterConfig,Desc,,蹈海者用葬骸城秘术制造出的产物，拥有蹈海者需要的一切……除了信仰。,도해자가 네크로비아의 비법으로 만들어낸 산물. 도해자에게 필요한 모든 것을 갖추고 있다... 신앙만 빼고.
+MonsterConfig_94701_Desc,byWe,g怪物_MonsterConfig_A.csv,456,MonsterConfig,Desc,,蹈海者用葬骸城秘术制造出的产物，拥有蹈海者需要的一切……除了信仰。,도해자가 네크로비아의 비법으로 만들어낸 산물. 도해자에게 필요한 모든 것을 갖추고 있다... 신앙만 빼고.
+MonsterConfig_94702_Desc,byWg,g怪物_MonsterConfig_A.csv,457,MonsterConfig,Desc,,蹈海者用葬骸城秘术制造出的产物，拥有蹈海者需要的一切……除了信仰。,도해자가 네크로비아의 비법으로 만들어낸 산물. 도해자에게 필요한 모든 것을 갖추고 있다... 신앙만 빼고.
+MonsterConfig_94941_MonsterName,bzpV,g怪物_MonsterConfig_A.csv,466,MonsterConfig,MonsterName,,蹈海者之骸,도해자의 유해
+RelicConfig_13745_Name,aJfD,z造物_RelicConfig_A.csv,212,RelicConfig,Name,,<OrangeQuality:时灵摆「酣眠」>,<OrangeQuality:시계추「숙면」>
+RelicConfig_60723_Name,aJAn,z造物_RelicConfig_A.csv,316,RelicConfig,Name,,<OrangeQuality:乐团指挥棒>,<OrangeQuality:악단의 지휘봉>
+Resonance_59199_Name_1,aKaf,g共鸣_Resonance_A_M.csv,193,Resonance,Name,,潜行战术,잠행 전술
+Resonance_129149_Desc_1,bOQI,g共鸣_Resonance_A_M.csv,292,Resonance,Desc,,战胜首领后，死亡抵抗恢复至初始值，并回复50%已损失的生命值。,"보스 처치 후, 죽음 저항이 초기 값으로 회복되며, 잃은 HP의 50%를 회복합니다."
+Skill_66446_Desc_1,bQQA,jPVP技能表_Skill_A.csv,282,Skill,Desc,塔薇,对全体敌方造成 <Damage:[Damage:Arg1]> 伤害和 [Damage:Arg2] <PVPfengsuoKeywords:爆发封锁>。,"모든 적에게 <Damage:[Damage:Arg1]>의 피해를 입히고, [Damage:Arg2]스택의 <PVPfengsuoKeywords:광기 봉인>을 부여합니다."
+Skill_125377_Desc_1,bQHT,jPVP技能表_Skill_A.csv,394,Skill,Desc,徐,<PVPSneakKeywords:潜行>，获得 <Energy:[Energy:Arg1]> 狂气。,"<PVPSneakKeywords:은신>,<Energy:[Energy:Arg1]> 광기를 획득합니다."
+Skill_117208_Desc_1,bQHe,jPVP技能表_Skill_A.csv,532,Skill,Desc,,<PVPWeaponKeywords:命轮>：「技能」和回合结束时，对狂气最高的敌方造成 [Arg1] <PVPfengsuoKeywords:爆发封锁>。,"<PVPWeaponKeywords:명륜>: 장비자의 「스킬」 사용 시 및 턴 종료 시, 광기가 가장 높은 적에게 [Arg1]스택의 <PVPfengsuoKeywords:광기 봉인>을 부여합니다."
+Skill_126350_Name_1,bRfw,jPVP技能表_Skill_A.csv,637,Skill,Name,,潜行,은신
+Skill_126350_Desc_1,bQHX,jPVP技能表_Skill_A.csv,637,Skill,Desc,,使一名目标获得 <PVPSneakKeywords:潜行>。,목표 하나에게 <PVPSneakKeywords:은신>을 부여합니다.
+Skill_70826_Desc,aQCy,j技能表_Skill_A.csv,77,Skill,Desc,,获得 <Block:[Block:Arg1]> 点护盾，获得 1 层「星辰庇佑」，最大积攒 5 层，战斗结束后不清除。,"<Block:[Block:Arg1]>의 방어막을 획득하고, 「별들의 가호」 1스택을 획득합니다. 최대 5스택까지 획득할 수 있으며, 전투 종료 후에도 사라지지 않습니다."
+Skill_70825_Desc,aQCr,j技能表_Skill_A.csv,78,Skill,Desc,,所有唤醒体获得 [Arg1] 点狂气。消耗所有「星辰庇佑」并获得与消耗层数相同的算力，若当前界域为「深海」，额外生成与消耗层数相同的临时触腕。,"모든 각성체가 [Arg1] 광기를 획득합니다. 모든 「별들의 가호」를 소모하여, 소모한 스택 수만큼 산출력을 획득합니다. 현재 영역이 「심해」인 경우, 소모한 스택 수만큼 임시 촉수를 추가로 생성합니다."
+Skill_4539_Desc,aNDw,j技能表_Skill_A.csv,686,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，自身获得<Flaw:破绽>：当回合内必定被暴击。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, <Flaw:빈틈> 상태를 획득합니다. 빈틈: 이번 턴 동안 받는 피해가 반드시 크리티컬이 됩니다."
+Skill_4819_Desc,aOHq,j技能表_Skill_A.csv,691,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，自身获得<Flaw:破绽>：当回合内必定被暴击。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, <Flaw:빈틈> 상태를 획득합니다. 빈틈: 이번 턴 동안 받는 피해가 반드시 크리티컬이 됩니다."
+Skill_4663_Desc_0,aOlH,j技能表_Skill_A.csv,1404,Skill,Desc,艾瑞卡,获得 [Power:Arg1] 点临时<PowerIconKeywords:力量>。获得等同于艾瑞卡银钥充能的银钥能量。驱散自身<WeaknessIconKeywords:虚弱>状态。每当有 1 张牌进入<DimensionalSpaceIconKeywords:超维空间>，变形为<DerivativeCardKeywords_14:「机械武装-敛」>。,임시 <PowerIconKeywords:힘>을 [Power:Arg1] 획득합니다. 에리카의 은열쇠 충전과 동일한 양의 은열쇠 에너지를 획득합니다. 자신의 <WeaknessIconKeywords:허약> 상태를 해제합니다. 카드가 <DimensionalSpaceIconKeywords:초차원 공간>으로 이동할 때마다 <DerivativeCardKeywords_14:「기계 무장-회수」>로 전환합니다.
+Skill_4663_Desc_1,aOlI,j技能表_Skill_A.csv,1404,Skill,Desc,艾瑞卡,获得 [Power:Arg1] 点临时<PowerIconKeywords:力量>。获得等同于艾瑞卡银钥充能的银钥能量。驱散自身<WeaknessIconKeywords:虚弱>状态。将 1 张艾瑞卡附加<DepleteIconKeywords:消耗>的「打击」置入手牌。每当有 1 张牌进入<DimensionalSpaceIconKeywords:超维空间>，变形为<DerivativeCardKeywords_14:「机械武装-敛」>。,임시 <PowerIconKeywords:힘>을 [Power:Arg1] 획득합니다. 에리카의 은열쇠 충전과 동일한 양의 은열쇠 에너지를 획득합니다. 자신의 <WeaknessIconKeywords:허약> 상태를 해제합니다. <DepleteIconKeywords:소모>가 부여된 에리카의 「타격」 카드 1장을 손패에 추가합니다. 카드가 <DimensionalSpaceIconKeywords:초차원 공간>으로 이동할 때마다 <DerivativeCardKeywords_14:「기계 무장-회수」>로 전환합니다.
+Skill_4663_BattleDesc_0,aOlF,j技能表_Skill_A.csv,1404,Skill,BattleDesc,艾瑞卡,获得 [Power:Arg1] 点临时<PowerIconKeywords:力量>。获得 <Posse:[Arg2]> 点银钥能量。驱散自身<WeaknessIconKeywords:虚弱>状态。每当有 1 张牌进入<DimensionalSpaceIconKeywords:超维空间>，变形为<DerivativeCardKeywords_14:「机械武装-敛」>。,임시 <PowerIconKeywords:힘>을 [Power:Arg1] 획득합니다. 은열쇠 에너지를 <Posse:[Arg2]> 획득합니다. 자신의 <WeaknessIconKeywords:허약> 상태를 해제합니다. 카드가 <DimensionalSpaceIconKeywords:초차원 공간>으로 이동할 때마다 <DerivativeCardKeywords_14:「기계 무장-회수」>로 전환합니다.
+Skill_4663_BattleDesc_1,aOlG,j技能表_Skill_A.csv,1404,Skill,BattleDesc,艾瑞卡,获得 [Power:Arg1] 点临时<PowerIconKeywords:力量>。获得 <Posse:[Arg2]> 点银钥能量。驱散自身<WeaknessIconKeywords:虚弱>状态。将 1 张艾瑞卡附加<DepleteIconKeywords:消耗>的「打击」置入手牌。每当有 1 张牌进入<DimensionalSpaceIconKeywords:超维空间>，变形为<DerivativeCardKeywords_14:「机械武装-敛」>。,임시 <PowerIconKeywords:힘>을 [Power:Arg1] 획득합니다. 은열쇠 에너지를 <Posse:[Arg2]> 획득합니다. 자신의 <WeaknessIconKeywords:허약> 상태를 해제합니다. <DepleteIconKeywords:소모>가 부여된 에리카의 「타격」 카드 1장을 손패에 추가합니다. 카드가 <DimensionalSpaceIconKeywords:초차원 공간>으로 이동할 때마다 <DerivativeCardKeywords_14:「기계 무장-회수」>로 전환합니다.
+Skill_4065_Desc_1,aMjh,j技能表_Skill_A.csv,1406,Skill,Desc,艾瑞卡,获得 [Arg1] 点临时<AlertIconKeywords:戒备>。获得等同于艾瑞卡银钥充能的银钥能量。驱散自身<FragileIconKeywords:脆弱>状态。将 1 张艾瑞卡附加<DepleteIconKeywords:消耗>的「防御」置入手牌。每当有 1 张牌进入<DimensionalSpaceIconKeywords:超维空间>，变形为<DerivativeCardKeywords_13:「机械武装-放」>。,임시 <AlertIconKeywords:경계>를 [Arg1] 획득합니다. 에리카의 은열쇠 충전과 동일한 양의 은열쇠 에너지를 획득합니다. 자신의 <FragileIconKeywords:손상> 상태를 제거합니다. <DepleteIconKeywords:소모>가 부여된 에리카의 「방어」 카드 1장을 손패에 추가합니다. 카드가 <DimensionalSpaceIconKeywords:초차원  공간>으로 이동할 때마다 <DerivativeCardKeywords_13:「기계 무장-전개」>로 전환합니다.
+Skill_4706_Desc,aOqQ,j技能表_Skill_A.csv,1568,Skill,Desc,,获得 [Arg2] 点护盾和获得状态「恶意放血」: 每造成一次未被格挡的伤害，附加 [Arg1] 层<BleedingIconKeywords:出血>。,[Arg2]의 방어막을 획득하고 「악의의 방혈」 상태를 획득합니다. 악의의 방혈: 방어되지 않은 피해를 가할 때마다 [Arg1]의 <BleedingIconKeywords:출혈>을 부여합니다.
+Skill_4562_Desc,aNUn,j技能表_Skill_A.csv,1574,Skill,Desc,,获得 [Arg2] 点护盾和状态「恶意放血」: 每造成一次未被格挡的伤害，附加 [Arg1] 层<BleedingIconKeywords:出血>。,[Arg2]의 방어막을 획득하고 「악의의 방혈」 상태를 획득합니다. 악의의 방혈: 방어되지 않은 피해를 가할 때마다 [Arg1]의 <BleedingIconKeywords:출혈>을 부여합니다.
+Skill_4340_Name,aMUq,j技能表_Skill_A.csv,1644,Skill,Name,,割喉挥砍(破绽),목을 베는 참격(빈틈)
+Skill_4094_Desc,aMmQ,j技能表_Skill_A.csv,1647,Skill,Desc,,对一名唤醒体的卡牌添加「被狩猎」状态，自身施加2层「狩猎印记」。,"각성체 1명의 카드에 「사냥감」 상태를 추가하고, 자신에게 「사냥의 표식」 2스택을 부여합니다."
+Skill_20974_Desc,aLfV,j技能表_Skill_A.csv,1706,Skill,Desc,尤乌哈希,该意图无法被誓约回响扭曲。获得 「血之狂暴·终结」 状态，失去一定生命后会释放极高伤害的狂气爆发。,"해당 의도는 「계약의 메아리」로 변경할 수 없습니다. 「피의 광란·종결」 상태를 획득하며, 일정 수준의 HP을 잃은 후 매우 높은 피해량의 광기 폭발을 방출합니다."
+Skill_21308_Name,aLgl,j技能表_Skill_A.csv,1708,Skill,Name,尤乌哈希,血怒连击(破绽),혈노의 연격(빈틈)
+Skill_44676_Name,aNnX,j技能表_Skill_A.csv,1868,Skill,Name,,「镜中判决」,「거울 속의 심판」
+Skill_60424_Desc,aPMi,j技能表_Skill_A.csv,1939,Skill,Desc,哈姆林,"获得 [Arg1] 点<PowerIconKeywords:力量>。将 1 张<DerivativeCardKeywords_4:「灵感」>置入手中。本回合触发「音符律令」时,将 1 张<DerivativeCardKeywords_4:「灵感」>置入手中。","<PowerIconKeywords:힘>을 [Arg1] 획득하고, <DerivativeCardKeywords_4:「영감」> 1장을 손패에 넣습니다. 이번 턴에 「음표 율령」이 발동할 때, <DerivativeCardKeywords_4:「영감」> 1장을 손패에 추가합니다."
+Skill_66290_Desc,aPZl,j技能表_Skill_A.csv,2312,Skill,Desc,,对敌人添加「无上意志之威压」：在打出 1 张指令卡时，弃掉 1 张该唤醒体最低算力的指令卡。,"적에게 「절대적 의지의 위압」을 부여합니다: 명령 카드를 1장 사용할 때마다, 해당 각성체의 산출력 소비가 가장 낮은 명령 카드 1장을 버립니다."
+Skill_72108_Desc,aQHW,j技能表_Skill_A.csv,2448,Skill,Desc,,获得「暗杀者」状态和 2 层<ParcloseIconKeywords:屏障>。,「암살자」 상태와 2스택의 <ParcloseIconKeywords:장벽>을 획득합니다.
+Skill_72117_Desc,aQIT,j技能表_Skill_A.csv,2450,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。获得「暗杀者」状态。,<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. 「암살자」 상태를 획득합니다.
+Skill_96756_Name,bACr,j技能表_Skill_A.csv,2592,Skill,Name,,蹈海者的审判,도해자의 심판
+Skill_96757_Name,bACt,j技能表_Skill_A.csv,2593,Skill,Name,,蹈海者的咒怨,도해자의 저주
+Skill_118058_Desc,bJAi,j技能表_Skill_A.csv,2700,Skill,Desc,,切换到该意图时获得 1 层<Flaw:破绽>。造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。对敌方施加 [Arg3] 层<BirthRitual:降生仪式>，每有 1 层<FatePact:命契>提高 1 层。,"해당 의도로 전환할 때 <Flaw:빈틈>을 1 획득합니다. <Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. 적에게 <BirthRitual:강생 의식>을 [Arg3] 부여하고, <FatePact:운명의 계약> 1스택마다 부여량이 1씩 증가합니다."
+State_19530_Desc,aVzk,zPVP状态表_State_A.csv,46,State,Desc,,·被对手优先攻击，并且对手在选择单体目标时仅能选择嘲讽唤醒体\n·在获得嘲讽时解除自身的潜行和其他友方的嘲讽，同时驱散敌方的潜行。,"· 상대방에게 우선적으로 공격을 받으며, 상대방이 단일 대상을 선택할 때 도발 각성체만 선택할 수 있습니다.\n· 도발을 얻을 때 다른 아군의 도발이 해제됩니다."
+State_66465_Name,aZjS,zPVP状态表_State_A.csv,67,State,Name,,<PVPfengsuoColour:爆发封锁>,<PVPfengsuoColour:광기 봉인>
+State_96740_Name,bABI,zPVP状态表_State_A.csv,90,State,Name,,<CardKeyWord:破绽>,<CardKeyWord:빈틈>
+State_97252_Desc,bAOG,zPVP状态表_State_A.csv,92,State,Desc,,·不会成为对手优先攻击的目标，并且对手在选择单体目标时无法选择潜行唤醒体\n·在获得潜行时解除自身的嘲讽和其他友方的潜行。没有其他友方时或敌方获得嘲讽时，解除潜行。,"· 적의 우선 공격 대상이 되지 않으며, 적이 단일 목표를 선택할 때 은신 각성체를 선택할 수 없습니다.\n· 은신 상태를 얻을 때 다른 아군의 은신을 해제한다. 아군이 없을 경우 은신을 해제합니다."
+State_57864_Name,aYJO,zPVP状态表_State_A.csv,180,State,Name,,刷新力量加成__「仅开发用」,힘 계수 갱신
+State_19535_Desc,aVzw,zPVP状态表_State_A.csv,190,State,Desc,,·被对手优先攻击，并且对手在选择单体目标时仅能选择嘲讽唤醒体\n·在获得嘲讽时解除自身的潜行和其他友方的嘲讽，同时驱散敌方的潜行。,"· 상대방에게 우선적으로 공격을 받으며, 상대방이 단일 대상을 선택할 때 도발 각성체만 선택할 수 있습니다.\n· 도발을 얻을 때 다른 아군의 도발이 해제됩니다."
+State_97251_Name,bAOF,zPVP状态表_State_A.csv,191,State,Name,,潜行,은신
+State_97251_Desc,bAOE,zPVP状态表_State_A.csv,191,State,Desc,,·不会成为对手优先攻击的目标，并且对手在选择单体目标时无法选择潜行唤醒体\n·在获得潜行时解除自身的嘲讽和其他友方的潜行。没有其他友方时或敌方获得嘲讽时，解除潜行。,"· 적의 우선 공격 대상이 되지 않으며, 적이 단일 목표를 선택할 때 은신 각성체를 선택할 수 없습니다.\n· 은신 상태를 얻을 때 다른 아군의 은신을 해제한다. 아군이 없을 경우 은신을 해제합니다."
+State_48149_Name,aYki,zPVP状态表_State_A.csv,195,State,Name,,不可打出卡面特效__「仅开发用」,카드 특수 효과 사용 불가
+State_116859_Name,bIaq,zPVP状态表_State_A.csv,220,State,Name,,延迟破绽,지연 빈틈
+State_116859_Desc,bIap,zPVP状态表_State_A.csv,220,State,Desc,,下回合开始时，获得破绽。,"다음 턴 시작 시, 빈틈을 획득합니다."
+State_96744_Name,bABP,zPVP状态表_State_A.csv,229,State,Name,,破绽,빈틈
+State_19551_Name,aVAe,zPVP状态表_State_A.csv,270,State,Name,,降低算力上限,최대 산출력 감소
+State_117213_Desc,bImt,zPVP状态表_State_A.csv,441,State,Desc,,<PVPWeaponKeywords:命轮>：「技能」和回合结束时，对狂气最高的敌方造成 [StateArg1] <PVPfengsuoKeywords:爆发封锁>。,"<PVPWeaponKeywords:명륜>: 장비자의 「스킬」 사용 시 및 턴 종료 시, 광기가 가장 높은 적에게 [StateArg1]스택의 <PVPfengsuoKeywords:광기 봉인>을 부여합니다."
+State_51811_Name,aYvW,zPVP状态表_State_A.csv,486,State,Name,,引舵之帆治疗效果__「仅开发用」,인도하는 돛 치유 효과
+State_44819_Name,aXUp,z状态表_State_A.csv,123,State,Name,,<CardKeyWord:父神守护>,<CardKeyWord:아버지 신의 보호>
+State_3711_Name,aXCK,z状态表_State_A.csv,1185,State,Name,,血溅,피보라
+State_2789_Desc,aWvw,z状态表_State_A.csv,1347,State,Desc,,卡牌被詹金做了手脚！打出后受到 [Layer] 点伤害。,카드가 젠킨에 의해 조작되었습니다! 사용 시 [Layer]의 피해를 받습니다.
+State_3768_Name,aXFH,z状态表_State_A.csv,1254,State,Name,,破绽,빈틈
+State_20425_Name,aVDn,z状态表_State_A.csv,1925,State,Name,,渴血饕餮,피에 굶주린 괴물
+State_24210_Name,aVVt,z状态表_State_A.csv,2269,State,Name,,神国腕肢-钥令,신국의 팔-은열쇠
+State_3317_Name,aWXX,z状态表_State_A.csv,2442,State,Name,,枷锁：生父,족쇄: 친부
+State_3585_Name,aXrA,z状态表_State_A.csv,2456,State,Name,,灯芯的烙印,심지의 낙인
+State_21787_Name,aVLi,z状态表_State_A.csv,2462,State,Name,,添加战斗喊话,전투의 함성 추가
+State_21785_Name,aVLf,z状态表_State_A.csv,2463,State,Name,,战斗喊话,전투의 함성
+State_3541_Name,aXmO,z状态表_State_A.csv,2503,State,Name,,身陷陷阱,함정에 걸림
+State_2781_Name,aWuZ,z状态表_State_A.csv,2555,State,Name,,充能屏障,충전 방어막
+State_2556_Name,aWiW,z状态表_State_A.csv,2559,State,Name,,鲜血护盾,선혈 방패
+State_3402_Name,aXcD,z状态表_State_A.csv,2560,State,Name,,重击伤害提高,강한 공격 피해 증가
+State_3402_Desc,aXcC,z状态表_State_A.csv,2560,State,Desc,,「铁镐」卢森重击伤害提高 [Layer] %。,「철곡괭이」 루센의 강한 공격 피해량이 [Layer]% 증가.
+State_3402_WeaponDesc,aXcE,z状态表_State_A.csv,2560,State,WeaponDesc,,铁镐卢森重击伤害提高 [Layer] %,「철곡괭이」 루센의 강한 공격 피해량이 [Layer]% 증가.
+State_2942_Name,aWDK,z状态表_State_A.csv,2571,State,Name,,战场救护,전장 구호
+State_3156_Name,aWPB,z状态表_State_A.csv,2573,State,Name,,惊慌失措,패닉
+State_2862_Name,aWzt,z状态表_State_A.csv,2575,State,Name,,体质衰弱,체력 저하
+State_2764_Name,aWud,z状态表_State_A.csv,2655,State,Name,,恶意放血,악의의 방혈
+State_24245_Name,aVWE,z状态表_State_A.csv,2673,State,Name,,万蛇操使,뱀의 주인
+State_24247_Desc,aVWJ,z状态表_State_A.csv,2674,State,Desc,,受到的伤害降低 90%。若回合开始时没有「万蛇操使」层数，移除此状态。,"받는 피해가 90% 감소합니다. 턴 시작 시 「뱀의 주인」 스택이 없을 경우, 이 상태를 제거합니다."
+State_2730_Desc,aWst,z状态表_State_A.csv,2676,State,Desc,,自身死亡后，海德拉减少 1 层「万蛇操使」状态。,"사망 시, 히드라의 「뱀의 주인」 스택이 1 감소합니다."
+State_21601_Name,aVKa,z状态表_State_A.csv,2687,State,Name,,已找到新唤醒体,신규 각성체 발견
+State_23741_Name,aVSh,z状态表_State_A.csv,2693,State,Name,,施加抽牌记录,드로우 기록 적용
+State_3872_Name,aXLp,z状态表_State_A.csv,2556,State,Name,,破绽,빈틈
+State_21754_Name,aVKQ,z状态表_State_A.csv,2707,State,Name,,短暂解脱,짧은 해방
+State_21745_Name,aVKE,z状态表_State_A.csv,2715,State,Name,,已找到新唤醒体,신규 각성체 발견
+State_23744_Name,aVSk,z状态表_State_A.csv,2719,State,Name,,死者召唤,사자 소환
+State_24292_Name,aVXc,z状态表_State_A.csv,2722,State,Name,,后排前移,후열 전진
+State_23612_Name,aVRf,z状态表_State_A.csv,2750,State,Name,,血之狂暴·终结,피의 광란·종결
+State_65497_Name,aZgu,z状态表_State_A.csv,2765,State,Name,,血链·希洛试玩,혈쇄·히로 체험
+State_35646_Desc,aXpd,z状态表_State_A.csv,2800,State,Desc,,本回合抽牌数量减少 [Layer] 。,이번 턴에 뽑는 카드 매수가 [Layer]장 감소합니다.
+State_35645_Desc,aXpa,z状态表_State_A.csv,2801,State,Desc,,本回合抽牌数量减少 [Layer] 。,이번 턴에 뽑는 카드 매수가 [Layer]장 감소합니다.
+State_24556_Name,aVYR,z状态表_State_A.csv,2803,State,Name,,状态@大魔术师胡迪尼@幸运观众添加喝彩,상태@대마술사 후디니@행운의 관객에게 갈채 추가
+State_25391_Desc,aWhv,z状态表_State_A.csv,2804,State,Desc,,队伍中已有一名唤醒体被选为了「幸运观众」，该唤醒体的所有卡牌具有「喝彩」效果。,"팀의 각성체 하나가 「행운의 관객」으로 선택되어, 해당 각성체의 모든 카드에 「갈채」 효과가 부여됩니다."
+State_24879_Name,aWcy,z状态表_State_A.csv,2817,State,Name,,虚妄分身,허망의 분신
+State_24596_Desc,aVZr,z状态表_State_A.csv,2827,State,Desc,,召唤「N」的分身时，每有 1 层「黑暗」召唤 1 个分身。,"「N」이 분신을 소환할 때,「어둠」스택마다 분신을 1체 소환합니다."
+State_119084_Name,bKep,z状态表_State_A.csv,2910,State,Name,,银钥震荡,은열쇠 진동
+State_57952_Desc,aYJT,z状态表_State_A.csv,2922,State,Desc,,力量被降低时，仅会降低 50% 的力量层数。,힘 감소 효과가 50%만 적용됩니다.
+State_36094_Name,aXtK,z状态表_State_A.csv,2941,State,Name,,灵觉寄主,영각 숙주
+State_36094_Desc,aXtJ,z状态表_State_A.csv,2941,State,Desc,,每失去 1 点生命降低 1 层，当层数为0时，召唤 1 个「灵觉之子」，并重新获得 [DescArg1] 层「珊瑚寄主」，最多存在 4 个。,"HP를 1 잃을 때마다 1스택 감소하며, 스택이 0이 되면 「영각의 자식」 1체를 소환하고, 다시 「영각 숙주」 [DescArg1]스택을 획득합니다. 「영각의 자식」은 최대 4체까지 존재할 수 있습니다."
+State_36334_Name,aXwy,z状态表_State_A.csv,2957,State,Name,,螺湮呼唤,리모리아의 부름
+State_36631_Name,aXyF,z状态表_State_A.csv,2972,State,Name,,假孕寄主,의사 임신 숙주
+State_36781_Name,aXzZ,z状态表_State_A.csv,2987,State,Name,,渴求受肉之意志,육체를 갈망하는 의지
+State_36781_Desc,aXzY,z状态表_State_A.csv,2987,State,Desc,,力量被降低时，仅会降低 50% 的力量层数。,힘 감소 효과가 50%만 적용됩니다.
+State_44484_Name,aXRm,z状态表_State_A.csv,3031,State,Name,,首领战中可使用3次,보스 전투에서 3번 사용 가능
+State_44752_Name,aXTz,z状态表_State_A.csv,3037,State,Name,,埋藏的冲动,파묻힌 충동
+State_44752_Desc,aXTy,z状态表_State_A.csv,3037,State,Desc,,每当「索菲亚」失去 1 点生命值就下降 1 层，层数为 0 后，将意图替换为 「以牙还牙」并获得 [StateArg2] 护盾。第一次触发时会恢复所有层数。,「소피아」가 HP를 1 잃을 때마다 1스택 감소합니다. 스택이 0이 되면 의도를 「눈에는 눈」으로 교체하고 [StateArg2]의 방어막을 획득합니다. 처음 발동할 때 스택을 초기화합니다.
+State_44807_Name,aXUj,z状态表_State_A.csv,3047,State,Name,,埋藏的杀戮,파묻힌 살육
+State_44807_Desc,aXUi,z状态表_State_A.csv,3047,State,Desc,,当第一次即将被击败时，回复生命并转变意图为 「镜中判决」，强化自身。当第二次即将被击败时，回复生命并转变意图为 「癫狂撕咬」，造成超高额单次伤害。,"처음 처치되기 직전에 HP를 회복하고, 의도를 「거울 속의 심판」로 전환하며 자신을 강화합니다. 2번째로 처치되기 직전에 HP를 회복하고, 의도를 「광란의 물어뜯기」로 전환하여 매우 높은 단일 피해를 입힙니다."
+State_46330_Name,aYbx,z状态表_State_A.csv,3246,State,Name,,希洛试玩,히로 체험
+State_49524_Name,aYoC,z状态表_State_A.csv,3317,State,Name,,血色福音,핏빛 복음
+State_49558_Name,aYoU,z状态表_State_A.csv,3325,State,Name,,沙之祷祝,모래의 기도
+State_49833_Name,aYpZ,z状态表_State_A.csv,3331,State,Name,,沙尘壁障,모래먼지 장벽
+State_50854_Name,aYtS,z状态表_State_A.csv,3337,State,Name,,强韧树皮,강인한 나무껍질
+State_49628_Name,aYpT,z状态表_State_A.csv,3342,State,Name,,血脉链接,혈맥 링크
+State_49627_Name,aYpQ,z状态表_State_A.csv,3343,State,Name,,血脉奔涌,혈맥 분출
+State_50389_Name,aYsQ,z状态表_State_A.csv,3354,State,Name,,莱克的支援,라이커의 지원
+State_56018_Name,aYDI,z状态表_State_A.csv,3416,State,Name,,缪斯的眷顾-命,뮤즈의 은총-생명
+State_56018_Desc,aYDH,z状态表_State_A.csv,3416,State,Desc,,本场战斗中，最大生命值提高 [Layer]%。,이번 전투 동안 최대 HP가 [Layer]% 증가합니다.
+State_56020_Name,aYDL,z状态表_State_A.csv,3417,State,Name,,缪斯的眷顾-力,뮤즈의 은총-힘
+State_60962_Desc,aYZG,z状态表_State_A.csv,3421,State,Desc,,本场战斗中，最大生命值提高 [Layer]%。,이번 전투 동안 최대 HP가 [Layer]% 증가합니다.
+State_60284_Name,aYTQ,z状态表_State_A.csv,3463,State,Name,,不破剑阵,불파의 검진
+State_60085_Name,aYRi,z状态表_State_A.csv,3465,State,Name,,终极蛹化,궁극 우화
+State_60150_Name,aYSk,z状态表_State_A.csv,3480,State,Name,,机能感应,기능 감응
+State_60150_Desc,aYSj,z状态表_State_A.csv,3480,State,Desc,,每当感知到玩家释放钥令后，立刻在放和敛两个形态间切换。切换至放时，立刻获得[StateArg1] 点临时力量。切换至敛时，立刻获得 [StateArg2] 点护盾。,"플레이어가 은열쇠 명령을 발동할 때마다, 「전개」와 「회수」 상태 사이에서 전환됩니다. 「전개」 상태로 전환 시 즉시 [StateArg1]의 임시 힘을 획득하고, 「회수」 상태로 전환 시 즉시 [StateArg2]의 방어막을 획득합니다."
+State_57968_Name,aYKp,z状态表_State_A.csv,3514,State,Name,,「于丽埃特之咏」,「유리에트의 노래」
+State_60187_Name,aYSX,z状态表_State_A.csv,3535,State,Name,,终结即是开始,끝은 곧 새로운 시작
+State_60187_Desc,aYSW,z状态表_State_A.csv,3535,State,Desc,,对玩家造成的虚弱、脆弱、重创状态均为 50%。,"플레이어에게 부여하는 허약, 취약, 중상 효과가 50%가 됩니다."
+State_60486_Name,aYWp,z状态表_State_A.csv,3642,State,Name,,母神汲取,지모신의 흡수
+State_60500_Name,aYWN,z状态表_State_A.csv,3644,State,Name,,隐于林中,나무는 숲에
+State_60500_Desc,aYWM,z状态表_State_A.csv,3644,State,Desc,,当前若存在拟态唤醒体时，自身获得 50 层「隐匿」。,"모방 각성체가 존재할 경우, 「은폐」 50스택을 획득합니다."
+State_60543_Name,aYXi,z状态表_State_A.csv,3656,State,Name,,灯心之火,심지의 불꽃
+State_61089_Name,aZaG,z状态表_State_A.csv,3663,State,Name,,乐团指挥棒,악단의 지휘봉
+State_60925_Name,aYZs,z状态表_State_A.csv,3675,State,Name,,血之提灯,피의 등불
+State_67844_Name,aZvr,z状态表_State_A.csv,3702,State,Name,,亘古混沌,영원의 혼돈
+State_68554_Name,aZwI,z状态表_State_A.csv,3703,State,Name,,亘古混沌碎屑,영원한 혼돈의 파편
+State_65557_Name,aZgD,z状态表_State_A.csv,3704,State,Name,,亘古混沌,영원의 혼돈
+State_66308_Name,aZhL,z状态表_State_A.csv,3706,State,Name,,亘古混沌,영원의 혼돈
+State_68680_Name,aZyJ,z状态表_State_A.csv,3707,State,Name,,移除亘古碎屑,영원한 파편 제거
+State_68680_Desc,aZyI,z状态表_State_A.csv,3707,State,Desc,,移除亘古碎屑,영원한 파편 제거
+State_65553_Name,aZgA,z状态表_State_A.csv,3712,State,Name,,冰之锋刃,얼음의 칼날
+State_66311_Name,aZhU,z状态表_State_A.csv,3741,State,Name,,破碎的记忆,조각난 기억
+State_66313_Name,aZia,z状态表_State_A.csv,3747,State,Name,,无上意志之威压,절대적 의지의 위압
+State_81278_Name,btgl,z状态表_State_A.csv,3821,State,Name,,银钥抑制,은열쇠 억제
+State_67414_Name,aZqh,z状态表_State_A.csv,3857,State,Name,,直面万千本源,무수한 기원과의 직면
+State_67414_Desc,aZqg,z状态表_State_A.csv,3857,State,Desc,,不可直视的眼目。不可违逆的气息。做到一切的碎片也只是碎片。现在，迎接注定毁灭的结局吧……,"직시할 수 없는 눈. 거스를 수 없는 기운. 모든 것의 파편일지라도 결국 파편일 뿐. 이제, 운명지어진 파괴를 맞이하라..."
+State_71839_Name,aZRt,z状态表_State_A.csv,4033,State,Name,,星辰庇佑,별들의 가호
+State_71650_Name,aZPQ,z状态表_State_A.csv,4063,State,Name,,万千维度之兽,무수한 차원의 짐승
+State_72137_Name,aZSp,z状态表_State_A.csv,4406,State,Name,,算力满盈,산출력 초과
+State_76326_Name,baci,z状态表_State_A.csv,4408,State,Name,,存在悖论,존재적 모순
+State_73518_Name,aZUF,z状态表_State_A.csv,4437,State,Name,,「暗杀者」,「암살자」
+State_73567_Name,aZVp,z状态表_State_A.csv,4438,State,Name,,「通讯者」,「통신자」
+State_73566_Name,aZVm,z状态表_State_A.csv,4439,State,Name,,「通讯者」,「통신자」
+State_73570_Name,aZVy,z状态表_State_A.csv,4440,State,Name,,「通讯者」,「통신자」
+State_73573_Name,aZVH,z状态表_State_A.csv,4441,State,Name,,「通讯者」,「통신자」
+State_73520_Name,aZUI,z状态表_State_A.csv,4446,State,Name,,「连结者」,「연결자」
+State_77688_Name,badR,z状态表_State_A.csv,4568,State,Name,,肉体孱弱,육체의 한계
+State_78102_Name,baey,z状态表_State_A.csv,4580,State,Name,,超频瘫痪,오버클럭 마비
+State_78102_Desc,baex,z状态表_State_A.csv,4580,State,Desc,,造成的伤害降低 15％，承受伤害提高 30％，持续至战斗结束。,"전투 종료 시까지, 적에게 입히는 피해가 15% 감소하고, 받는 피해량이 30% 증가합니다."
+State_79405_Name,brhA,z状态表_State_A.csv,4641,State,Name,,真实的往昔,진실된 과거
+State_79405_Desc,brhz,z状态表_State_A.csv,4641,State,Desc,,打出后「清明之忆」提高 1，达到 10 时将其锁定 1 回合并获得 3 张「灵感」，下回合开始时重置为 5。,"사용 시 「선명한 기억」이 1 증가합니다. 10에 도달하면, 1턴 동안 고정되어 「영감」을 3장 획득하고, 다음 턴 시작 시 5로 초기화됩니다."
+State_80778_Name,btdf,z状态表_State_A.csv,4735,State,Name,,巢群共感-融合,군체 공감-융합
+State_80777_Name,btdc,z状态表_State_A.csv,4736,State,Name,,巢群共感-传承,군체 공감-계승
+State_80792_Name,btdP,z状态表_State_A.csv,4737,State,Name,,巢群共感-异维,군체 공감-이차원
+State_80785_Name,btdx,z状态表_State_A.csv,4738,State,Name,,巢群共感-异维,군체 공감-이차원
+State_80788_Name,btdD,z状态表_State_A.csv,4739,State,Name,,巢群共感-异维,군체 공감-이차원
+State_81073_Name,btgf,z状态表_State_A.csv,4740,State,Name,,巢群共感-裂变,군체 공감-파열
+State_80784_Name,btdu,z状态表_State_A.csv,4741,State,Name,,巢群共感-裂变,군체 공감-파열
+State_80827_Desc,btem,z状态表_State_A.csv,4748,State,Desc,,每累计打出 15 张卡牌，将当前的意图替换为「创伤猛击」（当前还剩 [Layer] 张)。,"카드를 누적 15장 사용할 때마다, 현재의 의도를 「상처 타격」으로 대체합니다. (현재 [Layer]장 남음)"
+State_83616_Name,bthI,z状态表_State_A.csv,4772,State,Name,,「泊锚」进度,「정박」 진행도
+State_83615_Name,bthF,z状态表_State_A.csv,4777,State,Name,,「扬帆」进度,「출항」 진행도
+State_83627_Name,btid,z状态表_State_A.csv,4781,State,Name,,「扬帆」进度,「출항」 진행도
+State_84402_Name,bvRV,z状态表_State_A.csv,4853,State,Name,,透支力量,드로우 과다 강도
+State_84402_Desc,bvRU,z状态表_State_A.csv,4853,State,Desc,,承受伤害提高 [Layer]%。,받는 피해가 [Layer]% 증가합니다.
+State_100619_Desc,bCEa,z状态表_State_A.csv,5478,State,Desc,,力量被降低时，仅会降低 50% 的力量层数。,힘 감소 효과가 50%만 적용됩니다.
+State_127705_Desc,bOJt,z状态表_State_A.csv,5979,State,Desc,,卡牌被做了手脚！打出后受到 [Layer] 点伤害。,카드가 조작되었습니다! 사용 후 [Layer]의 피해를 받습니다.
+Task_36158_Desc,bdVh,r任务_Task_A.csv,5090,Task,Desc,,抵抗蹈海者的攻势,도해자의 공세에 저항하기
+Task_91335_Desc,bzgp,r任务_Task_A.csv,5156,Task,Desc,,击败蹈海者,도해자 격파
+Task_118487_Desc,bJFB,r任务_Task_A.csv,5167,Task,Desc,,击退追击的蹈海者,도해자의 추적 뿌리치기
+Task_10936_Name,bcpj,r任务_Task_A.csv,5856,Task,Name,,战胜精英  <size=20><color=#747474>每场60分</color></size>,엘리트 격파 <size=20><color=#747474>각 60점</color></size>
+Task_11097_Name,bcGb,r任务_Task_A.csv,5857,Task,Name,,战胜首领  <size=20><color=#747474>首领战获得胜利，获得1200分</color></size>,보스 처치 <size=20><color=#747474>보스 전투 승리 시 1200점 획득</color></size>
+Task_11128_Name,bcJz,r任务_Task_A.csv,5862,Task,Name,,一命通关  <size=20><color=#747474>不使用应急灵知体通关</color></size>,한 번의 기회 <size=20><color=#747474>응급 영지체를 사용하지 않고 클리어</color></size>
+Task_10900_Name,bclb,r任务_Task_A.csv,5864,Task,Name,,得心应手  <size=20><color=#747474>通关时每剩余1%死亡抵抗得1分，最多600分</color></size>,"베테랑 <size=20><color=#747474>클리어 시 남은 죽음 저항 1%마다 1점 획득, 최대 600점</color></size>"
+Task_10678_Name,bbMP,r任务_Task_A.csv,5865,Task,Name,,黑色印记  <size=20><color=#747474>通关时每剩余1黑印得3分，最多600分</color></size>,"검은 인장 <size=20><color=#747474>클리어 시 남은 검은 인장 1개당 3점 획득, 최대 600점</color></size>"
+Task_36872_Name,bdXb,r任务_Task_A.csv,5866,Task,Name,,意念透支  <size=20><color=#747474>每使用1次应急灵知体，调查评分降低30%</color></size>,영지 소진 <size=20><color=#747474>응급 영지체를 1회 사용할 때마다 조사 점수 30% 감소</color></size>
+Task_23708_Name,bdDZ,r任务_Task_A.csv,5867,Task,Name,,再抽再抽  <size=20><color=#747474>最终战一回合额外抽5张牌</color></size>,다다익선 <size=20><color=#747474>최종전에서 1턴 동안 추가로 5장의 카드를 드로우</color></size>
+Task_23719_Name,bdFn,r任务_Task_A.csv,5872,Task,Name,,病入膏肓  <size=20><color=#747474>通关时症状卡牌数量不少于4张</color></size>,불치병 <size=20><color=#747474>클리어 시 증상 카드 4장 이상 보유</color></size>
+Task_23721_Name,bdFz,r任务_Task_A.csv,5874,Task,Name,,满载而归  <size=20><color=#747474>获得7个造物</color></size>,풍성한 수확 <size=20><color=#747474>7개의 유물을 획득</color></size>
+Task_10941_Name,bcpN,r任务_Task_A.csv,5876,Task,Name,,被忽略的  <size=20><color=#747474>通关时一个唤醒体的所有卡牌不多于1张</color></size>,잊혀진 자 <size=20><color=#747474>클리어 시 각성체 1명의 카드가 1장 이하</color></size>
+Task_23713_Name,bdED,r任务_Task_A.csv,5877,Task,Name,,神机妙算  <size=20><color=#747474>最终战一回合额外获得 3 算力</color></size>,오버클럭 <size=20><color=#747474>최종전에서 1턴 동안 추가로 3의 산출력을 획득</color></size>
+Task_23720_Name,bdFt,r任务_Task_A.csv,5878,Task,Name,,恐怖表演  <size=20><color=#747474>最终战每回合都使用狂气爆发</color></size>,광란의 공연 <size=20><color=#747474>최종전에서 매 턴 광기 폭발 사용</color></size>
+Task_23722_Name,bdFF,r任务_Task_A.csv,5879,Task,Name,,不可饶恕  <size=20><color=#747474>任一战斗一回合消灭4个敌人</color></size>,무자비<size=20><color=#747474>임의의 전투에서 한 턴에 4명의 적을 제거</color></size>
+Task_23709_Name,bdEf,r任务_Task_A.csv,5880,Task,Name,,金光闪闪  <size=20><color=#747474>获得5个黄金造物</color></size>,반짝이는 금빛 <size=20><color=#747474>황금 유물 5개 획득</color></size>
+Task_23716_Name,bdEV,r任务_Task_A.csv,5881,Task,Name,,降临之秽  <size=20><color=#747474>最终战一回合造成超过首领最大生命50%的伤害</color></size>,재액 강림 <size=20><color=#747474>최종전에서 1턴 동안 보스 최대 HP의 50% 이상의 피해 입히기</color></size>
+Task_23874_Name,bdGj,r任务_Task_A.csv,5883,Task,Name,,好坏都要  <size=20><color=#747474>获得5个黄金或诅咒造物，获得100分</color></size>,선악불문 <size=20><color=#747474>황금 유물과 저주받은 유물을 합계 5개 획득할 경우 100점 획득</color></size>
+Task_23878_Name,bdGH,r任务_Task_A.csv,5885,Task,Name,,不可饶恕  <size=20><color=#747474>任一战斗一回合消灭3个敌人</color></size>,무자비<size=20><color=#747474>임의의 전투에서 한 턴에 3명의 적을 제거</color></size>
+Task_23879_Name,bdGN,r任务_Task_A.csv,5887,Task,Name,,满载而归  <size=20><color=#747474>获得8个造物</color></size>,풍성한 수확 <size=20><color=#747474>8개의 유물을 획득</color></size>
+Task_23873_Name,bdGd,r任务_Task_A.csv,5888,Task,Name,,降临之秽  <size=20><color=#747474>最终战一回合造成超过首领最大生命30%的伤害</color></size>,재액 강림 <size=20><color=#747474>최종전에서 1턴 동안 보스 최대 HP의 30% 이상의 피해 입히기</color></size>
+Task_24499_Name,bdOR,r任务_Task_A.csv,5891,Task,Name,,再抽再抽<size=20><color=#747474>最终战一回合额外抽4张牌</color></size>,다다익선 <size=20><color=#747474>최종전에서 1턴 동안 추가로 4장의 카드를 드로우</color></size>
+Task_24498_Name,bdOL,r任务_Task_A.csv,5892,Task,Name,,再抽再抽<size=20><color=#747474>最终战一回合额外抽5张牌</color></size>,다다익선 <size=20><color=#747474>최종전에서 1턴 동안 추가로 5장의 카드를 드로우</color></size>
+Task_24501_Name,bdPd,r任务_Task_A.csv,5893,Task,Name,,再抽再抽<size=20><color=#747474>最终战一回合额外抽6张牌</color></size>,다다익선 <size=20><color=#747474>최종전에서 1턴 동안 추가로 6장의 카드를 드로우</color></size>
+Task_24471_Name,bdLF,r任务_Task_A.csv,5904,Task,Name,,病入膏肓<size=20><color=#747474>通关时症状卡牌数量不少于3张</color></size>,불치병 <size=20><color=#747474>클리어 시 증상 카드 3장 이상 보유</color></size>
+Task_24472_Name,bdLL,r任务_Task_A.csv,5905,Task,Name,,病入膏肓<size=20><color=#747474>通关时症状卡牌数量不少于4张</color></size>,불치병 <size=20><color=#747474>클리어 시 증상 카드 4장 이상 보유</color></size>
+Task_24479_Name,bdMB,r任务_Task_A.csv,5908,Task,Name,,满载而归<size=20><color=#747474>获得6个造物</color></size>,풍성한 수확 <size=20><color=#747474>6개의 유물을 획득</color></size>
+Task_24478_Name,bdMv,r任务_Task_A.csv,5909,Task,Name,,满载而归<size=20><color=#747474>获得7个造物</color></size>,풍성한 수확 <size=20><color=#747474>7개의 유물을 획득</color></size>
+Task_24482_Name,bdMT,r任务_Task_A.csv,5910,Task,Name,,满载而归<size=20><color=#747474>获得8个造物</color></size>,풍성한 수확 <size=20><color=#747474>8개의 유물을 획득</color></size>
+Task_24476_Name,bdMj,r任务_Task_A.csv,5914,Task,Name,,被忽略的<size=20><color=#747474>通关时一个唤醒体的所有卡牌不多于1张</color></size>,잊혀진 자<size=20><color=#747474>클리어 시 각성체 1명의 카드가 1장 이하</color></size>
+Task_24474_Name,bdLX,r任务_Task_A.csv,5915,Task,Name,,被忽略的<size=20><color=#747474>通关时一个唤醒体的所有卡牌不多于2张</color></size>,잊혀진 자<size=20><color=#747474>클리어 시 각성체 1명의 카드가 2장 이하</color></size>
+Task_24469_Name,bdLt,r任务_Task_A.csv,5916,Task,Name,,神机妙算<size=20><color=#747474>最终战一回合额外获得 2 算力</color></size>,오버클럭 <size=20><color=#747474>최종전에서 1턴 동안 추가로 2의 산출력을 획득</color></size>
+Task_24470_Name,bdLz,r任务_Task_A.csv,5917,Task,Name,,神机妙算<size=20><color=#747474>最终战一回合额外获得 3 算力</color></size>,오버클럭 <size=20><color=#747474>최종전에서 1턴 동안 추가로 3의 산출력을 획득</color></size>
+Task_24473_Name,bdLR,r任务_Task_A.csv,5918,Task,Name,,神机妙算<size=20><color=#747474>最终战一回合额外获得 4 算力</color></size>,오버클럭 <size=20><color=#747474>최종전에서 1턴 동안 추가로 4의 산출력을 획득</color></size>
+Task_24487_Name,bdNx,r任务_Task_A.csv,5919,Task,Name,,恐怖表演<size=20><color=#747474>最终战连续3个回合都使用狂气爆发</color></size>,광란의 공연 <size=20><color=#747474>최종전에서 3턴 연속으로 광기 폭발 사용</color></size>
+Task_24477_Name,bdMp,r任务_Task_A.csv,5920,Task,Name,,恐怖表演<size=20><color=#747474>最终战连续4个回合都使用狂气爆发</color></size>,광란의 공연 <size=20><color=#747474>최종전에서 4턴 연속으로 광기 폭발 사용</color></size>
+Task_24475_Name,bdMd,r任务_Task_A.csv,5921,Task,Name,,恐怖表演<size=20><color=#747474>最终战连续5个回合都使用狂气爆发</color></size>,광란의 공연 <size=20><color=#747474>최종전에서 5턴 연속으로 광기 폭발 사용</color></size>
+Task_24500_Name,bdOX,r任务_Task_A.csv,5922,Task,Name,,不可饶恕<size=20><color=#747474>任一战斗一回合消灭3个敌人</color></size>,무자비<size=20><color=#747474>임의의 전투에서 한 턴에 3명의 적을 제거</color></size>
+Task_24497_Name,bdOF,r任务_Task_A.csv,5923,Task,Name,,不可饶恕<size=20><color=#747474>任一战斗一回合消灭4个敌人</color></size>,무자비<size=20><color=#747474>임의의 전투에서 한 턴에 4명의 적을 제거</color></size>
+Task_24460_Name,bdKr,r任务_Task_A.csv,5924,Task,Name,,金光闪闪<size=20><color=#747474>获得4个黄金造物</color></size>,반짝이는 금빛 <size=20><color=#747474>황금 유물 4개 획득</color></size>
+Task_24459_Name,bdKl,r任务_Task_A.csv,5925,Task,Name,,金光闪闪<size=20><color=#747474>获得5个黄金造物</color></size>,반짝이는 금빛 <size=20><color=#747474>황금 유물 5개 획득</color></size>
+Task_24486_Name,bdNr,r任务_Task_A.csv,5926,Task,Name,,金光闪闪<size=20><color=#747474>获得6个黄金造物</color></size>,반짝이는 금빛 <size=20><color=#747474>황금 유물 6개 획득</color></size>
+Task_24496_Name,bdOz,r任务_Task_A.csv,5927,Task,Name,,降临之秽<size=20><color=#747474>最终战一回合造成超过首领最大生命20%的伤害</color></size>,재액 강림 <size=20><color=#747474>최종전에서 1턴 동안 보스 최대 HP의 20% 이상의 피해 입히기</color></size>
+Task_24481_Name,bdMN,r任务_Task_A.csv,5928,Task,Name,,降临之秽<size=20><color=#747474>最终战一回合造成超过首领最大生命30%的伤害</color></size>,재액 강림 <size=20><color=#747474>최종전에서 1턴 동안 보스 최대 HP의 30% 이상의 피해 입히기</color></size>
+Task_24494_Name,bdOn,r任务_Task_A.csv,5929,Task,Name,,降临之秽<size=20><color=#747474>最终战一回合造成超过首领最大生命40%的伤害</color></size>,재액 강림 <size=20><color=#747474>최종전에서 1턴 동안 보스 최대 HP의 40% 이상의 피해 입히기</color></size>
+Task_24462_Name,bdKD,r任务_Task_A.csv,5933,Task,Name,,好坏都要<size=20><color=#747474>获得4个黄金或诅咒造物</color></size>,선악불문 <size=20><color=#747474>황금 유물과 저주받은 유물을 합계 4개 획득할 경우 100점 획득</color></size>
+Task_24463_Name,bdKJ,r任务_Task_A.csv,5934,Task,Name,,好坏都要<size=20><color=#747474>获得5个黄金或诅咒造物</color></size>,선악불문 <size=20><color=#747474>황금 유물과 저주받은 유물을 합계 5개 획득할 경우 100점 획득</color></size>
+Task_24461_Name,bdKx,r任务_Task_A.csv,5935,Task,Name,,好坏都要<size=20><color=#747474>获得6个黄金或诅咒造物</color></size>,선악불문 <size=20><color=#747474>황금 유물과 저주받은 유물을 합계 6개 획득할 경우 100점 획득</color></size>
+Task_40476_Name,becD,r任务_Task_A.csv,5937,Task,Name,,终梦界碑<size=20><color=#747474>首领战获得胜利</color></size>,꿈의 끝 <size=20><color=#747474>보스 전투에서 승리</color></size>
+Task_40475_Name,becx,r任务_Task_A.csv,5938,Task,Name,,沉梦疾行<size=20><color=#747474>在 11 回合以内败首领</color></size>,환몽 질주 <size=20><color=#747474>11턴 이내에 보스 처치</color></size>
+Task_40474_Name,becr,r任务_Task_A.csv,5939,Task,Name,,沉梦疾行<size=20><color=#747474>在 10 回合以内败首领</color></size>,환몽 질주 <size=20><color=#747474>10턴 이내에 보스 처치</color></size>
+Task_40473_Name,becl,r任务_Task_A.csv,5940,Task,Name,,沉梦疾行<size=20><color=#747474>在 9 回合以内败首领</color></size>,환몽 질주 <size=20><color=#747474>9턴 이내에 보스 처치</color></size>
+Task_40472_Name,becf,r任务_Task_A.csv,5941,Task,Name,,沉梦疾行<size=20><color=#747474>在 8 回合以内败首领</color></size>,환몽 질주 <size=20><color=#747474>8턴 이내에 보스 처치</color></size>
+Task_40471_Name,bebZ,r任务_Task_A.csv,5942,Task,Name,,沉梦疾行<size=20><color=#747474>在 8 回合以内败首领</color></size>,환몽 질주 <size=20><color=#747474>8턴 이내에 보스 처치</color></size>
+Task_40465_Name,bebp,r任务_Task_A.csv,5943,Task,Name,,生死边缘<size=20><color=#747474>触发 1 次死亡抵抗</color></size>,생사의 경계 <size=20><color=#747474>죽음 저항 1회 발동</color></size>
+Task_40467_Name,bebB,r任务_Task_A.csv,5944,Task,Name,,生死边缘<size=20><color=#747474>触发 2 次死亡抵抗</color></size>,생사의 경계 <size=20><color=#747474>죽음 저항 2회 발동</color></size>
+Task_40466_Name,bebv,r任务_Task_A.csv,5945,Task,Name,,生死边缘<size=20><color=#747474>触发 3 次以上死亡抵抗</color></size>,생사의 경계 <size=20><color=#747474>죽음 저항 3회 이상 발동</color></size>
+Task_40468_Name,bebH,r任务_Task_A.csv,5946,Task,Name,,实相搜罗<size=20><color=#747474>拥有 5 个造物</color></size>,실상 수집 <size=20><color=#747474>5개의 유물을 보유</color></size>
+Task_40470_Name,bebT,r任务_Task_A.csv,5947,Task,Name,,实相搜罗<size=20><color=#747474>拥有 6 个造物</color></size>,실상 수집 <size=20><color=#747474>6개의 유물을 보유</color></size>
+Task_40469_Name,bebN,r任务_Task_A.csv,5948,Task,Name,,实相搜罗<size=20><color=#747474>拥有 7 个造物</color></size>,실상 수집 <size=20><color=#747474>7개의 유물을 보유</color></size>
+Task_71867_Name,biwJ,r任务_Task_A.csv,5949,Task,Name,,实相搜罗<size=20><color=#747474>拥有 8 个造物</color></size>,실상 수집 <size=20><color=#747474>8개의 유물을 보유</color></size>
+Task_39279_Name,bebj,r任务_Task_A.csv,5950,Task,Name,,幻境援救<size=20><color=#747474>每使用 1 次应急灵知体，调查评分降低 20% </color></size>,환계 구조<size=20><color=#747474>응급 영지체를 1회 사용할 때마다 조사 평점 20% 감소</color></size>
+Task_71868_Name,biwP,r任务_Task_A.csv,5951,Task,Name,,梦游行者<size=20><color=#747474>每使用 1 次肌肉记忆，调查评分降低 20% </color></size>,드림워커 <size=20><color=#747474>근육 기억을 1회 사용할 때마다 조사 점수 20% 감소</color></size>
+Voice_36679_AwakerVoiceContent,bnkC,y语音_Voice_A.csv,366,Voice,AwakerVoiceContent,墨菲,"他是在我沉睡期间加入教团的，我和他没什么交集。
+不过，听说他是自己找上门来的。想要放弃人类形体，成为完全的「蹈海者」……哼，又一个被力量冲昏头脑的蠢材。","카이커스가 교회에 가입한 건 내가 잠들어 있었을 때라서, 안면이 거의 없어. 인간의 모습을 버리고 완전한 「도해자」가 되고 싶어서, 스스로 찾아왔다나... 흥, 힘에 집착하다니 바보 같네. "
+Voice_36681_AwakerVoiceTitle,bnkL,y语音_Voice_A.csv,370,Voice,AwakerVoiceTitle,墨菲,闲话·关于蹈海者,잡담·도해자에 대해
+Voice_36681_AwakerVoiceContent,bnkK,y语音_Voice_A.csv,370,Voice,AwakerVoiceContent,墨菲,"蹈海者不是一生下来就是这幅模样的。为了隐藏在人群中，他们的前半生和人类没什么两样……
+你可要小心点了，说不定你最喜欢的蛋糕店老板，也是他们的一员哦？","도해자들이 태어날 때부터 그 모습이었던 건 아니야. 사람들 사이에 섞이기 위해, 인간과 다를 바 없는 모습으로 반생을 사는 거야. 그러니까 조심해. 네가 제일 좋아하는 케이크 가게의 점장도 도해자일지도 모른다고?"
+Voice_4949_AwakerVoiceTitle,bnpf,y语音_Voice_A.csv,970,Voice,AwakerVoiceTitle,图鲁,闲话·关于蹈海者,잡담·도해자에 대해
